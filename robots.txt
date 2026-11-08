@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://loonaautomation.github.io/loona-study-tools/sitemap.xml
