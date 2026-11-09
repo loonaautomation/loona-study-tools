@@ -1,0 +1,29 @@
+{
+  "name": "Loona Grade 2 Urdu Topics and Study Guide",
+  "short_name": "Grade 2 Urdu Topics and Study Gu",
+  "description": "The Urdu topics for grade 2 in teaching order — Reading fluency, Ism, fail and harf (first look at grammar), Wahid and jama (singular and plural, basic) and more — with free study tools for each topic.",
+  "id": "/loona-study-tools/grade-2-urdu-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

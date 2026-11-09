@@ -1,0 +1,29 @@
+{
+  "name": "Loona Grade 6 Measurement Practice: Speed, distance and time (with Answers)",
+  "short_name": "Grade 6 Measurement Practice: Sp",
+  "description": "Free grade 6 measurement practice — speed, distance and time. A worked example, 6 practice questions with a printable answer key, the method, the common mistake and a top tip.",
+  "id": "/loona-study-tools/grade-6-measurement-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

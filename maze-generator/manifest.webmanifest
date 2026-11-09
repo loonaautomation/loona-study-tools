@@ -1,0 +1,29 @@
+{
+  "name": "Loona Maze Generator",
+  "short_name": "Maze Generator",
+  "description": "Free maze generator: printable mazes at four difficulty levels (8x8 to 26x26), generated fresh every time, with an optional red solution path for checking.",
+  "id": "/loona-study-tools/maze-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

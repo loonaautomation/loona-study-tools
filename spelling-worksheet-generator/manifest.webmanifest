@@ -1,0 +1,29 @@
+{
+  "name": "Loona Spelling Worksheet Generator",
+  "short_name": "Spelling Worksheet Generator",
+  "description": "Free spelling worksheet generator: from one word list get unscramble practice, missing-vowel worksheets, ABC order practice and a spelling test sheet, with an answer key.",
+  "id": "/loona-study-tools/spelling-worksheet-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

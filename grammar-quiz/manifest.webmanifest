@@ -1,0 +1,29 @@
+{
+  "name": "Loona Grammar Quiz",
+  "short_name": "Grammar Quiz",
+  "description": "Free English grammar quiz: 24 questions on tenses, articles, prepositions, agreement, conditionals and punctuation, with instant score and an explanation for every answer.",
+  "id": "/loona-study-tools/grammar-quiz/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

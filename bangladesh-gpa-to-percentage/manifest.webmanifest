@@ -1,0 +1,29 @@
+{
+  "name": "Loona Bangladesh GPA to Percentage",
+  "short_name": "Bangladesh GPA to Percentage",
+  "description": "The Bangladesh education board GPA table for SSC and HSC: A+ 5.00 = 80–100 marks, with every grade point and mark range, plus a marks-to-GPA converter.",
+  "id": "/loona-study-tools/bangladesh-gpa-to-percentage/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

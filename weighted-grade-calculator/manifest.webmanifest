@@ -1,0 +1,29 @@
+{
+  "name": "Loona Weighted Grade Calculator",
+  "short_name": "Weighted Grade Calculator",
+  "description": "Free weighted grade calculator: enter category weights and scores (homework, quizzes, tests, final) to get your overall course percentage and letter grade. Weights auto-normalise.",
+  "id": "/loona-study-tools/weighted-grade-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Grade 7 Science Topics and Study Guide",
+  "short_name": "Grade 7 Science Topics and Study",
+  "description": "The Science topics for grade 7 in teaching order — Atoms and the periodic table (first look), Chemical reactions and word equations, Electric circuits and more — with free study tools for each topic.",
+  "id": "/loona-study-tools/grade-7-science-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kindergarten Urdu Topics and Study Guide",
+  "short_name": "Kindergarten Urdu Topics and Stu",
+  "description": "The Urdu topics for kindergarten in teaching order — The Urdu qaida, Letter sounds (phonics in Urdu), Simple three-letter words and more — with free study tools for each topic.",
+  "id": "/loona-study-tools/kindergarten-urdu-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

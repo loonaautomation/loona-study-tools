@@ -1,0 +1,29 @@
+{
+  "name": "Loona Classroom Noise Meter",
+  "short_name": "Classroom Noise Meter",
+  "description": "Free classroom noise meter: live microphone level bar with green/amber/red zones and a quiet-streak counter. Relative level display (not decibels), analysed on-device, never recorded.",
+  "id": "/loona-study-tools/noise-meter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
