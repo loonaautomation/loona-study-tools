@@ -1,0 +1,29 @@
+{
+  "name": "Loona Clasificación de títulos del Reino Unido",
+  "short_name": "Clasificación de títulos del Reino Unido",
+  "description": "Qué significa un First, un 2:1, un 2:2 o un Third del Reino Unido en porcentaje y en términos aproximados de GPA de EE. UU. — con la nota honesta de que no existe una conversión oficial del Reino Unido a GPA.",
+  "id": "/loona-study-tools/es/uk-degree-classification-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Quiz di grammatica",
+  "short_name": "Quiz di grammatica",
+  "description": "Gratuito Inglese grammatica quiz: 24 domande su tenses, articles, prepositions, agreement, conditionals e punctuation, con instant score e an explanation per ogni risposta.",
+  "id": "/loona-study-tools/it/grammar-quiz/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

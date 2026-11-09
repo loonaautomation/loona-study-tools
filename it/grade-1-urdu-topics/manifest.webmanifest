@@ -1,0 +1,29 @@
+{
+  "name": "Loona Argomenti di urdu e guida allo studio per la classe 1",
+  "short_name": "Argomenti di urdu e guida allo studio per la classe 1",
+  "description": "The argomenti di urdu per classe 1 in ordine di insegnamento — Joining lettere un costruire parole, Lettura two- e three-lettera parole, Alif madd, wao e ye suoni e altro — con gratuito studio strumenti per ciascuno argomento.",
+  "id": "/loona-study-tools/it/grade-1-urdu-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

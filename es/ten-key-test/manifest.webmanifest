@@ -1,0 +1,29 @@
+{
+  "name": "Loona Prueba de 10 teclas",
+  "short_name": "Prueba de 10 teclas",
+  "description": "Prueba gratuita de teclado numérico de 10 teclas: escribe secuencias de dígitos tan rápido y con tanta precisión como puedas; se puntúa en teclas por minuto con precisión: la prueba de habilidad de entrada de datos.",
+  "id": "/loona-study-tools/es/ten-key-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

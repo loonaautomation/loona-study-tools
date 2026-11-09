@@ -1,0 +1,29 @@
+{
+  "name": "Loona Timer per la classe",
+  "short_name": "Timer per la classe",
+  "description": "Gratuito classe (aula) timers: un grande-display countdown con progress ring e shrinking visual bar, an esame timer showing il end tempo e tempo rimanenti, e un stopwatch con laps.",
+  "id": "/loona-study-tools/it/classroom-timers/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

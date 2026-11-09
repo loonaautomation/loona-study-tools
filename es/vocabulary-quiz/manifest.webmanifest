@@ -1,0 +1,29 @@
+{
+  "name": "Loona Cuestionario de vocabulario",
+  "short_name": "Cuestionario de vocabulario",
+  "description": "Cuestionario gratuito de vocabulario: 20 palabras inglesas con cuatro opciones de significado cada una, desde palabras escolares comunes hasta vocabulario académico más rico. Puntuación instantánea y revisión.",
+  "id": "/loona-study-tools/es/vocabulary-quiz/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

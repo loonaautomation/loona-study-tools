@@ -1,0 +1,29 @@
+{
+  "name": "Loona Generador de cartones de bingo",
+  "short_name": "Generador de cartones de bingo",
+  "description": "Generador gratuito de cartones de bingo: introduce 24+ palabras y genera cartones de bingo de 5x5 imprimibles y únicos para toda una clase, más una lista de llamada mezclada. Vocabulario, palabras a la vista, números y más.",
+  "id": "/loona-study-tools/es/bingo-card-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

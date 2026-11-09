@@ -1,0 +1,29 @@
+{
+  "name": "Loona Argomenti di inglese e guida allo studio per la classe 8",
+  "short_name": "classe 8 Inglese Argomenti e",
+  "description": "The argomenti di inglese per classe 8 in ordine di insegnamento — Subjunctive e avanzato conditionals (awareness), Style, Literary devices e altro — con gratuito studio strumenti per ciascuno argomento.",
+  "id": "/loona-study-tools/it/grade-8-english-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

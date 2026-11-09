@@ -1,0 +1,29 @@
+{
+  "name": "Loona Generador de sudokus",
+  "short_name": "Generador de sudokus",
+  "description": "Generador gratuito de sudokus: sudokus imprimibles de 4x4, 6x6 y 9x9 en tres dificultades, cada rompecabezas verificado para tener exactamente una solución, con una página de solución aparte.",
+  "id": "/loona-study-tools/es/sudoku-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

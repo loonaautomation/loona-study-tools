@@ -1,0 +1,29 @@
+{
+  "name": "Loona Juego de deletrear la palabra",
+  "short_name": "Juego de deletrear la palabra",
+  "description": "Juego gratuito de deletrear la palabra: los estudiantes forman cada palabra tocando fichas de letras desordenadas, usando una pista. Práctica de ortografía táctil con comprobación instantánea.",
+  "id": "/loona-study-tools/es/spell-the-word/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

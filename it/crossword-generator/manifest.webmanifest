@@ -1,0 +1,29 @@
+{
+  "name": "Loona Generatore di cruciverba",
+  "short_name": "Generatore di cruciverba",
+  "description": "Gratuito crossword generatore: inserisci parole e clues e get un real intersecting crossword puzzle, stampabile con numbered clues e un separate griglia delle risposte.",
+  "id": "/loona-study-tools/it/crossword-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

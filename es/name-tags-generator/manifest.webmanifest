@@ -1,0 +1,29 @@
+{
+  "name": "Loona Generador de etiquetas con nombres",
+  "short_name": "Generador de etiquetas con nombres",
+  "description": "Generador gratuito de etiquetas con nombres: pega una lista de la clase e imprime etiquetas ordenadas con un subtítulo de clase/escuela: para los primeros días, excursiones, reuniones de padres y trabajo en grupo.",
+  "id": "/loona-study-tools/es/name-tags-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

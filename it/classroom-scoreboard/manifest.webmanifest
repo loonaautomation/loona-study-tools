@@ -1,0 +1,29 @@
+{
+  "name": "Loona Tabellone dei punteggi della classe",
+  "short_name": "Tabellone dei punteggi della classe",
+  "description": "Gratuito classe (aula) scoreboard: grande colourful squadra point carte per il classe (aula) screen, one-tocca +1/+5/-1, saved in tuo browser between lezioni.",
+  "id": "/loona-study-tools/it/classroom-scoreboard/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

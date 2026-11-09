@@ -1,0 +1,29 @@
+{
+  "name": "Loona Guía de 9.º grado de BISE Peshawar",
+  "short_name": "Guía de 9.º grado de BISE Peshawar",
+  "description": "BISE Peshawar 9.º grado: asignaturas y ramas, cómo están estructurados los exámenes de la junta y un plan de preparación gratuito con herramientas de estudio. Verifica los formatos en el sitio oficial de la junta.",
+  "id": "/loona-study-tools/es/bise-peshawar-class-9-guide/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

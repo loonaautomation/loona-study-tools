@@ -1,0 +1,29 @@
+{
+  "name": "Loona CGPA de Pakistán a porcentaje",
+  "short_name": "CGPA de Pakistán a porcentaje",
+  "description": "La tabla de notas del sistema por semestres de la HEC que usan las universidades pakistaníes: notas con letra, puntos GPA y bandas porcentuales, con un conversor para la escala de 4.0.",
+  "id": "/loona-study-tools/es/pakistan-cgpa-to-percentage/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

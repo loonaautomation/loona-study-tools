@@ -1,0 +1,29 @@
+{
+  "name": "Loona Juego de parejas",
+  "short_name": "Juego de parejas",
+  "description": "Juego gratuito de memoria de parejas: introduce parejas de término = definición y juega a girar y emparejar con seguimiento de movimientos y tiempo. Ideal para vocabulario y repaso.",
+  "id": "/loona-study-tools/es/matching-pairs-game/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

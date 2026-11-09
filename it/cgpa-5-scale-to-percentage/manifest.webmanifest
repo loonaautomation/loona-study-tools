@@ -1,0 +1,29 @@
+{
+  "name": "Loona Da CGPA a percentuale sulla scala 5.0",
+  "short_name": "CGPA un Percentuale su il 5.0",
+  "description": "Convert 5.0-scala CGPA un percentuale (CGPA ÷ 5 × 100) con un pieno tabella, e il class-band pages per Nigeria e Bangladesh where bands matter altro than percentages.",
+  "id": "/loona-study-tools/it/cgpa-5-scale-to-percentage/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

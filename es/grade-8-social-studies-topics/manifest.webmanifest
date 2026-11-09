@@ -1,0 +1,29 @@
+{
+  "name": "Loona Temas de estudios sociales de 8.º grado",
+  "short_name": "Temas de estudios sociales de 8.º grado",
+  "description": "Los temas de estudios sociales de 8.º grado en orden de enseñanza — The world wars and the modern world (overview), Movimiento de Pakistán y la creación de Pakistán, Conceptos básicos de geopolítica y más — con herramientas de estudio gratuitas para cada tema.",
+  "id": "/loona-study-tools/es/grade-8-social-studies-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

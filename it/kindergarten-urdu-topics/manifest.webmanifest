@@ -1,0 +1,29 @@
+{
+  "name": "Loona Argomenti di urdu e guida allo studio per la scuola dell'infanzia",
+  "short_name": "Scuola dell'infanzia Urdu Argomenti e",
+  "description": "The argomenti di urdu per scuola dell'infanzia in ordine di insegnamento — The Urdu qaida, Letter suoni (phonics in Urdu), Semplice three-lettera parole e altro — con gratuito studio strumenti per ciascuno argomento.",
+  "id": "/loona-study-tools/it/kindergarten-urdu-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

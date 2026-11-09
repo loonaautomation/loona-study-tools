@@ -1,0 +1,29 @@
+{
+  "name": "Loona Generador de colorear por números",
+  "short_name": "Generador de colorear por números",
+  "description": "Generador gratuito de colorear por números: una ficha de mosaico numerada con una clave de seis colores y una imagen de respuesta coloreada aparte. Una imagen nueva cada vez.",
+  "id": "/loona-study-tools/es/colour-by-number-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

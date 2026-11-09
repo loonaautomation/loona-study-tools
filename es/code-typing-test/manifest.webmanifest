@@ -1,0 +1,29 @@
+{
+  "name": "Loona Prueba de mecanografía de código",
+  "short_name": "Prueba de mecanografía de código",
+  "description": "Prueba gratuita de mecanografía de código: escribe fragmentos reales de JavaScript, Python y SQL con exactitud — se puntúan los paréntesis, los símbolos y la sangría — con precisión, caracteres por minuto y PPM.",
+  "id": "/loona-study-tools/es/code-typing-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

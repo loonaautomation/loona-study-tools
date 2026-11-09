@@ -1,0 +1,29 @@
+{
+  "name": "Loona Bilanciatore di equazioni chimiche",
+  "short_name": "Bilanciatore di equazioni chimiche",
+  "description": "Gratuito equazione chimica balancer: inserisci an equazione like C3H8 + O2 -> CO2 + H2O e get il balanced coefficients con un pieno atomo-by-atomo verification.",
+  "id": "/loona-study-tools/it/chemical-equation-balancer/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

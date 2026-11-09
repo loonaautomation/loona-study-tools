@@ -1,0 +1,29 @@
+{
+  "name": "Loona Calculadora de nota de examen final",
+  "short_name": "Calculadora de nota de examen final",
+  "description": "Calculadora gratuita de examen final: introduce tu nota actual, el peso del examen final y tu objetivo para ver exactamente qué puntuación necesitas en el final, y si todavía es posible.",
+  "id": "/loona-study-tools/es/final-exam-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

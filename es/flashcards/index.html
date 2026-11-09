@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="msvalidate.01" content="668EEE252F09B71CC35E95DB8F5999EF">
+<title>Creador de tarjetas de estudio - Crea, estudia &amp; imprime tarjetas gratis | Loona Study Tools</title>
+<meta name="description" content="Creador gratuito de tarjetas de estudio: crea mazos, estudia con tarjetas giratorias, mezcla y sigue lo que sabes y lo que no sabes. Importa/exporta CSV &amp; JSON, imprime tarjetas. Sin registro, guardado en tu dispositivo.">
+<link rel="canonical" href="https://loonaautomation.github.io/loona-study-tools/es/flashcards/"><link rel="alternate" hreflang="en" href="https://loonaautomation.github.io/loona-study-tools/flashcards/"><link rel="alternate" hreflang="es" href="https://loonaautomation.github.io/loona-study-tools/es/flashcards/"><link rel="alternate" hreflang="de" href="https://loonaautomation.github.io/loona-study-tools/de/flashcards/"><link rel="alternate" hreflang="fr" href="https://loonaautomation.github.io/loona-study-tools/fr/flashcards/"><link rel="alternate" hreflang="pt" href="https://loonaautomation.github.io/loona-study-tools/pt/flashcards/"><link rel="alternate" hreflang="it" href="https://loonaautomation.github.io/loona-study-tools/it/flashcards/"><link rel="alternate" hreflang="x-default" href="https://loonaautomation.github.io/loona-study-tools/flashcards/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Loona Study Tools">
+<meta property="og:title" content="Creador de tarjetas de estudio - Crea, estudia &amp; imprime tarjetas gratis | Loona Study Tools">
+<meta property="og:description" content="Creador gratuito de tarjetas de estudio: crea mazos, estudia con tarjetas giratorias, mezcla y sigue lo que sabes y lo que no sabes. Importa/exporta CSV &amp; JSON, imprime tarjetas. Sin registro, guardado en tu dispositivo.">
+<meta property="og:url" content="https://loonaautomation.github.io/loona-study-tools/es/flashcards/"><meta property="og:locale" content="es_ES">
+<meta property="og:image" content="https://loonaautomation.github.io/loona-study-tools/og-image.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Creador de tarjetas de estudio - Crea, estudia &amp; imprime tarjetas gratis | Loona Study Tools">
+<meta name="twitter:description" content="Creador gratuito de tarjetas de estudio: crea mazos, estudia con tarjetas giratorias, mezcla y sigue lo que sabes y lo que no sabes. Importa/exporta CSV &amp; JSON, imprime tarjetas. Sin registro, guardado en tu dispositivo.">
+<meta name="twitter:image" content="https://loonaautomation.github.io/loona-study-tools/og-image.jpg">
+<link rel="icon" type="image/png" sizes="32x32" href="../../favicon-32.png">
+<link rel="icon" href="../../favicon.ico">
+<link rel="apple-touch-icon" href="../../apple-touch-icon.png">
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1566440962454692" crossorigin="anonymous"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5L43M13ZYT"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-5L43M13ZYT');</script>
+<script type="text/javascript">(function(c,l,a,r,i,t,y){c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);})(window,document,"clarity","script","z599jkwoy9");</script>
+<style>
+:root{--teal:#062e2a;--teal2:#0b3d37;--gold:#c9a227;--gold2:#e3c565;--ink:#12211e;--mut:#5a6d68;--bg:#f6f4ec;--card:#ffffff;--line:#e3ddc9;--radius:16px}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{font-family:'Segoe UI',system-ui,-apple-system,Roboto,Arial,sans-serif;background:var(--bg);color:var(--ink);line-height:1.6}
+a{color:#0a5c50;text-decoration:none}
+a:hover{text-decoration:underline}
+header.site{position:sticky;top:0;z-index:50;background:var(--teal);box-shadow:0 2px 14px rgba(0,0,0,.25)}
+.header-in{max-width:1140px;margin:0 auto;display:flex;align-items:center;gap:14px;padding:10px 16px}
+.brand{display:flex;align-items:center;gap:10px;color:#fff;font-weight:700;font-size:1.15rem}
+.brand img{width:40px;height:40px;border-radius:9px}
+.brand span{color:var(--gold2)}
+nav.main{margin-left:auto;display:flex;gap:4px;flex-wrap:wrap}
+nav.main a{color:#dcebe4;padding:7px 11px;border-radius:9px;font-size:.93rem}
+nav.main a:hover{background:var(--teal2);text-decoration:none;color:#fff}
+.wrap{max-width:1140px;margin:0 auto;padding:0 16px}
+.hero{background:linear-gradient(135deg,var(--teal) 0%,#0d4a41 60%,#10604f 100%);color:#fff;padding:52px 0 46px;text-align:center}
+.hero h1{font-size:2.35rem;line-height:1.2;margin-bottom:12px}
+.hero h1 .gold{color:var(--gold2)}
+.hero p{max-width:720px;margin:0 auto 8px;color:#d7e8df;font-size:1.06rem}
+.hero .badges{margin-top:18px;display:flex;gap:8px;justify-content:center;flex-wrap:wrap}
+.badge{background:rgba(255,255,255,.12);border:1px solid rgba(255,255,255,.25);color:#fff;padding:5px 13px;border-radius:999px;font-size:.85rem}
+.crumbs{font-size:.86rem;color:var(--mut);padding:16px 0 4px}
+.crumbs a{color:var(--mut)}
+main.page{padding:8px 0 10px}
+h1.tool{font-size:2rem;line-height:1.25;color:var(--teal);margin:6px 0 8px}
+.inshort{background:#fff8e1;border-left:4px solid var(--gold);padding:12px 16px;border-radius:0 12px 12px 0;margin:12px 0 16px;font-size:1.0rem}
+.lede{color:#33473f;max-width:820px;margin-bottom:18px}
+.panel{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:22px;box-shadow:0 4px 18px rgba(6,46,42,.06);margin-bottom:22px}
+.btn{display:inline-block;background:var(--gold);color:#231a00;font-weight:700;border:none;padding:12px 26px;border-radius:11px;font-size:1rem;cursor:pointer;box-shadow:0 3px 10px rgba(201,162,39,.35)}
+.btn:hover{background:var(--gold2)}
+.btn:disabled{opacity:.45;cursor:not-allowed}
+.btn.ghost{background:#fff;border:1.5px solid var(--teal);color:var(--teal);box-shadow:none;padding:9px 18px;font-size:.93rem}
+.btn.small{padding:7px 13px;font-size:.86rem}
+.row{display:flex;gap:14px;flex-wrap:wrap;margin:14px 0}
+.field{flex:1;min-width:150px}
+.field label{display:block;font-weight:600;font-size:.9rem;margin-bottom:5px;color:var(--teal)}
+.field select,.field input[type=text],.field input[type=number],.field textarea{width:100%;padding:10px 12px;border:1.5px solid #cfc9ae;border-radius:10px;font-size:.97rem;background:#fff;font-family:inherit}
+.field textarea{min-height:150px;resize:vertical}
+textarea.big{min-height:220px;font-size:1rem;line-height:1.65}
+textarea.mono{font-family:ui-monospace,Menlo,Consolas,monospace;font-size:.92rem}
+input[type=range]{width:100%}
+.check{display:flex;align-items:center;gap:8px;font-size:.95rem;margin:6px 0;cursor:pointer}
+.check input{width:17px;height:17px;accent-color:#0b3d37}
+.status{margin-top:14px;font-size:.95rem;min-height:22px}
+.status.ok{color:#0a6b3c}.status.err{color:#b3261e}
+.privacy-note{background:#e9f5ef;border:1px solid #bfe0cd;color:#14532d;border-radius:12px;padding:12px 16px;font-size:.94rem;margin-bottom:22px}
+section.block{margin:30px 0}
+section.block h2{color:var(--teal);font-size:1.45rem;margin-bottom:12px}
+section.block h3{color:var(--teal);margin:14px 0 6px}
+section.block p,section.block li{color:#33473f}
+section.block ol,section.block ul{padding-left:22px}
+section.block li{margin-bottom:6px}
+.strip{display:flex;gap:8px;flex-wrap:wrap}
+.chip{background:#fff;border:1.5px solid var(--gold);color:var(--teal);font-weight:600;padding:8px 15px;border-radius:999px;font-size:.9rem}
+.chip:hover{background:#fff7dd;text-decoration:none}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:16px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:20px;display:block;color:var(--ink);transition:.15s}
+.card:hover{transform:translateY(-3px);box-shadow:0 10px 24px rgba(6,46,42,.12);text-decoration:none;border-color:var(--gold)}
+.card .ic{font-size:1.9rem;margin-bottom:8px}
+.card h3{color:var(--teal);font-size:1.12rem;margin-bottom:5px}
+.card p{color:var(--mut);font-size:.92rem}
+details.faq{background:#fff;border:1px solid var(--line);border-radius:12px;padding:13px 17px;margin-bottom:10px}
+details.faq summary{cursor:pointer;font-weight:600;color:var(--teal)}
+details.faq p{margin-top:8px;color:#33473f}
+.kv{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:10px;margin-top:12px}
+.kv div{background:#faf8ef;border:1px solid var(--line);border-radius:10px;padding:9px 12px;font-size:.92rem}
+.kv b{color:var(--teal);display:block;font-size:1.05rem}
+table.freq{width:100%;border-collapse:collapse;background:#fff;border:1px solid var(--line);border-radius:12px;overflow:hidden}
+table.freq th,table.freq td{padding:8px 12px;border-bottom:1px solid var(--line);text-align:left;font-size:.94rem}
+table.freq th{background:#faf8ef;color:var(--teal)}
+.diffout{white-space:pre-wrap;word-break:break-word;background:#fff;border:1px solid var(--line);border-radius:12px;padding:14px 16px;font-family:ui-monospace,Menlo,Consolas,monospace;font-size:.9rem;line-height:1.55;max-height:480px;overflow:auto}
+.diffout .add{background:#e2f4e5}
+.diffout .del{background:#fbe3e1}
+.fancyrow{display:flex;align-items:center;gap:10px;background:#fff;border:1px solid var(--line);border-radius:11px;padding:10px 14px;margin-bottom:9px}
+.fancyrow .fv{flex:1;font-size:1.08rem;word-break:break-all}
+footer.site{background:var(--teal);color:#cfe0d6;margin-top:44px}
+.footer-in{max-width:1140px;margin:0 auto;padding:30px 16px;display:flex;gap:26px;flex-wrap:wrap}
+.footer-in h4{color:var(--gold2);margin-bottom:9px;font-size:1rem}
+.footer-in a{color:#cfe0d6;display:block;margin-bottom:5px;font-size:.93rem}
+.footer-in .col{min-width:170px}
+.copyright{border-top:1px solid #12463e;text-align:center;padding:14px;font-size:.86rem;color:#9db8ab}
+@media(max-width:640px){.hero h1{font-size:1.7rem}h1.tool{font-size:1.55rem}.panel{padding:16px}nav.main a{padding:6px 8px;font-size:.86rem}}
+
+/* ---- study tools extras ---- */
+.cardgrid{display:grid;grid-template-columns:1fr 1fr;gap:14px}@media(max-width:640px){.cardgrid{grid-template-columns:1fr}}
+.flashcard{background:linear-gradient(135deg,#fffdf4,#fff6d8);border:2px solid var(--gold);border-radius:18px;min-height:230px;display:flex;align-items:center;justify-content:center;text-align:center;padding:28px;font-size:1.35rem;font-weight:600;color:var(--teal);cursor:pointer;box-shadow:0 8px 22px rgba(6,46,42,.12);white-space:pre-wrap;word-break:break-word}
+.flashcard.back{background:linear-gradient(135deg,#eafaf2,#d8f3e3)}
+.fcnav{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-top:12px}
+.qitem{background:#fff;border:1px solid var(--line);border-radius:12px;padding:14px 16px;margin-bottom:12px}
+.qitem.correct{border-color:#2e9e5b;background:#f0faf3}.qitem.wrong{border-color:#d9534f;background:#fdf1f0}
+.qitem .qtxt{font-weight:600;color:var(--teal);margin-bottom:8px}
+.optline{display:block;padding:6px 10px;border-radius:8px;cursor:pointer}.optline:hover{background:#faf8ef}
+.optline input{margin-right:8px;accent-color:#0b3d37}
+.wsgrid{display:grid;grid-template-columns:1fr 1fr;gap:10px 34px;font-size:1.12rem}
+@media(max-width:640px){.wsgrid{grid-template-columns:1fr}}
+.wsq{padding:9px 4px;border-bottom:1px dashed #ddd5b8;font-family:ui-monospace,Menlo,Consolas,monospace}
+.wshead{display:flex;justify-content:space-between;flex-wrap:wrap;gap:8px;border-bottom:2px solid var(--teal);padding-bottom:10px;margin-bottom:14px;font-size:.95rem}
+table.tt{width:100%;border-collapse:collapse;background:#fff;font-size:.92rem}
+table.tt th,table.tt td{border:1px solid var(--line);padding:8px;vertical-align:top;min-width:86px}
+table.tt th{background:var(--teal);color:#fff;text-align:left}
+table.tt td[contenteditable]{outline:none}table.tt td[contenteditable]:focus{background:#fffbe8}
+.slot{display:block;background:#eef7f1;border-radius:6px;padding:3px 7px;margin-bottom:4px;font-size:.86rem}
+.readbox{background:#fff;border:1px solid var(--line);border-radius:14px;padding:26px;font-size:1.08rem;line-height:1.85;max-height:520px;overflow:auto}
+.bigstat{font-size:2.2rem;font-weight:800;color:var(--teal)}
+.kbtns{display:flex;gap:10px;flex-wrap:wrap;margin-top:14px}
+.printonly{display:none}
+@media print{body{background:#fff}header.site,footer.site,.no-print,.crumbs,#loona-embed,.privacy-note{display:none!important}.printonly{display:block!important}.panel{box-shadow:none;border:none;padding:0}main.page{padding:0}}
+body.print-quiz .screenonly,body.print-key .screenonly{display:none!important}
+body.print-quiz #printQuiz,body.print-key #printKey{display:block!important}
+body.print-cards .screenonly{display:none!important}body.print-cards #printCards{display:block!important}
+.pcard{border:1.5px dashed #999;border-radius:10px;padding:16px;min-height:110px;page-break-inside:avoid;white-space:pre-wrap}
+.pcards{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+</style>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebApplication","name":"Flashcards Maker - Loona Study Tools","url":"https://loonaautomation.github.io/loona-study-tools/es/flashcards/","description":"Create flashcard decks, study with flip cards and know/don't-know tracking, import/export CSV and JSON, and print cards — free, in your browser.","applicationCategory":"EducationalApplication","operatingSystem":"Any","browserRequirements":"Requires JavaScript","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"},"publisher":{"@type":"Organization","name":"Loona Automation","url":"https://loonaautomation.github.io/"}}</script>
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="theme-color" content="#062e2a">
+</head>
+<body>
+<header class="site"><div class="header-in">
+<a class="brand" href="../index.html"><img src="../../apple-touch-icon.png" alt="Logotipo de Loona Automation">Loona <span>Study Tools</span></a>
+<nav class="main">
+<a href="../index.html">Inicio</a>
+<a href="../flashcards/">Tarjetas de estudio</a>
+<a href="../quiz-maker/">Creador de cuestionarios</a>
+<a href="../math-worksheet-generator/">Fichas</a>
+<a href="../reading-speed-test/">Prueba de lectura</a>
+<a href="../study-timetable-planner/">Horario</a>
+<a href="../about.html">Acerca de</a>
+</nav></div></header>
+
+<div class="wrap"><div class="crumbs"><a href="../index.html">Inicio</a> &rsaquo; Creador de tarjetas de estudio</div><main class="page">
+<h1 class="tool">Creador de tarjetas de estudio — Crea, estudia &amp; imprime tarjetas gratis</h1>
+<div class="inshort"><strong>En resumen:</strong> escribe un frente y un reverso para añadir una tarjeta, construye un mazo entero, y luego estúdialo con tarjetas giratorias, mezcla y seguimiento de sé / no sé. Los mazos se guardan automáticamente en tu navegador, y puedes exportarlos o importarlos como CSV o JSON, o imprimirlos en papel.</div>
+<p class="lede">Las tarjetas de estudio funcionan porque obligan a recordar: ves la pregunta, luchas por la respuesta y luego te compruebas a ti mismo. Esa lucha es lo que construye la memoria. Crea abajo un mazo para cualquier asignatura — vocabulario, fechas, fórmulas, definiciones — y estúdialo en rondas cortas, manteniendo en rotación solo las tarjetas que fallas.</p>
+<div class="privacy-note">🔒 <strong>Privado por diseño:</strong> tus mazos se guardan solo en este navegador en este dispositivo. Nada se sube a un servidor.</div>
+<div class="panel screenonly">
+<div class="row"><div class="field"><label for="deckName">Nombre del mazo</label><input type="text" id="deckName" value="My Deck"></div>
+<div class="field"><label for="deckSel">Mazos guardados</label><select id="deckSel"></select></div>
+<div class="field" style="flex:0"><label>&nbsp;</label><button class="btn ghost small" id="bNewDeck" type="button">Mazo nuevo</button></div>
+<div class="field" style="flex:0"><label>&nbsp;</label><button class="btn ghost small" id="bDelDeck" type="button">Eliminar mazo</button></div></div>
+<div class="row"><div class="field"><label for="fFront">Anverso (pregunta / término)</label><textarea id="fFront" style="min-height:64px" placeholder="p. ej., What is the capital of France?"></textarea></div>
+<div class="field"><label for="fBack">Atrás (respuesta)</label><textarea id="fBack" style="min-height:64px" placeholder="p. ej., Paris"></textarea></div></div>
+<div class="row"><button class="btn" id="bAdd" type="button">Añadir tarjeta</button><span class="status" id="addStatus"></span></div>
+<div id="cardList"></div>
+<div class="kbtns">
+<button class="btn ghost small" id="bExportCSV" type="button">Exportar CSV</button>
+<button class="btn ghost small" id="bExportJSON" type="button">Exportar JSON</button>
+<label class="btn ghost small" style="cursor:pointer">Importar CSV / JSON<input type="file" id="fileImport" accept=".csv,.json,.txt" style="display:none"></label>
+<button class="btn ghost small" id="bPrint" type="button">Imprimir tarjetas</button>
+</div></div>
+<div class="panel screenonly">
+<h2 style="color:var(--teal);margin-bottom:10px">Modo de estudio</h2>
+<div id="studyEmpty"><p style="color:var(--mut)">Añade al menos una tarjeta arriba y luego empieza a estudiar aquí.</p></div>
+<div id="studyArea" style="display:none">
+<div class="flashcard" id="flashEl" title="Haz clic para girar"></div>
+<div class="fcnav"><span id="fcPos" style="font-weight:600;color:var(--teal)"></span>
+<button class="btn ghost small" id="bPrev" type="button">← Anterior</button>
+<button class="btn ghost small" id="bFlip" type="button">Girar</button>
+<button class="btn ghost small" id="bNext" type="button">Siguiente →</button>
+<button class="btn ghost small" id="bShuffle" type="button">Mezclar</button></div>
+<div class="fcnav">
+<button class="btn small" id="bKnow" type="button" style="background:#2e9e5b;color:#fff">✓ Lo sé</button>
+<button class="btn small" id="bDont" type="button" style="background:#d9534f;color:#fff">✗ Todavía aprendiendo</button>
+<span id="fcScore" class="status"></span>
+<button class="btn ghost small" id="bRetry" type="button">Reiniciar solo con las tarjetas falladas</button>
+<button class="btn ghost small" id="bReset" type="button">Reiniciar ronda</button>
+</div></div></div>
+<div class="panel screenonly">
+<h2 style="color:var(--teal);margin-bottom:10px">Repaso espaciado (SM-2) - Modo de memoria a largo plazo</h2>
+<p style="color:var(--mut);margin-bottom:10px">El modo de estudio de arriba es para atiborrarse. Este modo programa los repasos como Anki: califica cada tarjeta <strong>Otra vez / Difícil / Bien / Fácil</strong> y la tarjeta vuelve después de 1 día, 6 días, y luego intervalos cada vez más largos. Las tarjetas solo se muestran cuando les <em>pendiente</em>, así que una visita diaria lleva minutos. El progreso se guarda por mazo en este navegador.</p>
+<div class="fcnav"><button class="btn" id="bSm2Start" type="button">Empezar el repaso de hoy</button><span id="sm2Info" class="status"></span></div>
+<div id="sm2Area" style="display:none;margin-top:12px">
+<div class="flashcard" id="sm2Card" title="Haz clic para girar"></div>
+<div class="fcnav"><span id="sm2Pos" style="font-weight:600;color:var(--teal)"></span><button class="btn ghost small" id="bSm2Flip" type="button">Mostrar respuesta</button></div>
+<div class="fcnav" id="sm2Rates" style="display:none">
+<button class="btn small" data-q="1" type="button" style="background:#d9534f;color:#fff">Otra vez</button>
+<button class="btn small" data-q="3" type="button" style="background:#e8a13a;color:#fff">Difícil</button>
+<button class="btn small" data-q="4" type="button" style="background:#2e9e5b;color:#fff">Bien</button>
+<button class="btn small" data-q="5" type="button" style="background:#0b6e99;color:#fff">Fácil</button>
+</div></div></div>
+<div id="printCards" class="printonly"></div>
+<section class="block"><h2>Cómo usar el Creador de tarjetas de estudio</h2><ol>
+<li><strong>Pon nombre a tu mazo</strong> — por ejemplo "Biology Chapter 4" — para que puedas encontrarlo de nuevo más tarde.</li>
+<li><strong>Añadir tarjetas:</strong> escribe la pregunta o el término en Frente y la respuesta en Reverso, y luego pulsa Añadir tarjeta. Repite; las tarjetas aparecen en la lista donde puedes editarlas o borrarlas.</li>
+<li><strong>Estudiar:</strong> en el Modo de estudio, lee el frente, di la respuesta en tu cabeza y luego haz clic en la tarjeta (o en Voltear) para comprobar. Sé honesto: esa honestidad es lo que hace útil el seguimiento.</li>
+<li><strong>Clasifícate tú:</strong> pulsa "Lo sé" o "Todavía aprendiendo" para cada tarjeta. Cuando la ronda termine, reinicia solo con las tarjetas falladas hasta que no quede ninguna.</li>
+<li><strong>Guardar &amp; compartir:</strong> los mazos se guardan automáticamente en este navegador. Usa Exportar CSV/JSON para respaldar un mazo o enviarlo a un compañero, e Importar para cargarlo de vuelta.</li></ol></section>
+<section class="block"><h2>Cómo funciona</h2>
+<p>El creador guarda cada mazo como una lista simple de parejas de frente/reverso en el almacenamiento local de tu navegador — el mismo formato sencillo que usan las exportaciones en CSV y JSON, para que tus datos nunca queden atrapados. El modo de estudio muestra una tarjeta a la vez y mantiene dos montones: conocidas y todavía aprendiendo. La mezcla usa una reordenación aleatoria del mazo para que no puedas memorizar la secuencia en lugar de las respuestas. La vista de impresión dispone cada tarjeta en una cuadrícula con frentes y reversos numerados, para que una página impresa se convierta en un conjunto de tarjetas de papel en segundos.</p></section>
+<section class="block"><h2>Preguntas frecuentes</h2><details class="faq"><summary>¿Cómo hago una buena tarjeta de estudio?</summary><p>Mantén una idea por tarjeta: una pregunta, término o indicación cortos en el anverso y una respuesta corta y exacta en el reverso. «¿Cuál es la capital de Francia?» funciona mejor que un párrafo. Si una respuesta tiene tres partes, haz tres tarjetas.</p></details><details class="faq"><summary>¿Dónde se guardan mis mazos?</summary><p>En el almacenamiento local de tu propio navegador, solo en este dispositivo. Nada se sube. Si borras los datos del sitio de tu navegador, los mazos guardados se eliminan: exporta los mazos importantes como archivos CSV o JSON como copia de seguridad.</p></details><details class="faq"><summary>¿En qué formato están las exportaciones CSV y JSON?</summary><p>Las exportaciones CSV tienen un <em>frente,reverso</em> fila de encabezado y comillas estándar, para que se abran en Excel, Google Sheets, importadores de estilo Anki y la mayoría de las aplicaciones de tarjetas. Las exportaciones en JSON contienen el nombre del mazo y una matriz de tarjetas con campos de frente/reverso. Puedes importar cualquiera de los dos formatos de vuelta en esta herramienta.</p></details><details class="faq"><summary>¿Cómo ayuda el seguimiento de sé / no sé?</summary><p>Cuando marcas una tarjeta como \"Todavía aprendiendo\", se queda en tu montón de repaso; las tarjetas de \"Lo sé\" se apartan. Al final de una ronda puedes reiniciar solo con las tarjetas que fallaste — esto es práctica de recuperación centrada exactamente donde la necesitas, la manera más rápida de cerrar huecos antes de un examen.</p></details><details class="faq"><summary>¿Qué es el modo de Repaso espaciado (SM-2)?</summary><p>Programa tus tarjetas como lo hace Anki. Califica cada tarjeta repasada como Otra vez, Difícil, Bien o Fácil; el algoritmo SM-2 la trae de vuelta tras intervalos crecientes — 1 día, 6 días, luego más largos — para que repases cada tarjeta justo antes de que la fueras a olvidar. Las tarjetas pendientes se eligen automáticamente cada día, y el progreso se guarda por mazo en tu navegador.</p></details><details class="faq"><summary>¿Puedo imprimir tarjetas de estudio para usarlas en papel?</summary><p>Sí: usa el botón Imprimir tarjetas. Las tarjetas se disponen en una cuadrícula de dos columnas con los frentes y los reversos listados en orden, listas para recortar. Para tarjetas de papel por las dos caras, escribe los números correspondientes en el reverso.</p></details></section>
+<section class="block no-print"><h2>Más herramientas de estudio</h2><div class="strip"><a class="chip" href="../quiz-maker/">📝 Creador de cuestionarios</a><a class="chip" href="../math-worksheet-generator/">➗ Generador de fichas de matemáticas</a><a class="chip" href="../reading-speed-test/">📖 Prueba de velocidad de lectura</a><a class="chip" href="../study-timetable-planner/">🗓️ Planificador de horarios de estudio</a><a class="chip" href="../multiplication-tables-practice/">✖️ Práctica de tablas de multiplicar</a><a class="chip" href="../spelling-test/">🔤 Prueba de ortografía</a><a class="chip" href="../handwriting-practice-generator/">✏️ Generador de práctica de caligrafía</a><a class="chip" href="../exam-countdown-planner/">⏳ Planificador de cuenta atrás para exámenes</a><a class="chip" href="../word-search-generator/">🔍 Generador de sopas de letras</a><a class="chip" href="../matching-worksheet-generator/">🔗 Generador de fichas de emparejar</a><a class="chip" href="../random-name-picker/">🎲 Selector aleatorio de nombres</a><a class="chip" href="../matching-pairs-game/">🧩 Juego de parejas</a><a class="chip" href="../group-sort-game/">🗂️ Juego de clasificar en grupos</a><a class="chip" href="../unjumble-game/">🔀 Juego de descifrar frases</a><a class="chip" href="../anagram-game/">🔤 Juego de anagramas</a><a class="chip" href="../spell-the-word/">🧱 Juego de deletrear la palabra</a><a class="chip" href="../hangman-game/">🎯 Juego del ahorcado</a><a class="chip" href="../crossword-generator/">✚ Generador de crucigramas</a><a class="chip" href="../bingo-card-generator/">🏆 Generador de cartones de bingo</a><a class="chip" href="../labelled-diagram-maker/">🏷️ Creador de diagramas etiquetados</a><a class="chip" href="../hundreds-chart/">💯 Tabla de las centenas</a><a class="chip" href="../word-wall-cards/">🧱 Generador de tarjetas de vocabulario para la pared</a><a class="chip" href="../sudoku-generator/">🔢 Generador de sudokus</a><a class="chip" href="../maze-generator/">🌀 Generador de laberintos</a><a class="chip" href="../colour-by-number-generator/">🎨 Generador de colorear por números</a><a class="chip" href="../printable-paper-generator/">📄 Generador de papel imprimible</a><a class="chip" href="../spelling-worksheet-generator/">✍️ Generador de fichas de ortografía</a><a class="chip" href="../classroom-timers/">⏰ Temporizadores para el aula &amp; temporizador de examen</a><a class="chip" href="../classroom-group-maker/">👥 Creador de grupos para el aula</a><a class="chip" href="../seating-chart-maker/">💺 Creador de planos de asientos</a><a class="chip" href="../classroom-scoreboard/">🏅 Marcador para el aula</a><a class="chip" href="../noise-meter/">🔊 Medidor de ruido del aula</a><a class="chip" href="../name-tags-generator/">📛 Generador de etiquetas con nombres</a><a class="chip" href="../visual-schedule-builder/">🧭 Creador de horarios visuales</a><a class="chip" href="../ez-grader/">📊 Calificador EZ</a><a class="chip" href="../test-grader/">✅ Calificador de exámenes</a><a class="chip" href="../weighted-grade-calculator/">⚖️ Calculadora de nota ponderada</a><a class="chip" href="../final-exam-calculator/">🎓 Calculadora de nota de examen final</a><a class="chip" href="../math-facts-speed-test/">⚡ Prueba de velocidad de operaciones matemáticas</a><a class="chip" href="../ten-key-test/">🔟 Prueba de teclado numérico de 10 teclas</a><a class="chip" href="../code-typing-test/">💻 Prueba de mecanografía de código</a><a class="chip" href="../grammar-quiz/">📘 Cuestionario de gramática</a><a class="chip" href="../vocabulary-quiz/">📚 Cuestionario de vocabulario</a><a class="chip" href="../periodic-table/">🧪 Tabla periódica interactiva</a><a class="chip" href="../molar-mass-calculator/">⚗️ Calculadora de masa molar</a><a class="chip" href="../chemical-equation-balancer/">⚖️ Balanceador de ecuaciones químicas</a><a class="chip" href="../ph-calculator/">🧫 Calculadora de pH</a><a class="chip" href="../rubric-maker/">📐 Creador de rúbricas</a><a class="chip" href="https://loonaautomation.github.io/loona-text-tools/typing-test/">⌨️ Prueba de mecanografía — en Loona Text Tools</a></div></section>
+</main></div>
+<div id="loona-embed" class="no-print" style="max-width:780px;margin:30px auto;padding:24px;background:#fdfaf1;border:1px solid #d9c98a;border-radius:14px;text-align:left">
+<h2 style="margin:0 0 10px;color:#062e2a;font-size:1.35rem;line-height:1.3">Incrusta esta herramienta en tu sitio web: gratis</h2>
+<p style="margin:0 0 12px;line-height:1.6">Añade esta herramienta a tu propio sitio web o blog: es completamente gratuita, no necesita registro y siempre muestra la última versión. Copia el código de abajo y pégalo en tu página donde quieras que aparezca la herramienta. Mantener la pequeña línea de crédito &ldquo;Powered by Loona Automation&rdquo; bajo el código incrustado ayuda a que esta herramienta siga siendo gratuita &mdash; pero puedes darle estilo o quitarla; la herramienta funciona de las dos maneras.</p>
+<textarea id="loonaEmbedCode" readonly rows="4" style="width:100%;box-sizing:border-box;font-family:ui-monospace,Menlo,Consolas,monospace;font-size:.8rem;line-height:1.45;padding:12px;border:1px solid #e4ddc8;border-radius:10px;background:#fff;color:#1c2422;resize:vertical">&lt;iframe src="https://loonaautomation.github.io/loona-study-tools/flashcards/" width="100%" height="720" style="border:1px solid #e5e7eb;border-radius:12px;max-width:760px" loading="lazy" title="Creador de tarjetas de estudio gratis de Loona"&gt;&lt;/iframe&gt;
+&lt;p style="font-size:13px;font-family:Arial,sans-serif"&gt;Con tecnología de &lt;a href="https://loonaautomation.github.io/loona-study-tools/flashcards/" target="_blank" rel="noopener"&gt;Loona Automation&lt;/a&gt; &mdash; Creador de tarjetas de estudio gratis&lt;/p&gt;</textarea>
+<p style="margin:10px 0 0"><button type="button" id="loonaEmbedBtn" style="background:#062e2a;color:#fff;border:0;border-radius:8px;padding:10px 18px;font-size:.95rem;font-weight:700;cursor:pointer">Copiar el código para incrustar</button></p>
+</div>
+<script>
+(function(){var b=document.getElementById('loonaEmbedBtn'),t=document.getElementById('loonaEmbedCode');if(!b||!t)return;b.addEventListener('click',function(){var done=function(){b.textContent='¡Copiado!';setTimeout(function(){b.textContent='Copiar código de incrustación';},2000);};var fallback=function(){t.removeAttribute('readonly');t.select();try{document.execCommand('copy');}catch(e){}t.setAttribute('readonly','');done();};if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(t.value).then(done,fallback);}else{fallback();}});})();
+</script>
+
+<footer class="site"><div class="footer-in">
+<div class="col"><h4>Loona Study Tools</h4>
+<a href="../index.html">Todas las herramientas de estudio</a>
+<a href="../about.html">Sobre nosotros</a>
+<a href="../contact.html">Contacto</a></div>
+<div class="col"><h4>Study Tools</h4><a href="../flashcards/">Creador de tarjetas de estudio</a><a href="../quiz-maker/">Creador de cuestionarios</a><a href="../math-worksheet-generator/">Generador de fichas de matemáticas</a><a href="../reading-speed-test/">Prueba de velocidad de lectura</a><a href="../study-timetable-planner/">Planificador de horarios de estudio</a><a href="../multiplication-tables-practice/">Práctica de tablas de multiplicar</a><a href="../spelling-test/">Prueba de ortografía</a><a href="../handwriting-practice-generator/">Generador de práctica de caligrafía</a><a href="../exam-countdown-planner/">Planificador de cuenta atrás para exámenes</a><a href="../word-search-generator/">Generador de sopas de letras</a><a href="../matching-worksheet-generator/">Generador de fichas de emparejar</a><a href="../random-name-picker/">Selector aleatorio de nombres</a><a href="../matching-pairs-game/">Juego de parejas</a><a href="../group-sort-game/">Juego de clasificar en grupos</a><a href="../unjumble-game/">Juego de descifrar frases</a><a href="../anagram-game/">Juego de anagramas</a><a href="../spell-the-word/">Juego Deletrea la palabra</a><a href="../hangman-game/">Juego del ahorcado</a><a href="../crossword-generator/">Generador de crucigramas</a><a href="../bingo-card-generator/">Generador de cartones de bingo</a><a href="../labelled-diagram-maker/">Creador de diagramas etiquetados</a><a href="../hundreds-chart/">Tabla de las centenas</a><a href="../word-wall-cards/">Generador de tarjetas de vocabulario para la pared</a><a href="../sudoku-generator/">Generador de sudokus</a><a href="../maze-generator/">Generador de laberintos</a><a href="../colour-by-number-generator/">Generador de colorear por números</a><a href="../printable-paper-generator/">Generador de papel imprimible</a><a href="../spelling-worksheet-generator/">Generador de fichas de ortografía</a><a href="../classroom-timers/">Temporizadores para el aula &amp; temporizador de examen</a><a href="../classroom-group-maker/">Creador de grupos para el aula</a><a href="../seating-chart-maker/">Creador de planos de asientos</a><a href="../classroom-scoreboard/">Marcador para el aula</a><a href="../noise-meter/">Medidor de ruido del aula</a><a href="../name-tags-generator/">Generador de etiquetas con nombres</a><a href="../visual-schedule-builder/">Creador de horarios visuales</a><a href="../ez-grader/">Calificador EZ</a><a href="../test-grader/">Calificador de exámenes</a><a href="../weighted-grade-calculator/">Calculadora de nota ponderada</a><a href="../final-exam-calculator/">Calculadora de la nota del examen final</a><a href="../math-facts-speed-test/">Prueba de velocidad de operaciones matemáticas</a><a href="../ten-key-test/">Prueba de teclado numérico de 10 teclas</a><a href="../code-typing-test/">Prueba de mecanografía de código</a><a href="../grammar-quiz/">Cuestionario de gramática</a><a href="../vocabulary-quiz/">Cuestionario de vocabulario</a><a href="../periodic-table/">Tabla periódica interactiva</a><a href="../molar-mass-calculator/">Calculadora de masa molar</a><a href="../chemical-equation-balancer/">Balanceador de ecuaciones químicas</a><a href="../ph-calculator/">Calculadora de pH</a><a href="../rubric-maker/">Creador de rúbricas</a></div>
+<div class="col"><h4>Herramientas hermanas</h4>
+<a href="https://loonaautomation.github.io/loona-text-tools/typing-test/">Prueba de mecanografía — Loona Text Tools</a>
+<a href="https://loonaautomation.github.io/loona-hours/">Pomodoro &amp; herramientas de tiempo — Loona Hours</a>
+<a href="https://loonaautomation.github.io/loona-calculators/">Calculadora de GPA / CGPA — Loona Calculators</a>
+<a href="https://loonaautomation.github.io/loona-text-tools/">Loona Text Tools</a>
+<a href="https://loonaautomation.github.io/">Todas las herramientas de Loona</a></div>
+<div class="col"><h4>Legal</h4>
+<a href="../privacy.html">Política de privacidad</a>
+<a href="../terms.html">Términos de uso</a>
+<a href="mailto:loonaautomation@gmail.com">loonaautomation@gmail.com</a></div>
+</div><div class="copyright">&copy; 2026 Loona Automation - Loona Study Tools. Herramientas de estudio en línea gratuitas que funcionan 100% en tu navegador.</div></footer>
+<script>/*loona-pwa*/(function(){if('serviceWorker' in navigator){window.addEventListener('load',function(){navigator.serviceWorker.register('../../sw.js').catch(function(){});});}var D=null;function S(){return window.matchMedia('(display-mode: standalone)').matches||window.navigator.standalone===true;}function B(m){if(S()||document.getElementById('loona-install-btn'))return;var b=document.createElement('button');b.id='loona-install-btn';b.type='button';b.textContent=String.fromCodePoint(0x1F4F2)+' Instalar la app';b.setAttribute('style','position:fixed;right:16px;bottom:16px;z-index:2147483000;background:#062e2a;color:#fff;border:1px solid #c9a227;border-radius:999px;padding:11px 18px;font:600 14px/1.2 system-ui,-apple-system,sans-serif;box-shadow:0 6px 18px rgba(0,0,0,.35);cursor:pointer');b.addEventListener('click',function(){if(m==='p'&&D){D.prompt();D.userChoice.then(function(){D=null;b.remove();});}else{alert('Instala esta app: toca el botón Compartir y luego elige \"Añadir a la pantalla de inicio\".');}});document.body.appendChild(b);}window.addEventListener('beforeinstallprompt',function(e){e.preventDefault();D=e;B('p');});window.addEventListener('appinstalled',function(){var b=document.getElementById('loona-install-btn');if(b)b.remove();});if(/iphone|ipad|ipod/i.test(navigator.userAgent)&&!S()){window.addEventListener('load',function(){B('i');});}})();</script>
+</body>
+</html>
+
+<script id="core">
+function csvCell(v){v=String(v==null?"":v);if(/["\n\r,]/.test(v)){return '"'+v.replace(/"/g,'""')+'"';}return v;}
+function deckToCSV(cards){var lines=["front,back"];cards.forEach(function(c){lines.push(csvCell(c.front)+","+csvCell(c.back));});return lines.join("\r\n");}
+function parseCSV(text){
+  var rows=[],row=[],cur="",inQ=false,i,c;
+  for(i=0;i<text.length;i++){c=text[i];
+    if(inQ){if(c==='"'){if(text[i+1]==='"'){cur+='"';i++;}else{inQ=false;}}else{cur+=c;}}
+    else if(c==='"'){inQ=true;}
+    else if(c===','){row.push(cur);cur="";}
+    else if(c==='\n'){row.push(cur);rows.push(row);row=[];cur="";}
+    else if(c==='\r'){}
+    else{cur+=c;}
+  }
+  if(cur.length||row.length){row.push(cur);rows.push(row);}
+  return rows.filter(function(r){return !(r.length===1&&r[0]==="");});
+}
+function csvToDeck(text){
+  var rows=parseCSV(text);if(!rows.length)return[];
+  var start=0;var h=rows[0].map(function(x){return String(x).trim().toLowerCase();});
+  if(h[0]==="front"&&h[1]==="back")start=1;
+  var out=[];
+  for(var i=start;i<rows.length;i++){var f=rows[i][0]==null?"":String(rows[i][0]);var b=rows[i][1]==null?"":String(rows[i][1]);if(f.trim()===""&&b.trim()==="")continue;out.push({front:f,back:b});}
+  return out;
+}
+</script>
+<script>
+var LSKEY="loona_study_decks_v1";
+function loadStore(){try{return JSON.parse(localStorage.getItem(LSKEY))||{};}catch(e){return{};}}
+function saveStore(s){try{localStorage.setItem(LSKEY,JSON.stringify(s));}catch(e){}}
+var store=loadStore();var curDeck="";var studyOrder=[],studyIdx=0,flipped=false,known=new Set(),missed=new Set(),roundCards=null;
+function $(id){return document.getElementById(id);}
+function deckNames(){return Object.keys(store);}
+function cards(){return store[curDeck]||[];}
+function refreshDecks(){var sel=$("deckSel");sel.innerHTML="";var names=deckNames();if(!names.length){store["Mi mazo"]=[];names=["Mi mazo"];saveStore(store);}if(!curDeck||!store[curDeck])curDeck=names[0];names.forEach(function(n){var o=document.createElement("option");o.value=n;o.textContent=n+" ("+(store[n]||[]).length+" tarjetas)";if(n===curDeck)o.selected=true;sel.appendChild(o);});$("deckName").value=curDeck;renderList();resetStudy();}
+function persist(){saveStore(store);refreshDecksSoft();}
+function refreshDecksSoft(){var sel=$("deckSel");var names=deckNames();sel.innerHTML="";names.forEach(function(n){var o=document.createElement("option");o.value=n;o.textContent=n+" ("+(store[n]||[]).length+" tarjetas)";if(n===curDeck)o.selected=true;sel.appendChild(o);});}
+function renderList(){var el=$("cardList");var cs=cards();if(!cs.length){el.innerHTML='<p style="color:var(--mut)">Todavía no hay tarjetas. Añade tu primera tarjeta arriba.</p>';return;}var h='<h3 style="color:var(--teal);margin:14px 0 8px">Tarjetas en este mazo ('+cs.length+')</h3>';cs.forEach(function(c,i){h+='<div class="qitem"><div class="qtxt">'+(i+1)+'. '+esc(c.front)+'</div><div style="color:var(--mut)">'+esc(c.back)+'</div><div style="margin-top:8px"><button class="btn ghost small" data-edit="'+i+'" type="button">Editar</button> <button class="btn ghost small" data-del="'+i+'" type="button">Borrar</button></div></div>';});el.innerHTML=h;el.querySelectorAll("[data-del]").forEach(function(b){b.onclick=function(){store[curDeck].splice(+b.getAttribute("data-del"),1);persist();renderList();resetStudy();};});el.querySelectorAll("[data-edit]").forEach(function(b){b.onclick=function(){var c=store[curDeck][+b.getAttribute("data-edit")];$("fFront").value=c.front;$("fBack").value=c.back;store[curDeck].splice(+b.getAttribute("data-edit"),1);persist();renderList();resetStudy();$("fFront").focus();};});}
+function esc(s){var d=document.createElement("div");d.textContent=s;return d.innerHTML;}
+$("bAdd").onclick=function(){var f=$("fFront").value.trim(),b=$("fBack").value.trim();if(!f||!b){$("addStatus").textContent="Rellena tanto el frente como el reverso, por favor.";$("addStatus").className="status err";return;}if(!store[curDeck])store[curDeck]=[];store[curDeck].push({front:f,back:b});$("fFront").value="";$("fBack").value="";$("addStatus").textContent="Tarjeta añadida. El mazo ahora tiene "+store[curDeck].length+" tarjetas.";$("addStatus").className="status ok";persist();renderList();resetStudy();$("fFront").focus();};
+$("deckSel").onchange=function(){curDeck=this.value;$("deckName").value=curDeck;renderList();resetStudy();};
+$("deckName").onchange=function(){var n=this.value.trim();if(!n||n===curDeck)return;store[n]=store[curDeck]||[];delete store[curDeck];curDeck=n;persist();refreshDecks();};
+$("bNewDeck").onclick=function(){var n="Mazo "+(deckNames().length+1);var i=2;while(store[n]){n="Mazo "+(++i);}store[n]=[];curDeck=n;persist();refreshDecks();};
+$("bDelDeck").onclick=function(){if(deckNames().length<=1){alert("Este es tu único mazo.");return;}if(!confirm("¿Borrar el mazo '"+curDeck+"' y todas sus tarjetas?"))return;delete store[curDeck];curDeck="";persist();refreshDecks();};
+function download(name,text,type){var a=document.createElement("a");a.href=URL.createObjectURL(new Blob([text],{type:type}));a.download=name;a.click();setTimeout(function(){URL.revokeObjectURL(a.href);},2000);}
+$("bExportCSV").onclick=function(){download(curDeck.replace(/[^\w\- ]+/g,"")+".csv",deckToCSV(cards()),"text/csv");};
+$("bExportJSON").onclick=function(){download(curDeck.replace(/[^\w\- ]+/g,"")+".json",JSON.stringify({name:curDeck,cards:cards()},null,2),"application/json");};
+$("fileImport").onchange=function(){var f=this.files[0];if(!f)return;var r=new FileReader();r.onload=function(){try{var text=String(r.result);var imported;var nm=f.name.replace(/\.(csv|json|txt)$/i,"");if(/^\s*[\{]/.test(text)){var j=JSON.parse(text);imported=(j.cards||[]).map(function(c){return{front:String(c.front||""),back:String(c.back||"")};});if(j.name)nm=j.name;}else{imported=csvToDeck(text);}if(!imported.length){alert("No se encontraron tarjetas en ese archivo.");return;}var i=2;var base=nm;while(store[nm])nm=base+" ("+(i++)+")";store[nm]=imported;curDeck=nm;persist();refreshDecks();alert("Importado "+imported.length+" tarjetas en el mazo '"+nm+"'.");}catch(e){alert("No se pudo leer ese archivo: "+e.message);}};r.readAsText(f);this.value="";};
+$("bPrint").onclick=function(){var cs=cards();if(!cs.length){alert("Añade algunas tarjetas primero.");return;}var h='<h2 style="color:#062e2a">'+esc(curDeck)+' — Tarjetas de estudio</h2><div class="pcards">';cs.forEach(function(c,i){h+='<div class="pcard"><strong>Tarjeta '+(i+1)+' — Frente</strong><br>'+esc(c.front)+'</div><div class="pcard"><strong>Tarjeta '+(i+1)+' — Reverso</strong><br>'+esc(c.back)+'</div>';});$("printCards").innerHTML=h+"</div>";document.body.classList.add("print-cards");window.print();setTimeout(function(){document.body.classList.remove("print-cards");},500);};
+function resetStudy(){roundCards=null;known=new Set();missed=new Set();startRound(cards());}
+function startRound(cs){studyOrder=cs.map(function(_,i){return cards().indexOf(cs[i]);});if(!cs.length||cs===cards())studyOrder=cs.map(function(_,i){return i;});studyOrder=cs.map(function(c){return cards().indexOf(c);});studyIdx=0;flipped=false;drawCard();}
+function drawCard(){var cs=cards();var area=$("studyArea"),emp=$("studyEmpty");if(!cs.length||!studyOrder.length){area.style.display="none";emp.style.display="block";return;}emp.style.display="none";area.style.display="block";if(studyIdx>=studyOrder.length)studyIdx=0;var c=cs[studyOrder[studyIdx]];var el=$("flashEl");el.textContent=flipped?c.back:c.front;el.className="flashcard"+(flipped?" atrás":"");$("fcPos").textContent="Tarjeta "+(studyIdx+1)+" de "+studyOrder.length+(flipped?" (lado de la respuesta — haz clic para voltear de vuelta)":" (lado de la pregunta — haz clic en la tarjeta para revelar la respuesta)");$("fcScore").textContent="Conocidas: "+known.size+" · Todavía aprendiendo: "+missed.size;}
+$("flashEl").onclick=function(){flipped=!flipped;drawCard();};
+$("bFlip").onclick=function(){flipped=!flipped;drawCard();};
+$("bNext").onclick=function(){studyIdx=(studyIdx+1)%studyOrder.length;flipped=false;drawCard();};
+$("bPrev").onclick=function(){studyIdx=(studyIdx-1+studyOrder.length)%studyOrder.length;flipped=false;drawCard();};
+$("bShuffle").onclick=function(){for(var i=studyOrder.length-1;i>0;i--){var j=Math.floor(Math.random()*(i+1));var t=studyOrder[i];studyOrder[i]=studyOrder[j];studyOrder[j]=t;}studyIdx=0;flipped=false;drawCard();};
+function mark(set){var idx=studyOrder[studyIdx];set.add(idx);(set===known?missed:known).delete(idx);flipped=false;if(studyIdx<studyOrder.length-1){studyIdx++;}drawCard();if(known.size+missed.size>=studyOrder.length&&studyOrder.length){$("fcScore").textContent="¡Ronda completa! Conocidas: "+known.size+" · Todavía aprendiendo: "+missed.size+(missed.size?" — reinicia solo con las tarjetas falladas para terminar el trabajo.":" — ¡ronda perfecta! 🎉");}}
+$("bKnow").onclick=function(){mark(known);};
+$("bDont").onclick=function(){mark(missed);};
+$("bRetry").onclick=function(){if(!missed.size){alert("Todavía no hay tarjetas falladas en esta ronda.");return;}var cs=cards();studyOrder=Array.from(missed);known=new Set();missed=new Set();studyIdx=0;flipped=false;drawCard();};
+$("bReset").onclick=function(){known=new Set();missed=new Set();studyOrder=cards().map(function(_,i){return i;});studyIdx=0;flipped=false;drawCard();};
+refreshDecks();
+</script>
+<script id="core-sm2">
+function sm2Next(state, quality){
+  var ease=state&&state.ease?state.ease:2.5;var reps=state&&state.reps?state.reps:0;var interval=state&&state.interval?state.interval:0;
+  if(quality<3){reps=0;interval=1;}
+  else{reps+=1;interval=reps===1?1:reps===2?6:Math.round(interval*ease);
+    ease=ease+(0.1-(5-quality)*(0.08+(5-quality)*0.02));if(ease<1.3)ease=1.3;}
+  return{ease:Math.round(ease*100)/100,reps:reps,interval:interval};}
+function sm2DueDay(state, todayDay){if(!state)return true;return (state.dueDay||0)<=todayDay;}
+</script>
+<script>
+(function(){
+var SKEY="loona_study_sm2_v1";
+function $$(id){return document.getElementById(id);}
+function dayNum(){return Math.floor(Date.now()/86400000);}
+function loadS(){try{return JSON.parse(localStorage.getItem(SKEY))||{};}catch(e){return{};}}
+function skey(deck,front){return deck+"|"+front;}
+var queue=[],qi=0,showing=false;
+$$("bSm2Start").onclick=function(){
+  var st=loadS();var cs=cards();var dn=dayNum();queue=[];
+  cs.forEach(function(c,i){var rec=st[skey(curDeck,c.front)];if(sm2DueDay(rec,dn))queue.push(i);});
+  if(!cs.length){$$("sm2Info").textContent="Añade tarjetas a este mazo primero.";return;}
+  if(!queue.length){$$("sm2Info").textContent="Nada para hoy en este mazo: todas las tarjetas están programadas para días posteriores.";$$("sm2Area").style.display="none";return;}
+  qi=0;showing=false;$$("sm2Area").style.display="block";draw();$$("sm2Info").textContent=queue.length+" tarjetas para hoy.";};
+function draw(){var c=cards()[queue[qi]];var el=$$("sm2Card");el.textContent=showing?c.back:c.front;el.className="flashcard"+(showing?" atrás":"");$$("sm2Pos").textContent="Repaso "+(qi+1)+" de "+queue.length;$$("sm2Rates").style.display=showing?"flex":"none";}
+$$("sm2Card").onclick=function(){showing=true;draw();};
+$$("bSm2Flip").onclick=function(){showing=true;draw();};
+document.querySelectorAll("#sm2Rates [data-q]").forEach(function(b){b.onclick=function(){
+  var st=loadS();var c=cards()[queue[qi]];var k=skey(curDeck,c.front);var nx=sm2Next(st[k],Number(b.getAttribute("data-q")));nx.dueDay=dayNum()+nx.interval;st[k]=nx;try{localStorage.setItem(SKEY,JSON.stringify(st));}catch(e){}
+  qi++;showing=false;if(qi>=queue.length){$$("sm2Area").style.display="none";$$("sm2Info").textContent="Repaso completo por hoy. Vuelve mañana para las próximas tarjetas.";}else draw();};});
+})();
+</script>
+

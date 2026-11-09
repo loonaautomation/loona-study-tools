@@ -1,0 +1,29 @@
+{
+  "name": "Loona Argomenti di inglese e guida allo studio per la classe 2",
+  "short_name": "classe 2 Inglese Argomenti e",
+  "description": "The argomenti di inglese per classe 2 in ordine di insegnamento — Long vowels e digraphs (sh, ch, th), Sight parole set 2 e parola families, Domanda punti e exclamation punti e altro — con gratuito studio strumenti per ciascuno argomento.",
+  "id": "/loona-study-tools/it/grade-2-english-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

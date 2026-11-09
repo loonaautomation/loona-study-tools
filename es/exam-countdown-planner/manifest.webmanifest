@@ -1,0 +1,29 @@
+{
+  "name": "Loona Planificador de cuenta atrás para exámenes",
+  "short_name": "Planificador de cuenta atrás para exámenes",
+  "description": "Planificador gratuito de cuenta atrás para exámenes: introduce la fecha de tu examen, las asignaturas y las sesiones diarias para obtener un plan de repaso día a día que reparte las asignaturas con equidad por peso de dificultad hasta el día del examen.",
+  "id": "/loona-study-tools/es/exam-countdown-planner/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

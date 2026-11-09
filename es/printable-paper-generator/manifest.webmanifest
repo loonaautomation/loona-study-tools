@@ -1,0 +1,29 @@
+{
+  "name": "Loona Generador de papel imprimible",
+  "short_name": "Generador de papel imprimible",
+  "description": "Generador gratuito de papel imprimible: papel cuadriculado, rejilla de puntos, papel isométrico, papel de caligrafía de 3 líneas y líneas anchas pautadas con espaciado exacto de 8/10/14 mm. Imprime al 100% para el tamaño real.",
+  "id": "/loona-study-tools/es/printable-paper-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Tabla de las centenas",
+  "short_name": "Tabla de las centenas",
+  "description": "Tabla de las centenas gratuita: tabla imprimible e interactiva del 1 al 100 con resaltado de pares/impares y múltiplos, y un modo de práctica de números que faltan para el sentido numérico.",
+  "id": "/loona-study-tools/es/hundreds-chart/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

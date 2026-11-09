@@ -1,0 +1,29 @@
+{
+  "name": "Loona Creador de horarios visuales",
+  "short_name": "Creador de horarios visuales",
+  "description": "Creador gratuito de horarios visuales: crea un horario con imágenes imprimible del día escolar con horas, iconos y actividades: ideal para niños pequeños y apoyo a necesidades educativas especiales.",
+  "id": "/loona-study-tools/es/visual-schedule-builder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

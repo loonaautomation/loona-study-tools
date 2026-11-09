@@ -1,0 +1,29 @@
+{
+  "name": "Loona Generador de fichas de ortografía",
+  "short_name": "Generador de fichas de ortografía",
+  "description": "Generador gratuito de fichas de ortografía: de una lista de palabras obtén práctica de desordenar, fichas de vocales que faltan, práctica de orden ABC y una hoja de prueba de ortografía, con clave de respuestas.",
+  "id": "/loona-study-tools/es/spelling-worksheet-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

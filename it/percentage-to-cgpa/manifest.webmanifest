@@ -1,0 +1,29 @@
+{
+  "name": "Loona Convertitore da percentuale a CGPA (4.0, 5.0",
+  "short_name": "Convertitore da percentuale a CGPA",
+  "description": "Convert un percentuale indietro un CGPA su il 4.0, 5.0 e 10-point scales: % ÷ 9.5 per India, lineare equivalents per 4.0 e 5.0, con tables.",
+  "id": "/loona-study-tools/it/percentage-to-cgpa/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

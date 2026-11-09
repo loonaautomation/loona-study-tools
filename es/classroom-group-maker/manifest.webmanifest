@@ -1,0 +1,29 @@
+{
+  "name": "Loona Creador de grupos para el aula",
+  "short_name": "Creador de grupos para el aula",
+  "description": "Creador gratuito de grupos para el aula: guarda listas de clase en tu navegador y luego divide a los estudiantes en grupos aleatorios equilibrados por tamaño de grupo, cantidad de grupos o parejas. Imprime el resultado.",
+  "id": "/loona-study-tools/es/classroom-group-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

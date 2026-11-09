@@ -1,0 +1,29 @@
+{
+  "name": "Loona Argomenti di inglese e studio per la scuola dell'infanzia",
+  "short_name": "Scuola dell'infanzia Inglese Argomenti",
+  "description": "The argomenti di inglese per scuola dell'infanzia in ordine di insegnamento — Letter nomi e suoni (A–Z), Tracing e writing lettere, Rhyming parole e nursery rhymes e altro — con gratuito studio strumenti per ciascuno argomento.",
+  "id": "/loona-study-tools/it/kindergarten-english-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

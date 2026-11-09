@@ -1,0 +1,29 @@
+{
+  "name": "Loona Creatore di flashcard",
+  "short_name": "Creatore di flashcard",
+  "description": "Gratuito flashcard creatore: creare decks, studio con gira carte, shuffle e know/don't-know tracking. Import/export CSV & JSON, stampa carte. Senza registrazione, saved su tuo dispositivo.",
+  "id": "/loona-study-tools/it/flashcards/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Calificador de exámenes",
+  "short_name": "Calificador de exámenes",
+  "description": "Calificador de exámenes gratuito: pega la clave de respuestas y las respuestas de un estudiante (letras o palabras) para obtener una puntuación instantánea, el porcentaje, la calificación con letra y un desglose pregunta por pregunta.",
+  "id": "/loona-study-tools/es/test-grader/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

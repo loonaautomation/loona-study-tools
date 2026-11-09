@@ -1,0 +1,29 @@
+{
+  "name": "Loona Esercizi di area e perimetro per la classe 3",
+  "short_name": "classe 3 Area e Perimeter",
+  "description": "Gratuito classe 3 area e perimetro esercizi — perimetro e area di rectangles. A esempio svolto, 6 domande di esercitazione con un stampabile griglia delle risposte, il method, il common mistake e un parte superiore consiglio.",
+  "id": "/loona-study-tools/it/grade-3-area-perimeter-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

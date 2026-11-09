@@ -1,0 +1,29 @@
+{
+  "name": "Loona Marcador para el aula",
+  "short_name": "Marcador para el aula",
+  "description": "Marcador gratuito para el aula: tarjetas de puntos de equipo grandes y coloridas para la pantalla del aula, +1/+5/-1 con un toque, guardado en tu navegador entre clases.",
+  "id": "/loona-study-tools/es/classroom-scoreboard/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Práctica de tablas de multiplicar",
+  "short_name": "Práctica de tablas de multiplicar",
+  "description": "Práctica gratuita de tablas de multiplicar: elige las tablas del 2 al 12, practica rondas cronometradas con comprobación instantánea y repaso de las tablas débiles, más una tabla de multiplicar imprimible de 12x12.",
+  "id": "/loona-study-tools/es/multiplication-tables-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

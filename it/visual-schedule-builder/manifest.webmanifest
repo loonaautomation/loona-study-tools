@@ -1,0 +1,29 @@
+{
+  "name": "Loona Creatore di orari visivi",
+  "short_name": "Creatore di orari visivi",
+  "description": "Gratuito visual programma builder: creare un stampabile immagine programma di il scuola giorno con times, icons e activities — ideal per young bambini e SEN support.",
+  "id": "/loona-study-tools/it/visual-schedule-builder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Generador de tarjetas de vocabulario para la pared",
+  "short_name": "Generador de tarjetas de vocabulario para la pared",
+  "description": "Generador gratuito de tarjetas de vocabulario para la pared: escribe una lista de palabras y obtén tarjetas grandes y en negrita imprimibles en tres tamaños para exposiciones en el aula y rincones de lectura.",
+  "id": "/loona-study-tools/es/word-wall-cards/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Gioco dell'impiccato",
+  "short_name": "Gioco dell'impiccato",
+  "description": "Gratuito hangman gioco con built-in scuola parola lists (animals, science, geography, scuola) o tuo proprio parole. Six sbagliato guesses, su-screen keyboard, stampabile-gratuito fun.",
+  "id": "/loona-study-tools/it/hangman-game/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

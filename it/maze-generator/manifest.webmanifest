@@ -1,0 +1,29 @@
+{
+  "name": "Loona Generatore di labirinti",
+  "short_name": "Generatore di labirinti",
+  "description": "Gratuito maze generatore: stampabile mazes un four difficoltà levels (8x8 un 26x26), generare fresh ogni tempo, con an optional red soluzione path per checking.",
+  "id": "/loona-study-tools/it/maze-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

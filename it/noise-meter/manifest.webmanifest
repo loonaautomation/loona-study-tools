@@ -1,0 +1,29 @@
+{
+  "name": "Loona Misuratore di rumore in classe",
+  "short_name": "Misuratore di rumore in classe",
+  "description": "Gratuito classe (aula) rumore meter: live microphone livello bar con green/amber/red zones e un quiet-streak counter. Relative livello display (not decibels), analysed su-dispositivo, never recorded.",
+  "id": "/loona-study-tools/it/noise-meter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Prueba de ortografía",
+  "short_name": "Prueba de ortografía",
+  "description": "Prueba de ortografía gratuita: el navegador lee cada palabra en voz alta, escribes la ortografía y obtienes una puntuación instantánea con una revisión de las palabras falladas. Listas integradas por edad más tus propias listas de palabras.",
+  "id": "/loona-study-tools/es/spelling-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

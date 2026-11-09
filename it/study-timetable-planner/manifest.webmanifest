@@ -1,0 +1,29 @@
+{
+  "name": "Loona Pianificatore dell'orario di studio",
+  "short_name": "Pianificatore dell'orario di studio",
+  "description": "Gratuito orario di studio pianificatore: inserisci materie, ore al giorno e an dati dell'esame un generare un balanced, editable, stampabile settimanale orario di studio con fair materia rotation.",
+  "id": "/loona-study-tools/it/study-timetable-planner/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

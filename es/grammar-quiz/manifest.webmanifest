@@ -1,0 +1,29 @@
+{
+  "name": "Loona Cuestionario de gramática",
+  "short_name": "Cuestionario de gramática",
+  "description": "Cuestionario gratuito de gramática inglesa: 24 preguntas sobre tiempos verbales, artículos, preposiciones, concordancia, condicionales y puntuación, con puntuación instantánea y una explicación para cada respuesta.",
+  "id": "/loona-study-tools/es/grammar-quiz/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

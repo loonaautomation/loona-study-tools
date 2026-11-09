@@ -1,0 +1,29 @@
+{
+  "name": "Loona Convertitore della classificazione di laurea UK",
+  "short_name": "UK Degree Classification",
+  "description": "Cosa un UK First, 2:1, 2:2 o Third means in percentuale e approximate US GPA terms — con il honest nota quel no official UK-un-GPA conversion exists.",
+  "id": "/loona-study-tools/it/uk-degree-classification-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Pianificatore con conto alla rovescia per gli esami",
+  "short_name": "Pianificatore con conto alla rovescia per gli esami",
+  "description": "Gratuito esame countdown pianificatore: inserisci tuo dati dell'esame, materie e quotidiano sessioni un get un giorno-by-giorno ripasso piano quel spreads materie fairly by difficoltà peso fino un esame giorno.",
+  "id": "/loona-study-tools/it/exam-countdown-planner/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
