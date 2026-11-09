@@ -1,6 +1,6 @@
 {
   "name": "Loona CGPA to Percentage on the 5.0 Scale",
-  "short_name": "CGPA to Percentage on the 5.0 Sc",
+  "short_name": "CGPA to Percentage on the 5.0",
   "description": "Convert 5.0-scale CGPA to percentage (CGPA ÷ 5 × 100) with a full table, and the class-band pages for Nigeria and Bangladesh where bands matter more than percentages.",
   "id": "/loona-study-tools/cgpa-5-scale-to-percentage/",
   "start_url": ".",

@@ -1,6 +1,6 @@
 {
-  "name": "Loona Percentage to CGPA Converter (4.0, 5.0 and 10-Point Scales)",
-  "short_name": "Percentage to CGPA Converter (4.",
+  "name": "Loona Percentage to CGPA Converter (4.0, 5.0",
+  "short_name": "Percentage to CGPA Converter",
   "description": "Convert a percentage back to CGPA on the 4.0, 5.0 and 10-point scales: % ÷ 9.5 for India, linear equivalents for 4.0 and 5.0, with tables.",
   "id": "/loona-study-tools/percentage-to-cgpa/",
   "start_url": ".",

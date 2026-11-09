@@ -1,6 +1,6 @@
 {
   "name": "Loona GPA to Percentage on the 4.0 Scale",
-  "short_name": "GPA to Percentage on the 4.0 Sca",
+  "short_name": "GPA to Percentage on the 4.0",
   "description": "Convert a 4.0-scale GPA to a percentage through the standard letter-grade table (A = 4.0 = 93–100%), shown next to the linear ×25 estimate.",
   "id": "/loona-study-tools/gpa-4-scale-to-percentage/",
   "start_url": ".",
