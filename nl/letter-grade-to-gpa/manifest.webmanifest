@@ -1,0 +1,29 @@
+{
+  "name": "Loona Lettercijfer naar GPA-omzetter",
+  "short_name": "Lettercijfer naar GPA-omzetter",
+  "description": "Welke GPA is een A, een B+ of een C−? De volledige tabel van lettercijfer naar GPA-punten op de 4.0-schaal, met percentagebanden en een omzetter met één klik.",
+  "id": "/loona-study-tools/nl/letter-grade-to-gpa/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

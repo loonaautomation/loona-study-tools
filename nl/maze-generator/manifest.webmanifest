@@ -1,0 +1,29 @@
+{
+  "name": "Loona Doolhofgenerator",
+  "short_name": "Doolhofgenerator",
+  "description": "Gratis doolhofgenerator: printbare doolhoven op vier moeilijkheidsniveaus (8x8 tot 26x26), elke keer vers gegenereerd, met een optioneel rood oplossingspad om te controleren.",
+  "id": "/loona-study-tools/nl/maze-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

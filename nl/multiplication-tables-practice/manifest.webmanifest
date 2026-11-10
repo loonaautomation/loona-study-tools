@@ -1,0 +1,29 @@
+{
+  "name": "Loona Tafels oefenen",
+  "short_name": "Tafels oefenen",
+  "description": "Gratis tafeloefening: kies tafels 2-12, oefen getimede rondes met directe controle en zwakke-tafelherziening, plus een printbare vermenigvuldigingstabel van 12x12.",
+  "id": "/loona-study-tools/nl/multiplication-tables-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

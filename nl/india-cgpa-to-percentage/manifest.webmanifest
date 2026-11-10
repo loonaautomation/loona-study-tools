@@ -1,0 +1,29 @@
+{
+  "name": "Loona India CGPA naar percentage",
+  "short_name": "India CGPA naar percentage",
+  "description": "Zet Indiase CGPA op 10 punten om naar percentage met de CBSE-formule (× 9.5) en de varianten die Indiase universiteiten gebruiken — (CGPA − 0.5) × 10 en × 10 — met een volledige tabel.",
+  "id": "/loona-study-tools/nl/india-cgpa-to-percentage/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

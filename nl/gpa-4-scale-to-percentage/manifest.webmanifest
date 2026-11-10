@@ -1,0 +1,29 @@
+{
+  "name": "Loona GPA naar percentage op de 4.0-schaal",
+  "short_name": "GPA naar percentage op de 4.0-schaal",
+  "description": "Zet een GPA op de 4.0-schaal om naar een percentage via de standaard lettercijfertabel (A = 4.0 = 93–100%), getoond naast de lineaire schatting van ×25.",
+  "id": "/loona-study-tools/nl/gpa-4-scale-to-percentage/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

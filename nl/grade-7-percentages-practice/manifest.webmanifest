@@ -1,0 +1,29 @@
+{
+  "name": "Loona Percentages oefenen – klas 7",
+  "short_name": "Percentages oefenen – klas 7",
+  "description": "Gratis oefenen met percentages voor klas 7 — procentuele verandering: stijging en daling. Een uitgewerkt voorbeeld, 6 oefenvragen met een printbare antwoordsleutel, de methode, de veelgemaakte fout en een toptip.",
+  "id": "/loona-study-tools/nl/grade-7-percentages-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

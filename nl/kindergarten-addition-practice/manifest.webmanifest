@@ -1,0 +1,29 @@
+{
+  "name": "Loona Optellen oefenen – kleuterschool",
+  "short_name": "Optellen oefenen – kleuterschool",
+  "description": "Gratis oefenen met optellen voor kleuterschool — twee getallen binnen 10 optellen. Een uitgewerkt voorbeeld, 6 oefenvragen met een printbare antwoordsleutel, de methode, de veelgemaakte fout en een toptip.",
+  "id": "/loona-study-tools/nl/kindergarten-addition-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

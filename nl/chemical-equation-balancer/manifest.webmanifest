@@ -1,0 +1,29 @@
+{
+  "name": "Loona Chemische vergelijkingen in balans brengen",
+  "short_name": "Chemische vergelijkingen in balans brengen",
+  "description": "Gratis tool om chemische vergelijkingen in balans te brengen: voer een vergelijking in zoals C3H8 + O2 -> CO2 + H2O en krijg de gebalanceerde coëfficiënten met een volledige verificatie per atoom.",
+  "id": "/loona-study-tools/nl/chemical-equation-balancer/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

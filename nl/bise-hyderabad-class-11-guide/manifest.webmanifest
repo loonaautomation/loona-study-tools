@@ -1,0 +1,29 @@
+{
+  "name": "Loona BISE Hyderabad klas 11 gids",
+  "short_name": "BISE Hyderabad klas 11 gids",
+  "description": "BISE Hyderabad klas 11: vakken en richtingen, hoe de examenpapieren van het board zijn opgebouwd en een gratis voorbereidingsplan met studietools. Controleer de patronen op de officiële site van het board.",
+  "id": "/loona-study-tools/nl/bise-hyderabad-class-11-guide/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

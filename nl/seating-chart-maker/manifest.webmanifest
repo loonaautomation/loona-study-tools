@@ -1,0 +1,29 @@
+{
+  "name": "Loona Zitplaatsenplanmaker",
+  "short_name": "Zitplaatsenplanmaker",
+  "description": "Gratis zitplaatsenplanmaker: bouw een bureauraster, klik om leerlingen te plaatsen, vergrendel zitplaatsen die niet mogen bewegen, schud iedereen anders, en print het plan.",
+  "id": "/loona-study-tools/nl/seating-chart-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

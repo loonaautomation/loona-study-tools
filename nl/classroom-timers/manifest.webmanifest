@@ -1,0 +1,29 @@
+{
+  "name": "Loona Klastimers",
+  "short_name": "Klastimers",
+  "description": "Gratis klastimers: een afteltimer met groot scherm, voortgangsring en krimpende visuele balk, een examentimer die de eindtijd en de resterende tijd toont, en een stopwatch met ronden.",
+  "id": "/loona-study-tools/nl/classroom-timers/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

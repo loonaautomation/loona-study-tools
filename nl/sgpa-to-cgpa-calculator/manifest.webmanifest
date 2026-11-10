@@ -1,0 +1,29 @@
+{
+  "name": "Loona SGPA naar CGPA-calculator",
+  "short_name": "SGPA naar CGPA-calculator",
+  "description": "Combineer semester-SGPA's tot een CGPA op de juiste manier: het naar studiepunten gewogen gemiddelde, geen gewoon gemiddelde. Voeg je semesters toe met hun studiepunten.",
+  "id": "/loona-study-tools/nl/sgpa-to-cgpa-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

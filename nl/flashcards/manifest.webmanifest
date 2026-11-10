@@ -1,0 +1,29 @@
+{
+  "name": "Loona Flashcards-maker",
+  "short_name": "Flashcards-maker",
+  "description": "Gratis flashcards-maker: maak reeksen, studeer met omdraaikaarten, hussel en volg wat je weet/niet weet. Importeer/exporteer CSV &amp; JSON, print kaarten. Geen registratie, opgeslagen op je apparaat.",
+  "id": "/loona-study-tools/nl/flashcards/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

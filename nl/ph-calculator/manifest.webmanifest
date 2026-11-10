@@ -1,0 +1,29 @@
+{
+  "name": "Loona pH-calculator",
+  "short_name": "pH-calculator",
+  "description": "Gratis pH-calculator: zet om tussen pH, pOH, [H+] en [OH-], en bereken de pH van sterke zuur- en sterke base-oplossingen uit concentratie.",
+  "id": "/loona-study-tools/nl/ph-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Wetenschap onderwerpen klas 5",
+  "short_name": "Wetenschap onderwerpen klas 5",
+  "description": "De wetenschapsonderwerpen voor klas 5 in onderwijsvolgorde — Fotosynthese en plantenvoortplanting, De bloedsomloop en het hart, Mengsels en ze scheiden (filteren, verdampen) en meer — met gratis studietools voor elk onderwerp.",
+  "id": "/loona-study-tools/nl/grade-5-science-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

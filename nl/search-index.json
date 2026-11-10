@@ -1,0 +1,452 @@
+[
+ {
+  "n": "Flashcards-maker",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nl/flashcards/",
+  "s": "Loona Study Tools",
+  "d": "Bouw flashcard-decks, studeer met omklapkaarten en schudden, volg wat je weet, en exporteer of print je kaarten.",
+  "k": "flashcards maker flashcards bouw flashcard decks studeer met omklapkaarten en schudden volg wat je weet en exporteer of print je kaarten",
+  "p": 0,
+  "c": "Tool"
+ },
+ {
+  "n": "Quiz-maker",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nl/quiz-maker/",
+  "s": "Loona Study Tools",
+  "d": "Leraren bouwen quizzen met meerkeuzevragen, waar/onwaar en korte antwoorden — leerlingen maken ze met directe scores en een volledige antwoordherziening.",
+  "k": "quiz maker quiz maker leraren bouwen quizzen met meerkeuzevragen waar onwaar en korte antwoorden leerlingen maken ze met directe scores en een volledige antwoordherziening",
+  "p": 1,
+  "c": "Tool"
+ },
+ {
+  "n": "Practice by Grade & Topic",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nl/grade-topic-practice/",
+  "s": "Loona Study Tools",
+  "d": "196 nieuwe pagina's: uitgewerkte voorbeelden en oefenvragen voor elke klas en elk rekenonderwerp, vakgidsen voor Wetenschap, Engels, Maatschappijleer en Urdu, Pakistaanse bord-examengidsen voor klassen 9–12, en CGPA-omzetters voor elke grote beoordelingsschaal.",
+  "k": "practice by grade topic grade topic practice 196 nieuwe pagina s uitgewerkte voorbeelden en oefenvragen voor elke klas en elk rekenonderwerp vakgidsen voor wetenschap engels maatschappijleer en urdu pakistaanse bord examengidsen voor klassen 9 12 en cgpa omzetters voor elke grote beoordelingsschaal",
+  "p": 102,
+  "c": "Tool"
+ },
+ {
+  "n": "Rekenwerkbladgenerator",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nl/math-worksheet-generator/",
+  "s": "Loona Study Tools",
+  "d": "Genereer printbare rekenwerkbladen — optellen, aftrekken, vermenigvuldigen, delen, breuken en decimalen — met een bijpassende antwoordsleutel.",
+  "k": "math worksheet generator math worksheet generator genereer printbare rekenwerkbladen optellen aftrekken vermenigvuldigen delen breuken en decimalen met een bijpassende antwoordsleutel",
+  "p": 2,
+  "c": "Tool"
+ },
+ {
+  "n": "Leessnelheidstest",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nl/reading-speed-test/",
+  "s": "Loona Study Tools",
+  "d": "Lees een getimede passage, beantwoord begripsvragen en krijg je echte leessnelheid in woorden per minuut (WPM).",
+  "k": "reading speed test reading speed test lees een getimede passage beantwoord begripsvragen en krijg je echte leessnelheid in woorden per minuut wpm",
+  "p": 3,
+  "c": "Tool"
+ },
+ {
+  "n": "Studieroosterplanner",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nl/study-timetable-planner/",
+  "s": "Loona Study Tools",
+  "d": "Voer je vakken, dagelijkse uren en examendatum in en krijg een gebalanceerd wekelijks studierooster dat je kunt bewerken en printen.",
+  "k": "study timetable planner study timetable planner voer je vakken dagelijkse uren en examendatum in en krijg een gebalanceerd wekelijks studierooster dat je kunt bewerken en printen",
+  "p": 4,
+  "c": "Tool"
+ },
+ {
+  "n": "Tafels oefenen",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nl/multiplication-tables-practice/",
+  "s": "Loona Study Tools",
+  "d": "Oefen tafels met getimede oefenrondes, directe controle en een printbare vermenigvuldigingstabel tot 12 × 12.",
+  "k": "multiplication tables practice multiplication tables practice oefen tafels met getimede oefenrondes directe controle en een printbare vermenigvuldigingstabel tot 12 12",
+  "p": 106,
+  "c": "Tool"
+ },
+ {
+  "n": "Spellingtest",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nl/spelling-test/",
+  "s": "Loona Study Tools",
+  "d": "De computer leest elk woord hardop voor — jij typt de spelling. Directe score en een herziening van elk woord dat je miste.",
+  "k": "spelling test spelling test de computer leest elk woord hardop voor jij typt de spelling directe score en een herziening van elk woord dat je miste",
+  "p": 5,
+  "c": "Tool"
+ },
+ {
+  "n": "Handschriftoefengenerator",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nl/handwriting-practice-generator/",
+  "s": "Loona Study Tools",
+  "d": "Creëer printbare handschriftoefenbladen voor letters, getallen en je eigen woorden, met overtrekregels en lege kopieerregels.",
+  "k": "handwriting practice generator handwriting practice generator creeer printbare handschriftoefenbladen voor letters getallen en je eigen woorden met overtrekregels en lege kopieerregels",
+  "p": 108,
+  "c": "Tool"
+ },
+ {
+  "n": "Examenaftelplanner",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nl/exam-countdown-planner/",
+  "s": "Loona Study Tools",
+  "d": "Voer je examendatum en vakken in en krijg een revisieplan per dag dat onderwerpen eerlijk spreidt over de dagen die je nog hebt.",
+  "k": "exam countdown planner exam countdown planner voer je examendatum en vakken in en krijg een revisieplan per dag dat onderwerpen eerlijk spreidt over de dagen die je nog hebt",
+  "p": 109,
+  "c": "Tool"
+ },
+ {
+  "n": "Woordzoeker-generator",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nl/word-search-generator/",
+  "s": "Loona Study Tools",
+  "d": "Verander je eigen woordenlijst in een printbare woordzoekerpuzzel, met een aparte antwoordsleutel die de locatie van elk woord toont.",
+  "k": "word search generator word search generator verander je eigen woordenlijst in een printbare woordzoekerpuzzel met een aparte antwoordsleutel die de locatie van elk woord toont",
+  "p": 110,
+  "c": "Tool"
+ },
+ {
+  "n": "Combineerwerkblad-generator",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nl/matching-worksheet-generator/",
+  "s": "Loona Study Tools",
+  "d": "Creëer printbare combineerwerkbladen — termen links, geschudde definities rechts — met een antwoordsleutel voor de leraar.",
+  "k": "matching worksheet generator matching worksheet generator creeer printbare combineerwerkbladen termen links geschudde definities rechts met een antwoordsleutel voor de leraar",
+  "p": 111,
+  "c": "Tool"
+ },
+ {
+  "n": "Willekeurige namenkiezer",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nl/random-name-picker/",
+  "s": "Loona Study Tools",
+  "d": "Plak een klassenlijst en kies leerlingen eerlijk willekeurig, met een niet-herhaalmodus zodat iedereen aan de beurt komt.",
+  "k": "random name picker random name picker plak een klassenlijst en kies leerlingen eerlijk willekeurig met een niet herhaalmodus zodat iedereen aan de beurt komt",
+  "p": 112,
+  "c": "Tool"
+ },
+ {
+  "n": "Parenspel (memory)",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nl/matching-pairs-game/",
+  "s": "Loona Study Tools",
+  "d": "Verander elk term-en-definitiepaar in een omklap-en-combineer geheugenspel met zetten- en tijdsregistratie.",
+  "k": "matching pairs game matching pairs game verander elk term en definitiepaar in een omklap en combineer geheugenspel met zetten en tijdsregistratie",
+  "p": 113,
+  "c": "Tool"
+ },
+ {
+  "n": "Groepssorteerspel",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nl/group-sort-game/",
+  "s": "Loona Study Tools",
+  "d": "Creëer categorieën en items; leerlingen sorteren elk item in de juiste groep en krijgen een directe score.",
+  "k": "group sort game group sort game creeer categorieen en items leerlingen sorteren elk item in de juiste groep en krijgen een directe score",
+  "p": 114,
+  "c": "Tool"
+ },
+ {
+  "n": "Zinnenontwarspel",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nl/unjumble-game/",
+  "s": "Loona Study Tools",
+  "d": "Zinnen worden woord voor woord geschud — leerlingen tikken de woorden terug in de juiste volgorde.",
+  "k": "unjumble sentences game unjumble game zinnen worden woord voor woord geschud leerlingen tikken de woorden terug in de juiste volgorde",
+  "p": 115,
+  "c": "Tool"
+ },
+ {
+  "n": "Anagramspel",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nl/anagram-game/",
+  "s": "Loona Study Tools",
+  "d": "Woorden worden letter voor letter door elkaar gehusseld; leerlingen ontwarren ze met de aanwijzing die je geeft.",
+  "k": "anagram game anagram game woorden worden letter voor letter door elkaar gehusseld leerlingen ontwarren ze met de aanwijzing die je geeft",
+  "p": 116,
+  "c": "Tool"
+ },
+ {
+  "n": "Spel-het-woord-spel",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nl/spell-the-word/",
+  "s": "Loona Study Tools",
+  "d": "Bouw elk woord door lettertegels op volgorde te tikken — spellingoefening met aanwijzingen en directe controles.",
+  "k": "spell the word game spell the word bouw elk woord door lettertegels op volgorde te tikken spellingoefening met aanwijzingen en directe controles",
+  "p": 117,
+  "c": "Tool"
+ },
+ {
+  "n": "Galgjespel",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nl/hangman-game/",
+  "s": "Loona Study Tools",
+  "d": "Het klassieke letterraadspel met ingebouwde woordenlijsten voor schoolvakken, of je eigen woordenlijst.",
+  "k": "hangman game hangman game het klassieke letterraadspel met ingebouwde woordenlijsten voor schoolvakken of je eigen woordenlijst",
+  "p": 118,
+  "c": "Tool"
+ },
+ {
+  "n": "Kruiswoordgenerator",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nl/crossword-generator/",
+  "s": "Loona Study Tools",
+  "d": "Voer woorden en aanwijzingen in en genereer een echte kruisende kruiswoordpuzzel — printbaar, met een antwoordsleutel.",
+  "k": "crossword generator crossword generator voer woorden en aanwijzingen in en genereer een echte kruisende kruiswoordpuzzel printbaar met een antwoordsleutel",
+  "p": 119,
+  "c": "Tool"
+ },
+ {
+  "n": "Bingokaartgenerator",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nl/bingo-card-generator/",
+  "s": "Loona Study Tools",
+  "d": "Genereer unieke printbare woordenschat-bingokaarten voor de hele klas, plus een geschudde oproeplijst.",
+  "k": "bingo card generator bingo card generator genereer unieke printbare woordenschat bingokaarten voor de hele klas plus een geschudde oproeplijst",
+  "p": 120,
+  "c": "Tool"
+ },
+ {
+  "n": "Diagrammaker met labels",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nl/labelled-diagram-maker/",
+  "s": "Loona Study Tools",
+  "d": "Upload een diagram, prik labels erop, print een gelabelde of lege versie, en doe een labelquiz.",
+  "k": "labelled diagram maker labelled diagram maker upload een diagram prik labels erop print een gelabelde of lege versie en doe een labelquiz",
+  "p": 121,
+  "c": "Tool"
+ },
+ {
+  "n": "Honderdveld",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nl/hundreds-chart/",
+  "s": "Loona Study Tools",
+  "d": "Een interactief, printbaar 1–100 veld met even/oneven- en veelvoudenmarkering, plus een oefenmodus met ontbrekende getallen.",
+  "k": "hundreds chart hundreds chart een interactief printbaar 1 100 veld met even oneven en veelvoudenmarkering plus een oefenmodus met ontbrekende getallen",
+  "p": 122,
+  "c": "Tool"
+ },
+ {
+  "n": "Woordmuurkaarten-generator",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nl/word-wall-cards/",
+  "s": "Loona Study Tools",
+  "d": "Verander woordenlijsten in grote, vette, printbare woordmuurkaarten voor klasdisplays.",
+  "k": "word wall cards generator word wall cards verander woordenlijsten in grote vette printbare woordmuurkaarten voor klasdisplays",
+  "p": 123,
+  "c": "Tool"
+ },
+ {
+  "n": "Sudokugenerator",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nl/sudoku-generator/",
+  "s": "Loona Study Tools",
+  "d": "Genereer printbare Sudoku-puzzels — 4×4, 6×6 en 9×9 — met unieke oplossingen en een aparte oplossingenpagina.",
+  "k": "sudoku generator sudoku generator genereer printbare sudoku puzzels 4 4 6 6 en 9 9 met unieke oplossingen en een aparte oplossingenpagina",
+  "p": 124,
+  "c": "Tool"
+ },
+ {
+  "n": "Doolhofgenerator",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nl/maze-generator/",
+  "s": "Loona Study Tools",
+  "d": "Genereer printbare doolhoven op vier moeilijkheidsniveaus, met een optioneel oplossingspad.",
+  "k": "maze generator maze generator genereer printbare doolhoven op vier moeilijkheidsniveaus met een optioneel oplossingspad",
+  "p": 125,
+  "c": "Tool"
+ },
+ {
+  "n": "Kleuren-op-nummer-generator",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nl/colour-by-number-generator/",
+  "s": "Loona Study Tools",
+  "d": "Genereer een printbaar kleuren-op-nummermozaïek met een kleurensleutel en een gekleurde antwoordafbeelding.",
+  "k": "colour by number generator colour by number generator genereer een printbaar kleuren op nummermozaiek met een kleurensleutel en een gekleurde antwoordafbeelding",
+  "p": 126,
+  "c": "Tool"
+ },
+ {
+  "n": "Printpapiergenerator",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nl/printable-paper-generator/",
+  "s": "Loona Study Tools",
+  "d": "Print grafiekpapier, stippenrasterpapier, isometrisch papier en handschriftpapier op exacte maten.",
+  "k": "printable paper generator printable paper generator print grafiekpapier stippenrasterpapier isometrisch papier en handschriftpapier op exacte maten",
+  "p": 127,
+  "c": "Tool"
+ },
+ {
+  "n": "Spellingwerkbladgenerator",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nl/spelling-worksheet-generator/",
+  "s": "Loona Study Tools",
+  "d": "Van één spellinglijst: een toetsblad, woordscrambles, ontbrekende-letteroefening en ABC-volgorde — met een antwoordsleutel.",
+  "k": "spelling worksheet generator spelling worksheet generator van een spellinglijst een toetsblad woordscrambles ontbrekende letteroefening en abc volgorde met een antwoordsleutel",
+  "p": 128,
+  "c": "Tool"
+ },
+ {
+  "n": "Klastimers & Examentimer",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nl/classroom-timers/",
+  "s": "Loona Study Tools",
+  "d": "Afteltimer met groot scherm en voortgangsring, een examentimer die de eindtijd toont, een visuele balktimer en een stopwatch met ronden.",
+  "k": "classroom timers exam timer classroom timers afteltimer met groot scherm en voortgangsring een examentimer die de eindtijd toont een visuele balktimer en een stopwatch met ronden",
+  "p": 129,
+  "c": "Tool"
+ },
+ {
+  "n": "Klasgroepenmaker",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nl/classroom-group-maker/",
+  "s": "Loona Study Tools",
+  "d": "Bewaar je klassenlijsten en splits ze in eerlijke willekeurige groepen of paren — gebalanceerde groottes, opnieuw schudden met één klik.",
+  "k": "classroom group maker classroom group maker bewaar je klassenlijsten en splits ze in eerlijke willekeurige groepen of paren gebalanceerde groottes opnieuw schudden met een klik",
+  "p": 130,
+  "c": "Tool"
+ },
+ {
+  "n": "Zitplaatsenplanmaker",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nl/seating-chart-maker/",
+  "s": "Loona Study Tools",
+  "d": "Rangschik leerlingen op een bureauraster: klik om te plaatsen, vergrendel favoriete zitplaatsen, schud de rest en print het plan.",
+  "k": "seating chart maker seating chart maker rangschik leerlingen op een bureauraster klik om te plaatsen vergrendel favoriete zitplaatsen schud de rest en print het plan",
+  "p": 131,
+  "c": "Tool"
+ },
+ {
+  "n": "Scorebord voor de klas",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nl/classroom-scoreboard/",
+  "s": "Loona Study Tools",
+  "d": "Een groot, duidelijk teampunten-scorebord voor het klaslokaalscherm — voeg teams toe, tik om punten toe te voegen of te verwijderen.",
+  "k": "classroom scoreboard classroom scoreboard een groot duidelijk teampunten scorebord voor het klaslokaalscherm voeg teams toe tik om punten toe te voegen of te verwijderen",
+  "p": 132,
+  "c": "Tool"
+ },
+ {
+  "n": "Geluidsmeter voor de klas",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nl/noise-meter/",
+  "s": "Loona Study Tools",
+  "d": "Een live relatieve geluidsniveaumeter met je microfoon — groene, oranje en rode zones om klassen te helpen zichzelf te reguleren.",
+  "k": "classroom noise meter noise meter een live relatieve geluidsniveaumeter met je microfoon groene oranje en rode zones om klassen te helpen zichzelf te reguleren",
+  "p": 133,
+  "c": "Tool"
+ },
+ {
+  "n": "Naamkaartjesgenerator",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nl/name-tags-generator/",
+  "s": "Loona Study Tools",
+  "d": "Verander een klassenlijst in printbare naamkaartjes met een ondertitelregel — voor bureaus, uitstapjes en introducties in de eerste week.",
+  "k": "name tags generator name tags generator verander een klassenlijst in printbare naamkaartjes met een ondertitelregel voor bureaus uitstapjes en introducties in de eerste week",
+  "p": 134,
+  "c": "Tool"
+ },
+ {
+  "n": "Bouwer voor visuele planningen",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nl/visual-schedule-builder/",
+  "s": "Loona Study Tools",
+  "d": "Bouw een printbaar visueel dagrooster met tijden, activiteiten en pictogrammen — ideaal voor jongere kinderen.",
+  "k": "visual schedule builder visual schedule builder bouw een printbaar visueel dagrooster met tijden activiteiten en pictogrammen ideaal voor jongere kinderen",
+  "p": 135,
+  "c": "Tool"
+ },
+ {
+  "n": "EZ Grader",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nl/ez-grader/",
+  "s": "Loona Study Tools",
+  "d": "De klassieke beoordelingsschuifschaal van de leraar: voer het totale aantal vragen en het aantal fout in om het percentage en het lettercijfer te krijgen, plus een volledige grafiek.",
+  "k": "ez grader ez grader de klassieke beoordelingsschuifschaal van de leraar voer het totale aantal vragen en het aantal fout in om het percentage en het lettercijfer te krijgen plus een volledige grafiek",
+  "p": 136,
+  "c": "Tool"
+ },
+ {
+  "n": "Toetsbeoordelaar",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nl/test-grader/",
+  "s": "Loona Study Tools",
+  "d": "Plak een antwoordsleutel en de antwoorden van een leerling om een hele toets direct na te kijken, vraag voor vraag.",
+  "k": "test grader test grader plak een antwoordsleutel en de antwoorden van een leerling om een hele toets direct na te kijken vraag voor vraag",
+  "p": 137,
+  "c": "Tool"
+ },
+ {
+  "n": "Gewogen-cijfercalculator",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nl/weighted-grade-calculator/",
+  "s": "Loona Study Tools",
+  "d": "Combineer categoriescores (huiswerk, quizzen, toetsen, eindexamen) op basis van hun syllabusgewichten tot een vakcijfer.",
+  "k": "weighted grade calculator weighted grade calculator combineer categoriescores huiswerk quizzen toetsen eindexamen op basis van hun syllabusgewichten tot een vakcijfer",
+  "p": 138,
+  "c": "Tool"
+ },
+ {
+  "n": "Eindexamencijfercalculator",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nl/final-exam-calculator/",
+  "s": "Loona Study Tools",
+  "d": "Reken precies uit welk cijfer je nodig hebt in het eindexamen om je doelcijfer voor het vak te halen — en of het mogelijk is.",
+  "k": "final exam grade calculator final exam calculator reken precies uit welk cijfer je nodig hebt in het eindexamen om je doelcijfer voor het vak te halen en of het mogelijk is",
+  "p": 139,
+  "c": "Tool"
+ },
+ {
+  "n": "Snelheidstest rekenfeiten",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nl/math-facts-speed-test/",
+  "s": "Loona Study Tools",
+  "d": "Een rekensprint van 60 seconden: zoveel juiste +, −, × en ÷ feiten als je kunt, met nauwkeurigheid en reeksen.",
+  "k": "math facts speed test math facts speed test een rekensprint van 60 seconden zoveel juiste en feiten als je kunt met nauwkeurigheid en reeksen",
+  "p": 140,
+  "c": "Tool"
+ },
+ {
+  "n": "Numeriek-toetsenbloktest (10 toetsen)",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nl/ten-key-test/",
+  "s": "Loona Study Tools",
+  "d": "Gegevensinvoersnelheidstest voor het numerieke toetsenblok: typ getallenreeksen snel en nauwkeurig, gescoord in toetsen per minuut.",
+  "k": "10 key number pad test ten key test gegevensinvoersnelheidstest voor het numerieke toetsenblok typ getallenreeksen snel en nauwkeurig gescoord in toetsen per minuut",
+  "p": 141,
+  "c": "Tool"
+ },
+ {
+  "n": "Code-typetest",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nl/code-typing-test/",
+  "s": "Loona Study Tools",
+  "d": "Typ echte codefragmenten met symbolen en inspringing — meet code-typsnelheid en symboolnauwkeurigheid voor programmeurs.",
+  "k": "code typing test code typing test typ echte codefragmenten met symbolen en inspringing meet code typsnelheid en symboolnauwkeurigheid voor programmeurs",
+  "p": 142,
+  "c": "Tool"
+ },
+ {
+  "n": "Grammaticaquiz",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nl/grammar-quiz/",
+  "s": "Loona Study Tools",
+  "d": "Een Engelse grammaticatoets met 24 vragen — tijden, lidwoorden, voorzetsels, overeenstemming en interpunctie — met directe score en uitleg.",
+  "k": "grammar quiz grammar quiz een engelse grammaticatoets met 24 vragen tijden lidwoorden voorzetsels overeenstemming en interpunctie met directe score en uitleg",
+  "p": 143,
+  "c": "Tool"
+ },
+ {
+  "n": "Woordenschatquiz",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nl/vocabulary-quiz/",
+  "s": "Loona Study Tools",
+  "d": "Twintig vragen over woordbetekenis met elk vier opties — een snelle, eerlijke controle van je Engelse woordenschatniveau.",
+  "k": "vocabulary quiz vocabulary quiz twintig vragen over woordbetekenis met elk vier opties een snelle eerlijke controle van je engelse woordenschatniveau",
+  "p": 144,
+  "c": "Tool"
+ },
+ {
+  "n": "Interactief periodiek systeem",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nl/periodic-table/",
+  "s": "Loona Study Tools",
+  "d": "Alle 118 elementen in een kleur gecodeerde tabel — klik op een element voor zijn naam, atoommassa, groep, periode en categorie.",
+  "k": "interactive periodic table periodic table alle 118 elementen in een kleur gecodeerde tabel klik op een element voor zijn naam atoommassa groep periode en categorie",
+  "p": 145,
+  "c": "Tool"
+ },
+ {
+  "n": "Molaire-massacalculator",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nl/molar-mass-calculator/",
+  "s": "Loona Study Tools",
+  "d": "Typ een chemische formule — haakjes inbegrepen — en krijg zijn molaire massa in g/mol met een uitsplitsing per element.",
+  "k": "molar mass calculator molar mass calculator typ een chemische formule haakjes inbegrepen en krijg zijn molaire massa in g mol met een uitsplitsing per element",
+  "p": 146,
+  "c": "Tool"
+ },
+ {
+  "n": "Chemische vergelijkingen in balans brengen",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nl/chemical-equation-balancer/",
+  "s": "Loona Study Tools",
+  "d": "Voer een ongebalanceerde vergelijking in en krijg gebalanceerde coëfficiënten, atoom voor atoom geverifieerd.",
+  "k": "chemical equation balancer chemical equation balancer voer een ongebalanceerde vergelijking in en krijg gebalanceerde coefficienten atoom voor atoom geverifieerd",
+  "p": 147,
+  "c": "Tool"
+ },
+ {
+  "n": "pH-calculator",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nl/ph-calculator/",
+  "s": "Loona Study Tools",
+  "d": "Zet om tussen pH, pOH, [H+] en [OH-], en bereken de pH van sterke zuur- en sterke base-oplossingen.",
+  "k": "ph calculator ph calculator zet om tussen ph poh h en oh en bereken de ph van sterke zuur en sterke base oplossingen",
+  "p": 148,
+  "c": "Tool"
+ },
+ {
+  "n": "Beoordelingsrubric-maker",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nl/rubric-maker/",
+  "s": "Loona Study Tools",
+  "d": "Bouw een printbare beoordelingsrubric: criteria aan de zijkant, vier prestatieniveaus bovenaan, punten automatisch berekend.",
+  "k": "rubric maker rubric maker bouw een printbare beoordelingsrubric criteria aan de zijkant vier prestatieniveaus bovenaan punten automatisch berekend",
+  "p": 149,
+  "c": "Tool"
+ }
+]

@@ -1,0 +1,29 @@
+{
+  "name": "Loona CGPA naar percentage op de 5.0-schaal",
+  "short_name": "CGPA naar percentage op de 5.0-schaal",
+  "description": "Zet CGPA op de 5.0-schaal om naar percentage (CGPA ÷ 5 × 100) met een volledige tabel, en de pagina's over graadklassen voor Nigeria en Bangladesh, waar banden belangrijker zijn dan percentages.",
+  "id": "/loona-study-tools/nl/cgpa-5-scale-to-percentage/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

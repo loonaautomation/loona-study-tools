@@ -1,0 +1,29 @@
+{
+  "name": "Loona Vermenigvuldigen klas 4",
+  "short_name": "Vermenigvuldigen klas 4",
+  "description": "Gratis oefenen met vermenigvuldigen voor klas 4 — een getal van 2 cijfers vermenigvuldigen met een getal van 1 cijfer. Een uitgewerkt voorbeeld, 6 oefenvragen met een printbare antwoordsleutel, de methode, de veelgemaakte fout en een toptip.",
+  "id": "/loona-study-tools/nl/grade-4-multiplication-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

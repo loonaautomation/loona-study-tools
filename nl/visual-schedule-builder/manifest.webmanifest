@@ -1,0 +1,29 @@
+{
+  "name": "Loona Bouwer voor visuele planningen",
+  "short_name": "Bouwer voor visuele planningen",
+  "description": "Gratis visuele-roostermaker: creëer een printbaar beeldrooster van de schooldag met tijden, pictogrammen en activiteiten — ideaal voor jonge kinderen en SEN-ondersteuning.",
+  "id": "/loona-study-tools/nl/visual-schedule-builder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
