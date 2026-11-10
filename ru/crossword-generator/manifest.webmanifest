@@ -1,0 +1,29 @@
+{
+  "name": "Loona Генератор кроссвордов",
+  "short_name": "Генератор кроссвордов",
+  "description": "Бесплатный генератор кроссвордов: введите слова и подсказки и получите настоящий пересекающийся кроссворд для печати с пронумерованными подсказками и отдельным ключом ответов.",
+  "id": "/loona-study-tools/ru/crossword-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

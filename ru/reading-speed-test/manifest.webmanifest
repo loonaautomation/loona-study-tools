@@ -1,0 +1,29 @@
+{
+  "name": "Loona Тест скорости чтения",
+  "short_name": "Тест скорости чтения",
+  "description": "Бесплатный тест скорости чтения: прочитайте отрывок на время (3 варианта, 400-600 слов), ответьте на вопросы на понимание и получите скорость чтения в PPM, а также честное руководство по хорошей скорости чтения по возрастам.",
+  "id": "/loona-study-tools/ru/reading-speed-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

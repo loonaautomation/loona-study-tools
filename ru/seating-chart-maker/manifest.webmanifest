@@ -1,0 +1,29 @@
+{
+  "name": "Loona Конструктор рассадки",
+  "short_name": "Конструктор рассадки",
+  "description": "Бесплатный конструктор рассадки: создайте сетку столов, нажимайте, чтобы разместить учащихся, блокируйте места, которые не должны двигаться, перемешивайте всех остальных и печатайте план.",
+  "id": "/loona-study-tools/ru/seating-chart-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

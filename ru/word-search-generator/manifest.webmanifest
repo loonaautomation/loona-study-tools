@@ -1,0 +1,29 @@
+{
+  "name": "Loona Генератор поиска слов",
+  "short_name": "Генератор поиска слов",
+  "description": "Бесплатный генератор поиска слов: превратите свой список слов в печатный поиск слов в 8 направлениях, с отдельным выделенным ключом ответов. Идеально для практики лексики.",
+  "id": "/loona-study-tools/ru/word-search-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Темы по английскому языку — 4 класс",
+  "short_name": "Темы по английскому языку — 4 класс",
+  "description": "Темы по английскому языку для 4 класса в порядке преподавания — Местоимения, наречия и предлоги, Неправильные глаголы в прошедшем времени, Пунктуация прямой речи и другое — с бесплатными учебными инструментами по каждой теме.",
+  "id": "/loona-study-tools/ru/grade-4-english-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

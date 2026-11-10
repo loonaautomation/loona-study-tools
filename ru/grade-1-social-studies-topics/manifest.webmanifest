@@ -1,0 +1,29 @@
+{
+  "name": "Loona Темы по обществознанию — 1 класс",
+  "short_name": "Темы по обществознанию — 1 класс",
+  "description": "Темы по обществознанию для 1 класса в порядке преподавания — Наш район, Люди, которые нам помогают, Транспорт и другое — с бесплатными учебными инструментами по каждой теме.",
+  "id": "/loona-study-tools/ru/grade-1-social-studies-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Тест скорости математических фактов",
+  "short_name": "Тест скорости математических фактов",
+  "description": "Бесплатный тест скорости математических фактов: спринт на 60 секунд с фактами на сложение, вычитание, умножение и деление, с мгновенной проверкой, точностью и отслеживанием серий.",
+  "id": "/loona-study-tools/ru/math-facts-speed-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

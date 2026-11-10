@@ -1,0 +1,29 @@
+{
+  "name": "Loona Тест «10 клавиш»",
+  "short_name": "Тест «10 клавиш»",
+  "description": "Бесплатный тест цифровой клавиатуры из 10 клавиш: вводите последовательности цифр как можно быстрее и точнее; оценка в клавишах в минуту с точностью: тест навыков ввода данных.",
+  "id": "/loona-study-tools/ru/ten-key-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Планировщик обратного отсчёта до экзаменов",
+  "short_name": "Планировщик обратного отсчёта до экзаменов",
+  "description": "Бесплатный планировщик обратного отсчёта до экзаменов: введите дату экзамена, предметы и ежедневные занятия, чтобы получить план повторения по дням, который справедливо распределяет предметы по весу сложности до дня экзамена.",
+  "id": "/loona-study-tools/ru/exam-countdown-planner/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

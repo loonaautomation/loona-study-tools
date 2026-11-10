@@ -1,0 +1,29 @@
+{
+  "name": "Loona Темы по обществознанию — 6 класс",
+  "short_name": "Темы по обществознанию — 6 класс",
+  "description": "Темы по обществознанию для 6 класса в порядке преподавания — Физическая география, Древние цивилизации, Мусульманский мир и другое — с бесплатными учебными инструментами по каждой теме.",
+  "id": "/loona-study-tools/ru/grade-6-social-studies-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

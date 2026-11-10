@@ -1,0 +1,29 @@
+{
+  "name": "Loona Таблица сотен",
+  "short_name": "Таблица сотен",
+  "description": "Бесплатная таблица сотен: печатная и интерактивная таблица от 1 до 100 с выделением чётных/нечётных чисел и кратных, а также режим практики с пропущенными числами для развития чувства числа.",
+  "id": "/loona-study-tools/ru/hundreds-chart/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

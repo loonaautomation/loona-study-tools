@@ -1,0 +1,29 @@
+{
+  "name": "Loona Темы по естествознанию — 1 класс",
+  "short_name": "Темы по естествознанию — 1 класс",
+  "description": "Темы по естествознанию для 1 класса в порядке преподавания — Растения, Животные, Тело человека и другое — с бесплатными учебными инструментами по каждой теме.",
+  "id": "/loona-study-tools/ru/grade-1-science-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

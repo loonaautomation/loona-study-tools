@@ -1,0 +1,29 @@
+{
+  "name": "Loona Практика с деньгами — 1 класс",
+  "short_name": "Практика с деньгами — 1 класс",
+  "description": "Бесплатная практика по деньгам для 1 класса — монеты и банкноты: подсчёт денег до Rs 100. Один решённый пример, 6 практических вопросов с печатным ключом ответов, метод, самая распространённая ошибка и главный совет.",
+  "id": "/loona-study-tools/ru/grade-1-money-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

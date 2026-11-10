@@ -1,0 +1,29 @@
+{
+  "name": "Loona Генератор практики письма от руки",
+  "short_name": "Генератор практики письма от руки",
+  "description": "Бесплатный генератор практики письма от руки: печатные листы для обведения алфавита, заглавных и строчных букв, чисел и ваших собственных слов или фраз, с направляющими из четырёх линий.",
+  "id": "/loona-study-tools/ru/handwriting-practice-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

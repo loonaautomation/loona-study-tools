@@ -1,0 +1,29 @@
+{
+  "name": "Loona Табло для класса",
+  "short_name": "Табло для класса",
+  "description": "Бесплатное табло для класса: большие цветные карточки с очками команд для экрана класса, +1/+5/-1 одним касанием, сохраняется в браузере между занятиями.",
+  "id": "/loona-study-tools/ru/classroom-scoreboard/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

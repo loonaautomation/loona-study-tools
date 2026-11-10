@@ -1,0 +1,29 @@
+{
+  "name": "Loona Игра «Собери предложение»",
+  "short_name": "Игра «Собери предложение»",
+  "description": "Бесплатная игра на составление предложений: предложения перемешиваются слово за словом, и учащиеся нажимают на слова, чтобы вернуть их в правильный порядок, с мгновенной проверкой и итоговым счётом.",
+  "id": "/loona-study-tools/ru/unjumble-game/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

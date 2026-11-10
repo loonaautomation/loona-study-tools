@@ -1,0 +1,29 @@
+{
+  "name": "Loona Измеритель шума в классе",
+  "short_name": "Измеритель шума в классе",
+  "description": "Бесплатный измеритель шума в классе: полоса уровня микрофона в реальном времени с зелёной/янтарной/красной зонами и счётчиком серий тишины. Отображение относительного уровня (не децибелы), анализ на устройстве, никогда не записывается.",
+  "id": "/loona-study-tools/ru/noise-meter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

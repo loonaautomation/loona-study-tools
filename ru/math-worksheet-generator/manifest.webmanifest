@@ -1,0 +1,29 @@
+{
+  "name": "Loona Генератор математических рабочих листов",
+  "short_name": "Генератор математических рабочих листов",
+  "description": "Бесплатный генератор математических рабочих листов: листы на сложение, вычитание, умножение, деление, дроби, десятичные дроби и деление в столбик с диапазоном чисел, вариантами перехода через разряд и печатным ключом ответов.",
+  "id": "/loona-study-tools/ru/math-worksheet-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

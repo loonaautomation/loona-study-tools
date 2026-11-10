@@ -1,0 +1,29 @@
+{
+  "name": "Loona Генератор рабочих листов по правописанию",
+  "short_name": "Генератор рабочих листов по правописанию",
+  "description": "Бесплатный генератор рабочих листов по правописанию: из списка слов получите практику перемешивания, листы с пропущенными гласными, практику порядка ABC и лист теста на правописание, с ключом ответов.",
+  "id": "/loona-study-tools/ru/spelling-worksheet-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

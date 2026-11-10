@@ -1,0 +1,29 @@
+{
+  "name": "Loona Практика по классам и темам",
+  "short_name": "Практика по классам и темам",
+  "description": "Указатель всех страниц практики по классам и темам (от дошкольного уровня до 8 класса), руководств по предметам, руководств по экзаменам советов Пакистана для 9–12 классов и конвертеров CGPA в Loona Study Tools.",
+  "id": "/loona-study-tools/ru/grade-topic-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

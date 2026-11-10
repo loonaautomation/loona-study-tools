@@ -1,0 +1,29 @@
+{
+  "name": "Loona Руководство для 10 класса BISE Hyderabad",
+  "short_name": "Руководство для 10 класса BISE Hyderabad",
+  "description": "BISE Hyderabad, 10 класс: предметы и потоки, как устроены экзамены совета и бесплатный план подготовки с учебными инструментами. Проверяйте форматы на официальном сайте совета.",
+  "id": "/loona-study-tools/ru/bise-hyderabad-class-10-guide/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

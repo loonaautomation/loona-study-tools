@@ -1,0 +1,29 @@
+{
+  "name": "Loona Классификация дипломов Великобритании",
+  "short_name": "Классификация дипломов Великобритании",
+  "description": "Что означает британский First, 2:1, 2:2 или Third в процентах и в приблизительных терминах GPA США — с честной заметкой о том, что официальной конверсии из Великобритании в GPA не существует.",
+  "id": "/loona-study-tools/ru/uk-degree-classification-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

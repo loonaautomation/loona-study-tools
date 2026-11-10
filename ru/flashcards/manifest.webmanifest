@@ -1,0 +1,29 @@
+{
+  "name": "Loona Конструктор флеш-карт",
+  "short_name": "Конструктор флеш-карт",
+  "description": "Бесплатный конструктор флеш-карт: создавайте наборы, учитесь с переворачивающимися картами, перемешивайте и отслеживайте, что вы знаете и чего не знаете. Импорт/экспорт CSV &amp; JSON, печать карт. Без регистрации, сохранение на вашем устройстве.",
+  "id": "/loona-study-tools/ru/flashcards/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

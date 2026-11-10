@@ -1,0 +1,29 @@
+{
+  "name": "Loona Калькулятор оценки итогового экзамена",
+  "short_name": "Калькулятор оценки итогового экзамена",
+  "description": "Бесплатный калькулятор итогового экзамена: введите текущую оценку, вес итогового экзамена и цель, чтобы точно увидеть, какой балл нужен на итоговом экзамене и достижим ли он ещё.",
+  "id": "/loona-study-tools/ru/final-exam-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

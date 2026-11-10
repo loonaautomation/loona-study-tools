@@ -1,0 +1,29 @@
+{
+  "name": "Loona Тест на правописание",
+  "short_name": "Тест на правописание",
+  "description": "Бесплатный тест на правописание: браузер читает каждое слово вслух, вы пишете правописание и получаете мгновенную оценку с разбором слов с ошибками. Встроенные списки по возрастам и ваши собственные списки слов.",
+  "id": "/loona-study-tools/ru/spelling-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

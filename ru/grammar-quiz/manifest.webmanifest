@@ -1,0 +1,29 @@
+{
+  "name": "Loona Викторина по грамматике",
+  "short_name": "Викторина по грамматике",
+  "description": "Бесплатная викторина по английской грамматике: 24 вопроса о временах глаголов, артиклях, предлогах, согласовании, условных предложениях и пунктуации, с мгновенной оценкой и объяснением каждого ответа.",
+  "id": "/loona-study-tools/ru/grammar-quiz/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

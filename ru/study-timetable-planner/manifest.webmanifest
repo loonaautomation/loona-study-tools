@@ -1,0 +1,29 @@
+{
+  "name": "Loona Планировщик расписания занятий",
+  "short_name": "Планировщик расписания занятий",
+  "description": "Бесплатный планировщик расписания занятий: введите предметы, часы в день и дату экзамена, чтобы создать сбалансированное недельное расписание занятий, которое можно редактировать и печатать, со справедливой ротацией предметов.",
+  "id": "/loona-study-tools/ru/study-timetable-planner/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
