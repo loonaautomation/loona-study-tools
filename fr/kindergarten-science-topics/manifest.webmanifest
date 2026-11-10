@@ -1,0 +1,29 @@
+{
+  "name": "Loona Maternelle Sujets de sciences et Étude",
+  "short_name": "Sujets de sciences — maternelle",
+  "description": "Les sujets de sciences pour la maternelle dans l’ordre d’enseignement — Living et non-living choses autour us, Parties du corps et le cinq senses, Plantes nous voir et bien plus — avec des outils d’étude gratuits pour chaque sujet.",
+  "id": "/loona-study-tools/fr/kindergarten-science-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

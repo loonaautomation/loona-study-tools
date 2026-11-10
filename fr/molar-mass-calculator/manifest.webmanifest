@@ -1,0 +1,29 @@
+{
+  "name": "Loona Calculateur de masse molaire",
+  "short_name": "Calculateur de masse molaire",
+  "description": "Calculateur de masse molaire gratuit : tapez n’importe quelle formule chimique avec parenthèses — Ca(OH)2, Al2(SO4)3 — et obtenez la masse molaire en g/mol avec un tableau de détail par élément.",
+  "id": "/loona-study-tools/fr/molar-mass-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Sujets d’ourdou — 1re année et guide d’étude",
+  "short_name": "1re année Sujets d’ourdou et Étude",
+  "description": "Les sujets d’ourdou pour la 1re année dans l’ordre d’enseignement — Assembler lettres à créer mots, Lecture deux- et trois-lettre mots, Alif madd, wao et ye sons et bien plus — avec des outils d’étude gratuits pour chaque sujet.",
+  "id": "/loona-study-tools/fr/grade-1-urdu-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

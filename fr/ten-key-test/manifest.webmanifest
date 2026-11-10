@@ -1,0 +1,29 @@
+{
+  "name": "Loona Test du pavé numérique à 10 touches",
+  "short_name": "Test à 10 touches",
+  "description": "Test gratuit de pavé numérique à 10 touches : tapez des suites de chiffres aussi vite et aussi précisément que possible ; score en frappes par minute avec précision — le test de compétence en saisie de données.",
+  "id": "/loona-study-tools/fr/ten-key-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

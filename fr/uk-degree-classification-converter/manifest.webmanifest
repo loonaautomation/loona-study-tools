@@ -1,0 +1,29 @@
+{
+  "name": "Loona Convertisseur de classification des diplômes britanniques",
+  "short_name": "Classification des diplômes britanniques",
+  "description": "Ce que signifient un First, un 2:1, un 2:2 ou un Third britanniques en pourcentage et en GPA américain approximatif — avec la note honnête qu’aucune conversion officielle du Royaume-Uni vers le GPA n’existe.",
+  "id": "/loona-study-tools/fr/uk-degree-classification-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

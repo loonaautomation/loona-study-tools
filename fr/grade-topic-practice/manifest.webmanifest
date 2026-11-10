@@ -1,0 +1,29 @@
+{
+  "name": "Loona Entraînement par niveau et par sujet",
+  "short_name": "Entraînement par niveau et par sujet",
+  "description": "Un index pour toutes les pages d’entraînement par niveau et par sujet (de la maternelle à la 8e année), les guides par matière, les guides d’examen des conseils du Pakistan pour les 9e à 12e années et les convertisseurs de CGPA sur Loona Study Tools.",
+  "id": "/loona-study-tools/fr/grade-topic-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Tableau des scores de la classe",
+  "short_name": "Tableau des scores de la classe",
+  "description": "Tableau des scores de classe gratuit : de grandes cartes de points colorées pour l’écran de la classe, +1/+5/-1 en un toucher, enregistrées dans votre navigateur entre les leçons.",
+  "id": "/loona-study-tools/fr/classroom-scoreboard/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

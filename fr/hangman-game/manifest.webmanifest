@@ -1,0 +1,29 @@
+{
+  "name": "Loona Jeu du pendu",
+  "short_name": "Jeu du pendu",
+  "description": "Jeu du pendu gratuit avec des listes de mots scolaires intégrées (animaux, sciences, géographie, école) ou vos propres mots. Six essais incorrects, clavier à l’écran, amusement sans impression.",
+  "id": "/loona-study-tools/fr/hangman-game/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

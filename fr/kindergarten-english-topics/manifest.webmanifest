@@ -1,0 +1,29 @@
+{
+  "name": "Loona Maternelle Sujets d’anglais et Étude",
+  "short_name": "Sujets d’anglais — maternelle",
+  "description": "Les sujets d’anglais pour la maternelle dans l’ordre d’enseignement — Lettre noms et sons (Un–Z), Traçage et écriture lettres, Rhyming mots et comptines et bien plus — avec des outils d’étude gratuits pour chaque sujet.",
+  "id": "/loona-study-tools/fr/kindergarten-english-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

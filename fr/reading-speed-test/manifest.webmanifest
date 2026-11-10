@@ -1,0 +1,29 @@
+{
+  "name": "Loona Test de vitesse de lecture",
+  "short_name": "Test de vitesse de lecture",
+  "description": "Test de vitesse de lecture gratuit : lisez un passage chronométré (3 choix, 400-600 mots), répondez à des questions de compréhension et obtenez votre vitesse de lecture en MPM, plus un guide honnête des bonnes vitesses de lecture par âge.",
+  "id": "/loona-study-tools/fr/reading-speed-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

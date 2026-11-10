@@ -1,0 +1,29 @@
+{
+  "name": "Loona Guide BISE Hyderabad — 10e année",
+  "short_name": "Guide BISE Hyderabad — 10e année",
+  "description": "BISE Hyderabad — 10e année : matières et filières, comment les épreuves du conseil sont structurées, et un plan de préparation gratuit avec des outils d’étude. Vérifiez les structures sur le site officiel du conseil.",
+  "id": "/loona-study-tools/fr/bise-hyderabad-class-10-guide/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

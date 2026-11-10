@@ -1,0 +1,29 @@
+{
+  "name": "Loona Convertisseur de notes littérales en GPA",
+  "short_name": "Convertisseur de notes littérales en GPA",
+  "description": "Quel GPA vaut un A, un B+ ou un C− ? Le tableau complet de conversion des notes littérales en points GPA sur l’échelle 4.0, avec les intervalles de pourcentage et un convertisseur en un clic.",
+  "id": "/loona-study-tools/fr/letter-grade-to-gpa/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

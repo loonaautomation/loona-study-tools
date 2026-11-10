@@ -1,0 +1,29 @@
+{
+  "name": "Loona Minuteurs de classe",
+  "short_name": "Minuteurs de classe",
+  "description": "Minuteurs de classe gratuits : un compte à rebours grand format avec anneau de progression et barre visuelle qui rétrécit, un minuteur d’examen affichant l’heure de fin et le temps restant, et un chronomètre avec temps intermédiaires.",
+  "id": "/loona-study-tools/fr/classroom-timers/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

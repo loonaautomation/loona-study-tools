@@ -1,0 +1,29 @@
+{
+  "name": "Loona Générateur de fiches de mathématiques",
+  "short_name": "Générateur de fiches de mathématiques",
+  "description": "Générateur de fiches de mathématiques gratuit : fiches d’addition, de soustraction, de multiplication, de division, de fractions, de nombres décimaux et de division posée avec intervalle de nombres, options de regroupement et corrigé imprimable.",
+  "id": "/loona-study-tools/fr/math-worksheet-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

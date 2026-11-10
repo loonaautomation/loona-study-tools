@@ -1,0 +1,29 @@
+{
+  "name": "Loona Test de rapidité en calcul mental",
+  "short_name": "Test de rapidité en calcul mental",
+  "description": "Test de rapidité en calcul mental gratuit : un sprint de 60 secondes de calculs d’addition, de soustraction, de multiplication et de division avec vérification instantanée, précision et suivi des séries.",
+  "id": "/loona-study-tools/fr/math-facts-speed-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Créateur de quiz",
+  "short_name": "Créateur de quiz",
+  "description": "Créateur de quiz gratuit pour les enseignants : questions à choix multiple, vrai/faux et à réponse courte, mode tentative avec score instantané et révision, quiz imprimable + corrigé séparé, export/import JSON.",
+  "id": "/loona-study-tools/fr/quiz-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

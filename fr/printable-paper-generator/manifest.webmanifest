@@ -1,0 +1,29 @@
+{
+  "name": "Loona Générateur de papier imprimable",
+  "short_name": "Générateur de papier imprimable",
+  "description": "Générateur de papier imprimable gratuit : papier quadrillé, grille de points, papier isométrique, papier d’écriture à 3 lignes et lignes larges à un espacement exact de 8/10/14 mm. Imprimez à 100 % pour la taille réelle.",
+  "id": "/loona-study-tools/fr/printable-paper-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

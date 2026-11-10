@@ -1,0 +1,29 @@
+{
+  "name": "Loona Sonomètre de classe",
+  "short_name": "Sonomètre de classe",
+  "description": "Sonomètre de classe gratuit : une barre de niveau du microphone en direct avec des zones verte/orange/rouge et un compteur de séries de calme. Affichage du niveau relatif (pas en décibels), analysé sur l’appareil, jamais enregistré.",
+  "id": "/loona-study-tools/fr/noise-meter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

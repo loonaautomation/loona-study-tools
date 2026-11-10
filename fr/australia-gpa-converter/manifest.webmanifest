@@ -1,0 +1,29 @@
+{
+  "name": "Loona Convertisseur de GPA — Australie",
+  "short_name": "Convertisseur de GPA — Australie",
+  "description": "Convertissez les notes universitaires australiennes sur l’échelle de 7 points (HD = 7) en pourcentages et en GPA approximatif sur l’échelle 4.0, avec le tableau des notes standard.",
+  "id": "/loona-study-tools/fr/australia-gpa-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

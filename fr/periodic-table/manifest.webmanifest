@@ -1,0 +1,29 @@
+{
+  "name": "Loona Tableau périodique interactif",
+  "short_name": "Tableau périodique interactif",
+  "description": "Tableau périodique interactif gratuit : les 118 éléments codés par couleur selon leur catégorie. Cliquez sur un élément pour voir son numéro atomique, sa masse, son groupe, sa période et sa catégorie.",
+  "id": "/loona-study-tools/fr/periodic-table/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

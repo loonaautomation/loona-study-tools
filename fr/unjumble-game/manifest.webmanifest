@@ -1,0 +1,29 @@
+{
+  "name": "Loona Jeu de phrases à remettre en ordre",
+  "short_name": "Jeu de phrases à remettre en ordre",
+  "description": "Jeu gratuit de phrases à remettre en ordre : les phrases sont mélangées mot par mot et les élèves touchent les mots pour les remettre dans le bon ordre, avec des vérifications instantanées et un score final.",
+  "id": "/loona-study-tools/fr/unjumble-game/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

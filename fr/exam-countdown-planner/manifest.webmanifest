@@ -1,0 +1,29 @@
+{
+  "name": "Loona Planificateur de compte à rebours d’examen",
+  "short_name": "Planificateur de compte à rebours d’examen",
+  "description": "Planificateur de compte à rebours d’examen gratuit : saisissez la date de votre examen, vos matières et vos séances quotidiennes pour obtenir un plan de révision jour par jour qui répartit les matières équitablement selon leur poids de difficulté jusqu’au jour de l’examen.",
+  "id": "/loona-study-tools/fr/exam-countdown-planner/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Générateur d’exercices d’écriture",
+  "short_name": "Générateur d’exercices d’écriture",
+  "description": "Générateur d’exercices d’écriture gratuit : des fiches de traçage imprimables pour l’alphabet, les majuscules, les minuscules, les nombres et vos propres mots ou phrases, avec des lignes guides à quatre lignes.",
+  "id": "/loona-study-tools/fr/handwriting-practice-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

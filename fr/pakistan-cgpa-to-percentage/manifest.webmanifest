@@ -1,0 +1,29 @@
+{
+  "name": "Loona CGPA en pourcentage — Pakistan",
+  "short_name": "CGPA en pourcentage — Pakistan",
+  "description": "Le tableau des notes du système semestriel de la HEC utilisé par les universités pakistanaises : notes littérales, points GPA et intervalles de pourcentage, avec un convertisseur pour l’échelle 4.0.",
+  "id": "/loona-study-tools/fr/pakistan-cgpa-to-percentage/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

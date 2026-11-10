@@ -1,0 +1,29 @@
+{
+  "name": "Loona Créateur de grilles d’évaluation",
+  "short_name": "Créateur de grilles d’évaluation",
+  "description": "Créateur de grilles d’évaluation gratuit : ajoutez des critères et des points maximum, décrivez quatre niveaux de performance et obtenez une grille imprimable avec les points par niveau calculés automatiquement.",
+  "id": "/loona-study-tools/fr/rubric-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

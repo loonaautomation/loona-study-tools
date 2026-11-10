@@ -1,0 +1,29 @@
+{
+  "name": "Loona Sujets d’anglais — 6e année et guide d’étude",
+  "short_name": "Sujets d’anglais — 6e année et",
+  "description": "Les sujets d’anglais pour la 6e année dans l’ordre d’enseignement — Active et passive voix, Reported speech, Complex phrases et conjunctions et bien plus — avec des outils d’étude gratuits pour chaque sujet.",
+  "id": "/loona-study-tools/fr/grade-6-english-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

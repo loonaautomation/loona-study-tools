@@ -1,0 +1,29 @@
+{
+  "name": "Loona Entraînement aux tables de multiplication",
+  "short_name": "Entraînement aux tables de multiplication",
+  "description": "Entraînement gratuit aux tables de multiplication : choisissez les tables de 2 à 12, entraînez-vous avec des manches chronométrées, une vérification instantanée et la révision des tables faibles, plus une table de multiplication 12x12 imprimable.",
+  "id": "/loona-study-tools/fr/multiplication-tables-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Quiz de grammaire",
+  "short_name": "Quiz de grammaire",
+  "description": "Quiz de grammaire anglaise gratuit : 24 questions sur les temps, les articles, les prépositions, l’accord, les conditionnels et la ponctuation, avec un score instantané et une explication pour chaque réponse.",
+  "id": "/loona-study-tools/fr/grammar-quiz/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
