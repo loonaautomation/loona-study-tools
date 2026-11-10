@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ersteller für beschriftete Diagramme",
+  "short_name": "Ersteller für beschriftete Diagramme",
+  "description": "Kostenloser Ersteller für beschriftete Diagramme: ein Diagramm hochladen, klicken, um nummerierte Beschriftungen zu setzen, beschriftete oder leere Versionen ausdrucken und die Schüler zu den Beschriftungen abfragen. Das Bild verlässt das Gerät nie.",
+  "id": "/loona-study-tools/de/labelled-diagram-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

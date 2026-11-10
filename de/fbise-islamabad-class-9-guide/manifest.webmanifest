@@ -1,0 +1,29 @@
+{
+  "name": "Loona FBISE Islamabad: Leitfaden für Klasse 9",
+  "short_name": "FBISE Islamabad: Leitfaden für Klasse 9",
+  "description": "FBISE Islamabad, Klasse 9: Fächer und Zweige, wie die Prüfungen des Amts aufgebaut sind, und ein kostenloser Vorbereitungsplan mit Lernwerkzeugen. Die Muster auf der offiziellen Website des Amts prüfen.",
+  "id": "/loona-study-tools/de/fbise-islamabad-class-9-guide/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

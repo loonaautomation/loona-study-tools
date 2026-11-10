@@ -1,0 +1,29 @@
+{
+  "name": "Loona Labyrinth-Generator",
+  "short_name": "Labyrinth-Generator",
+  "description": "Kostenloser Labyrinth-Generator: ausdruckbare Labyrinthe in vier Schwierigkeitsstufen (8x8 bis 26x26), jedes Mal frisch generiert, mit einem optionalen roten Lösungsweg zum Prüfen.",
+  "id": "/loona-study-tools/de/maze-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

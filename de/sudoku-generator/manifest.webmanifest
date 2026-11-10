@@ -1,0 +1,29 @@
+{
+  "name": "Loona Sudoku-Generator",
+  "short_name": "Sudoku-Generator",
+  "description": "Kostenloser Sudoku-Generator: ausdruckbare Sudoku-Rätsel in 4x4, 6x6 und 9x9 in drei Schwierigkeiten, jedes Rätsel mit genau einer Lösung verifiziert, mit einer separaten Lösungsseite.",
+  "id": "/loona-study-tools/de/sudoku-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

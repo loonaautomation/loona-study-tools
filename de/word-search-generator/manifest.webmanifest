@@ -1,0 +1,29 @@
+{
+  "name": "Loona Wortsuchrätsel-Generator",
+  "short_name": "Wortsuchrätsel-Generator",
+  "description": "Kostenloser Wortsuchrätsel-Generator: Die eigene Wortliste in ein ausdruckbares Wortsuchrätsel in 8 Richtungen verwandeln, mit einem separaten, hervorgehobenen Lösungsschlüssel. Perfekt für Vokabelübung.",
+  "id": "/loona-study-tools/de/word-search-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

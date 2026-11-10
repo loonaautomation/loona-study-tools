@@ -1,0 +1,29 @@
+{
+  "name": "Loona Rechner für gewichtete Noten",
+  "short_name": "Rechner für gewichtete Noten",
+  "description": "Kostenloser Rechner für gewichtete Noten: Kategoriegewichtungen und Ergebnisse eingeben (Hausaufgaben, Quizze, Tests, Abschlussprüfung), um den Gesamtprozentsatz des Kurses und die Buchstabennote zu erhalten. Die Gewichtungen werden automatisch normalisiert.",
+  "id": "/loona-study-tools/de/weighted-grade-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

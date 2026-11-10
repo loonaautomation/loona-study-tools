@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kindergarten: Englisch-Themen und Lernleitfaden",
+  "short_name": "Kindergarten: Englisch-Themen und Lernleitfaden",
+  "description": "Die Englischthemen für den Kindergarten in Unterrichtsreihenfolge — Buchstabennamen und -laute (A–Z), Buchstaben nachspuren und schreiben, Reimwörter und Kinderreime und mehr — mit kostenlosen Lernwerkzeugen für jedes Thema.",
+  "id": "/loona-study-tools/de/kindergarten-english-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

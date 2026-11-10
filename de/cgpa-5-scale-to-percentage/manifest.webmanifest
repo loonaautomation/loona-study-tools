@@ -1,0 +1,29 @@
+{
+  "name": "Loona CGPA in Prozent auf der 5.0-Skala",
+  "short_name": "CGPA in Prozent auf der 5.0-Skala",
+  "description": "CGPA der 5.0-Skala in Prozent umrechnen (CGPA ÷ 5 × 100), mit einer vollständigen Tabelle und den Klassenband-Seiten für Nigeria und Bangladesch, wo Bänder mehr zählen als Prozente.",
+  "id": "/loona-study-tools/de/cgpa-5-scale-to-percentage/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

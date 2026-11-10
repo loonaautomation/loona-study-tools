@@ -1,0 +1,29 @@
+{
+  "name": "Loona Prüfungs-Countdown-Planer",
+  "short_name": "Prüfungs-Countdown-Planer",
+  "description": "Kostenloser Prüfungs-Countdown-Planer: Prüfungsdatum, Fächer und tägliche Einheiten eingeben und einen Wiederholungsplan Tag für Tag erhalten, der die Fächer nach Schwierigkeitsgewichtung fair bis zum Prüfungstag verteilt.",
+  "id": "/loona-study-tools/de/exam-countdown-planner/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Generator für Druckpapier",
+  "short_name": "Generator für Druckpapier",
+  "description": "Kostenloser Generator für Druckpapier: Karopapier, Punkteraster, isometrisches Papier, Schreibpapier mit 3 Linien und breit linierte Zeilen im exakten Abstand von 8/10/14mm. Für die echte Größe mit 100% drucken.",
+  "id": "/loona-study-tools/de/printable-paper-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

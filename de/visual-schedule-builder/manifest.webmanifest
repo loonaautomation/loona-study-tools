@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ersteller für visuelle Tagespläne",
+  "short_name": "Ersteller für visuelle Tagespläne",
+  "description": "Kostenloser Ersteller für visuelle Tagespläne: Einen ausdruckbaren Bildplan des Schultags mit Zeiten, Symbolen und Aktivitäten erstellen — ideal für junge Kinder und Förderunterstützung.",
+  "id": "/loona-study-tools/de/visual-schedule-builder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

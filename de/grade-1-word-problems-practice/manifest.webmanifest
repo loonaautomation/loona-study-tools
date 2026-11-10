@@ -1,0 +1,29 @@
+{
+  "name": "Loona Klasse 1: Textaufgaben üben",
+  "short_name": "Klasse 1: Textaufgaben üben",
+  "description": "Kostenloses Üben für Klasse 1: Textaufgaben — Einschrittige Textaufgaben zu Addition und Subtraktion. Ein ausgearbeitetes Beispiel, 6 Übungsfragen mit ausdruckbarem Lösungsschlüssel, die Methode, der häufige Fehler und ein Top-Tipp.",
+  "id": "/loona-study-tools/de/grade-1-word-problems-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

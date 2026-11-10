@@ -1,0 +1,29 @@
+{
+  "name": "Loona Sitzplan-Ersteller",
+  "short_name": "Sitzplan-Ersteller",
+  "description": "Kostenloser Sitzplan-Ersteller: Ein Tischraster bauen, klicken, um Schüler zu platzieren, Plätze sperren, die sich nicht bewegen dürfen, alle anderen mischen und den Plan ausdrucken.",
+  "id": "/loona-study-tools/de/seating-chart-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

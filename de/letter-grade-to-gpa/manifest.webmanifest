@@ -1,0 +1,29 @@
+{
+  "name": "Loona Umrechner: Buchstabennoten in GPA",
+  "short_name": "Umrechner: Buchstabennoten in GPA",
+  "description": "Welcher GPA ist ein A, ein B+ oder ein C−? Die vollständige Tabelle von Buchstabennoten zu GPA-Punkten auf der 4.0-Skala, mit Prozentbändern und einem Ein-Klick-Umrechner.",
+  "id": "/loona-study-tools/de/letter-grade-to-gpa/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

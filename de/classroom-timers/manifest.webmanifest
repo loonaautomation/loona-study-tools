@@ -1,0 +1,29 @@
+{
+  "name": "Loona Klassen-Timer",
+  "short_name": "Klassen-Timer",
+  "description": "Kostenlose Klassen-Timer: ein Countdown mit großer Anzeige, Fortschrittsring und schrumpfendem visuellem Balken, ein Prüfungstimer mit Endzeit und verbleibender Zeit und eine Stoppuhr mit Rundenzeiten.",
+  "id": "/loona-study-tools/de/classroom-timers/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

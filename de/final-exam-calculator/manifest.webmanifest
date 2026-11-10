@@ -1,0 +1,29 @@
+{
+  "name": "Loona Rechner für die Note der Abschlussprüfung",
+  "short_name": "Rechner für die Note der Abschlussprüfung",
+  "description": "Kostenloser Abschlussprüfungs-Rechner: Aktuelle Note, Gewichtung der Abschlussprüfung und Ziel eingeben, um genau zu sehen, welche Punktzahl in der Abschlussprüfung nötig ist — und ob sie noch möglich ist.",
+  "id": "/loona-study-tools/de/final-exam-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

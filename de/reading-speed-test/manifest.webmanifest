@@ -1,0 +1,29 @@
+{
+  "name": "Loona Lesegeschwindigkeits-Test",
+  "short_name": "Lesegeschwindigkeits-Test",
+  "description": "Kostenloser Lesegeschwindigkeits-Test: Einen zeitlich gemessenen Text lesen (3 Auswahlmöglichkeiten, 400-600 Wörter), Verständnisfragen beantworten und die Lesegeschwindigkeit in WPM erhalten, plus einen ehrlichen Leitfaden zu guten Lesegeschwindigkeiten nach Alter.",
+  "id": "/loona-study-tools/de/reading-speed-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

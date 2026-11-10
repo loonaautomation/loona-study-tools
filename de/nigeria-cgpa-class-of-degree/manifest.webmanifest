@@ -1,0 +1,29 @@
+{
+  "name": "Loona Nigeria: CGPA und Abschlussklassen",
+  "short_name": "Nigeria: CGPA und Abschlussklassen",
+  "description": "Nigerianische CGPA-Klassenbänder der Universitäten auf der 5.0-Skala: First Class 4.50–5.00, Second Upper 3.50–4.49, Second Lower 2.40–3.49, mit einer Klassenprüfung.",
+  "id": "/loona-study-tools/de/nigeria-cgpa-class-of-degree/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

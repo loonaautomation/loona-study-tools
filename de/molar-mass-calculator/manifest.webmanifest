@@ -1,0 +1,29 @@
+{
+  "name": "Loona Rechner für die molare Masse",
+  "short_name": "Rechner für die molare Masse",
+  "description": "Kostenloser Rechner für die molare Masse: Eine beliebige chemische Formel mit Klammern eingeben — Ca(OH)2, Al2(SO4)3 — und die molare Masse in g/mol mit einer Aufschlüsselungstabelle pro Element erhalten.",
+  "id": "/loona-study-tools/de/molar-mass-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

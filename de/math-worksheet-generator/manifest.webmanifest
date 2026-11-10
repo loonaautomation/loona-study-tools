@@ -1,0 +1,29 @@
+{
+  "name": "Loona Mathe-Arbeitsblatt-Generator",
+  "short_name": "Mathe-Arbeitsblatt-Generator",
+  "description": "Kostenloser Mathe-Arbeitsblatt-Generator: Arbeitsblätter zu Addition, Subtraktion, Multiplikation, Division, Brüchen, Dezimalzahlen und schriftlicher Division mit Zahlenbereich, Bündelungsoptionen und ausdruckbarem Lösungsschlüssel.",
+  "id": "/loona-study-tools/de/math-worksheet-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

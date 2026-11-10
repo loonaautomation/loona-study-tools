@@ -1,0 +1,29 @@
+{
+  "name": "Loona Rechtschreibtest",
+  "short_name": "Rechtschreibtest",
+  "description": "Kostenloser Rechtschreibtest: Der Browser liest jedes Wort laut vor, die Schreibweise wird eingetippt, und es gibt eine sofortige Punktzahl mit einer Auswertung der verfehlten Wörter. Eingebaute Listen nach Alter plus eigene Wortlisten.",
+  "id": "/loona-study-tools/de/spelling-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
