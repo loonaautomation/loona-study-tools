@@ -1,0 +1,29 @@
+{
+  "name": "Loona المساحة والمحيط الصف 5",
+  "short_name": "المساحة والمحيط الصف 5",
+  "description": "تدريب المساحة والمحيط مجاني للصف 5 — الأشكال المركبة وحل مسائل المساحة. مثال محلول، و6 أسئلة تدريبية مع مفتاح إجابات قابل للطباعة، والطريقة، والخطأ الشائع ونصيحة مهمة.",
+  "id": "/loona-study-tools/ar/grade-5-area-perimeter-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona مقياس ضوضاء الفصل الدراسي",
+  "short_name": "مقياس ضوضاء الفصل الدراسي",
+  "description": "مقياس ضوضاء فصل مجاني: شريط مستوى ميكروفون مباشر بمناطق خضراء/كهرمانية/حمراء وعدّاد سلاسل الهدوء. عرض مستوى نسبي (لا ديسيبل)، يُحلّل على الجهاز، لا يُسجّل أبدًا.",
+  "id": "/loona-study-tools/ar/noise-meter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

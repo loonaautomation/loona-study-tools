@@ -1,0 +1,29 @@
+{
+  "name": "Loona لوحة نتائج الفصل الدراسي",
+  "short_name": "لوحة نتائج الفصل الدراسي",
+  "description": "لوحة نتائج فصل مجانية: بطاقات نقاط فرق كبيرة وملونة لشاشة الفصل، نقرة واحدة +1/+5/-1، محفوظة في متصفحك بين الدروس.",
+  "id": "/loona-study-tools/ar/classroom-scoreboard/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

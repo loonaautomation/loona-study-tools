@@ -1,0 +1,29 @@
+{
+  "name": "Loona اختبار 10-key",
+  "short_name": "اختبار 10-key",
+  "description": "اختبار لوحة أرقام 10-key مجاني: اكتب تسلسلات الأرقام بأسرع ما يمكنك وبدقة؛ تُحتسب بالمفاتيح في الدقيقة مع الدقة — اختبار مهارة إدخال البيانات.",
+  "id": "/loona-study-tools/ar/ten-key-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

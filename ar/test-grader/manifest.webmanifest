@@ -1,0 +1,29 @@
+{
+  "name": "Loona مصحح الاختبارات",
+  "short_name": "مصحح الاختبارات",
+  "description": "مصحح اختبارات مجاني: الصق مفتاح الإجابات وإجابات طالب (أحرف أو كلمات) للحصول على نتيجة فورية ونسبة مئوية ودرجة حرفية وتفصيل سؤال بسؤال.",
+  "id": "/loona-study-tools/ar/test-grader/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona مواضيع اللغة الإنجليزية للصف 8 ودليل الدراسة",
+  "short_name": "مواضيع اللغة الإنجليزية للصف 8 ودليل الدراسة",
+  "description": "مواضيع اللغة الإنجليزية للصف 8 بترتيب التدريس — صيغة الشرط والجمل الشرطية المتقدمة (وعي)، الأسلوب، الأدوات الأدبية والمزيد — مع أدوات دراسة مجانية لكل موضوع.",
+  "id": "/loona-study-tools/ar/grade-8-english-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona منتقي الأسماء العشوائي",
+  "short_name": "منتقي الأسماء العشوائي",
+  "description": "منتقي أسماء عشوائي مجاني للمعلمين: الصق قائمة فصل واختر الطلاب بعدالة بشكل عشوائي، مع وضع عدم التكرار بحيث يحصل الجميع على دور قبل أن يتكرر أي شخص.",
+  "id": "/loona-study-tools/ar/random-name-picker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona منشئ لعبة البحث عن الكلمات",
+  "short_name": "منشئ لعبة البحث عن الكلمات",
+  "description": "منشئ بحث عن الكلمات مجاني: حوّل قائمة كلماتك الخاصة إلى لغز بحث عن الكلمات قابل للطباعة في 8 اتجاهات، مع مفتاح إجابات مميز منفصل. مثالي لتدريب المفردات.",
+  "id": "/loona-study-tools/ar/word-search-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

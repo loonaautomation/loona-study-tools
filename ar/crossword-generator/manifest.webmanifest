@@ -1,0 +1,29 @@
+{
+  "name": "Loona منشئ الكلمات المتقاطعة",
+  "short_name": "منشئ الكلمات المتقاطعة",
+  "description": "منشئ كلمات متقاطعة مجاني: أدخل كلمات وتلميحات واحصل على لغز كلمات متقاطعة حقيقي متقاطع، قابل للطباعة مع تلميحات مرقمة ومفتاح إجابات منفصل.",
+  "id": "/loona-study-tools/ar/crossword-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

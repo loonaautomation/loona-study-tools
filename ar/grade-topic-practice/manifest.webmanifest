@@ -1,0 +1,29 @@
+{
+  "name": "Loona التدريب حسب الصف والموضوع",
+  "short_name": "التدريب حسب الصف والموضوع",
+  "description": "فهرس واحد لجميع صفحات التدريب حسب الصف والموضوع (من رياض الأطفال إلى الصف 8)، وأدلة المواد، وأدلة امتحانات مجالس باكستان للصفوف 9–12 ومحوّلات CGPA في Loona Study Tools.",
+  "id": "/loona-study-tools/ar/grade-topic-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

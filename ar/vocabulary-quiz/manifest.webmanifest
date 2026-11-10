@@ -1,0 +1,29 @@
+{
+  "name": "Loona اختبار المفردات",
+  "short_name": "اختبار المفردات",
+  "description": "اختبار مفردات مجاني: 20 كلمة إنجليزية مع أربعة خيارات للمعنى لكل منها، من كلمات مدرسية شائعة إلى مفردات أكاديمية أغنى. نتيجة فورية ومراجعة.",
+  "id": "/loona-study-tools/ar/vocabulary-quiz/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

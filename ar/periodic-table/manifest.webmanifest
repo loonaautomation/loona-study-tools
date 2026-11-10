@@ -1,0 +1,29 @@
+{
+  "name": "Loona الجدول الدوري التفاعلي",
+  "short_name": "الجدول الدوري التفاعلي",
+  "description": "جدول دوري تفاعلي مجاني: جميع العناصر الـ 118 ملونة حسب الفئة. انقر على أي عنصر لعدد ذري وكتلة ومجموعة ودورة وفئة.",
+  "id": "/loona-study-tools/ar/periodic-table/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

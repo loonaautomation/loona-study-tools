@@ -1,0 +1,29 @@
+{
+  "name": "Loona اختبار سرعة الحقائق الرياضية",
+  "short_name": "اختبار سرعة الحقائق الرياضية",
+  "description": "اختبار سرعة حقائق رياضيات مجاني: سباق 60 ثانية من حقائق الجمع والطرح والضرب والقسمة مع فحص فوري ودقة وتتبع للسلاسل.",
+  "id": "/loona-study-tools/ar/math-facts-speed-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

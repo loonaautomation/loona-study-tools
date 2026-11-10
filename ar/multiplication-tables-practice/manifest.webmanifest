@@ -1,0 +1,29 @@
+{
+  "name": "Loona تدريب جداول الضرب",
+  "short_name": "تدريب جداول الضرب",
+  "description": "تدريب على جداول الضرب مجاني: اختر جداول 2-12، وتدرّب على جولات موقوتة مع فحص فوري ومراجعة للجداول الضعيفة، بالإضافة إلى مخطط ضرب 12x12 قابل للطباعة.",
+  "id": "/loona-study-tools/ar/multiplication-tables-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

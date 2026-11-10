@@ -1,0 +1,29 @@
+{
+  "name": "Loona منشئ الاختبارات",
+  "short_name": "منشئ الاختبارات",
+  "description": "منشئ اختبارات مجاني للمعلمين: أسئلة اختيار من متعدد وصح/خطأ وإجابات قصيرة، ووضع محاولة مع نتيجة فورية ومراجعة، واختبار قابل للطباعة + مفتاح إجابات منفصل، وتصدير/استيراد JSON.",
+  "id": "/loona-study-tools/ar/quiz-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

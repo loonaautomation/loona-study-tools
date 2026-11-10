@@ -1,0 +1,29 @@
+{
+  "name": "Loona مواضيع الأردية للصف 5 ودليل الدراسة",
+  "short_name": "مواضيع الأردية للصف 5 ودليل الدراسة",
+  "description": "مواضيع اللغة الأردية للصف 5 بترتيب التدريس — القواعد، الأمثال (ضرب الأمثال)، بنية الكلمة (الصرف) والمزيد — مع أدوات دراسة مجانية لكل موضوع.",
+  "id": "/loona-study-tools/ar/grade-5-urdu-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

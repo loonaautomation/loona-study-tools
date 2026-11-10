@@ -1,0 +1,29 @@
+{
+  "name": "Loona تصنيف الدرجات البريطانية",
+  "short_name": "تصنيف الدرجات البريطانية",
+  "description": "ما تعنيه الأولى البريطانية و2:1 و2:2 والثالثة من حيث النسبة المئوية ومصطلحات GPA الأمريكية التقريبية — مع ملاحظة صادقة بأنه لا يوجد تحويل رسمي من المملكة المتحدة إلى GPA.",
+  "id": "/loona-study-tools/ar/uk-degree-classification-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

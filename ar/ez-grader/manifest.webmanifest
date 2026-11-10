@@ -1,0 +1,29 @@
+{
+  "name": "Loona المصحح السريع EZ",
+  "short_name": "المصحح السريع EZ",
+  "description": "مصحح EZ مجاني للمعلمين: أدخل مجموع الأسئلة وعدد الأخطاء للحصول على النسبة المئوية والدرجة الحرفية فورًا، مع مخطط تصحيح كامل لطول ذلك الاختبار.",
+  "id": "/loona-study-tools/ar/ez-grader/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

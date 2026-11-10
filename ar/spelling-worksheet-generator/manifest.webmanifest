@@ -1,0 +1,29 @@
+{
+  "name": "Loona منشئ أوراق عمل الإملاء",
+  "short_name": "منشئ أوراق عمل الإملاء",
+  "description": "منشئ أوراق عمل إملاء مجاني: من قائمة كلمات واحدة احصل على تدريب فك التشابك وأوراق عمل للحروف المتحركة المفقودة وتدريب على ترتيب ABC وورقة اختبار إملاء، مع مفتاح إجابات.",
+  "id": "/loona-study-tools/ar/spelling-worksheet-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

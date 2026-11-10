@@ -1,0 +1,29 @@
+{
+  "name": "Loona تصنيف درجة CGPA نيجيريا",
+  "short_name": "تصنيف درجة CGPA نيجيريا",
+  "description": "نطاقات فئات CGPA للجامعات النيجيرية على مقياس 5.0: المرتبة الأولى 4.50–5.00، والثانية العليا 3.50–4.49، والثانية السفلى 2.40–3.49، مع مدقق فئات.",
+  "id": "/loona-study-tools/ar/nigeria-cgpa-class-of-degree/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

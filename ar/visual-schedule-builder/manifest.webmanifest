@@ -1,0 +1,29 @@
+{
+  "name": "Loona منشئ الجدول المرئي",
+  "short_name": "منشئ الجدول المرئي",
+  "description": "منشئ جدول مرئي مجاني: أنشئ جدولًا صوريًا قابلًا للطباعة ليوم الدراسة مع الأوقات والرموز والأنشطة — مثالي للأطفال الصغار ودعم الاحتياجات الخاصة.",
+  "id": "/loona-study-tools/ar/visual-schedule-builder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

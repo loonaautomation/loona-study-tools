@@ -1,0 +1,29 @@
+{
+  "name": "Loona تدريب النسب المئوية للصف 6",
+  "short_name": "تدريب النسب المئوية للصف 6",
+  "description": "تدريب النسب المئوية مجاني للصف 6 — إيجاد نسب مئوية من مبالغ. مثال محلول، و6 أسئلة تدريبية مع مفتاح إجابات قابل للطباعة، والطريقة، والخطأ الشائع ونصيحة مهمة.",
+  "id": "/loona-study-tools/ar/grade-6-percentages-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

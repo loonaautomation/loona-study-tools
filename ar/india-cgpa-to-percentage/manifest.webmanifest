@@ -1,0 +1,29 @@
+{
+  "name": "Loona تحويل CGPA الهند إلى نسبة مئوية",
+  "short_name": "تحويل CGPA الهند إلى نسبة مئوية",
+  "description": "حوّل CGPA الهندي من 10 نقاط إلى نسبة مئوية بمعادلة CBSE (× 9.5) والصيغ التي تستخدمها الجامعات الهندية — (CGPA − 0.5) × 10 و× 10 — مع جدول كامل.",
+  "id": "/loona-study-tools/ar/india-cgpa-to-percentage/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

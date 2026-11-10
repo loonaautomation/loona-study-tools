@@ -1,0 +1,29 @@
+{
+  "name": "Loona محوّل GPA كندا",
+  "short_name": "محوّل GPA كندا",
+  "description": "حوّل درجات النسبة المئوية الكندية إلى مقياس 4.0 باستخدام جدول أونتاريو واسع الاستخدام (90–100 = A+ = 4.0)، بالإضافة إلى ملاحظات حول كيفية اختلاف المقاييس الكندية حسب الجامعة.",
+  "id": "/loona-study-tools/ar/canada-gpa-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

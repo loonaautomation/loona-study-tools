@@ -1,0 +1,29 @@
+{
+  "name": "Loona تحويل النسبة المئوية إلى CGPA (الهند، 10 نقاط)",
+  "short_name": "تحويل النسبة المئوية إلى CGPA (الهند",
+  "description": "حوّل النسبة المئوية إلى CGPA هندي من 10 نقاط بمعادلة CBSE العكسية (% ÷ 9.5) وصيغ الجامعات، مع جدول كامل من 95% تنازليًا.",
+  "id": "/loona-study-tools/ar/percentage-to-cgpa-10/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

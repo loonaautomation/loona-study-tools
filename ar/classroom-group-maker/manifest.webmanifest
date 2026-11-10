@@ -1,0 +1,29 @@
+{
+  "name": "Loona منشئ مجموعات الفصل الدراسي",
+  "short_name": "منشئ مجموعات الفصل الدراسي",
+  "description": "منشئ مجموعات فصل مجاني: احفظ قوائم الفصول في متصفحك، ثم قسّم الطلاب إلى مجموعات عشوائية متوازنة حسب حجم المجموعة أو عدد المجموعات أو أزواج. اطبع النتيجة.",
+  "id": "/loona-study-tools/ar/classroom-group-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
