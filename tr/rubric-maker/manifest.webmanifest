@@ -1,0 +1,29 @@
+{
+  "name": "Loona Dereceli Puanlama Anahtarı Oluşturucu",
+  "short_name": "Dereceli Puanlama Anahtarı Oluşturucu",
+  "description": "Ücretsiz rubrik oluşturucu: ölçütler ve en yüksek puanlar ekleyin, dört performans düzeyini tanımlayın ve düzey başına puanların otomatik hesaplandığı yazdırılabilir bir rubrik ızgarası alın.",
+  "id": "/loona-study-tools/tr/rubric-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

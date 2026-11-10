@@ -1,0 +1,29 @@
+{
+  "name": "Loona Sınıf Zamanlayıcıları",
+  "short_name": "Sınıf Zamanlayıcıları",
+  "description": "Ücretsiz sınıf zamanlayıcıları: ilerleme halkası ve küçülen görsel çubuk ile büyük ekranlı bir geri sayım, bitiş zamanını ve kalan süreyi gösteren bir sınav zamanlayıcısı ve turlu bir kronometre.",
+  "id": "/loona-study-tools/tr/classroom-timers/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

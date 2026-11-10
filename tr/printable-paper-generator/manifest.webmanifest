@@ -1,0 +1,29 @@
+{
+  "name": "Loona Yazdırılabilir Kağıt Oluşturucu",
+  "short_name": "Yazdırılabilir Kağıt Oluşturucu",
+  "description": "Ücretsiz yazdırılabilir kağıt oluşturucu: tam 8/10/14mm aralıkta graflı kağıt, noktalı ızgara, izometrik kağıt, 3 satırlı el yazısı kağıdı ve geniş çizgili satırlar. Gerçek boyut için %100 yazdırın.",
+  "id": "/loona-study-tools/tr/printable-paper-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

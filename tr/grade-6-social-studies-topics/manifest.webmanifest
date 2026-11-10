@@ -1,0 +1,29 @@
+{
+  "name": "Loona 6. Sınıf Sosyal Bilgiler Konuları ve Çalışma Rehberi",
+  "short_name": "6. Sınıf Sosyal Bilgiler Konuları ve Çalışma Rehberi",
+  "description": "6. sınıf için Sosyal Bilgiler konuları öğretim sırasına göre — Fiziki coğrafya, Eski medeniyetler, Müslüman dünyası ve daha fazlası — her konu için ücretsiz çalışma araçlarıyla.",
+  "id": "/loona-study-tools/tr/grade-6-social-studies-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

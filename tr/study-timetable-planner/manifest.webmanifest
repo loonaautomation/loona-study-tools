@@ -1,0 +1,29 @@
+{
+  "name": "Loona Çalışma Programı Planlayıcı",
+  "short_name": "Çalışma Programı Planlayıcı",
+  "description": "Ücretsiz çalışma zaman çizelgesi planlayıcı: dengeli, düzenlenebilir, yazdırılabilir bir haftalık çalışma zaman çizelgesi oluşturmak için dersleri, günlük saatleri ve bir sınav tarihini girin; adil ders rotasyonuyla.",
+  "id": "/loona-study-tools/tr/study-timetable-planner/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

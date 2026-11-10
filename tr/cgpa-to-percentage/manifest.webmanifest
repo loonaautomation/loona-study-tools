@@ -1,0 +1,29 @@
+{
+  "name": "Loona CGPA'yi Yüzdeye Dönüştürücü (4.0 ve 5.0)",
+  "short_name": "CGPA'yi Yüzdeye Dönüştürücü",
+  "description": "Tek bir ücretsiz dönüştürücüyle CGPA'yi 4.0, 5.0 ve 10 puanlık ölçeklerde yüzdeye dönüştürün; ayrıca her ölçek için formül ve tam bir dönüştürme tablosu.",
+  "id": "/loona-study-tools/tr/cgpa-to-percentage/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

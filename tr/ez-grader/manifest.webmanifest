@@ -1,0 +1,29 @@
+{
+  "name": "Loona EZ Notlandırıcı",
+  "short_name": "EZ Notlandırıcı",
+  "description": "Öğretmenler için ücretsiz EZ notlandırıcı: yüzde ve harf notunu anında almak için toplam soruları ve yanlış sayısını girin; o test uzunluğu için tam bir notlandırma tablosuyla.",
+  "id": "/loona-study-tools/tr/ez-grader/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Hindistan CGPA'den Yüzdeye",
+  "short_name": "Hindistan CGPA'den Yüzdeye",
+  "description": "Hindistan 10 puanlık CGPA'sini, CBSE formülü (× 9.5) ve Hindistan üniversitelerinin kullandığı varyantlar — (CGPA − 0.5) × 10 ve × 10 — ile tam bir tabloyla yüzdeye dönüştürün.",
+  "id": "/loona-study-tools/tr/india-cgpa-to-percentage/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

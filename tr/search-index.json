@@ -1,0 +1,403 @@
+[
+ {
+  "n": "Bilgi Kartları Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-study-tools/tr/flashcards/",
+  "s": "Loona Study Tools",
+  "d": "Bilgi kartı desteleri oluşturun, çevirmeli kartlarla çalışın ve karıştırın, ne bildiğinizi izleyin ve kartlarınızı dışa aktarın veya yazdırın.",
+  "k": "flashcards maker bilgi karti desteleri olusturun cevirmeli kartlarla calisin ve karistirin ne bildiginizi izleyin ve kartlarinizi disa aktarin veya yazdirin",
+  "c": "Tool"
+ },
+ {
+  "n": "Quiz Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-study-tools/tr/quiz-maker/",
+  "s": "Loona Study Tools",
+  "d": "Öğretmenler, çoktan seçmeliler, doğru/yanlış ve kısa cevaplarla quizler inşa eder — öğrenciler, anında puanlar ve tam bir cevap incelemesiyle dener.",
+  "k": "quiz maker ogretmenler coktan secmeliler dogru yanlis ve kisa cevaplarla quizler insa eder ogrenciler aninda puanlar ve tam bir cevap incelemesiyle dener",
+  "c": "Tool"
+ },
+ {
+  "n": "Sınıf ve Konuya Göre Alıştırma",
+  "u": "https://loonaautomation.github.io/loona-study-tools/tr/grade-topic-practice/",
+  "s": "Loona Study Tools",
+  "d": "196 yeni sayfa: her sınıf ve matematik konusu için çözümlü örnekler ve alıştırma soruları, Fen Bilimleri, İngilizce, Sosyal Bilgiler ve Urduca için ders rehberleri, 9–12. Sınıflar için Pakistan kurul sınav rehberleri ve her büyük notlandırma ölçeği için CGPA dönüştürücüleri.",
+  "k": "practice by grade topic 196 yeni sayfa her sinif ve matematik konusu icin cozumlu ornekler ve alistirma sorulari fen bilimleri i ngilizce sosyal bilgiler ve urduca icin ders rehberleri 9 12 siniflar icin pakistan kurul sinav rehberleri ve her buyuk notlandirma olcegi icin cgpa donusturuculeri",
+  "p": 102,
+  "c": "Tool"
+ },
+ {
+  "n": "Matematik Çalışma Kağıdı Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-study-tools/tr/math-worksheet-generator/",
+  "s": "Loona Study Tools",
+  "d": "Yazdırılabilir matematik çalışma kağıtları oluşturun — toplama, çıkarma, çarpma, bölme, kesirler ve ondalıklar — uygun bir cevap anahtarıyla.",
+  "k": "math worksheet generator yazdirilabilir matematik calisma kagitlari olusturun toplama cikarma carpma bolme kesirler ve ondaliklar uygun bir cevap anahtariyla",
+  "c": "Tool"
+ },
+ {
+  "n": "Okuma Hızı Testi",
+  "u": "https://loonaautomation.github.io/loona-study-tools/tr/reading-speed-test/",
+  "s": "Loona Study Tools",
+  "d": "Zamanlı bir pasaj okuyun, anlama sorularını cevaplayın ve dakikadaki kelime (WPM) cinsinden gerçek okuma hızınızı alın.",
+  "k": "reading speed test zamanli bir pasaj okuyun anlama sorularini cevaplayin ve dakikadaki kelime wpm cinsinden gercek okuma hizinizi alin",
+  "c": "Tool"
+ },
+ {
+  "n": "Çalışma Programı Planlayıcı",
+  "u": "https://loonaautomation.github.io/loona-study-tools/tr/study-timetable-planner/",
+  "s": "Loona Study Tools",
+  "d": "Derslerinizi, günlük saatlerinizi ve sınav tarihinizi girin ve düzenleyip yazdırabileceğiniz dengeli bir haftalık çalışma zaman çizelgesi alın.",
+  "k": "study timetable planner derslerinizi gunluk saatlerinizi ve sinav tarihinizi girin ve duzenleyip yazdirabileceginiz dengeli bir haftalik calisma zaman cizelgesi alin",
+  "c": "Tool"
+ },
+ {
+  "n": "Çarpım Tablosu Alıştırması",
+  "u": "https://loonaautomation.github.io/loona-study-tools/tr/multiplication-tables-practice/",
+  "s": "Loona Study Tools",
+  "d": "Zamanlı alıştırma turları, anında kontrol ve 12 × 12'ye kadar yazdırılabilir bir çarpım tablosuyla çarpım tablolarını çalışın.",
+  "k": "multiplication tables practice zamanli alistirma turlari aninda kontrol ve 12 12 ye kadar yazdirilabilir bir carpim tablosuyla carpim tablolarini calisin",
+  "c": "Tool"
+ },
+ {
+  "n": "Yazım Testi",
+  "u": "https://loonaautomation.github.io/loona-study-tools/tr/spelling-test/",
+  "s": "Loona Study Tools",
+  "d": "Bilgisayar her kelimeyi sesli okur — yazımı siz yazarsınız. Anında puan ve kaçırdığınız her kelimenin incelemesi.",
+  "k": "spelling test bilgisayar her kelimeyi sesli okur yazimi siz yazarsiniz aninda puan ve kacirdiginiz her kelimenin incelemesi",
+  "c": "Tool"
+ },
+ {
+  "n": "El Yazısı Alıştırma Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-study-tools/tr/handwriting-practice-generator/",
+  "s": "Loona Study Tools",
+  "d": "Harfler, sayılar ve kendi kelimeleriniz için izleme satırları ve boş kopya satırlarıyla yazdırılabilir el yazısı alıştırma kağıtları oluşturun.",
+  "k": "handwriting practice generator harfler sayilar ve kendi kelimeleriniz icin izleme satirlari ve bos kopya satirlariyla yazdirilabilir el yazisi alistirma kagitlari olusturun",
+  "c": "Tool"
+ },
+ {
+  "n": "Sınav Geri Sayım Planlayıcı",
+  "u": "https://loonaautomation.github.io/loona-study-tools/tr/exam-countdown-planner/",
+  "s": "Loona Study Tools",
+  "d": "Sınav tarihinizi ve derslerinizi girin ve konuları kalan günlerinize adil bir şekilde yayan, günden güne bir tekrar planı alın.",
+  "k": "exam countdown planner sinav tarihinizi ve derslerinizi girin ve konulari kalan gunlerinize adil bir sekilde yayan gunden gune bir tekrar plani alin",
+  "c": "Tool"
+ },
+ {
+  "n": "Kelime Avı Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-study-tools/tr/word-search-generator/",
+  "s": "Loona Study Tools",
+  "d": "Kendi kelime listenizi, her kelimenin konumunu gösteren ayrı bir cevap anahtarıyla, yazdırılabilir bir kelime avı bulmacasına dönüştürün.",
+  "k": "word search generator kendi kelime listenizi her kelimenin konumunu gosteren ayri bir cevap anahtariyla yazdirilabilir bir kelime avi bulmacasina donusturun",
+  "c": "Tool"
+ },
+ {
+  "n": "Eşleştirme Çalışma Kağıdı Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-study-tools/tr/matching-worksheet-generator/",
+  "s": "Loona Study Tools",
+  "d": "Yazdırılabilir eşleştirme çalışma kağıtları oluşturun — terimler solda, karıştırılmış tanımlar sağda — bir öğretmen cevap anahtarıyla.",
+  "k": "matching worksheet generator yazdirilabilir eslestirme calisma kagitlari olusturun terimler solda karistirilmis tanimlar sagda bir ogretmen cevap anahtariyla",
+  "c": "Tool"
+ },
+ {
+  "n": "Rastgele İsim Seçici",
+  "u": "https://loonaautomation.github.io/loona-study-tools/tr/random-name-picker/",
+  "s": "Loona Study Tools",
+  "d": "Bir sınıf listesi yapıştırın ve tekrarsız bir modla öğrencileri adil bir şekilde rastgele seçin; böylece herkes bir sıra alır.",
+  "k": "random name picker bir sinif listesi yapistirin ve tekrarsiz bir modla ogrencileri adil bir sekilde rastgele secin boylece herkes bir sira alir",
+  "c": "Tool"
+ },
+ {
+  "n": "Eşleştirme Oyunu",
+  "u": "https://loonaautomation.github.io/loona-study-tools/tr/matching-pairs-game/",
+  "s": "Loona Study Tools",
+  "d": "Herhangi bir terim-ve-tanım çiftini, hamle ve zaman takibiyle çevir-ve-eşleştir hafıza oyununa dönüştürün.",
+  "k": "matching pairs game herhangi bir terim ve tanim ciftini hamle ve zaman takibiyle cevir ve eslestir hafiza oyununa donusturun",
+  "c": "Tool"
+ },
+ {
+  "n": "Grup Sıralama Oyunu",
+  "u": "https://loonaautomation.github.io/loona-study-tools/tr/group-sort-game/",
+  "s": "Loona Study Tools",
+  "d": "Kategoriler ve ögeler oluşturun; öğrenciler her ögeyi doğru gruba ayırır ve anında bir puan alır.",
+  "k": "group sort game kategoriler ve ogeler olusturun ogrenciler her ogeyi dogru gruba ayirir ve aninda bir puan alir",
+  "c": "Tool"
+ },
+ {
+  "n": "Karışık Cümleleri Düzeltme Oyunu",
+  "u": "https://loonaautomation.github.io/loona-study-tools/tr/unjumble-game/",
+  "s": "Loona Study Tools",
+  "d": "Cümleler kelime kelime karıştırılır — öğrenciler kelimeleri doğru sıraya geri dokundurur.",
+  "k": "unjumble sentences game cumleler kelime kelime karistirilir ogrenciler kelimeleri dogru siraya geri dokundurur",
+  "c": "Tool"
+ },
+ {
+  "n": "Anagram Oyunu",
+  "u": "https://loonaautomation.github.io/loona-study-tools/tr/anagram-game/",
+  "s": "Loona Study Tools",
+  "d": "Kelimeler harf harf karıştırılır; öğrenciler, sağladığınız ipucunu kullanarak onları düzeltir.",
+  "k": "anagram game kelimeler harf harf karistirilir ogrenciler sagladiginiz ipucunu kullanarak onlari duzeltir",
+  "c": "Tool"
+ },
+ {
+  "n": "Kelimeyi Hecele Oyunu",
+  "u": "https://loonaautomation.github.io/loona-study-tools/tr/spell-the-word/",
+  "s": "Loona Study Tools",
+  "d": "Harf karolarına sırayla dokunarak her kelimeyi inşa edin — ipuçları ve anında kontrollerle yazım alıştırması.",
+  "k": "spell the word game harf karolarina sirayla dokunarak her kelimeyi insa edin ipuclari ve aninda kontrollerle yazim alistirmasi",
+  "c": "Tool"
+ },
+ {
+  "n": "Adam Asmaca Oyunu",
+  "u": "https://loonaautomation.github.io/loona-study-tools/tr/hangman-game/",
+  "s": "Loona Study Tools",
+  "d": "Okul dersleri için yerleşik kelime listeleriyle veya kendi kelime listenizle klasik harf tahmin oyunu.",
+  "k": "hangman game okul dersleri icin yerlesik kelime listeleriyle veya kendi kelime listenizle klasik harf tahmin oyunu",
+  "c": "Tool"
+ },
+ {
+  "n": "Bulmaca Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-study-tools/tr/crossword-generator/",
+  "s": "Loona Study Tools",
+  "d": "Kelimeler ve ipuçları girin ve gerçek bir kesişen bulmaca oluşturun — yazdırılabilir, bir cevap anahtarıyla.",
+  "k": "crossword generator kelimeler ve ipuclari girin ve gercek bir kesisen bulmaca olusturun yazdirilabilir bir cevap anahtariyla",
+  "c": "Tool"
+ },
+ {
+  "n": "Bingo Kartı Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-study-tools/tr/bingo-card-generator/",
+  "s": "Loona Study Tools",
+  "d": "Tüm sınıf için benzersiz yazdırılabilir kelime bingosu kartları ve karıştırılmış bir çağrı listesi oluşturun.",
+  "k": "bingo card generator tum sinif icin benzersiz yazdirilabilir kelime bingosu kartlari ve karistirilmis bir cagri listesi olusturun",
+  "c": "Tool"
+ },
+ {
+  "n": "Etiketli Şema Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-study-tools/tr/labelled-diagram-maker/",
+  "s": "Loona Study Tools",
+  "d": "Bir şema yükleyin, üzerine etiketler iğneleyin, etiketli veya boş bir sürüm yazdırın ve bir etiket quizi çalıştırın.",
+  "k": "labelled diagram maker bir sema yukleyin uzerine etiketler igneleyin etiketli veya bos bir surum yazdirin ve bir etiket quizi calistirin",
+  "c": "Tool"
+ },
+ {
+  "n": "Yüzlük Tablosu",
+  "u": "https://loonaautomation.github.io/loona-study-tools/tr/hundreds-chart/",
+  "s": "Loona Study Tools",
+  "d": "Çift/tek ve katları vurgulama ile eksik sayılar alıştırma modu içeren, etkileşimli, yazdırılabilir bir 1–100 tablosu.",
+  "k": "hundreds chart cift tek ve katlari vurgulama ile eksik sayilar alistirma modu iceren etkilesimli yazdirilabilir bir 1 100 tablosu",
+  "c": "Tool"
+ },
+ {
+  "n": "Kelime Duvarı Kartları Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-study-tools/tr/word-wall-cards/",
+  "s": "Loona Study Tools",
+  "d": "Kelime listelerini, sınıf gösterimleri için büyük, kalın, yazdırılabilir kelime duvarı kartlarına dönüştürün.",
+  "k": "word wall cards generator kelime listelerini sinif gosterimleri icin buyuk kalin yazdirilabilir kelime duvari kartlarina donusturun",
+  "c": "Tool"
+ },
+ {
+  "n": "Sudoku Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-study-tools/tr/sudoku-generator/",
+  "s": "Loona Study Tools",
+  "d": "Yazdırılabilir Sudoku bulmacaları oluşturun — 4×4, 6×6 ve 9×9 — benzersiz çözümler ve ayrı bir çözüm sayfasıyla.",
+  "k": "sudoku generator yazdirilabilir sudoku bulmacalari olusturun 4 4 6 6 ve 9 9 benzersiz cozumler ve ayri bir cozum sayfasiyla",
+  "c": "Tool"
+ },
+ {
+  "n": "Labirent Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-study-tools/tr/maze-generator/",
+  "s": "Loona Study Tools",
+  "d": "Dört zorluk seviyesinde, isteğe bağlı bir çözüm yoluyla yazdırılabilir labirentler oluşturun.",
+  "k": "maze generator dort zorluk seviyesinde istege bagli bir cozum yoluyla yazdirilabilir labirentler olusturun",
+  "c": "Tool"
+ },
+ {
+  "n": "Numaraya Göre Boyama Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-study-tools/tr/colour-by-number-generator/",
+  "s": "Loona Study Tools",
+  "d": "Bir renk anahtarı ve renkli bir cevap resmiyle yazdırılabilir, numaraya göre boyama mozaiği oluşturun.",
+  "k": "colour by number generator bir renk anahtari ve renkli bir cevap resmiyle yazdirilabilir numaraya gore boyama mozaigi olusturun",
+  "c": "Tool"
+ },
+ {
+  "n": "Yazdırılabilir Kağıt Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-study-tools/tr/printable-paper-generator/",
+  "s": "Loona Study Tools",
+  "d": "Grafik kağıdı, noktalı ızgara kağıdı, izometrik kağıt ve el yazısı alıştırma kağıdını tam boyutlarda yazdırın.",
+  "k": "printable paper generator grafik kagidi noktali izgara kagidi izometrik kagit ve el yazisi alistirma kagidini tam boyutlarda yazdirin",
+  "c": "Tool"
+ },
+ {
+  "n": "Yazım Çalışma Kağıdı Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-study-tools/tr/spelling-worksheet-generator/",
+  "s": "Loona Study Tools",
+  "d": "Tek bir yazım listesinden: bir test kağıdı, kelime karıştırmaları, eksik harf alıştırması ve ABC sırası — bir cevap anahtarıyla.",
+  "k": "spelling worksheet generator tek bir yazim listesinden bir test kagidi kelime karistirmalari eksik harf alistirmasi ve abc sirasi bir cevap anahtariyla",
+  "c": "Tool"
+ },
+ {
+  "n": "Sınıf Zamanlayıcıları ve Sınav Zamanlayıcısı",
+  "u": "https://loonaautomation.github.io/loona-study-tools/tr/classroom-timers/",
+  "s": "Loona Study Tools",
+  "d": "İlerleme halkalı büyük ekranlı geri sayım zamanlayıcısı, bitiş zamanını gösteren bir sınav zamanlayıcısı, görsel bir çubuk zamanlayıcı ve turlu bir kronometre.",
+  "k": "classroom timers exam timer i lerleme halkali buyuk ekranli geri sayim zamanlayicisi bitis zamanini gosteren bir sinav zamanlayicisi gorsel bir cubuk zamanlayici ve turlu bir kronometre",
+  "c": "Tool"
+ },
+ {
+  "n": "Sınıf Grubu Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-study-tools/tr/classroom-group-maker/",
+  "s": "Loona Study Tools",
+  "d": "Sınıf listelerinizi kaydedin ve onları adil rastgele gruplara veya çiftlere bölün — dengeli boyutlar, tek tıklamayla yeniden karıştırma.",
+  "k": "classroom group maker sinif listelerinizi kaydedin ve onlari adil rastgele gruplara veya ciftlere bolun dengeli boyutlar tek tiklamayla yeniden karistirma",
+  "c": "Tool"
+ },
+ {
+  "n": "Oturma Planı Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-study-tools/tr/seating-chart-maker/",
+  "s": "Loona Study Tools",
+  "d": "Öğrencileri bir sıra ızgarasına yerleştirin: yerleştirmek için tıklayın, favori sıraları kilitleyin, geri kalanını karıştırın ve tabloyu yazdırın.",
+  "k": "seating chart maker ogrencileri bir sira izgarasina yerlestirin yerlestirmek icin tiklayin favori siralari kilitleyin geri kalanini karistirin ve tabloyu yazdirin",
+  "c": "Tool"
+ },
+ {
+  "n": "Sınıf Puan Tahtası",
+  "u": "https://loonaautomation.github.io/loona-study-tools/tr/classroom-scoreboard/",
+  "s": "Loona Study Tools",
+  "d": "Sınıf ekranı için büyük, net bir takım puanı tahtası — takımlar ekleyin, puan eklemek veya çıkarmak için dokunun.",
+  "k": "classroom scoreboard sinif ekrani icin buyuk net bir takim puani tahtasi takimlar ekleyin puan eklemek veya cikarmak icin dokunun",
+  "c": "Tool"
+ },
+ {
+  "n": "Sınıf Gürültü Ölçeri",
+  "u": "https://loonaautomation.github.io/loona-study-tools/tr/noise-meter/",
+  "s": "Loona Study Tools",
+  "d": "Mikrofonunuzu kullanan canlı bir göreli gürültü düzeyi ölçeri — sınıfların kendi kendini düzenlemesine yardımcı olmak için yeşil, sarı ve kırmızı bölgeler.",
+  "k": "classroom noise meter mikrofonunuzu kullanan canli bir goreli gurultu duzeyi olceri siniflarin kendi kendini duzenlemesine yardimci olmak icin yesil sari ve kirmizi bolgeler",
+  "c": "Tool"
+ },
+ {
+  "n": "İsim Etiketi Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-study-tools/tr/name-tags-generator/",
+  "s": "Loona Study Tools",
+  "d": "Bir sınıf listesini, bir alt başlık satırıyla yazdırılabilir isim etiketlerine dönüştürün — sıralar, geziler ve ilk hafta tanışmaları için.",
+  "k": "name tags generator bir sinif listesini bir alt baslik satiriyla yazdirilabilir isim etiketlerine donusturun siralar geziler ve ilk hafta tanismalari icin",
+  "c": "Tool"
+ },
+ {
+  "n": "Görsel Program Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-study-tools/tr/visual-schedule-builder/",
+  "s": "Loona Study Tools",
+  "d": "Zamanlar, etkinlikler ve resim simgeleriyle yazdırılabilir görsel bir gün programı oluşturun — küçük çocuklar için ideal.",
+  "k": "visual schedule builder zamanlar etkinlikler ve resim simgeleriyle yazdirilabilir gorsel bir gun programi olusturun kucuk cocuklar icin ideal",
+  "c": "Tool"
+ },
+ {
+  "n": "EZ Notlandırıcı",
+  "u": "https://loonaautomation.github.io/loona-study-tools/tr/ez-grader/",
+  "s": "Loona Study Tools",
+  "d": "Klasik öğretmen notlandırma kayar ölçeği: toplam soruları ve yanlış sayısını girin, yüzdeyi ve harf notunu, ayrıca tam bir tablo alın.",
+  "k": "ez grader klasik ogretmen notlandirma kayar olcegi toplam sorulari ve yanlis sayisini girin yuzdeyi ve harf notunu ayrica tam bir tablo alin",
+  "c": "Tool"
+ },
+ {
+  "n": "Test Notlandırıcı",
+  "u": "https://loonaautomation.github.io/loona-study-tools/tr/test-grader/",
+  "s": "Loona Study Tools",
+  "d": "Tüm bir testi, soru soru, anında notlandırmak için bir cevap anahtarı ve bir öğrencinin cevaplarını yapıştırın.",
+  "k": "test grader tum bir testi soru soru aninda notlandirmak icin bir cevap anahtari ve bir ogrencinin cevaplarini yapistirin",
+  "c": "Tool"
+ },
+ {
+  "n": "Ağırlıklı Not Hesaplayıcı",
+  "u": "https://loonaautomation.github.io/loona-study-tools/tr/weighted-grade-calculator/",
+  "s": "Loona Study Tools",
+  "d": "Kategori puanlarını (ödev, quizler, sınavlar, final) müfredat ağırlıklarına göre bir ders notunda birleştirin.",
+  "k": "weighted grade calculator kategori puanlarini odev quizler sinavlar final mufredat agirliklarina gore bir ders notunda birlestirin",
+  "c": "Tool"
+ },
+ {
+  "n": "Final Sınavı Not Hesaplayıcı",
+  "u": "https://loonaautomation.github.io/loona-study-tools/tr/final-exam-calculator/",
+  "s": "Loona Study Tools",
+  "d": "Hedef ders notunuza ulaşmak için final sınavında tam olarak hangi puana ihtiyacınız olduğunu — ve bunun mümkün olup olmadığını — çalışın.",
+  "k": "final exam grade calculator hedef ders notunuza ulasmak icin final sinavinda tam olarak hangi puana ihtiyaciniz oldugunu ve bunun mumkun olup olmadigini calisin",
+  "c": "Tool"
+ },
+ {
+  "n": "Matematik İşlemleri Hız Testi",
+  "u": "https://loonaautomation.github.io/loona-study-tools/tr/math-facts-speed-test/",
+  "s": "Loona Study Tools",
+  "d": "60 saniyelik bir aritmetik sprinti: doğruluk ve serilerle, yapabildiğiniz kadar çok doğru +, −, × ve ÷ işlemi.",
+  "k": "math facts speed test 60 saniyelik bir aritmetik sprinti dogruluk ve serilerle yapabildiginiz kadar cok dogru ve islemi",
+  "c": "Tool"
+ },
+ {
+  "n": "10 Tuş Sayısal Tuş Takımı Testi",
+  "u": "https://loonaautomation.github.io/loona-study-tools/tr/ten-key-test/",
+  "s": "Loona Study Tools",
+  "d": "Sayısal tuş takımı için veri girişi hız testi: sayı dizilerini hızlı ve doğru yazın; dakikadaki tuş sayısıyla puanlanır.",
+  "k": "10 key number pad test sayisal tus takimi icin veri girisi hiz testi sayi dizilerini hizli ve dogru yazin dakikadaki tus sayisiyla puanlanir",
+  "c": "Tool"
+ },
+ {
+  "n": "Kod Yazma Testi",
+  "u": "https://loonaautomation.github.io/loona-study-tools/tr/code-typing-test/",
+  "s": "Loona Study Tools",
+  "d": "Gerçek kod parçacıklarını semboller ve girintilerle yazın — programcılar için kod yazma hızını ve sembol doğruluğunu ölçer.",
+  "k": "code typing test gercek kod parcaciklarini semboller ve girintilerle yazin programcilar icin kod yazma hizini ve sembol dogrulugunu olcer",
+  "c": "Tool"
+ },
+ {
+  "n": "Dil Bilgisi Quizi",
+  "u": "https://loonaautomation.github.io/loona-study-tools/tr/grammar-quiz/",
+  "s": "Loona Study Tools",
+  "d": "24 soruluk bir İngilizce dil bilgisi testi — zamanlar, artikeller, edatlar, uyum ve noktalama — anında puan ve açıklamalarla.",
+  "k": "grammar quiz 24 soruluk bir i ngilizce dil bilgisi testi zamanlar artikeller edatlar uyum ve noktalama aninda puan ve aciklamalarla",
+  "c": "Tool"
+ },
+ {
+  "n": "Kelime Bilgisi Quizi",
+  "u": "https://loonaautomation.github.io/loona-study-tools/tr/vocabulary-quiz/",
+  "s": "Loona Study Tools",
+  "d": "Her biri dört seçenekli yirmi kelime-anlamı sorusu — İngilizce kelime seviyenizin hızlı, dürüst bir kontrolü.",
+  "k": "vocabulary quiz her biri dort secenekli yirmi kelime anlami sorusu i ngilizce kelime seviyenizin hizli durust bir kontrolu",
+  "c": "Tool"
+ },
+ {
+  "n": "Etkileşimli Periyodik Tablo",
+  "u": "https://loonaautomation.github.io/loona-study-tools/tr/periodic-table/",
+  "s": "Loona Study Tools",
+  "d": "Renk kodlu bir tabloda 118 elementin tamamı — adı, atom kütlesi, grubu, periyodu ve kategorisi için herhangi bir elemente tıklayın.",
+  "k": "interactive periodic table renk kodlu bir tabloda 118 elementin tamami adi atom kutlesi grubu periyodu ve kategorisi icin herhangi bir elemente tiklayin",
+  "c": "Tool"
+ },
+ {
+  "n": "Mol Kütlesi Hesaplayıcı",
+  "u": "https://loonaautomation.github.io/loona-study-tools/tr/molar-mass-calculator/",
+  "s": "Loona Study Tools",
+  "d": "Bir kimyasal formül yazın — parantezler dahil — ve öğe başına bir dökümle g/mol cinsinden mol kütlesini alın.",
+  "k": "molar mass calculator bir kimyasal formul yazin parantezler dahil ve oge basina bir dokumle g mol cinsinden mol kutlesini alin",
+  "c": "Tool"
+ },
+ {
+  "n": "Kimyasal Denklem Denkleştirici",
+  "u": "https://loonaautomation.github.io/loona-study-tools/tr/chemical-equation-balancer/",
+  "s": "Loona Study Tools",
+  "d": "Dengelenmemiş bir denklem girin ve atom atom doğrulanmış dengeli katsayılar alın.",
+  "k": "chemical equation balancer dengelenmemis bir denklem girin ve atom atom dogrulanmis dengeli katsayilar alin",
+  "c": "Tool"
+ },
+ {
+  "n": "pH Hesaplayıcı",
+  "u": "https://loonaautomation.github.io/loona-study-tools/tr/ph-calculator/",
+  "s": "Loona Study Tools",
+  "d": "pH, pOH, [H+] ve [OH-] arasında dönüştürün ve kuvvetli asit ve kuvvetli baz çözeltilerinin pH'ini hesaplayın.",
+  "k": "ph calculator ph poh h ve oh arasinda donusturun ve kuvvetli asit ve kuvvetli baz cozeltilerinin ph ini hesaplayin",
+  "c": "Tool"
+ },
+ {
+  "n": "Dereceli Puanlama Anahtarı Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-study-tools/tr/rubric-maker/",
+  "s": "Loona Study Tools",
+  "d": "Yazdırılabilir bir notlandırma rubriği oluşturun: ölçütler kenarda, dört performans düzeyi üstte, puanlar otomatik hesaplanır.",
+  "k": "rubric maker yazdirilabilir bir notlandirma rubrigi olusturun olcutler kenarda dort performans duzeyi ustte puanlar otomatik hesaplanir",
+  "c": "Tool"
+ }
+]

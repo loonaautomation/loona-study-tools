@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ağırlıklı Not Hesaplayıcı",
+  "short_name": "Ağırlıklı Not Hesaplayıcı",
+  "description": "Ücretsiz ağırlıklı not hesaplayıcı: genel ders yüzdenizi ve harf notunuzu almak için kategori ağırlıklarını ve puanlarını (ödev, quizler, sınavlar, final) girin. Ağırlıklar otomatik normalize edilir.",
+  "id": "/loona-study-tools/tr/weighted-grade-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

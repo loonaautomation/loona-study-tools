@@ -1,0 +1,29 @@
+{
+  "name": "Loona pH Hesaplayıcı",
+  "short_name": "pH Hesaplayıcı",
+  "description": "Ücretsiz pH hesaplayıcı: pH, pOH, [H+] ve [OH-] arasında dönüştürün ve konsantrasyondan kuvvetli asit ve kuvvetli baz çözeltilerinin pH'ini hesaplayın.",
+  "id": "/loona-study-tools/tr/ph-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

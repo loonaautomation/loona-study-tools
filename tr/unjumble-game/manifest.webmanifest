@@ -1,0 +1,29 @@
+{
+  "name": "Loona Karışık Cümleleri Düzeltme Oyunu",
+  "short_name": "Karışık Cümleleri Düzeltme Oyunu",
+  "description": "Ücretsiz karışık cümle oyunu: cümleler kelime kelime karıştırılır ve öğrenciler, anında kontroller ve bir final puanıyla, kelimeleri doğru sıraya geri dokundurur.",
+  "id": "/loona-study-tools/tr/unjumble-game/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

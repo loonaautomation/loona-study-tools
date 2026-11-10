@@ -1,0 +1,29 @@
+{
+  "name": "Loona Çarpım Tablosu Alıştırması",
+  "short_name": "Çarpım Tablosu Alıştırması",
+  "description": "Ücretsiz çarpım tablosu alıştırması: 2-12 tablolarını seçin, anında kontrol ve zayıf tablo tekrarı ile zamanlı turlar çalışın, ayrıca yazdırılabilir bir 12x12 çarpım tablosu.",
+  "id": "/loona-study-tools/tr/multiplication-tables-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Matematik İşlemleri Hız Testi",
+  "short_name": "Matematik İşlemleri Hız Testi",
+  "description": "Ücretsiz matematik işlemleri hız testi: anında kontrol, doğruluk ve seri takibiyle 60 saniyelik bir toplama, çıkarma, çarpma ve bölme işlemleri sprinti.",
+  "id": "/loona-study-tools/tr/math-facts-speed-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

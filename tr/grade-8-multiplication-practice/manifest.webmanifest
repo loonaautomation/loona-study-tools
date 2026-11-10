@@ -1,0 +1,29 @@
+{
+  "name": "Loona 8. Sınıf Çarpma Alıştırması",
+  "short_name": "8. Sınıf Çarpma Alıştırması",
+  "description": "Ücretsiz 8. sınıf çarpma alıştırması — kesirleri ve bileşik kesirleri çarpma (tekrar). Çözümlü bir örnek, yazdırılabilir cevap anahtarlı 6 alıştırma sorusu, yöntem, sık yapılan hata ve en iyi ipucu.",
+  "id": "/loona-study-tools/tr/grade-8-multiplication-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

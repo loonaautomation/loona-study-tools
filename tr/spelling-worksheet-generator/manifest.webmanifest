@@ -1,0 +1,29 @@
+{
+  "name": "Loona Yazım Çalışma Kağıdı Oluşturucu",
+  "short_name": "Yazım Çalışma Kağıdı Oluşturucu",
+  "description": "Ücretsiz yazım çalışma kağıdı oluşturucu: tek bir kelime listesinden, bir cevap anahtarıyla, düzeltme alıştırması, eksik ünlü çalışma kağıtları, ABC sırası alıştırması ve bir yazım testi kağıdı alın.",
+  "id": "/loona-study-tools/tr/spelling-worksheet-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

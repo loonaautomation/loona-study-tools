@@ -1,0 +1,29 @@
+{
+  "name": "Loona Bilgi Kartları Oluşturucu",
+  "short_name": "Bilgi Kartları Oluşturucu",
+  "description": "Ücretsiz bilgi kartları oluşturucu: desteler oluşturun, çevirmeli kartlarla çalışın, karıştırın ve biliyorum/bilmiyorum takibi yapın. CSV &amp; JSON içe/dışa aktarma, kartları yazdırma. Kayıt yok, cihazınızda kaydedilir.",
+  "id": "/loona-study-tools/tr/flashcards/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

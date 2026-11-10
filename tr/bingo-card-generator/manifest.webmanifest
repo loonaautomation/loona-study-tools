@@ -1,0 +1,29 @@
+{
+  "name": "Loona Bingo Kartı Oluşturucu",
+  "short_name": "Bingo Kartı Oluşturucu",
+  "description": "Ücretsiz bingo kartı oluşturucu: 24+ kelime girin ve tüm bir sınıf için benzersiz yazdırılabilir 5x5 bingo kartları artı karıştırılmış bir çağrı listesi oluşturun. Kelime bilgisi, ezber kelimeleri, sayılar ve daha fazlası.",
+  "id": "/loona-study-tools/tr/bingo-card-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

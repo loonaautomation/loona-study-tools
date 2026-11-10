@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kelime Duvarı Kartları Oluşturucu",
+  "short_name": "Kelime Duvarı Kartları Oluşturucu",
+  "description": "Ücretsiz kelime duvarı kartları oluşturucu: bir kelime listesi yazın ve sınıf panoları ve okuma köşeleri için üç boyutta büyük, kalın yazdırılabilir kelime duvarı kartları alın.",
+  "id": "/loona-study-tools/tr/word-wall-cards/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

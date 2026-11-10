@@ -1,0 +1,29 @@
+{
+  "name": "Loona Nijerya CGPA Derece Sınıfı",
+  "short_name": "Nijerya CGPA Derece Sınıfı",
+  "description": "5.0 ölçeğinde Nijerya üniversitesi CGPA sınıf kuşakları: Birinci Sınıf 4.50–5.00, İkinci Üst 3.50–4.49, İkinci Alt 2.40–3.49; bir sınıf denetleyicisiyle.",
+  "id": "/loona-study-tools/tr/nigeria-cgpa-class-of-degree/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

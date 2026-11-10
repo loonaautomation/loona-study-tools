@@ -1,0 +1,29 @@
+{
+  "name": "Loona Quiz Oluşturucu",
+  "short_name": "Quiz Oluşturucu",
+  "description": "Öğretmenler için ücretsiz quiz oluşturucu: çoktan seçmeli, doğru/yanlış ve kısa cevaplı sorular, anında puan ve incelemeyle deneme modu, yazdırılabilir quiz + ayrı cevap anahtarı, JSON dışa/içe aktarma.",
+  "id": "/loona-study-tools/tr/quiz-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

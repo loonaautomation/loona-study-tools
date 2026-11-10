@@ -1,0 +1,29 @@
+{
+  "name": "Loona Sınıf Puan Tahtası",
+  "short_name": "Sınıf Puan Tahtası",
+  "description": "Ücretsiz sınıf puan tahtası: sınıf ekranı için büyük renkli takım puanı kartları, tek dokunuş +1/+5/-1, dersler arasında tarayıcınızda kaydedilir.",
+  "id": "/loona-study-tools/tr/classroom-scoreboard/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

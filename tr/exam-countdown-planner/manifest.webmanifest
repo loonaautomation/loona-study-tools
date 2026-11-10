@@ -1,0 +1,29 @@
+{
+  "name": "Loona Sınav Geri Sayım Planlayıcı",
+  "short_name": "Sınav Geri Sayım Planlayıcı",
+  "description": "Ücretsiz sınav geri sayım planlayıcı: sınav tarihinizi, derslerinizi ve günlük oturumlarınızı girin ve sınav gününe kadar dersleri zorluk ağırlığına göre adil bir şekilde yayan, günden güne bir tekrar planı alın.",
+  "id": "/loona-study-tools/tr/exam-countdown-planner/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

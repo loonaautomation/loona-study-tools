@@ -1,0 +1,29 @@
+{
+  "name": "Loona Avustralya GPA Dönüştürücü",
+  "short_name": "Avustralya GPA Dönüştürücü",
+  "description": "Avustralya üniversite notlarını 7 puanlık ölçekte (HD = 7) yüzdeler ve yaklaşık 4.0 ölçekli GPA'ye, standart not tablosuyla dönüştürün.",
+  "id": "/loona-study-tools/tr/australia-gpa-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
