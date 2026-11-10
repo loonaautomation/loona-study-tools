@@ -1,0 +1,29 @@
+{
+  "name": "Loona Criador de Rubricas de Avaliação",
+  "short_name": "Criador de Rubricas de Avaliação",
+  "description": "Criador de rubricas de avaliação gratuito: adicionar critérios e pontos máximos, descrever quatro níveis de desempenho e obter uma grelha de rubrica imprimível com os pontos por nível calculados automaticamente.",
+  "id": "/loona-study-tools/pt/rubric-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

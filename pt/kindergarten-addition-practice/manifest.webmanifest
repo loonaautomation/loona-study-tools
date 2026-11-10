@@ -1,0 +1,29 @@
+{
+  "name": "Loona Prática de Adição do Pré-escolar",
+  "short_name": "Prática de Adição do Pré-escolar",
+  "description": "Prática gratuita de adição do pré-escolar — somar dois números até 10. Um exemplo resolvido, 6 perguntas de prática com soluções imprimíveis, o método, o erro mais comum e uma dica essencial.",
+  "id": "/loona-study-tools/pt/kindergarten-addition-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

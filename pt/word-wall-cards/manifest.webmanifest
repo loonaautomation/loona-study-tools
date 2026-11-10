@@ -1,0 +1,29 @@
+{
+  "name": "Loona Gerador de Cartões do Mural de Palavras",
+  "short_name": "Gerador de Cartões do Mural de Palavras",
+  "description": "Gerador de cartões do mural de palavras gratuito: escrever uma lista de palavras e obter cartões de palavras grandes, a negrito e imprimíveis em três tamanhos para expositores da sala de aula e cantos de leitura.",
+  "id": "/loona-study-tools/pt/word-wall-cards/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

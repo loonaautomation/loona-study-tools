@@ -1,0 +1,29 @@
+{
+  "name": "Loona Teste de Ortografia",
+  "short_name": "Teste de Ortografia",
+  "description": "Teste de ortografia gratuito: o navegador lê cada palavra em voz alta, escreve-se a ortografia e obtém-se uma pontuação imediata com a revisão das palavras falhadas. Listas incorporadas por idade e listas de palavras próprias.",
+  "id": "/loona-study-tools/pt/spelling-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Gerador de Fichas de Matemática",
+  "short_name": "Gerador de Fichas de Matemática",
+  "description": "Gerador de fichas de matemática gratuito: fichas de adição, subtração, multiplicação, divisão, frações, decimais e divisão longa com intervalo de números, opções de reagrupamento e uma chave de respostas imprimível.",
+  "id": "/loona-study-tools/pt/math-worksheet-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

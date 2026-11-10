@@ -1,0 +1,29 @@
+{
+  "name": "Loona Teste de Velocidade de Leitura",
+  "short_name": "Teste de Velocidade de Leitura",
+  "description": "Teste de velocidade de leitura gratuito: ler um texto cronometrado (3 opções, 400-600 palavras), responder a perguntas de compreensão e obter a velocidade de leitura em palavras por minuto, além de um guia honesto das boas velocidades de leitura por idade.",
+  "id": "/loona-study-tools/pt/reading-speed-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

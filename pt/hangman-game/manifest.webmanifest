@@ -1,0 +1,29 @@
+{
+  "name": "Loona Jogo da Forca",
+  "short_name": "Jogo da Forca",
+  "description": "Jogo da forca gratuito com listas de palavras escolares incorporadas (animais, ciências, geografia, escola) ou com palavras próprias. Seis tentativas erradas, teclado no ecrã, diversão sem necessidade de imprimir.",
+  "id": "/loona-study-tools/pt/hangman-game/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

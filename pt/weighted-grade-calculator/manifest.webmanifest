@@ -1,0 +1,29 @@
+{
+  "name": "Loona Calculadora de Nota Ponderada",
+  "short_name": "Calculadora de Nota Ponderada",
+  "description": "Calculadora de nota ponderada gratuita: introduzir os pesos e as pontuações das categorias (trabalhos de casa, questionários, testes, exame final) para obter a percentagem global do curso e a nota por letra. Os pesos são normalizados automaticamente.",
+  "id": "/loona-study-tools/pt/weighted-grade-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

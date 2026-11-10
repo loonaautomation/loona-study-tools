@@ -1,0 +1,29 @@
+{
+  "name": "Loona EZ Grader",
+  "short_name": "EZ Grader",
+  "description": "EZ Grader gratuito para professores: introduzir o total de perguntas e o número de respostas erradas para obter de imediato a percentagem e a nota por letra, com uma tabela de classificação completa para essa duração de teste.",
+  "id": "/loona-study-tools/pt/ez-grader/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

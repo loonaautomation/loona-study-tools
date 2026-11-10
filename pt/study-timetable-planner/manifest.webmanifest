@@ -1,0 +1,29 @@
+{
+  "name": "Loona Planeador de Horário de Estudo",
+  "short_name": "Planeador de Horário de Estudo",
+  "description": "Planeador de horário de estudo gratuito: introduzir disciplinas, horas por dia e uma data de exame para gerar um horário de estudo semanal equilibrado, editável e imprimível, com rotação justa das disciplinas.",
+  "id": "/loona-study-tools/pt/study-timetable-planner/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

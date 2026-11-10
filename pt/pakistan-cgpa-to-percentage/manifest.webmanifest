@@ -1,0 +1,29 @@
+{
+  "name": "Loona CGPA para Percentagem do Paquistão",
+  "short_name": "CGPA para Percentagem do Paquistão",
+  "description": "A tabela de classificações do sistema semestral da HEC usada pelas universidades paquistanesas: notas por letra, pontos de GPA e faixas percentuais, com um conversor para a escala de 4.0.",
+  "id": "/loona-study-tools/pt/pakistan-cgpa-to-percentage/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
