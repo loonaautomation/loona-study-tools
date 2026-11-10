@@ -164,7 +164,7 @@ body.print-cards .screenonly{display:none!important}body.print-cards #printCards
 <div class="panel screenonly">
 <div class="row"><div class="field"><label for="mmIn">کیمیائی فارمولا</label><input type="text" id="mmIn" value="Ca(OH)2" style="font-size:1.1rem"></div>
 <div class="field" style="flex:0"><label>&nbsp;</label><button class="btn" id="bMm" type="button">مولر ماس حساب کریں</button></div></div>
-<p style="color:var(--mut)">elements with correct capitals (Ca not ca), numbers for counts, and brackets for groups: H2O, CO2, C6H12O6, Ca(OH)2, Al2(SO4)3, Fe2(SO4)3. لکھیں۔</p>
+<p style="color:var(--mut)">عناصر درست بڑے حروف کے ساتھ لکھیں (Ca نہ کہ ca)، گنتی کے لیے اعداد اور گروپوں کے لیے قوسین: H2O, CO2, C6H12O6, Ca(OH)2, Al2(SO4)3, Fe2(SO4)3.</p>
 <div id="mmOut"></div></div>
 <section class="block"><h2>اسے کیسے استعمال کریں</h2><ol><li><strong>فارمولا ٹائپ کریں</strong> درست عنصر علامتوں کے ساتھ: پہلا حرف بڑا، دوسرا چھوٹا (Fe، FE نہیں)۔</li><li><strong>قوسین معمول سے استعمال کریں:</strong> Ca(OH)2 کا مطلب ہے ایک کیلشیم، اور (OH) گروپ دو بار — پارسر قوسین کے اندر کو قوسین کے بعد والے عدد سے ضرب دیتا ہے، Al2(SO4)3 جیسی اندرونی گنتی سمیت۔</li><li><strong>تفصیل پڑھیں:</strong> کل پر بھروسا کرنے سے پہلے جانچیں ایٹم گنتیاں آپ کے فارمولے سے ملتی ہیں — وہ جدول سیکھنا ہے، صرف جواب نہیں۔</li></ol></section>
 <section class="block"><h2>یہ کیسے کام کرتا ہے</h2><p>ایک recursive-descent پارسر فارمولا پڑھتا ہے: عناصر کی علامتیں تمام 118 عناصر کے معیاری جوہری کمیتوں کے اندرونی جدول میں دیکھی جاتی ہیں، اعداد پچھلے عنصر یا قوسین گروپ کو ضرب دیتے ہیں، اور قوسین دہرائی سے کام کرتی ہیں تاکہ گروپوں کے اندر گروپ کام کریں۔ کل ہر ایٹم کی کمیت کا مجموعہ ہے، تین اعشاریوں تک تقریب شدہ، اسکول ڈیٹا کتابچوں کی درستگی کے مطابق۔</p></section>
