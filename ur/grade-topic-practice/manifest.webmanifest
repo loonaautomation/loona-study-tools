@@ -1,0 +1,29 @@
+{
+  "name": "Loona درجہ اور موضوع کے مطابق مشق",
+  "short_name": "درجہ اور موضوع کے مطابق مشق",
+  "description": "Loona Study Tools پر تمام درجہ و موضوع مشق صفحات (کنڈرگارٹن سے درجہ 8)، مضمون رہنما، جماعت 9–12 کے لیے پاکستان بورڈ امتحان رہنما اور CGPA تبدیل کرنے والوں کی ایک فہرست۔",
+  "id": "/loona-study-tools/ur/grade-topic-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

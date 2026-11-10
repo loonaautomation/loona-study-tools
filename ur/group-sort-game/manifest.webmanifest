@@ -1,0 +1,29 @@
+{
+  "name": "Loona گروپ ترتیب کا کھیل",
+  "short_name": "گروپ ترتیب کا کھیل",
+  "description": "جماعتوں کے لیے مفت گروپ ترتیب کھیل: زمرے اور اشیاء طے کریں، طلبہ اشیاء کو درست گروپوں میں چھوتے ہیں اور تصحیح کے ساتھ فوری نمبر پاتے ہیں۔",
+  "id": "/loona-study-tools/ur/group-sort-game/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona وزنی درجے کا کیلکولیٹر",
+  "short_name": "وزنی درجے کا کیلکولیٹر",
+  "description": "مفت وزنی درجہ کیلکولیٹر: زمرہ وزن اور نمبر درج کریں (گھر کا کام، کوئز، امتحان، حتمی) اور اپنے کورس کا کل فیصد اور حرفی درجہ حاصل کریں۔ وزن خودکار معمول پر آ جاتے ہیں۔",
+  "id": "/loona-study-tools/ur/weighted-grade-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

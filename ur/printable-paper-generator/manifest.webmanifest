@@ -1,0 +1,29 @@
+{
+  "name": "Loona قابلِ طبع کاغذ بنانے والا",
+  "short_name": "قابلِ طبع کاغذ بنانے والا",
+  "description": "مفت قابلِ طبع کاغذ بنانے والا: گراف کاغذ، نقطہ جال، ہم پیما کاغذ، 3 لکیروں والا خوش خطی کاغذ اور چوڑی لکیروں والی سطریں بالکل 8/10/14mm فاصلے پر۔ اصل سائز کے لیے 100% پر پرنٹ کریں۔",
+  "id": "/loona-study-tools/ur/printable-paper-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

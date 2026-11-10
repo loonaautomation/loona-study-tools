@@ -1,0 +1,29 @@
+{
+  "name": "Loona 4.0 پیمانے پر GPA سے فیصد",
+  "short_name": "4.0 پیمانے پر GPA سے فیصد",
+  "description": "4.0 پیمانے کے GPA کو فیصد میں بدلیں معیاری حرفی درجہ جدول سے (A = 4.0 = 93–100%)، خطی ×25 اندازے کے ساتھ دکھایا گیا۔",
+  "id": "/loona-study-tools/ur/gpa-4-scale-to-percentage/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

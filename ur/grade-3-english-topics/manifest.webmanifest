@@ -1,0 +1,29 @@
+{
+  "name": "Loona درجہ 3 انگریزی موضوعات اور مطالعہ رہنما",
+  "short_name": "درجہ 3 انگریزی موضوعات اور مطالعہ رہنما",
+  "description": "درجہ 3 کے انگریزی موضوعات تدریسی ترتیب میں — اجزائے کلام، ماضی اور حال کے زمانے (باقاعدہ افعال)، فہرستوں میں کومے اور اقتباس کے نشان (پہلی نظر) اور مزید — ہر موضوع کے لیے مفت مطالعے کے اوزاروں کے ساتھ۔",
+  "id": "/loona-study-tools/ur/grade-3-english-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona حتمی امتحان کے درجے کا کیلکولیٹر",
+  "short_name": "حتمی امتحان کے درجے کا کیلکولیٹر",
+  "description": "مفت حتمی امتحان کیلکولیٹر: اپنا موجودہ درجہ، حتمی امتحان کا وزن اور اپنا ہدف درج کریں تاکہ بالکل معلوم ہو کہ حتمی امتحان میں کتنے نمبر چاہئیں — اور آیا یہ اب بھی ممکن ہے۔",
+  "id": "/loona-study-tools/ur/final-exam-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

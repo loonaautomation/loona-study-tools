@@ -1,0 +1,29 @@
+{
+  "name": "Loona کوئز بنانے والا",
+  "short_name": "کوئز بنانے والا",
+  "description": "اساتذہ کے لیے مفت کوئز بنانے والا: کثیر الانتخابی، درست/غلط اور مختصر جوابی سوالات، فوری نمبر اور جائزے کے ساتھ کوشش کی صورت، قابلِ طبع کوئز + الگ جوابی کلید، JSON برآمد/درآمد۔",
+  "id": "/loona-study-tools/ur/quiz-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

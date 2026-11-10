@@ -1,0 +1,29 @@
+{
+  "name": "Loona بنگو کارڈ بنانے والا",
+  "short_name": "بنگو کارڈ بنانے والا",
+  "description": "مفت بنگو کارڈ بنانے والا: 24+ الفاظ درج کریں اور پوری جماعت کے لیے منفرد قابلِ طبع 5x5 بنگو کارڈ بنائیں، ملی جلی پکار فہرست کے ساتھ۔ ذخیرۂ الفاظ، بصری الفاظ، اعداد اور مزید۔",
+  "id": "/loona-study-tools/ur/bingo-card-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

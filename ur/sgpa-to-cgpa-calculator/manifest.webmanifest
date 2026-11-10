@@ -1,0 +1,29 @@
+{
+  "name": "Loona SGPA سے CGPA کیلکولیٹر",
+  "short_name": "SGPA سے CGPA کیلکولیٹر",
+  "description": "سمسٹر SGPAs کو درست طریقے سے CGPA میں ملائیں: کریڈٹ کے وزن والی اوسط، سادہ اوسط نہیں۔ اپنے سمسٹر ان کے کریڈٹس کے ساتھ شامل کریں۔",
+  "id": "/loona-study-tools/ur/sgpa-to-cgpa-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

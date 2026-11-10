@@ -1,0 +1,29 @@
+{
+  "name": "Loona بصری شیڈول بنانے والا",
+  "short_name": "بصری شیڈول بنانے والا",
+  "description": "مفت بصری شیڈول بنانے والا: اوقات، تصاویر اور سرگرمیوں کے ساتھ اسکول کے دن کا قابلِ طبع تصویری شیڈول بنائیں — چھوٹے بچوں اور SEN مدد کے لیے مثالی۔",
+  "id": "/loona-study-tools/ur/visual-schedule-builder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

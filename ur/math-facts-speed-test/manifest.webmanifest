@@ -1,0 +1,29 @@
+{
+  "name": "Loona ریاضی حقائق رفتار امتحان",
+  "short_name": "ریاضی حقائق رفتار امتحان",
+  "description": "مفت ریاضی حقائق رفتار امتحان: جمع، تفریق، ضرب اور تقسیم حقائق کی 60 سیکنڈ کی دوڑ، فوری جانچ، درستگی اور سلسلے کی نگرانی کے ساتھ۔",
+  "id": "/loona-study-tools/ur/math-facts-speed-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

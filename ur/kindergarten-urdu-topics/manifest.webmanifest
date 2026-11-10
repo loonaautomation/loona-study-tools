@@ -1,0 +1,29 @@
+{
+  "name": "Loona کنڈرگارٹن اردو موضوعات اور مطالعہ رہنما",
+  "short_name": "کنڈرگارٹن اردو موضوعات اور مطالعہ رہنما",
+  "description": "کنڈرگارٹن کے اردو موضوعات تدریسی ترتیب میں — اردو قاعدہ، حروف کی آوازیں (اردو میں فونکس)، سادہ تین حرفی الفاظ اور مزید — ہر موضوع کے لیے مفت مطالعے کے اوزاروں کے ساتھ۔",
+  "id": "/loona-study-tools/ur/kindergarten-urdu-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

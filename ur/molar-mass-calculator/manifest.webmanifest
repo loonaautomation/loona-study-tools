@@ -1,0 +1,29 @@
+{
+  "name": "Loona مولر ماس کیلکولیٹر",
+  "short_name": "مولر ماس کیلکولیٹر",
+  "description": "مفت مولر ماس کیلکولیٹر: قوسین سمیت کوئی بھی کیمیائی فارمولا لکھیں — Ca(OH)2، Al2(SO4)3 — اور g/mol میں مولر ماس حاصل کریں، فی عنصر تفصیل جدول کے ساتھ۔",
+  "id": "/loona-study-tools/ur/molar-mass-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona ملاپ ورک شیٹ بنانے والا",
+  "short_name": "ملاپ ورک شیٹ بنانے والا",
+  "description": "مفت ملاپ ورک شیٹ بنانے والا: اصطلاح = تعریف کے جوڑے لکھیں اور ملی جلی تعریفوں اور استاد کی جوابی کلید کے ساتھ قابلِ طبع ملاپ ورک شیٹ حاصل کریں۔",
+  "id": "/loona-study-tools/ur/matching-worksheet-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

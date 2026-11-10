@@ -1,0 +1,29 @@
+{
+  "name": "Loona روبرک بنانے والا",
+  "short_name": "روبرک بنانے والا",
+  "description": "مفت روبرک بنانے والا: معیار اور زیادہ سے زیادہ پوائنٹس شامل کریں، کارکردگی کے چار درجے بیان کریں، اور قابلِ طبع روبرک جال حاصل کریں جس میں فی درجہ پوائنٹس خودکار حساب ہوتے ہیں۔",
+  "id": "/loona-study-tools/ur/rubric-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

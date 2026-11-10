@@ -1,0 +1,29 @@
+{
+  "name": "Loona مطالعے کے ٹائم ٹیبل کا منصوبہ ساز",
+  "short_name": "مطالعے کے ٹائم ٹیبل کا منصوبہ ساز",
+  "description": "مفت مطالعہ ٹائم ٹیبل منصوبہ ساز: مضامین، روزانہ گھنٹے اور امتحان کی تاریخ درج کریں اور منصفانہ مضمون گردش کے ساتھ متوازن، قابلِ ترمیم، قابلِ طبع ہفتہ وار مطالعہ ٹائم ٹیبل بنائیں۔",
+  "id": "/loona-study-tools/ur/study-timetable-planner/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

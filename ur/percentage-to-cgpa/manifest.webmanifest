@@ -1,0 +1,29 @@
+{
+  "name": "Loona فیصد سے CGPA کنورٹر (4.0، 5.0 پیمانے)",
+  "short_name": "فیصد سے CGPA کنورٹر",
+  "description": "فیصد کو واپس CGPA میں بدلیں 4.0، 5.0 اور 10 نکاتی پیمانوں پر: بھارت کے لیے % ÷ 9.5، 4.0 اور 5.0 کے لیے خطی مساوی، جدولوں کے ساتھ۔",
+  "id": "/loona-study-tools/ur/percentage-to-cgpa/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

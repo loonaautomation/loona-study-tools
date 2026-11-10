@@ -1,0 +1,29 @@
+{
+  "name": "Loona بھارت CGPA سے فیصد",
+  "short_name": "بھارت CGPA سے فیصد",
+  "description": "بھارتی 10 نکاتی CGPA کو فیصد میں بدلیں CBSE فارمولے (× 9.5) اور بھارتی جامعات کی صورتوں — (CGPA − 0.5) × 10 اور × 10 — کے ساتھ، مکمل جدول سمیت۔",
+  "id": "/loona-study-tools/ur/india-cgpa-to-percentage/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

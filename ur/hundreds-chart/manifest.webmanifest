@@ -1,0 +1,29 @@
+{
+  "name": "Loona سینکڑوں کا چارٹ",
+  "short_name": "سینکڑوں کا چارٹ",
+  "description": "مفت سینکڑوں چارٹ: جفت/طاق اور اضعاف کی نمایانی اور عددی سمجھ کے لیے غائب اعداد کی مشق صورت کے ساتھ انٹرایکٹو قابلِ طبع 1-100 چارٹ۔",
+  "id": "/loona-study-tools/ur/hundreds-chart/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

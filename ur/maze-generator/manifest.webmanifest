@@ -1,0 +1,29 @@
+{
+  "name": "Loona بھول بھلیاں بنانے والا",
+  "short_name": "بھول بھلیاں بنانے والا",
+  "description": "مفت بھول بھلیاں بنانے والا: چار مشکل درجوں (8x8 سے 26x26) میں قابلِ طبع بھول بھلیاں، ہر بار نئی بنائی گئی، جانچ کے لیے اختیاری سرخ حل راستے کے ساتھ۔",
+  "id": "/loona-study-tools/ur/maze-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

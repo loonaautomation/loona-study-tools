@@ -1,0 +1,29 @@
+{
+  "name": "Loona جملے درست کرنے کا کھیل",
+  "short_name": "جملے درست کرنے کا کھیل",
+  "description": "مفت جملے درست کرنے کا کھیل: جملے لفظ بہ لفظ ملا دیے جاتے ہیں اور طلبہ الفاظ کو چھو کر درست ترتیب میں واپس لاتے ہیں، فوری جانچ اور آخری نمبر کے ساتھ۔",
+  "id": "/loona-study-tools/ur/unjumble-game/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona نام ٹیگ بنانے والا",
+  "short_name": "نام ٹیگ بنانے والا",
+  "description": "مفت نام ٹیگ بنانے والا: جماعت کی فہرست چسپاں کریں اور جماعت/اسکول کے ذیلی عنوان کے ساتھ صاف نام ٹیگ پرنٹ کریں — پہلے دنوں، سیر، والدین کی ملاقات اور گروپ کام کے لیے۔",
+  "id": "/loona-study-tools/ur/name-tags-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

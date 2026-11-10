@@ -1,0 +1,29 @@
+{
+  "name": "Loona دیواری الفاظ کارڈ بنانے والا",
+  "short_name": "دیواری الفاظ کارڈ بنانے والا",
+  "description": "مفت دیواری الفاظ کارڈ بنانے والا: الفاظ فہرست لکھیں اور جماعت کی نمائش اور مطالعہ کونوں کے لیے تین سائزوں میں بڑے، نمایاں قابلِ طبع دیواری الفاظ کارڈ حاصل کریں۔",
+  "id": "/loona-study-tools/ur/word-wall-cards/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

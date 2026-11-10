@@ -1,0 +1,29 @@
+{
+  "name": "Loona فلیش کارڈ بنانے والا",
+  "short_name": "فلیش کارڈ بنانے والا",
+  "description": "مفت فلیش کارڈ بنانے والا: ڈیک بنائیں، الٹنے والے کارڈز سے مطالعہ کریں، ملائیں اور آتا ہے/نہیں آتا کی نگرانی کریں۔ CSV &amp; JSON درآمد/برآمد، کارڈ پرنٹ کریں۔ کوئی رجسٹریشن نہیں، آپ کے آلے پر محفوظ۔",
+  "id": "/loona-study-tools/ur/flashcards/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

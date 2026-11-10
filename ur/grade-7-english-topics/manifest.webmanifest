@@ -1,0 +1,29 @@
+{
+  "name": "Loona درجہ 7 انگریزی موضوعات اور مطالعہ رہنما",
+  "short_name": "درجہ 7 انگریزی موضوعات اور مطالعہ رہنما",
+  "description": "درجہ 7 کے انگریزی موضوعات تدریسی ترتیب میں — زمانوں کا اعادہ، اوقاف میں مہارت، محاورے اور فقرے افعال اور مزید — ہر موضوع کے لیے مفت مطالعے کے اوزاروں کے ساتھ۔",
+  "id": "/loona-study-tools/ur/grade-7-english-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

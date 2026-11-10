@@ -1,0 +1,29 @@
+{
+  "name": "Loona 5.0 پیمانے پر CGPA سے فیصد",
+  "short_name": "5.0 پیمانے پر CGPA سے فیصد",
+  "description": "5.0 پیمانے کے CGPA کو فیصد میں بدلیں (CGPA ÷ 5 × 100) مکمل جدول کے ساتھ، اور نائجیریا و بنگلہ دیش کے درجہ بندی صفحات جہاں درجے فیصد سے زیادہ اہم ہوتے ہیں۔",
+  "id": "/loona-study-tools/ur/cgpa-5-scale-to-percentage/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

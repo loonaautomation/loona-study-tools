@@ -1,0 +1,29 @@
+{
+  "name": "Loona نام زد خاکہ بنانے والا",
+  "short_name": "نام زد خاکہ بنانے والا",
+  "description": "مفت نام زد خاکہ بنانے والا: خاکہ اپ لوڈ کریں، کلک کر کے نمبر دار لیبل لگائیں، نام زد یا خالی صورت پرنٹ کریں، اور لیبلوں پر طلبہ سے کوئز لیں۔ تصویر آپ کے آلے سے باہر نہیں جاتی۔",
+  "id": "/loona-study-tools/ur/labelled-diagram-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
