@@ -1,0 +1,29 @@
+{
+  "name": "Loona 掛け算表の練習",
+  "short_name": "掛け算表の練習",
+  "description": "無料の掛け算表練習：2-12 の表を選び、即時チェック付きの時間制限ラウンドで練習し、苦手な表を復習。印刷できる 12x12 掛け算表も付きます。",
+  "id": "/loona-study-tools/ja/multiplication-tables-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

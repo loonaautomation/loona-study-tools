@@ -1,0 +1,29 @@
+{
+  "name": "Loona 8年生 掛け算の練習",
+  "short_name": "8年生 掛け算",
+  "description": "無料の8年生の掛け算の練習 — 分数と帯分数の掛け算 (復習)。解き方の例、印刷できる解答付きの練習問題が6問、方法、よくある間違い、一番のヒント。",
+  "id": "/loona-study-tools/ja/grade-8-multiplication-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona 期末試験成績計算ツール",
+  "short_name": "期末試験成績計算ツール",
+  "description": "無料の期末試験計算ツール：現在の成績、期末の重み、目標を入力すると、期末で必要なスコアが正確に分かり — そしてそれがまだ可能かどうかも分かります。",
+  "id": "/loona-study-tools/ja/final-exam-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

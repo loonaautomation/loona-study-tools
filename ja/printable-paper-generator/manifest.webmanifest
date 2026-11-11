@@ -1,0 +1,29 @@
+{
+  "name": "Loona 印刷用紙ジェネレーター",
+  "short_name": "印刷用紙ジェネレーター",
+  "description": "無料の印刷用紙ジェネレーター：方眼紙、ドットグリッド、等角投影紙、3線の手書き用紙、正確な 8/10/14mm 間隔の太罫線。100% で印刷すれば実物大です。",
+  "id": "/loona-study-tools/ja/printable-paper-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

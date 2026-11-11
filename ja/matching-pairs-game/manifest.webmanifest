@@ -1,0 +1,29 @@
+{
+  "name": "Loona ペア合わせゲーム",
+  "short_name": "ペア合わせゲーム",
+  "description": "無料のペア合わせメモリーゲーム：用語 = 定義のペアを入力し、手数と時間の記録付きでめくって合わせるゲームを遊びます。語彙と復習に最適です。",
+  "id": "/loona-study-tools/ja/matching-pairs-game/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

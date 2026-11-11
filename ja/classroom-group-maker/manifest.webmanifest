@@ -1,0 +1,29 @@
+{
+  "name": "Loona クラスグループ作成ツール",
+  "short_name": "クラスグループ作成ツール",
+  "description": "無料のクラスグループ作成ツール：クラスリストをブラウザに保存し、生徒をグループの大きさ、グループ数、またはペアでバランスの取れたランダムなグループに分けます。結果を印刷できます。",
+  "id": "/loona-study-tools/ja/classroom-group-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona モル質量計算ツール",
+  "short_name": "モル質量計算ツール",
+  "description": "無料のモル質量計算ツール：括弧付きのあらゆる化学式 — Ca(OH)2、Al2(SO4)3 — を入力すると、元素ごとの内訳表とともに g/mol のモル質量が得られます。",
+  "id": "/loona-study-tools/ja/molar-mass-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

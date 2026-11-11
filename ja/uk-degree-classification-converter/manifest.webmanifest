@@ -1,0 +1,29 @@
+{
+  "name": "Loona 英国学位分類変換ツール",
+  "short_name": "英国学位分類変換ツール",
+  "description": "英国の第一級、2:1、2:2、三級が、パーセンテージとおおよその米国 GPA の観点で何を意味するか — 公式の英国から GPA への換算は存在しないという正直な注意書き付き。",
+  "id": "/loona-study-tools/ja/uk-degree-classification-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

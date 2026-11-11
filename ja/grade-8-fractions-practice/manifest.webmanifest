@@ -1,0 +1,29 @@
+{
+  "name": "Loona 8年生 Fractionsの練習",
+  "short_name": "8年生 Fractionsの練習",
+  "description": "無料の8年生の分数の練習 — 分数の計算の復習と計算の順序。解き方の例、印刷できる解答付きの練習問題が6問、方法、よくある間違い、一番のヒント。",
+  "id": "/loona-study-tools/ja/grade-8-fractions-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

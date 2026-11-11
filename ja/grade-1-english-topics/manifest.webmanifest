@@ -1,0 +1,29 @@
+{
+  "name": "Loona 1年生 英語トピックと学習ガイド",
+  "short_name": "1年生 英語トピックと学習ガイド",
+  "description": "1年生の英語トピック（指導順） — CVC 単語、サイトワード セット1、大文字と句点、その他 — 各トピック向けの無料学習ツール付き。",
+  "id": "/loona-study-tools/ja/grade-1-english-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

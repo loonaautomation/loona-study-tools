@@ -1,0 +1,29 @@
+{
+  "name": "Loona 単語スペリングゲーム",
+  "short_name": "単語スペリングゲーム",
+  "description": "無料の単語スペリングゲーム：生徒はヒントを使って、シャッフルされた文字タイルをタップして各単語を組み立てます。即時チェック付きの触覚的なスペリング練習です。",
+  "id": "/loona-study-tools/ja/spell-the-word/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

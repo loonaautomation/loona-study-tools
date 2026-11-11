@@ -1,0 +1,29 @@
+{
+  "name": "Loona 4年生 英語トピックと学習ガイド",
+  "short_name": "4年生 英語トピックと学習ガイド",
+  "description": "4年生の英語トピック（指導順） — 代名詞、副詞と前置詞、不規則過去形動詞、直接話法の句読点、その他 — 各トピック向けの無料学習ツール付き。",
+  "id": "/loona-study-tools/ja/grade-4-english-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

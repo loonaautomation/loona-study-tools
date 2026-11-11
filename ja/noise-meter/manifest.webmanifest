@@ -1,0 +1,29 @@
+{
+  "name": "Loona 教室騒音メーター",
+  "short_name": "教室騒音メーター",
+  "description": "無料の教室騒音メーター：緑／琥珀色／赤のゾーンと静かな連続記録のカウンター付きのライブマイクレベルバー。相対レベル表示 (デシベルではありません) で、デバイス上で分析され、録音されることは決してありません。",
+  "id": "/loona-study-tools/ja/noise-meter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

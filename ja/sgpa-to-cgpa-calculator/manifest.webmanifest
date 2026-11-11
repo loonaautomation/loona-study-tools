@@ -1,0 +1,29 @@
+{
+  "name": "Loona SGPA から CGPA への計算ツール",
+  "short_name": "SGPA から CGPA への計算ツール",
+  "description": "学期ごとの SGPA を正しい方法で CGPA にまとめます：単純平均ではなく、単位で加重した平均です。学期を単位数とともに追加してください。",
+  "id": "/loona-study-tools/ja/sgpa-to-cgpa-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona 6年生 ウルドゥー語トピックと学習ガイド",
+  "short_name": "6年生 ウルドゥー語トピックと学習ガイド",
+  "description": "6年生のウルドゥー語トピック（指導順） — Qawaid、要約の書き方 (khulasa naweesi)、伝記とエッセイの書き方のルール、その他 — 各トピック向けの無料学習ツール付き。",
+  "id": "/loona-study-tools/ja/grade-6-urdu-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

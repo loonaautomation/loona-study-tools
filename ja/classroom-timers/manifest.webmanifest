@@ -1,0 +1,29 @@
+{
+  "name": "Loona 教室タイマー",
+  "short_name": "教室タイマー",
+  "description": "無料の教室タイマー：進行リングと縮む視覚バー付きの大画面カウントダウン、終了時刻と残り時間を表示する試験タイマー、そしてラップ付きストップウォッチ。",
+  "id": "/loona-study-tools/ja/classroom-timers/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona 5.0 スケールでの CGPA からパーセントへ",
+  "short_name": "5.0 スケールでの CGPA からパーセントへ",
+  "description": "5.0 スケールの CGPA をパーセントに換算し (CGPA ÷ 5 × 100)、完全な表と、パーセントより分類バンドが重要なナイジェリアとバングラデシュ向けのバンドページを提供します。",
+  "id": "/loona-study-tools/ja/cgpa-5-scale-to-percentage/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona 8年生 社会科トピックと学習ガイド",
+  "short_name": "8年生 社会科トピック",
+  "description": "8年生の社会科トピック（指導順） — 世界大戦と現代世界 (概観)、パキスタン運動とパキスタンの建国、地政学の基礎、その他 — 各トピック向けの無料学習ツール付き。",
+  "id": "/loona-study-tools/ja/grade-8-social-studies-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

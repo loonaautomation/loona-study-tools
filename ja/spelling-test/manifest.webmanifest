@@ -1,0 +1,29 @@
+{
+  "name": "Loona スペリングテスト",
+  "short_name": "スペリングテスト",
+  "description": "無料のスペリングテスト：ブラウザが各単語を読み上げ、あなたはスペリングを入力し、間違えた単語のレビュー付きで即座にスコアが得られます。年齢別の組み込みリストと、自分の単語リストが使えます。",
+  "id": "/loona-study-tools/ja/spelling-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

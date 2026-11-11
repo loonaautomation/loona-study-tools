@@ -1,0 +1,29 @@
+{
+  "name": "Loona 文法クイズ",
+  "short_name": "文法クイズ",
+  "description": "無料の英語文法クイズ：時制、冠詞、前置詞、一致、条件文、句読点に関する 24 問。即座のスコアと、すべての答えへの解説付きです。",
+  "id": "/loona-study-tools/ja/grammar-quiz/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

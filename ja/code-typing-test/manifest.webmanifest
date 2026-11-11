@@ -1,0 +1,29 @@
+{
+  "name": "Loona コードタイピングテスト",
+  "short_name": "コードタイピングテスト",
+  "description": "無料のコードタイピングテスト：本物の JavaScript、Python、SQL のスニペットを正確に入力します — 括弧、記号、インデントが採点されます — 正確さ、分あたりの文字数、WPM 付きです。",
+  "id": "/loona-study-tools/ja/code-typing-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

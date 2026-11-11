@@ -1,0 +1,29 @@
+{
+  "name": "Loona ランダム名前ピッカー",
+  "short_name": "ランダム名前ピッカー",
+  "description": "教師向け無料ランダム名前ピッカー：クラスリストを貼り付けて生徒を公平にランダムに選びます。繰り返しなしモードで、全員に順番が回ってから誰かが繰り返します。",
+  "id": "/loona-study-tools/ja/random-name-picker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

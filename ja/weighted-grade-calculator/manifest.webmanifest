@@ -1,0 +1,29 @@
+{
+  "name": "Loona 加重成績計算ツール",
+  "short_name": "加重成績計算ツール",
+  "description": "無料の加重成績計算ツール：カテゴリの重みとスコア (宿題、小テスト、テスト、期末) を入力すると、コース全体のパーセントと文字評価が得られます。重みは自動的に正規化されます。",
+  "id": "/loona-study-tools/ja/weighted-grade-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona 2年生 英語トピックと学習ガイド",
+  "short_name": "2年生 英語トピックと学習ガイド",
+  "description": "2年生の英語トピック（指導順） — 長母音と二重字 (sh、ch、th)、サイトワード セット2 とワードファミリー、疑問符と感嘆符、その他 — 各トピック向けの無料学習ツール付き。",
+  "id": "/loona-study-tools/ja/grade-2-english-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

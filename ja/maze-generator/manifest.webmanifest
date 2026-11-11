@@ -1,0 +1,29 @@
+{
+  "name": "Loona 迷路ジェネレーター",
+  "short_name": "迷路ジェネレーター",
+  "description": "無料の迷路ジェネレーター：四つの難易度レベル (8x8 から 26x26) の印刷できる迷路が、毎回新たに生成されます。確認用の赤い解法パスは任意です。",
+  "id": "/loona-study-tools/ja/maze-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

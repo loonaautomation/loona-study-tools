@@ -1,0 +1,29 @@
+{
+  "name": "Loona バングラデシュ GPA からパーセントへの変換ツール",
+  "short_name": "バングラデシュ GPA からパーセントへの変換ツール",
+  "description": "バングラデシュ教育委員会の SSC と HSC 用 GPA 表：A+ 5.00 = 80〜100 点、すべての成績ポイントと点数範囲、さらに点数から GPA への変換ツール付き。",
+  "id": "/loona-study-tools/ja/bangladesh-gpa-to-percentage/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

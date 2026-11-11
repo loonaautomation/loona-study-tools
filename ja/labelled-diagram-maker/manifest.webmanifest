@@ -1,0 +1,29 @@
+{
+  "name": "Loona ラベル付き図表メーカー",
+  "short_name": "ラベル付き図表メーカー",
+  "description": "無料のラベル付き図表メーカー：図をアップロードし、クリックして番号付きラベルをピン留めし、ラベル付きまたは空白バージョンを印刷し、ラベルで生徒にクイズを出します。画像がデバイスの外に出ることは決してありません。",
+  "id": "/loona-study-tools/ja/labelled-diagram-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

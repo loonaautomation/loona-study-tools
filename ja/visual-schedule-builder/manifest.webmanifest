@@ -1,0 +1,29 @@
+{
+  "name": "Loona ビジュアルスケジュールビルダー",
+  "short_name": "ビジュアルスケジュールビルダー",
+  "description": "無料のビジュアルスケジュールビルダー：時刻、アイコン、アクティビティ付きの、印刷できる学校の一日の絵スケジュールを作成します — 小さい子どもたちと SEN サポートに最適です。",
+  "id": "/loona-study-tools/ja/visual-schedule-builder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

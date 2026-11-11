@@ -1,0 +1,452 @@
+[
+ {
+  "n": "フラッシュカードメーカー",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ja/flashcards/",
+  "s": "Loona Study Tools",
+  "d": "フラッシュカードデッキを作成し、めくるカードとシャッフルで学習し、覚えた内容を記録し、カードをエクスポートまたは印刷します。",
+  "k": "flashcards maker flashcards",
+  "p": 0,
+  "c": "Tool"
+ },
+ {
+  "n": "クイズメーカー",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ja/quiz-maker/",
+  "s": "Loona Study Tools",
+  "d": "教師は MCQ、真／偽、短答でクイズを作成します — 生徒は即座のスコアと完全な答えのレビュー付きでそれらに挑戦します。",
+  "k": "quiz maker quiz maker mcq",
+  "p": 1,
+  "c": "Tool"
+ },
+ {
+  "n": "Practice by Grade & Topic",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ja/grade-topic-practice/",
+  "s": "Loona Study Tools",
+  "d": "196の新しいページ：すべての学年と算数トピックの解き方の例と練習問題、理科・英語・社会科・ウルドゥー語の科目ガイド、9–12年生向けのパキスタン教育委員会試験ガイド、そして主要な成績評価スケールすべてに対応するCGPA変換ツール。",
+  "k": "practice by grade topic grade topic practice 196 9 12 cgpa",
+  "p": 102,
+  "c": "Tool"
+ },
+ {
+  "n": "算数ワークシートジェネレーター",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ja/math-worksheet-generator/",
+  "s": "Loona Study Tools",
+  "d": "印刷できる算数ワークシート — 足し算、引き算、掛け算、割り算、分数、小数 — を、対応する解答とともに生成します。",
+  "k": "math worksheet generator math worksheet generator",
+  "p": 2,
+  "c": "Tool"
+ },
+ {
+  "n": "読書速度テスト",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ja/reading-speed-test/",
+  "s": "Loona Study Tools",
+  "d": "時間制限のある文章を読み、理解度の問題に答えて、分あたりの単語数 (WPM) であなたの真の読書速度を取得してください。",
+  "k": "reading speed test reading speed test wpm",
+  "p": 3,
+  "c": "Tool"
+ },
+ {
+  "n": "学習時間割プランナー",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ja/study-timetable-planner/",
+  "s": "Loona Study Tools",
+  "d": "科目、毎日の学習時間、試験日を入力すると、編集と印刷ができるバランスの取れた週間学習時間割が得られます。",
+  "k": "study timetable planner study timetable planner",
+  "p": 4,
+  "c": "Tool"
+ },
+ {
+  "n": "掛け算表の練習",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ja/multiplication-tables-practice/",
+  "s": "Loona Study Tools",
+  "d": "時間制限付きの練習ラウンド、即時チェック、12 × 12 までの印刷できる掛け算表で九九を練習します。",
+  "k": "multiplication tables practice multiplication tables practice 12 12",
+  "p": 106,
+  "c": "Tool"
+ },
+ {
+  "n": "スペリングテスト",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ja/spelling-test/",
+  "s": "Loona Study Tools",
+  "d": "コンピュータが各単語を声に出して読みます — あなたはスペリングを入力します。即座のスコアと、間違えたすべての単語のレビュー。",
+  "k": "spelling test spelling test",
+  "p": 5,
+  "c": "Tool"
+ },
+ {
+  "n": "手書き練習ジェネレーター",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ja/handwriting-practice-generator/",
+  "s": "Loona Study Tools",
+  "d": "文字、数字、自分の単語のための、印刷できる手書き練習シートを作成します。なぞり線と空白の書き写し線付きです。",
+  "k": "handwriting practice generator handwriting practice generator",
+  "p": 108,
+  "c": "Tool"
+ },
+ {
+  "n": "試験カウントダウンプランナー",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ja/exam-countdown-planner/",
+  "s": "Loona Study Tools",
+  "d": "試験日と科目を入力すると、残りの日々にトピックを公平に配分した日ごとの復習プランが得られます。",
+  "k": "exam countdown planner exam countdown planner",
+  "p": 109,
+  "c": "Tool"
+ },
+ {
+  "n": "ワードサーチジェネレーター",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ja/word-search-generator/",
+  "s": "Loona Study Tools",
+  "d": "あなた独自の単語リストを、すべての単語の位置を示す別の解答付きの、印刷できるワードサーチパズルに変えてください。",
+  "k": "word search generator word search generator",
+  "p": 110,
+  "c": "Tool"
+ },
+ {
+  "n": "マッチングワークシートジェネレーター",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ja/matching-worksheet-generator/",
+  "s": "Loona Study Tools",
+  "d": "印刷できるマッチングワークシートを作成します — 左に用語、右にシャッフルされた定義 — 教師用の解答付きです。",
+  "k": "matching worksheet generator matching worksheet generator",
+  "p": 111,
+  "c": "Tool"
+ },
+ {
+  "n": "ランダム名前ピッカー",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ja/random-name-picker/",
+  "s": "Loona Study Tools",
+  "d": "クラスリストを貼り付けて、生徒を公平にランダムに選びます。繰り返しなしモード付きで、みんなに順番が回ります。",
+  "k": "random name picker random name picker",
+  "p": 112,
+  "c": "Tool"
+ },
+ {
+  "n": "ペア合わせゲーム",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ja/matching-pairs-game/",
+  "s": "Loona Study Tools",
+  "d": "あらゆる用語と定義のペアを、手数と時間の追跡付きの、めくって合わせるメモリーゲームに変えてください。",
+  "k": "matching pairs game matching pairs game",
+  "p": 113,
+  "c": "Tool"
+ },
+ {
+  "n": "グループ分けゲーム",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ja/group-sort-game/",
+  "s": "Loona Study Tools",
+  "d": "カテゴリと項目を作成します。生徒はすべての項目を正しいグループに分類し、即座にスコアが得られます。",
+  "k": "group sort game group sort game",
+  "p": 114,
+  "c": "Tool"
+ },
+ {
+  "n": "文の並べ替えゲーム",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ja/unjumble-game/",
+  "s": "Loona Study Tools",
+  "d": "文は単語ごとにシャッフルされます — 生徒は単語をタップして正しい順序に戻します。",
+  "k": "unjumble sentences game unjumble game",
+  "p": 115,
+  "c": "Tool"
+ },
+ {
+  "n": "アナグラムゲーム",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ja/anagram-game/",
+  "s": "Loona Study Tools",
+  "d": "単語は文字ごとにスクランブルされます。生徒は、あなたが提供するヒントを使って、それらを元に戻します。",
+  "k": "anagram game anagram game",
+  "p": 116,
+  "c": "Tool"
+ },
+ {
+  "n": "単語スペリングゲーム",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ja/spell-the-word/",
+  "s": "Loona Study Tools",
+  "d": "文字タイルを順番にタップして単語を組み立てます — ヒントと即時チェック付きのスペリング練習です。",
+  "k": "spell the word game spell the word",
+  "p": 117,
+  "c": "Tool"
+ },
+ {
+  "n": "ハングマンゲーム",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ja/hangman-game/",
+  "s": "Loona Study Tools",
+  "d": "学校科目向けの内蔵単語リスト、またはあなた独自の単語リストを使った、古典的な文字当てゲーム。",
+  "k": "hangman game hangman game",
+  "p": 118,
+  "c": "Tool"
+ },
+ {
+  "n": "クロスワードジェネレーター",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ja/crossword-generator/",
+  "s": "Loona Study Tools",
+  "d": "単語とヒントを入力すると、本物の交差するクロスワードパズルが生成されます — 印刷可能で、解答付きです。",
+  "k": "crossword generator crossword generator",
+  "p": 119,
+  "c": "Tool"
+ },
+ {
+  "n": "ビンゴカードジェネレーター",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ja/bingo-card-generator/",
+  "s": "Loona Study Tools",
+  "d": "クラス全体向けの重複しない印刷できる語彙ビンゴカードと、シャッフルされた読み上げリストを生成します。",
+  "k": "bingo card generator bingo card generator",
+  "p": 120,
+  "c": "Tool"
+ },
+ {
+  "n": "ラベル付き図表メーカー",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ja/labelled-diagram-maker/",
+  "s": "Loona Study Tools",
+  "d": "図をアップロードし、その上にラベルをピン留めし、ラベル付きまたは空白のバージョンを印刷し、ラベルクイズを実行してください。",
+  "k": "labelled diagram maker labelled diagram maker",
+  "p": 121,
+  "c": "Tool"
+ },
+ {
+  "n": "百マスチャート",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ja/hundreds-chart/",
+  "s": "Loona Study Tools",
+  "d": "偶数・奇数と倍数のハイライト付きで印刷もできる、インタラクティブな 1–100 チャート。欠けている数字を当てる練習モードも備えています。",
+  "k": "hundreds chart hundreds chart 1 100",
+  "p": 122,
+  "c": "Tool"
+ },
+ {
+  "n": "ワードウォールカードジェネレーター",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ja/word-wall-cards/",
+  "s": "Loona Study Tools",
+  "d": "単語リストを、教室のディスプレイ用の、大きく太字で印刷できるワードウォールカードに変えてください。",
+  "k": "word wall cards generator word wall cards",
+  "p": 123,
+  "c": "Tool"
+ },
+ {
+  "n": "数独ジェネレーター",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ja/sudoku-generator/",
+  "s": "Loona Study Tools",
+  "d": "印刷できる数独パズル — 4×4、6×6、9×9 — を生成します。解は一意で、別の解答ページが付きます。",
+  "k": "sudoku generator sudoku generator 4 4 6 6 9 9",
+  "p": 124,
+  "c": "Tool"
+ },
+ {
+  "n": "迷路ジェネレーター",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ja/maze-generator/",
+  "s": "Loona Study Tools",
+  "d": "四つの難易度レベルで印刷できる迷路を生成します。解法パスは任意です。",
+  "k": "maze generator maze generator",
+  "p": 125,
+  "c": "Tool"
+ },
+ {
+  "n": "数字で色塗りジェネレーター",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ja/colour-by-number-generator/",
+  "s": "Loona Study Tools",
+  "d": "色の凡例と色付き解答絵付きの、印刷できる数字で色塗りモザイクを生成します。",
+  "k": "colour by number generator colour by number generator",
+  "p": 126,
+  "c": "Tool"
+ },
+ {
+  "n": "印刷用紙ジェネレーター",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ja/printable-paper-generator/",
+  "s": "Loona Study Tools",
+  "d": "方眼紙、ドットグリッド紙、等角投影紙、手書き練習用紙を正確なサイズで印刷します。",
+  "k": "printable paper generator printable paper generator",
+  "p": 127,
+  "c": "Tool"
+ },
+ {
+  "n": "スペリングワークシートジェネレーター",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ja/spelling-worksheet-generator/",
+  "s": "Loona Study Tools",
+  "d": "一つのスペリングリストから：テストシート、単語のスクランブル、欠けた文字の練習、ABC 順 — 解答付き。",
+  "k": "spelling worksheet generator spelling worksheet generator abc",
+  "p": 128,
+  "c": "Tool"
+ },
+ {
+  "n": "教室タイマー & 試験タイマー",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ja/classroom-timers/",
+  "s": "Loona Study Tools",
+  "d": "進行リング付きの大画面カウントダウンタイマー、終了時刻を表示する試験タイマー、視覚的なバータイマー、ラップ付きストップウォッチ。",
+  "k": "classroom timers exam timer classroom timers",
+  "p": 129,
+  "c": "Tool"
+ },
+ {
+  "n": "クラスグループ作成ツール",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ja/classroom-group-maker/",
+  "s": "Loona Study Tools",
+  "d": "クラスリストを保存して、公平なランダムグループまたはペアに分けます — バランスの取れた大きさ、ワンクリックで再シャッフル。",
+  "k": "classroom group maker classroom group maker",
+  "p": 130,
+  "c": "Tool"
+ },
+ {
+  "n": "座席表メーカー",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ja/seating-chart-maker/",
+  "s": "Loona Study Tools",
+  "d": "生徒を机のグリッド上に配置します：クリックで配置し、お気に入りの席をロックし、残りをシャッフルして、表を印刷します。",
+  "k": "seating chart maker seating chart maker",
+  "p": 131,
+  "c": "Tool"
+ },
+ {
+  "n": "教室スコアボード",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ja/classroom-scoreboard/",
+  "s": "Loona Study Tools",
+  "d": "教室の画面に大きくはっきり表示されるチームポイントのスコアボード — チームを追加し、タップでポイントを加減できます。",
+  "k": "classroom scoreboard classroom scoreboard",
+  "p": 132,
+  "c": "Tool"
+ },
+ {
+  "n": "教室騒音メーター",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ja/noise-meter/",
+  "s": "Loona Study Tools",
+  "d": "マイクを使った相対騒音レベルメーター — 緑、琥珀色、赤のゾーンで、クラスが自分たちで調整するのを助けます。",
+  "k": "classroom noise meter noise meter",
+  "p": 133,
+  "c": "Tool"
+ },
+ {
+  "n": "名札ジェネレーター",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ja/name-tags-generator/",
+  "s": "Loona Study Tools",
+  "d": "クラスリストを、サブタイトル行付きの印刷できる名札に変えてください — 机、遠足、最初の週の紹介用です。",
+  "k": "name tags generator name tags generator",
+  "p": 134,
+  "c": "Tool"
+ },
+ {
+  "n": "ビジュアルスケジュールビルダー",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ja/visual-schedule-builder/",
+  "s": "Loona Study Tools",
+  "d": "時刻、アクティビティ、絵アイコン付きの、印刷できる視覚的な一日のスケジュールを作成します — 小さいお子さまに最適です。",
+  "k": "visual schedule builder visual schedule builder",
+  "p": 135,
+  "c": "Tool"
+ },
+ {
+  "n": "EZ グレーダー",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ja/ez-grader/",
+  "s": "Loona Study Tools",
+  "d": "古典的な教師の採点スライドスケール：総問題数と間違った数を入力すると、パーセンテージと文字評価、そして完全な表が得られます。",
+  "k": "ez grader ez grader",
+  "p": 136,
+  "c": "Tool"
+ },
+ {
+  "n": "テスト採点ツール",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ja/test-grader/",
+  "s": "Loona Study Tools",
+  "d": "解答と生徒の答えを貼り付けて、テスト全体を即座に、一問ずつ採点します。",
+  "k": "test grader test grader",
+  "p": 137,
+  "c": "Tool"
+ },
+ {
+  "n": "加重成績計算ツール",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ja/weighted-grade-calculator/",
+  "s": "Loona Study Tools",
+  "d": "カテゴリ別スコア (宿題、小テスト、テスト、期末) をシラバスの重みで組み合わせて、コース成績にします。",
+  "k": "weighted grade calculator weighted grade calculator",
+  "p": 138,
+  "c": "Tool"
+ },
+ {
+  "n": "期末試験成績計算ツール",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ja/final-exam-calculator/",
+  "s": "Loona Study Tools",
+  "d": "目標の科目成績に到達するために、期末試験で正確にどのスコアが必要か — そしてそれが可能かどうか — を計算してください。",
+  "k": "final exam grade calculator final exam calculator",
+  "p": 139,
+  "c": "Tool"
+ },
+ {
+  "n": "計算スピードテスト",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ja/math-facts-speed-test/",
+  "s": "Loona Study Tools",
+  "d": "60秒の計算スプリント：正確さと連続正解を記録しながら、+, −, ×, ÷ の事実をできるだけ多く正解します。",
+  "k": "math facts speed test math facts speed test 60",
+  "p": 140,
+  "c": "Tool"
+ },
+ {
+  "n": "10キーテスト",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ja/ten-key-test/",
+  "s": "Loona Study Tools",
+  "d": "テンキー向けのデータ入力速度テスト：数字の並びを速く正確に入力し、分あたりのキー数で採点されます。",
+  "k": "10 key number pad test ten key test",
+  "p": 141,
+  "c": "Tool"
+ },
+ {
+  "n": "コードタイピングテスト",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ja/code-typing-test/",
+  "s": "Loona Study Tools",
+  "d": "記号とインデント付きの本物のコードスニペットを入力してください — プログラマー向けに、コードタイピングの速度と記号の正確さを測定します。",
+  "k": "code typing test code typing test",
+  "p": 142,
+  "c": "Tool"
+ },
+ {
+  "n": "文法クイズ",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ja/grammar-quiz/",
+  "s": "Loona Study Tools",
+  "d": "英語の文法テスト全24問 — 時制、冠詞、前置詞、一致、句読点 — その場で採点され、解説が付きます。",
+  "k": "grammar quiz grammar quiz 24",
+  "p": 143,
+  "c": "Tool"
+ },
+ {
+  "n": "語彙クイズ",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ja/vocabulary-quiz/",
+  "s": "Loona Study Tools",
+  "d": "各四つの選択肢を持つ二十の単語の意味の問題 — あなたの英語語彙レベルの速く正直なチェック。",
+  "k": "vocabulary quiz vocabulary quiz",
+  "p": 144,
+  "c": "Tool"
+ },
+ {
+  "n": "インタラクティブ周期表",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ja/periodic-table/",
+  "s": "Loona Study Tools",
+  "d": "118元素すべてを色分けした表 — 任意の元素をクリックすると、その名前、原子量、族、周期、分類が表示されます。",
+  "k": "interactive periodic table periodic table 118",
+  "p": 145,
+  "c": "Tool"
+ },
+ {
+  "n": "モル質量計算ツール",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ja/molar-mass-calculator/",
+  "s": "Loona Study Tools",
+  "d": "化学式を入力してください — 括弧を含みます — 元素ごとの内訳付きで、g/mol でのモル質量が得られます。",
+  "k": "molar mass calculator molar mass calculator g mol",
+  "p": 146,
+  "c": "Tool"
+ },
+ {
+  "n": "化学反応式バランサー",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ja/chemical-equation-balancer/",
+  "s": "Loona Study Tools",
+  "d": "つり合っていない反応式を入力すると、原子ごとに検証された、つり合った係数が得られます。",
+  "k": "chemical equation balancer chemical equation balancer",
+  "p": 147,
+  "c": "Tool"
+ },
+ {
+  "n": "pH計算ツール",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ja/ph-calculator/",
+  "s": "Loona Study Tools",
+  "d": "pH、pOH、[H+]、[OH-] の間で換算し、強酸と強塩基の溶液の pH を計算します。",
+  "k": "ph calculator ph calculator ph poh h oh ph",
+  "p": 148,
+  "c": "Tool"
+ },
+ {
+  "n": "ルーブリックメーカー",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ja/rubric-maker/",
+  "s": "Loona Study Tools",
+  "d": "印刷できる採点ルーブリックを作成します：側面に基準、上部に四つの達成レベル、ポイントは自動計算されます。",
+  "k": "rubric maker rubric maker",
+  "p": 149,
+  "c": "Tool"
+ }
+]

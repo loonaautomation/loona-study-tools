@@ -1,0 +1,29 @@
+{
+  "name": "Loona 5年生 位取りの練習",
+  "short_name": "5年生 位取りの練習",
+  "description": "無料の5年生の位取りの練習 — 小数と千分位までの位取り。解き方の例、印刷できる解答付きの練習問題が6問、方法、よくある間違い、一番のヒント。",
+  "id": "/loona-study-tools/ja/grade-5-place-value-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

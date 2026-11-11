@@ -1,0 +1,29 @@
+{
+  "name": "Loona ルーブリックメーカー",
+  "short_name": "ルーブリックメーカー",
+  "description": "無料のルーブリックメーカー：基準と最大ポイントを追加し、四つの達成レベルを記述すると、レベルごとのポイントが自動計算された印刷できるルーブリック表が得られます。",
+  "id": "/loona-study-tools/ja/rubric-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

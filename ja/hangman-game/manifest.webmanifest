@@ -1,0 +1,29 @@
+{
+  "name": "Loona ハングマンゲーム",
+  "short_name": "ハングマンゲーム",
+  "description": "学校の単語リスト (動物、理科、地理、学校) が組み込まれた無料ハングマンゲーム。自分の単語も使えます。間違いは六回まで、画面キーボード付きで、印刷不要の楽しさです。",
+  "id": "/loona-study-tools/ja/hangman-game/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

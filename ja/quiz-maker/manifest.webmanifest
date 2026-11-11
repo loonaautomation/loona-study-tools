@@ -1,0 +1,29 @@
+{
+  "name": "Loona クイズメーカー",
+  "short_name": "クイズメーカー",
+  "description": "教師向け無料クイズメーカー：多肢選択、正誤、短答問題、即時スコアとレビュー付きの挑戦モード、印刷できるクイズ + 別の解答、JSON のエクスポート／インポート。",
+  "id": "/loona-study-tools/ja/quiz-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

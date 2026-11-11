@@ -1,0 +1,29 @@
+{
+  "name": "Loona 数独ジェネレーター",
+  "short_name": "数独ジェネレーター",
+  "description": "無料の数独ジェネレーター：三つの難易度で、印刷できる 4x4、6x6、9x9 の数独パズル。すべてのパズルは、正確に一つの解法を持つことが検証され、別の解法ページ付きです。",
+  "id": "/loona-study-tools/ja/sudoku-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

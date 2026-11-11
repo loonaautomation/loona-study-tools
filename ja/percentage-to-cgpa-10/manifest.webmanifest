@@ -1,0 +1,29 @@
+{
+  "name": "Loona パーセンテージから CGPA への変換ツール (10点)",
+  "short_name": "パーセンテージから CGPA への変換ツール",
+  "description": "パーセントをインドの 10 点満点 CGPA に換算します。CBSE の逆公式 (% ÷ 9.5) と大学の方式を使い、95% から下向きの完全な表付きです。",
+  "id": "/loona-study-tools/ja/percentage-to-cgpa-10/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

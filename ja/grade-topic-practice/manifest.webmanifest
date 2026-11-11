@@ -1,0 +1,29 @@
+{
+  "name": "Loona 学年とトピック別練習",
+  "short_name": "学年とトピック別練習",
+  "description": "すべての学年とトピックの練習ページ (幼稚園から8年生まで)、科目ガイド、9〜12年生のパキスタン教育委員会試験ガイド、Loona Study Tools の CGPA 変換ツールに対する一つのインデックス。",
+  "id": "/loona-study-tools/ja/grade-topic-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

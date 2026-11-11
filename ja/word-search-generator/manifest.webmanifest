@@ -1,0 +1,29 @@
+{
+  "name": "Loona ワードサーチジェネレーター",
+  "short_name": "ワードサーチジェネレーター",
+  "description": "無料のワードサーチジェネレーター：自分の単語リストを、8 方向に配置できる印刷可能なワードサーチパズルに変え、ハイライトされた別の解答も付きます。語彙練習に最適です。",
+  "id": "/loona-study-tools/ja/word-search-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

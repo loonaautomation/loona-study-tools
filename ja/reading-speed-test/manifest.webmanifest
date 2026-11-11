@@ -1,0 +1,29 @@
+{
+  "name": "Loona 読書速度テスト",
+  "short_name": "読書速度テスト",
+  "description": "無料の読書速度テスト：時間制限付きの文章を読み (3つの選択肢、400-600 語)、理解度の問題に答えると、WPM での読書速度と、年齢別の良い読書速度への正直なガイドが得られます。",
+  "id": "/loona-study-tools/ja/reading-speed-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

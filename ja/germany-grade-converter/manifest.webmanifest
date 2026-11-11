@@ -1,0 +1,29 @@
+{
+  "name": "Loona ドイツ成績変換ツール",
+  "short_name": "ドイツ成績変換ツール",
+  "description": "外国のパーセントまたは GPA の成績を、ドイツの大学が使う修正バイエルン公式でドイツの 1.0–5.0 スケールに換算し、ドイツの成績を戻して換算することもできます。",
+  "id": "/loona-study-tools/ja/germany-grade-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

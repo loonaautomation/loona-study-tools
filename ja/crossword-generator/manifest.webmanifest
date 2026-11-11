@@ -1,0 +1,29 @@
+{
+  "name": "Loona クロスワードジェネレーター",
+  "short_name": "クロスワードジェネレーター",
+  "description": "無料のクロスワードジェネレーター：単語とヒントを入力すると、本物の交差するクロスワードパズルが得られます。番号付きヒントと別の解答付きで印刷できます。",
+  "id": "/loona-study-tools/ja/crossword-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

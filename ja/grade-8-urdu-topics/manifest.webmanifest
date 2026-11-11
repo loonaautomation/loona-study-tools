@@ -1,0 +1,29 @@
+{
+  "name": "Loona 8年生 ウルドゥー語トピックと学習ガイド",
+  "short_name": "8年生 ウルドゥー語トピックと学習ガイド",
+  "description": "8年生のウルドゥー語トピック（指導順） — 完全な qawaid 復習 (試験重視)、試験で nazm と ghazal を解説する方法、社会問題に関するエッセイ、その他 — 各トピック向けの無料学習ツール付き。",
+  "id": "/loona-study-tools/ja/grade-8-urdu-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

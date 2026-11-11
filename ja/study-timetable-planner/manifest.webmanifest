@@ -1,0 +1,29 @@
+{
+  "name": "Loona 学習時間割プランナー",
+  "short_name": "学習時間割プランナー",
+  "description": "無料の学習時間割プランナー：科目、日あたりの時間、試験日を入力すると、公平な科目ローテーションを備えた、バランスの取れた編集・印刷可能な週間学習時間割が生成されます。",
+  "id": "/loona-study-tools/ja/study-timetable-planner/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
