@@ -1,0 +1,29 @@
+{
+  "name": "Loona Przelicznik GPA – Australia",
+  "short_name": "Przelicznik GPA – Australia",
+  "description": "Przelicz australijskie oceny uniwersyteckie w skali 7-punktowej (HD = 7) na procenty i przybliżone GPA w skali 4.0, ze standardową tabelą ocen.",
+  "id": "/loona-study-tools/pl/australia-gpa-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

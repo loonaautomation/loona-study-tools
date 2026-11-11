@@ -1,0 +1,29 @@
+{
+  "name": "Loona Tematy i przewodnik: nauki przyrodnicze — klasa 2",
+  "short_name": "Tematy i przewodnik: nauki przyrodnicze — klasa 2",
+  "description": "Tematy przyrodnicze dla klasy 2 w kolejności nauczania — Cykl życia motyla i rośliny, siedliska, ciała stałe, ciecze i gazy (pierwsze spojrzenie) i więcej — z darmowymi narzędziami do nauki dla każdego tematu.",
+  "id": "/loona-study-tools/pl/grade-2-science-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

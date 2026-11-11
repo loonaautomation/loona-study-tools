@@ -1,0 +1,29 @@
+{
+  "name": "Loona Miernik hałasu w klasie",
+  "short_name": "Miernik hałasu w klasie",
+  "description": "Darmowy miernik hałasu w klasie: pasek poziomu mikrofonu na żywo z zieloną/bursztynową/czerwoną strefą i licznikiem serii ciszy. Wyświetlacz poziomu względnego (nie decybeli), analizowany na urządzeniu, nigdy nie nagrywany.",
+  "id": "/loona-study-tools/pl/noise-meter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

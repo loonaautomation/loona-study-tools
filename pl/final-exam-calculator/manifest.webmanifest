@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kalkulator oceny z egzaminu końcowego",
+  "short_name": "Kalkulator oceny z egzaminu końcowego",
+  "description": "Darmowy kalkulator egzaminu końcowego: wpisz swoją bieżącą ocenę, wagę egzaminu końcowego i swój cel, aby zobaczyć dokładnie, jaki wynik potrzebujesz na egzaminie końcowym — i czy jest to jeszcze możliwe.",
+  "id": "/loona-study-tools/pl/final-exam-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

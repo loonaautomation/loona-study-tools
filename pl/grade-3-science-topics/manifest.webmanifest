@@ -1,0 +1,29 @@
+{
+  "name": "Loona Tematy i przewodnik: nauki przyrodnicze — klasa 3",
+  "short_name": "Tematy i przewodnik: nauki przyrodnicze — klasa 3",
+  "description": "Tematy przyrodnicze dla klasy 3 w kolejności nauczania — Części roślin i ich zadania, grupy zwierząt, stany skupienia materii i zmiana stanu i więcej — z darmowymi narzędziami do nauki dla każdego tematu.",
+  "id": "/loona-study-tools/pl/grade-3-science-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

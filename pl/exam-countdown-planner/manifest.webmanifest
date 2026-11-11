@@ -1,0 +1,29 @@
+{
+  "name": "Loona Planer odliczania do egzaminu",
+  "short_name": "Planer odliczania do egzaminu",
+  "description": "Darmowy planer odliczania do egzaminu: wpisz datę egzaminu, przedmioty i dzienne sesje, aby otrzymać plan powtórek dzień po dniu, który sprawiedliwie rozkłada przedmioty według wagi trudności aż do dnia egzaminu.",
+  "id": "/loona-study-tools/pl/exam-countdown-planner/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

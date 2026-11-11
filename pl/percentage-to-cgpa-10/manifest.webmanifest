@@ -1,0 +1,29 @@
+{
+  "name": "Loona Przelicznik procentów na CGPA (Indie, skala 10-punktowa)",
+  "short_name": "Przelicznik procentów na CGPA (Indie)",
+  "description": "Przelicz procenty na indyjskie CGPA w skali 10-punktowej odwrotnym wzorem CBSE (% ÷ 9.5) oraz wariantami uniwersyteckimi, z pełną tabelą od 95% w dół.",
+  "id": "/loona-study-tools/pl/percentage-to-cgpa-10/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kreator planu miejsc w klasie",
+  "short_name": "Kreator planu miejsc w klasie",
+  "description": "Darmowy kreator planu miejsc: zbuduj siatkę ławek, klikaj, aby umieszczać uczniów, blokuj miejsca, które nie mogą się ruszać, potasuj wszystkich pozostałych i wydrukuj plan.",
+  "id": "/loona-study-tools/pl/seating-chart-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

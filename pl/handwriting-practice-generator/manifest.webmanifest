@@ -1,0 +1,29 @@
+{
+  "name": "Loona Generator ćwiczeń pisma ręcznego",
+  "short_name": "Generator ćwiczeń pisma ręcznego",
+  "description": "Darmowy generator ćwiczeń pisma ręcznego: arkusze obrysowywania do druku dla alfabetu, wielkich liter, małych liter, cyfr oraz własnych słów lub zdań, z czteroliniowymi liniami pomocniczymi.",
+  "id": "/loona-study-tools/pl/handwriting-practice-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

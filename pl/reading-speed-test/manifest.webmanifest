@@ -1,0 +1,29 @@
+{
+  "name": "Loona Test szybkości czytania",
+  "short_name": "Test szybkości czytania",
+  "description": "Darmowy test szybkości czytania: przeczytaj fragment na czas (3 wybory, 400-600 słów), odpowiedz na pytania o rozumienie i otrzymaj swoją szybkość czytania w WPM oraz uczciwy przewodnik po dobrych szybkościach czytania według wieku.",
+  "id": "/loona-study-tools/pl/reading-speed-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

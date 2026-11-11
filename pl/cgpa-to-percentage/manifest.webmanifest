@@ -1,0 +1,29 @@
+{
+  "name": "Loona Przelicznik CGPA na procenty (skale 4.0 i 5.0)",
+  "short_name": "Przelicznik CGPA na procenty",
+  "description": "Przelicz CGPA na procenty w skalach 4.0, 5.0 i 10-punktowej jednym darmowym przelicznikiem, wraz ze wzorem dla każdej skali i pełną tabelą przeliczeń.",
+  "id": "/loona-study-tools/pl/cgpa-to-percentage/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

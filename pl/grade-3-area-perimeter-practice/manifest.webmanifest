@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ćwiczenia: Pole i obwód — klasa 3",
+  "short_name": "Ćwiczenia: Pole i obwód — klasa 3",
+  "description": "Darmowe ćwiczenia: pole i obwód — klasa 3 — obwód i pole prostokątów. Przykład z rozwiązaniem, 6 zadań ćwiczeniowych z kluczem odpowiedzi do druku, metoda, najczęstszy błąd i najlepsza wskazówka.",
+  "id": "/loona-study-tools/pl/grade-3-area-perimeter-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Przelicznik GPA – Kanada",
+  "short_name": "Przelicznik GPA – Kanada",
+  "description": "Przelicz kanadyjskie oceny procentowe na skalę 4.0 za pomocą powszechnie używanej tabeli Ontario (90–100 = A+ = 4.0), wraz z uwagami o tym, jak kanadyjskie skale różnią się między uniwersytetami.",
+  "id": "/loona-study-tools/pl/canada-gpa-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

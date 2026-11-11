@@ -1,0 +1,29 @@
+{
+  "name": "Loona Generator arkuszy matematycznych",
+  "short_name": "Generator arkuszy matematycznych",
+  "description": "Darmowy generator arkuszy matematycznych: arkusze dodawania, odejmowania, mnożenia, dzielenia, ułamków, ułamków dziesiętnych i dzielenia pisemnego z zakresem liczb, opcjami przegrupowania i kluczem odpowiedzi do druku.",
+  "id": "/loona-study-tools/pl/math-worksheet-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

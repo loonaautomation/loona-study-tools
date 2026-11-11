@@ -1,0 +1,29 @@
+{
+  "name": "Loona Generator sudoku",
+  "short_name": "Generator sudoku",
+  "description": "Darmowy generator Sudoku: łamigłówki Sudoku 4x4, 6x6 i 9x9 do druku w trzech poziomach trudności, każda zweryfikowana, aby miała dokładnie jedno rozwiązanie, z osobną stroną rozwiązań.",
+  "id": "/loona-study-tools/pl/sudoku-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

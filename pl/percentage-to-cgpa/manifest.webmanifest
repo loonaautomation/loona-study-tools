@@ -1,0 +1,29 @@
+{
+  "name": "Loona Przelicznik procentów na CGPA (skale 4.0 i 5.0)",
+  "short_name": "Przelicznik procentów na CGPA",
+  "description": "Przelicz procent z powrotem na CGPA w skalach 4.0, 5.0 i 10-punktowej: % ÷ 9.5 dla Indii, odpowiedniki liniowe dla 4.0 i 5.0, z tabelami.",
+  "id": "/loona-study-tools/pl/percentage-to-cgpa/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

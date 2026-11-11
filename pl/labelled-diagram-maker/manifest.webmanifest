@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kreator opisanych diagramów",
+  "short_name": "Kreator opisanych diagramów",
+  "description": "Darmowy kreator diagramów z etykietami: prześlij diagram, klikaj, aby przypinać ponumerowane etykiety, drukuj wersje z etykietami lub puste i odpytywaj uczniów z etykiet. Obraz nigdy nie opuszcza Twojego urządzenia.",
+  "id": "/loona-study-tools/pl/labelled-diagram-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

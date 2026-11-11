@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kalkulator SGPA na CGPA",
+  "short_name": "Kalkulator SGPA na CGPA",
+  "description": "Łącz semestralne SGPA w CGPA we właściwy sposób: średnią ważoną punktami kredytowymi, a nie zwykłą średnią. Dodaj swoje semestry wraz z ich punktami.",
+  "id": "/loona-study-tools/pl/sgpa-to-cgpa-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

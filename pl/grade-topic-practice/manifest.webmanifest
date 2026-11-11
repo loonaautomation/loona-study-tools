@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ćwiczenia według klasy i tematu",
+  "short_name": "Ćwiczenia według klasy i tematu",
+  "description": "Jeden indeks wszystkich stron ćwiczeń według klasy i tematu (od zerówki do klasy 8), przewodników po przedmiotach, pakistańskich przewodników egzaminacyjnych dla klas 9–12 oraz konwerterów CGPA w Loona Study Tools.",
+  "id": "/loona-study-tools/pl/grade-topic-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

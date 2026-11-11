@@ -1,0 +1,29 @@
+{
+  "name": "Loona Przewodnik dla klasy 12 — FBISE Islamabad",
+  "short_name": "Przewodnik dla klasy 12 — FBISE Islamabad",
+  "description": "FBISE Islamabad — klasa 12: przedmioty i kierunki, jak zbudowane są arkusze egzaminacyjne komisji oraz darmowy plan przygotowań z narzędziami do nauki. Zweryfikuj wzory na oficjalnej stronie komisji.",
+  "id": "/loona-study-tools/pl/fbise-islamabad-class-12-guide/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

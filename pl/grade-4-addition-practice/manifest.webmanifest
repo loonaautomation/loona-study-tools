@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ćwiczenia: Dodawanie — klasa 4",
+  "short_name": "Ćwiczenia: Dodawanie — klasa 4",
+  "description": "Darmowe ćwiczenia: dodawanie — klasa 4 — dodawanie ułamków dziesiętnych do części setnych. Przykład z rozwiązaniem, 6 zadań ćwiczeniowych z kluczem odpowiedzi do druku, metoda, najczęstszy błąd i najlepsza wskazówka.",
+  "id": "/loona-study-tools/pl/grade-4-addition-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

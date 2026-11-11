@@ -1,0 +1,29 @@
+{
+  "name": "Loona GPA na procenty – Bangladesz",
+  "short_name": "GPA na procenty – Bangladesz",
+  "description": "Tabela GPA komisji edukacyjnej Bangladeszu dla SSC i HSC: A+ 5.00 = 80–100 punktów, z każdym punktem oceny i zakresem punktów oraz konwerterem punktów na GPA.",
+  "id": "/loona-study-tools/pl/bangladesh-gpa-to-percentage/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
