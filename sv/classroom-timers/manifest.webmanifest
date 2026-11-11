@@ -1,0 +1,29 @@
+{
+  "name": "Loona Klassrumstimer",
+  "short_name": "Klassrumstimer",
+  "description": "Gratis klassrumstimers: en nedräkning med stor visning, framstegsring och krympande visuell stapel, en provtimer som visar sluttid och återstående tid, och ett stoppur med varvtider.",
+  "id": "/loona-study-tools/sv/classroom-timers/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

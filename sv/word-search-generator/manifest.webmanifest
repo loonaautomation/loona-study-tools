@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ordsökgenerator",
+  "short_name": "Ordsökgenerator",
+  "description": "Gratis ordsökgenerator: förvandla din egen ordlista till ett utskrivbart ordsökpussel i 8 riktningar, med ett separat markerat facit. Perfekt för ordförrådsövning.",
+  "id": "/loona-study-tools/sv/word-search-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

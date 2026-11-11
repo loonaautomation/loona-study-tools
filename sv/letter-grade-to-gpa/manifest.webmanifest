@@ -1,0 +1,29 @@
+{
+  "name": "Loona Omvandlare från bokstavsbetyg till GPA",
+  "short_name": "Omvandlare från bokstavsbetyg till GPA",
+  "description": "Vilken GPA är ett A, ett B+ eller ett C−? Den fullständiga tabellen för bokstavsbetyg till GPA-poäng på 4.0-skalan, med procentband och en omvandlare med ett klick.",
+  "id": "/loona-study-tools/sv/letter-grade-to-gpa/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

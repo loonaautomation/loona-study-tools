@@ -1,0 +1,29 @@
+{
+  "name": "Loona Procent till CGPA-omvandlare (10-poäng)",
+  "short_name": "Procent till CGPA-omvandlare",
+  "description": "Omvandla procent till indisk CGPA på 10 poäng med CBSE:s omvända formel (% ÷ 9.5) och universitetsvarianterna, med en fullständig tabell från 95 % och nedåt.",
+  "id": "/loona-study-tools/sv/percentage-to-cgpa-10/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

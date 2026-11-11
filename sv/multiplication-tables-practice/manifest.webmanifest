@@ -1,0 +1,29 @@
+{
+  "name": "Loona Övning av multiplikationstabellen",
+  "short_name": "Övning av multiplikationstabellen",
+  "description": "Gratis övning av multiplikationstabellen: välj tabeller 2-12, drilla tidsatta rundor med omedelbar kontroll och granskning av svaga tabeller, plus en utskrivbar multiplikationstabell i 12x12.",
+  "id": "/loona-study-tools/sv/multiplication-tables-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

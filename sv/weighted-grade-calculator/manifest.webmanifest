@@ -1,0 +1,29 @@
+{
+  "name": "Loona Viktad betygskalkylator",
+  "short_name": "Viktad betygskalkylator",
+  "description": "Gratis viktad betygskalkylator: ange kategorivikter och poäng (läxor, quiz, prov, slutprov) för att få din totala kursprocent och ditt bokstavsbetyg. Vikter normaliseras automatiskt.",
+  "id": "/loona-study-tools/sv/weighted-grade-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Namnetikettgenerator",
+  "short_name": "Namnetikettgenerator",
+  "description": "Gratis namnetikettgenerator: klistra in en klasslista och skriv ut snygga namnetiketter med en klass-/skolundertitel — för första dagar, utflykter, föräldramöten och grupparbete.",
+  "id": "/loona-study-tools/sv/name-tags-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kanada GPA-omvandlare",
+  "short_name": "Kanada GPA-omvandlare",
+  "description": "Omvandla kanadensiska procentbetyg till 4.0-skalan med den allmänt använda Ontario-tabellen (90–100 = A+ = 4.0), plus anteckningar om hur kanadensiska skalor skiljer sig åt per universitet.",
+  "id": "/loona-study-tools/sv/canada-gpa-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

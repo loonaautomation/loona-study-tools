@@ -1,0 +1,29 @@
+{
+  "name": "Loona Övning i heltal för årskurs 6",
+  "short_name": "Övning i heltal för årskurs 6",
+  "description": "Gratis övning i heltal för årskurs 6 — Negativa tal på tallinjen. Ett genomgånget exempel, 6 övningsfrågor med utskrivbart facit, metoden, det vanliga misstaget och ett topptips.",
+  "id": "/loona-study-tools/sv/grade-6-integers-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

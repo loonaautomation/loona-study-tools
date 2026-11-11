@@ -1,0 +1,29 @@
+{
+  "name": "Loona pH-kalkylator",
+  "short_name": "pH-kalkylator",
+  "description": "Gratis pH-kalkylator: omvandla mellan pH, pOH, [H+] och [OH-], och beräkna pH för starka syra- och starka baslösningar från koncentration.",
+  "id": "/loona-study-tools/sv/ph-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

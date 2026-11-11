@@ -1,0 +1,29 @@
+{
+  "name": "Loona Måla efter nummer-generator",
+  "short_name": "Måla efter nummer-generator",
+  "description": "Gratis måla efter nummer-generator: ett numrerat mosaikarbetsblad med en nyckel i sex färger och en separat färgad svarsbild. Ny bild varje gång.",
+  "id": "/loona-study-tools/sv/colour-by-number-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

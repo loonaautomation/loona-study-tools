@@ -1,0 +1,29 @@
+{
+  "name": "Loona Grammatikquiz",
+  "short_name": "Grammatikquiz",
+  "description": "Gratis grammatikquiz i engelska: 24 frågor om tempus, artiklar, prepositioner, kongruens, konditionalis och skiljetecken, med omedelbar poäng och en förklaring för varje svar.",
+  "id": "/loona-study-tools/sv/grammar-quiz/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

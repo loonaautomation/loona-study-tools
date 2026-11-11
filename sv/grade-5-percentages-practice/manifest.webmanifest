@@ -1,0 +1,29 @@
+{
+  "name": "Loona Övning i procent för årskurs 5",
+  "short_name": "Övning i procent för årskurs 5",
+  "description": "Gratis övning i procent för årskurs 5 — Procent som delar av 100. Ett genomgånget exempel, 6 övningsfrågor med utskrivbart facit, metoden, det vanliga misstaget och ett topptips.",
+  "id": "/loona-study-tools/sv/grade-5-percentages-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

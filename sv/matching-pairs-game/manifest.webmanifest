@@ -1,0 +1,29 @@
+{
+  "name": "Loona Memoryspel med par",
+  "short_name": "Memoryspel med par",
+  "description": "Gratis memoryspel med par: ange par av begrepp = definition och spela vänd-och-matcha med spårning av drag och tid. Bra för ordförråd och repetition.",
+  "id": "/loona-study-tools/sv/matching-pairs-game/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

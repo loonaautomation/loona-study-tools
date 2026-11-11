@@ -1,0 +1,29 @@
+{
+  "name": "Loona Tysklands betygsomvandlare",
+  "short_name": "Tysklands betygsomvandlare",
+  "description": "Omvandla utländska procent- eller GPA-betyg till den tyska skalan 1.0–5.0 med den modifierade bayerska formeln som tyska universitet använder, och omvandla tyska betyg tillbaka.",
+  "id": "/loona-study-tools/sv/germany-grade-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

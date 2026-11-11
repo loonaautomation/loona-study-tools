@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ämnen i samhällskunskap för årskurs 7 och studieguide",
+  "short_name": "Ämnen i samhällskunskap för årskurs 7",
+  "description": "Samhällskunskapsämnena för årskurs 7 i undervisningsordning — Medeltida världen, Mogulriket och sydasiatisk historia, Klimatförändringar och mer — med gratis studieverktyg för varje ämne.",
+  "id": "/loona-study-tools/sv/grade-7-social-studies-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

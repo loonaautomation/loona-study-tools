@@ -1,0 +1,29 @@
+{
+  "name": "Loona Indien CGPA till procent-omvandlare",
+  "short_name": "Indien CGPA till procent-omvandlare",
+  "description": "Omvandla indisk CGPA på 10 poäng till procent med CBSE-formeln (× 9.5) och varianterna som indiska universitet använder — (CGPA − 0.5) × 10 och × 10 — med en fullständig tabell.",
+  "id": "/loona-study-tools/sv/india-cgpa-to-percentage/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

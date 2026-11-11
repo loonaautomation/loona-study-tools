@@ -1,0 +1,29 @@
+{
+  "name": "Loona Skrivtest för kod",
+  "short_name": "Skrivtest för kod",
+  "description": "Gratis skrivtest för kod: skriv verkliga JavaScript-, Python- och SQL-utdrag exakt — parenteser, symboler och indrag poängsatta — med noggrannhet, tecken per minut och ord/min.",
+  "id": "/loona-study-tools/sv/code-typing-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

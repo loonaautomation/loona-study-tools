@@ -1,0 +1,29 @@
+{
+  "name": "Loona Hundratavla",
+  "short_name": "Hundratavla",
+  "description": "Gratis hundratavla: interaktivt utskrivbart diagram för 1-100 med markering av jämna/udda och multiplar och ett övningsläge med saknade tal för taluppfattning.",
+  "id": "/loona-study-tools/sv/hundreds-chart/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

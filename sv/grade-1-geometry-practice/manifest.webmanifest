@@ -1,0 +1,29 @@
+{
+  "name": "Loona Övning i geometri för årskurs 1",
+  "short_name": "Övning i geometri för årskurs 1",
+  "description": "Gratis övning i geometri för årskurs 1 — 2D- och 3D-former: sidor, kanter, hörn. Ett genomgånget exempel, 6 övningsfrågor med utskrivbart facit, metoden, det vanliga misstaget och ett topptips.",
+  "id": "/loona-study-tools/sv/grade-1-geometry-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

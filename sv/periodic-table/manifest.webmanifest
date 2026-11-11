@@ -1,0 +1,29 @@
+{
+  "name": "Loona Interaktivt periodiskt system",
+  "short_name": "Interaktivt periodiskt system",
+  "description": "Gratis interaktivt periodiskt system: alla 118 grundämnen färgkodade efter kategori. Klicka på valfritt grundämne för dess atomnummer, massa, grupp, period och kategori.",
+  "id": "/loona-study-tools/sv/periodic-table/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

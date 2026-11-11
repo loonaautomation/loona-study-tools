@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ämnen i urdu för förskoleklass och studieguide",
+  "short_name": "Ämnen i urdu för förskoleklass och studieguide",
+  "description": "Urduämnena för förskoleklass i undervisningsordning — Urdu-qaidan, Bokstavsljud (fonik på urdu), Enkla trebokstavsord och mer — med gratis studieverktyg för varje ämne.",
+  "id": "/loona-study-tools/sv/kindergarten-urdu-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
