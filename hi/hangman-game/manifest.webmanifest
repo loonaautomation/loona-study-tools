@@ -1,0 +1,29 @@
+{
+  "name": "Loona हैंगमैन खेल",
+  "short_name": "हैंगमैन खेल",
+  "description": "अंतर्निहित विद्यालय शब्द सूचियों (जानवर, विज्ञान, भूगोल, विद्यालय) या अपने शब्दों के साथ मुफ़्त हैंगमैन खेल। छह गलत अनुमान, ऑन-स्क्रीन कीबोर्ड, प्रिंट-मुक्त मज़ा।",
+  "id": "/loona-study-tools/hi/hangman-game/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

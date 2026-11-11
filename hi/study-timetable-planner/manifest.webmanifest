@@ -1,0 +1,29 @@
+{
+  "name": "Loona अध्ययन समय-सारणी योजनाकार",
+  "short_name": "अध्ययन समय-सारणी योजनाकार",
+  "description": "मुफ़्त अध्ययन समय-सारणी योजनाकार: संतुलित, संपादन योग्य, प्रिंट योग्य साप्ताहिक अध्ययन समय-सारणी बनाने के लिए विषय, प्रति दिन घंटे और परीक्षा तिथि दर्ज करें, निष्पक्ष विषय चक्रण के साथ।",
+  "id": "/loona-study-tools/hi/study-timetable-planner/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

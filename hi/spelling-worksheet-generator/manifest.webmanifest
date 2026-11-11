@@ -1,0 +1,29 @@
+{
+  "name": "Loona वर्तनी वर्कशीट जेनरेटर",
+  "short_name": "वर्तनी वर्कशीट जेनरेटर",
+  "description": "मुफ़्त वर्तनी वर्कशीट जेनरेटर: एक शब्द सूची से सुलझाने का अभ्यास, छूटे-स्वर वर्कशीट, ABC क्रम अभ्यास और वर्तनी परीक्षण शीट पाएँ, उत्तर कुंजी के साथ।",
+  "id": "/loona-study-tools/hi/spelling-worksheet-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

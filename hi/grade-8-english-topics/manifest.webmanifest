@@ -1,0 +1,29 @@
+{
+  "name": "Loona कक्षा 8 अंग्रेज़ी विषय और अध्ययन मार्गदर्शिका",
+  "short_name": "कक्षा 8 अंग्रेज़ी विषय और",
+  "description": "कक्षा 8 के अंग्रेज़ी विषय शिक्षण क्रम में — Subjunctive and advanced conditionals (awareness), Style, Literary devices और अन्य — प्रत्येक विषय के लिए मुफ़्त अध्ययन उपकरणों के साथ।",
+  "id": "/loona-study-tools/hi/grade-8-english-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

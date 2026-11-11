@@ -1,0 +1,29 @@
+{
+  "name": "Loona BISE हैदराबाद कक्षा 11 मार्गदर्शिका",
+  "short_name": "BISE हैदराबाद कक्षा 11 मार्गदर्शिका",
+  "description": "BISE हैदराबाद कक्षा 11: विषय और धाराएँ, बोर्ड पेपरों की संरचना कैसी होती है, और अध्ययन उपकरणों के साथ एक मुफ़्त तैयारी योजना। पैटर्न बोर्ड की आधिकारिक साइट पर सत्यापित करें।",
+  "id": "/loona-study-tools/hi/bise-hyderabad-class-11-guide/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

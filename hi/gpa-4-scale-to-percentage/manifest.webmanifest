@@ -1,0 +1,29 @@
+{
+  "name": "Loona 4.0 पैमाने पर GPA से प्रतिशत",
+  "short_name": "4.0 पर GPA से प्रतिशत",
+  "description": "मानक अक्षर-ग्रेड सारणी (A = 4.0 = 93–100%) के माध्यम से 4.0-पैमाने के GPA को प्रतिशत में बदलें, रैखिक ×25 अनुमान के साथ दिखाया गया।",
+  "id": "/loona-study-tools/hi/gpa-4-scale-to-percentage/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

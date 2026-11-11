@@ -1,0 +1,29 @@
+{
+  "name": "Loona कनाडा GPA कनवर्टर",
+  "short_name": "कनाडा GPA कनवर्टर",
+  "description": "व्यापक रूप से प्रयुक्त ओंटारियो सारणी (90–100 = A+ = 4.0) के साथ कनाडाई प्रतिशत ग्रेड को 4.0 पैमाने में बदलें, साथ में यह नोट कि कनाडाई पैमाने विश्वविद्यालय अनुसार कैसे भिन्न होते हैं।",
+  "id": "/loona-study-tools/hi/canada-gpa-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

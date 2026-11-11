@@ -1,0 +1,29 @@
+{
+  "name": "Loona सैकड़ा चार्ट",
+  "short_name": "सैकड़ा चार्ट",
+  "description": "मुफ़्त सैकड़ा चार्ट: सम/विषम और गुणज हाइलाइटिंग के साथ इंटरैक्टिव प्रिंट योग्य 1-100 चार्ट और संख्या बोध के लिए छूटी संख्याओं वाला अभ्यास मोड।",
+  "id": "/loona-study-tools/hi/hundreds-chart/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona pH कैलकुलेटर",
+  "short_name": "pH कैलकुलेटर",
+  "description": "मुफ़्त pH कैलकुलेटर: pH, pOH, [H+] और [OH-] के बीच रूपांतरण करें, और सांद्रता से प्रबल अम्ल और प्रबल क्षार विलयनों का pH निकालें।",
+  "id": "/loona-study-tools/hi/ph-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

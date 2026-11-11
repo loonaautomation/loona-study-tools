@@ -1,0 +1,29 @@
+{
+  "name": "Loona इंटरैक्टिव आवर्त सारणी",
+  "short_name": "इंटरैक्टिव आवर्त सारणी",
+  "description": "मुफ़्त इंटरैक्टिव आवर्त सारणी: सभी 118 तत्व श्रेणी अनुसार रंग-कोडित। किसी भी तत्व पर क्लिक करके उसका परमाणु क्रमांक, द्रव्यमान, समूह, आवर्त और श्रेणी देखें।",
+  "id": "/loona-study-tools/hi/periodic-table/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

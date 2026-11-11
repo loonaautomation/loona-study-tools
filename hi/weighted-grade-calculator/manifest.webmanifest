@@ -1,0 +1,29 @@
+{
+  "name": "Loona भारित ग्रेड कैलकुलेटर",
+  "short_name": "भारित ग्रेड कैलकुलेटर",
+  "description": "मुफ़्त भारित ग्रेड कैलकुलेटर: श्रेणी भार और अंक (गृहकार्य, क्विज़, परीक्षण, अंतिम) दर्ज करके अपना समग्र पाठ्यक्रम प्रतिशत और अक्षर ग्रेड पाएँ। भार स्वतः सामान्य हो जाते हैं।",
+  "id": "/loona-study-tools/hi/weighted-grade-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

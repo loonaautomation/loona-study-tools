@@ -1,0 +1,29 @@
+{
+  "name": "Loona बैठक चार्ट मेकर",
+  "short_name": "बैठक चार्ट मेकर",
+  "description": "मुफ़्त बैठक चार्ट मेकर: डेस्क ग्रिड बनाएँ, विद्यार्थियों को रखने के लिए क्लिक करें, जो सीटें नहीं हिलनी चाहिए उन्हें लॉक करें, बाकी सबको फेंटें, और चार्ट प्रिंट करें।",
+  "id": "/loona-study-tools/hi/seating-chart-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona समूह छँटाई खेल",
+  "short_name": "समूह छँटाई खेल",
+  "description": "कक्षाओं के लिए मुफ़्त समूह छँटाई खेल: श्रेणियाँ और वस्तुएँ परिभाषित करें, विद्यार्थी वस्तुओं को सही समूहों में टैप करते हैं और सुधारों के साथ तुरंत अंक पाते हैं।",
+  "id": "/loona-study-tools/hi/group-sort-game/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

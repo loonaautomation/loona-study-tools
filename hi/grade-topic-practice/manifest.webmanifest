@@ -1,0 +1,29 @@
+{
+  "name": "Loona कक्षा और विषय के अनुसार अभ्यास",
+  "short_name": "कक्षा और विषय के अनुसार अभ्यास",
+  "description": "Loona Study Tools पर सभी कक्षा-और-विषय अभ्यास पृष्ठों (किंडरगार्टन से कक्षा 8), विषय मार्गदर्शिकाओं, कक्षा 9–12 के लिए पाकिस्तान बोर्ड परीक्षा मार्गदर्शिकाओं और CGPA कनवर्टरों की एक सूची।",
+  "id": "/loona-study-tools/hi/grade-topic-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona पठन गति परीक्षण",
+  "short_name": "पठन गति परीक्षण",
+  "description": "मुफ़्त पठन गति परीक्षण: एक समयबद्ध अंश पढ़ें (3 विकल्प, 400-600 शब्द), बोध प्रश्नों के उत्तर दें, और WPM में अपनी पठन गति पाएँ साथ में आयु अनुसार अच्छी पठन गतियों की ईमानदार मार्गदर्शिका।",
+  "id": "/loona-study-tools/hi/reading-speed-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

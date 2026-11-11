@@ -1,0 +1,29 @@
+{
+  "name": "Loona SGPA से CGPA कैलकुलेटर",
+  "short_name": "SGPA से CGPA कैलकुलेटर",
+  "description": "सेमेस्टर SGPA को सही तरीके से CGPA में जोड़ें: क्रेडिट-भारित औसत, साधारण माध्य नहीं। अपने सेमेस्टर उनके क्रेडिट के साथ जोड़ें।",
+  "id": "/loona-study-tools/hi/sgpa-to-cgpa-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

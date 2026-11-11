@@ -1,0 +1,29 @@
+{
+  "name": "Loona कोड टाइपिंग परीक्षण",
+  "short_name": "कोड टाइपिंग परीक्षण",
+  "description": "मुफ़्त कोड टाइपिंग परीक्षण: असली JavaScript, Python और SQL स्निपेट ठीक-ठीक टाइप करें — कोष्ठक, प्रतीक और इंडेंटेशन पर अंक — सटीकता, प्रति मिनट अक्षर और WPM के साथ।",
+  "id": "/loona-study-tools/hi/code-typing-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

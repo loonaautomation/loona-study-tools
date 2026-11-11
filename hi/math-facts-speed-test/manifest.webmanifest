@@ -1,0 +1,29 @@
+{
+  "name": "Loona गणित तथ्य गति परीक्षण",
+  "short_name": "गणित तथ्य गति परीक्षण",
+  "description": "मुफ़्त गणित तथ्य गति परीक्षण: जोड़, घटाव, गुणा और भाग तथ्यों की 60-सेकंड की दौड़, तुरंत जाँच, सटीकता और श्रृंखला ट्रैकिंग के साथ।",
+  "id": "/loona-study-tools/hi/math-facts-speed-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

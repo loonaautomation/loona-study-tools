@@ -1,0 +1,29 @@
+{
+  "name": "Loona प्रतिशत से CGPA कनवर्टर (4.0, 5.0",
+  "short_name": "प्रतिशत से CGPA कनवर्टर",
+  "description": "प्रतिशत को 4.0, 5.0 और 10-अंक पैमानों पर वापस CGPA में बदलें: भारत के लिए % ÷ 9.5, 4.0 और 5.0 के लिए रैखिक समतुल्य, सारणियों के साथ।",
+  "id": "/loona-study-tools/hi/percentage-to-cgpa/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

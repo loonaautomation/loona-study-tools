@@ -1,0 +1,29 @@
+{
+  "name": "Loona क्रॉसवर्ड जेनरेटर",
+  "short_name": "क्रॉसवर्ड जेनरेटर",
+  "description": "मुफ़्त क्रॉसवर्ड जेनरेटर: शब्द और संकेत दर्ज करें और असली प्रतिच्छेदी क्रॉसवर्ड पहेली पाएँ, क्रमांकित संकेतों और अलग उत्तर कुंजी के साथ प्रिंट योग्य।",
+  "id": "/loona-study-tools/hi/crossword-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona 10-की परीक्षण",
+  "short_name": "10-की परीक्षण",
+  "description": "मुफ़्त 10-की नंबर पैड परीक्षण: अंक अनुक्रम जितनी तेज़ी और सटीकता से हो सके टाइप करें; प्रति मिनट कुंजियों और सटीकता पर अंक — डेटा-एंट्री कौशल परीक्षण।",
+  "id": "/loona-study-tools/hi/ten-key-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

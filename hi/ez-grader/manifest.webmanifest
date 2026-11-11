@@ -1,0 +1,29 @@
+{
+  "name": "Loona EZ ग्रेडर",
+  "short_name": "EZ ग्रेडर",
+  "description": "शिक्षकों के लिए मुफ़्त EZ ग्रेडर: कुल प्रश्न और गलत संख्या दर्ज करें और तुरंत प्रतिशत व अक्षर ग्रेड पाएँ, उस परीक्षण लंबाई के लिए पूरे ग्रेडिंग चार्ट के साथ।",
+  "id": "/loona-study-tools/hi/ez-grader/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

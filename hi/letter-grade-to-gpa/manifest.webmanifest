@@ -1,0 +1,29 @@
+{
+  "name": "Loona अक्षर ग्रेड से GPA कनवर्टर",
+  "short_name": "अक्षर ग्रेड से GPA कनवर्टर",
+  "description": "A, B+ या C− का GPA कितना होता है? 4.0 पैमाने पर अक्षर-ग्रेड से GPA अंकों की पूरी सारणी, प्रतिशत बैंड और एक-क्लिक कनवर्टर के साथ।",
+  "id": "/loona-study-tools/hi/letter-grade-to-gpa/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

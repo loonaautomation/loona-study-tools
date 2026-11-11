@@ -1,0 +1,29 @@
+{
+  "name": "Loona ऑस्ट्रेलिया GPA कनवर्टर",
+  "short_name": "ऑस्ट्रेलिया GPA कनवर्टर",
+  "description": "7-अंक पैमाने (HD = 7) पर ऑस्ट्रेलियाई विश्वविद्यालय ग्रेड को मानक ग्रेड सारणी के साथ प्रतिशत और अनुमानित 4.0-पैमाने GPA में बदलें।",
+  "id": "/loona-study-tools/hi/australia-gpa-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

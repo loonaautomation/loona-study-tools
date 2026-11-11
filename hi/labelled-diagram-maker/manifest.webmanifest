@@ -1,0 +1,29 @@
+{
+  "name": "Loona लेबलयुक्त आरेख मेकर",
+  "short_name": "लेबलयुक्त आरेख मेकर",
+  "description": "मुफ़्त लेबलयुक्त आरेख मेकर: आरेख अपलोड करें, क्रमांकित लेबल लगाने के लिए क्लिक करें, लेबलयुक्त या रिक्त संस्करण प्रिंट करें, और लेबलों पर विद्यार्थियों की क्विज़ लें। छवि आपके डिवाइस से कभी बाहर नहीं जाती।",
+  "id": "/loona-study-tools/hi/labelled-diagram-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona क्विज़ मेकर",
+  "short_name": "क्विज़ मेकर",
+  "description": "शिक्षकों के लिए मुफ़्त क्विज़ मेकर: बहुविकल्पीय, सही/गलत और लघु-उत्तरीय प्रश्न, तुरंत अंक और समीक्षा के साथ प्रयास मोड, प्रिंट योग्य क्विज़ + अलग उत्तर कुंजी, JSON निर्यात/आयात।",
+  "id": "/loona-study-tools/hi/quiz-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

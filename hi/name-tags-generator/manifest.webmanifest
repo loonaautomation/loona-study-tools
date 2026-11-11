@@ -1,0 +1,29 @@
+{
+  "name": "Loona नाम टैग जेनरेटर",
+  "short_name": "नाम टैग जेनरेटर",
+  "description": "मुफ़्त नाम टैग जेनरेटर: कक्षा सूची चिपकाएँ और कक्षा/विद्यालय उपशीर्षक के साथ साफ़ नाम टैग प्रिंट करें — पहले दिनों, यात्राओं, अभिभावक संध्याओं और समूह कार्य के लिए।",
+  "id": "/loona-study-tools/hi/name-tags-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona अंतिम परीक्षा ग्रेड कैलकुलेटर",
+  "short_name": "अंतिम परीक्षा ग्रेड कैलकुलेटर",
+  "description": "मुफ़्त अंतिम परीक्षा कैलकुलेटर: अपना वर्तमान ग्रेड, अंतिम परीक्षा का भार और अपना लक्ष्य दर्ज करें और ठीक-ठीक देखें कि अंतिम परीक्षा में आपको कितने अंक चाहिए — और क्या यह अभी भी संभव है।",
+  "id": "/loona-study-tools/hi/final-exam-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

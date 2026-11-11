@@ -1,0 +1,29 @@
+{
+  "name": "Loona CGPA से प्रतिशत कनवर्टर (4.0, 5.0",
+  "short_name": "CGPA से प्रतिशत कनवर्टर",
+  "description": "एक मुफ़्त कनवर्टर से 4.0, 5.0 और 10-अंक पैमानों पर CGPA को प्रतिशत में बदलें, साथ में प्रत्येक पैमाने का सूत्र और पूरी रूपांतरण सारणी।",
+  "id": "/loona-study-tools/hi/cgpa-to-percentage/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

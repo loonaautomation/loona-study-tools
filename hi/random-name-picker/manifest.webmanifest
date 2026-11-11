@@ -1,0 +1,29 @@
+{
+  "name": "Loona यादृच्छिक नाम चयनकर्ता",
+  "short_name": "यादृच्छिक नाम चयनकर्ता",
+  "description": "शिक्षकों के लिए मुफ़्त यादृच्छिक नाम चयनकर्ता: कक्षा सूची चिपकाएँ और विद्यार्थियों को निष्पक्ष यादृच्छिक रूप से चुनें, बिना-दोहराव मोड के साथ ताकि किसी के दोहराने से पहले सबको बारी मिले।",
+  "id": "/loona-study-tools/hi/random-name-picker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

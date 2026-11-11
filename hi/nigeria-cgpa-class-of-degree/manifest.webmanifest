@@ -1,0 +1,29 @@
+{
+  "name": "Loona नाइजीरिया CGPA डिग्री श्रेणी",
+  "short_name": "नाइजीरिया CGPA डिग्री श्रेणी",
+  "description": "5.0 पैमाने पर नाइजीरियाई विश्वविद्यालय CGPA श्रेणी बैंड: प्रथम श्रेणी 4.50–5.00, द्वितीय उच्च 3.50–4.49, द्वितीय निम्न 2.40–3.49, श्रेणी जाँचक के साथ।",
+  "id": "/loona-study-tools/hi/nigeria-cgpa-class-of-degree/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

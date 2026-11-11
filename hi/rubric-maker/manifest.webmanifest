@@ -1,0 +1,29 @@
+{
+  "name": "Loona रूब्रिक मेकर",
+  "short_name": "रूब्रिक मेकर",
+  "description": "मुफ़्त रूब्रिक मेकर: मानदंड और अधिकतम अंक जोड़ें, चार प्रदर्शन स्तर वर्णित करें, और प्रति-स्तर अंक स्वतः गिने हुए प्रिंट योग्य रूब्रिक ग्रिड पाएँ।",
+  "id": "/loona-study-tools/hi/rubric-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

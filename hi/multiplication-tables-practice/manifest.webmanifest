@@ -1,0 +1,29 @@
+{
+  "name": "Loona पहाड़ा अभ्यास",
+  "short_name": "पहाड़ा अभ्यास",
+  "description": "मुफ़्त पहाड़ा अभ्यास: पहाड़े 2-12 चुनें, तुरंत जाँच और कमज़ोर पहाड़ों की समीक्षा के साथ समयबद्ध चक्रों का अभ्यास करें, साथ में प्रिंट योग्य 12x12 गुणा चार्ट।",
+  "id": "/loona-study-tools/hi/multiplication-tables-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

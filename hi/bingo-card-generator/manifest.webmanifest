@@ -1,0 +1,29 @@
+{
+  "name": "Loona बिंगो कार्ड जेनरेटर",
+  "short_name": "बिंगो कार्ड जेनरेटर",
+  "description": "मुफ़्त बिंगो कार्ड जेनरेटर: 24+ शब्द दर्ज करें और पूरी कक्षा के लिए अनोखे प्रिंट योग्य 5x5 बिंगो कार्ड बनाएँ, साथ में फेंटी हुई पुकार सूची। शब्दावली, दृष्टि शब्द, संख्याएँ और बहुत कुछ।",
+  "id": "/loona-study-tools/hi/bingo-card-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

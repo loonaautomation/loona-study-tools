@@ -1,0 +1,29 @@
+{
+  "name": "Loona प्रतिशत से CGPA (भारत, 10-बिंदु)",
+  "short_name": "प्रतिशत से CGPA (भारत",
+  "description": "CBSE उल्टे सूत्र (% ÷ 9.5) और विश्वविद्यालय रूपों के साथ प्रतिशत को भारतीय 10-अंक CGPA में बदलें, 95% से नीचे तक पूरी सारणी के साथ।",
+  "id": "/loona-study-tools/hi/percentage-to-cgpa-10/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

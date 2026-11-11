@@ -1,0 +1,29 @@
+{
+  "name": "Loona बांग्लादेश GPA से प्रतिशत",
+  "short_name": "बांग्लादेश GPA से प्रतिशत",
+  "description": "SSC और HSC के लिए बांग्लादेश शिक्षा बोर्ड GPA सारणी: A+ 5.00 = 80–100 अंक, प्रत्येक ग्रेड अंक और अंक सीमा के साथ, साथ में अंक-से-GPA कनवर्टर।",
+  "id": "/loona-study-tools/hi/bangladesh-gpa-to-percentage/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

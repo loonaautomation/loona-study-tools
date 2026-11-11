@@ -1,0 +1,29 @@
+{
+  "name": "Loona हस्तलेखन अभ्यास जेनरेटर",
+  "short_name": "हस्तलेखन अभ्यास जेनरेटर",
+  "description": "मुफ़्त हस्तलेखन अभ्यास जेनरेटर: वर्णमाला, बड़े अक्षर, छोटे अक्षर, संख्याओं और अपने शब्दों या वाक्यों के लिए प्रिंट योग्य अनुरेखण शीट, चार-पंक्ति रेखांकित गाइड के साथ।",
+  "id": "/loona-study-tools/hi/handwriting-practice-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

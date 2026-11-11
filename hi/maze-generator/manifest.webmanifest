@@ -1,0 +1,29 @@
+{
+  "name": "Loona भूलभुलैया जेनरेटर",
+  "short_name": "भूलभुलैया जेनरेटर",
+  "description": "मुफ़्त भूलभुलैया जेनरेटर: चार कठिनाई स्तरों (8x8 से 26x26) पर प्रिंट योग्य भूलभुलैया, हर बार नई बनाई गई, जाँच के लिए वैकल्पिक लाल हल मार्ग के साथ।",
+  "id": "/loona-study-tools/hi/maze-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

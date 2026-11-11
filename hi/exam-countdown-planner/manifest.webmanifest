@@ -1,0 +1,29 @@
+{
+  "name": "Loona परीक्षा उलटी गिनती योजनाकार",
+  "short_name": "परीक्षा उलटी गिनती योजनाकार",
+  "description": "मुफ़्त परीक्षा उलटी गिनती योजनाकार: अपनी परीक्षा तिथि, विषय और दैनिक सत्र दर्ज करें और दिन-प्रतिदिन दोहराई योजना पाएँ जो परीक्षा के दिन तक कठिनाई भार के अनुसार विषयों को न्यायपूर्वक फैलाती है।",
+  "id": "/loona-study-tools/hi/exam-countdown-planner/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

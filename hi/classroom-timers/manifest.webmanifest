@@ -1,0 +1,29 @@
+{
+  "name": "Loona कक्षा टाइमर",
+  "short_name": "कक्षा टाइमर",
+  "description": "मुफ़्त कक्षा टाइमर: प्रगति वलय और सिकुड़ती दृश्य पट्टी के साथ बड़े प्रदर्शन वाली उलटी गिनती, समाप्ति समय और शेष समय दिखाने वाला परीक्षा टाइमर, और लैप वाली स्टॉपवॉच।",
+  "id": "/loona-study-tools/hi/classroom-timers/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

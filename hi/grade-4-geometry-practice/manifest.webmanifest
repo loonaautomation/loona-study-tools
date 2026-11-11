@@ -1,0 +1,29 @@
+{
+  "name": "Loona कक्षा 4 ज्यामिति अभ्यास",
+  "short_name": "कक्षा 4 ज्यामिति अभ्यास",
+  "description": "मुफ़्त कक्षा 4 geometry अभ्यास — त्रिभुज: प्रकार और कोण योग। एक हल किया गया उदाहरण, प्रिंट योग्य उत्तर कुंजी के साथ 6 अभ्यास प्रश्न, विधि, आम गलती और एक बेहतरीन सुझाव।",
+  "id": "/loona-study-tools/hi/grade-4-geometry-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
