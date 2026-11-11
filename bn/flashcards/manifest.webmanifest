@@ -1,0 +1,29 @@
+{
+  "name": "Loona ফ্ল্যাশকার্ড তৈরি",
+  "short_name": "ফ্ল্যাশকার্ড তৈরি",
+  "description": "বিনামূল্যে ফ্ল্যাশকার্ড নির্মাতা: ডেক বানান, উল্টানো কার্ড দিয়ে পড়ুন, এলোমেলো করুন এবং জানি/জানি-না অনুসরণ করুন। CSV &amp; JSON আমদানি/রপ্তানি করুন, কার্ড ছাপান। কোনো সাইন-আপ নেই, আপনার ডিভাইসেই সংরক্ষিত থাকে।",
+  "id": "/loona-study-tools/bn/flashcards/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

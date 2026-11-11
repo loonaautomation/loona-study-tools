@@ -1,0 +1,29 @@
+{
+  "name": "Loona নামের ট্যাগ তৈরি",
+  "short_name": "নামের ট্যাগ তৈরি",
+  "description": "বিনামূল্যে নামের ট্যাগ জেনারেটর: একটি শ্রেণির তালিকা পেস্ট করুন এবং শ্রেণি/স্কুল উপশিরোনামসহ ঝরঝরে নামের ট্যাগ ছাপান — প্রথম দিন, ভ্রমণ, অভিভাবক সন্ধ্যা ও দলগত কাজের জন্য।",
+  "id": "/loona-study-tools/bn/name-tags-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

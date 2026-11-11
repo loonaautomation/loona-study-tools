@@ -1,0 +1,29 @@
+{
+  "name": "Loona শব্দটির বানান করুন খেলা",
+  "short_name": "শব্দটির বানান করুন খেলা",
+  "description": "বিনামূল্যে শব্দের বানান খেলা: শিক্ষার্থীরা একটি সূত্র ব্যবহার করে এলোমেলো অক্ষর টাইলে ট্যাপ করে প্রতিটি শব্দ গঠন করে। তাৎক্ষণিক যাচাইসহ স্পর্শভিত্তিক বানান অনুশীলনী।",
+  "id": "/loona-study-tools/bn/spell-the-word/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

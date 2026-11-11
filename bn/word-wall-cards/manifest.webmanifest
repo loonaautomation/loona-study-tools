@@ -1,0 +1,29 @@
+{
+  "name": "Loona ওয়ার্ড ওয়াল কার্ড তৈরি",
+  "short_name": "ওয়ার্ড ওয়াল কার্ড তৈরি",
+  "description": "বিনামূল্যে ওয়ার্ড ওয়াল কার্ড জেনারেটর: একটি শব্দ তালিকা টাইপ করুন এবং শ্রেণিকক্ষের প্রদর্শনী ও পড়ার কোণার জন্য তিন আকারে বড়, মোটা ছাপানো যায় এমন ওয়ার্ড ওয়াল কার্ড পান।",
+  "id": "/loona-study-tools/bn/word-wall-cards/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

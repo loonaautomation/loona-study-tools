@@ -1,0 +1,29 @@
+{
+  "name": "Loona শ্রেণিকক্ষের টাইমার",
+  "short_name": "শ্রেণিকক্ষের টাইমার",
+  "description": "বিনামূল্যে শ্রেণিকক্ষ টাইমার: অগ্রগতি রিং ও সঙ্কুচিত চিত্রভিত্তিক বারসহ বড়-ডিসপ্লে কাউন্টডাউন, শেষ সময় ও বাকি সময় দেখানো পরীক্ষা টাইমার, এবং ল্যাপসহ স্টপওয়াচ।",
+  "id": "/loona-study-tools/bn/classroom-timers/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona কিন্ডারগার্টেন ইংরেজি বিষয়সমূহ",
+  "short_name": "কিন্ডারগার্টেন ইংরেজি বিষয়সমূহ",
+  "description": "কিন্ডারগার্টেনের জন্য ইংরেজি বিষয়গুলো শিক্ষাদানের ক্রমে — অক্ষরের নাম ও ধ্বনি (A–Z), অক্ষর ট্রেস করা ও লেখা, ছন্দমিল শব্দ ও শিশুতোষ ছড়া এবং আরও — প্রতিটি বিষয়ের জন্য বিনামূল্যে পাঠ সরঞ্জামসহ।",
+  "id": "/loona-study-tools/bn/kindergarten-english-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

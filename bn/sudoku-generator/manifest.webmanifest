@@ -1,0 +1,29 @@
+{
+  "name": "Loona সুডোকু তৈরি",
+  "short_name": "সুডোকু তৈরি",
+  "description": "বিনামূল্যে সুডোকু জেনারেটর: তিনটি কঠিনতায় ছাপানো যায় এমন 4x4, 6x6 ও 9x9 সুডোকু ধাঁধা, প্রতিটি ধাঁধা যাচাই করা যে ঠিক একটি সমাধান আছে, আলাদা সমাধান পৃষ্ঠাসহ।",
+  "id": "/loona-study-tools/bn/sudoku-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona শব্দভান্ডার কুইজ",
+  "short_name": "শব্দভান্ডার কুইজ",
+  "description": "বিনামূল্যে শব্দভান্ডার কুইজ: প্রতিটির চারটি অর্থ বিকল্পসহ 20টি ইংরেজি শব্দ, সাধারণ স্কুল শব্দ থেকে সমৃদ্ধ একাডেমিক শব্দভান্ডার পর্যন্ত। তাৎক্ষণিক স্কোর ও পুনরালোচনা।",
+  "id": "/loona-study-tools/bn/vocabulary-quiz/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

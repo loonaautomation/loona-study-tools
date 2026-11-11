@@ -1,0 +1,452 @@
+[
+ {
+  "n": "ফ্ল্যাশকার্ড তৈরি",
+  "u": "https://loonaautomation.github.io/loona-study-tools/bn/flashcards/",
+  "s": "Loona Study Tools",
+  "d": "ফ্ল্যাশকার্ড ডেক তৈরি করুন, উল্টানো কার্ড ও এলোমেলো করে পড়ুন, আপনি যা জানেন তা অনুসরণ করুন, এবং আপনার কার্ড এক্সপোর্ট বা ছাপান।",
+  "k": "flashcards maker flashcards ফ্ল্যাশকার্ড ডেক তৈরি করুন উল্টানো কার্ড ও এলোমেলো করে পড়ুন আপনি যা জানেন তা অনুসরণ করুন এবং আপনার কার্ড এক্সপোর্ট বা ছাপান",
+  "p": 0,
+  "c": "Tool"
+ },
+ {
+  "n": "কুইজ তৈরি",
+  "u": "https://loonaautomation.github.io/loona-study-tools/bn/quiz-maker/",
+  "s": "Loona Study Tools",
+  "d": "শিক্ষকেরা MCQ, সত্য/মিথ্যা ও সংক্ষিপ্ত উত্তর দিয়ে কুইজ বানান — শিক্ষার্থীরা তাৎক্ষণিক স্কোর ও পূর্ণ উত্তর পর্যালোচনাসহ সেগুলোতে অংশ নেয়।",
+  "k": "quiz maker quiz maker শিক্ষকেরা mcq সত্য মিথ্যা ও সংক্ষিপ্ত উত্তর দিয়ে কুইজ বানান শিক্ষার্থীরা তাৎক্ষণিক স্কোর ও পূর্ণ উত্তর পর্যালোচনাসহ সেগুলোতে অংশ নেয়",
+  "p": 1,
+  "c": "Tool"
+ },
+ {
+  "n": "Practice by Grade & Topic",
+  "u": "https://loonaautomation.github.io/loona-study-tools/bn/grade-topic-practice/",
+  "s": "Loona Study Tools",
+  "d": "196টি নতুন পৃষ্ঠা: প্রতিটি শ্রেণি ও গণিত বিষয়ের জন্য সমাধানসহ উদাহরণ ও অনুশীলনী প্রশ্ন, বিজ্ঞান, ইংরেজি, সামাজিক বিজ্ঞান ও উর্দুর বিষয় গাইড, 9–12 শ্রেণির জন্য পাকিস্তান বোর্ড পরীক্ষার গাইড, এবং প্রতিটি প্রধান গ্রেডিং স্কেলের জন্য CGPA রূপান্তরকারী।",
+  "k": "practice by grade topic grade topic practice 196টি নতুন পৃষ্ঠা প্রতিটি শ্রেণি ও গণিত বিষয়ের জন্য সমাধানসহ উদাহরণ ও অনুশীলনী প্রশ্ন বিজ্ঞান ইংরেজি সামাজিক বিজ্ঞান ও উর্দুর বিষয় গাইড 9 12 শ্রেণির জন্য পাকিস্তান বোর্ড পরীক্ষার গাইড এবং প্রতিটি প্রধান গ্রেডিং স্কেলের জন্য cgpa রূপান্তরকারী",
+  "p": 102,
+  "c": "Tool"
+ },
+ {
+  "n": "গণিত ওয়ার্কশিট তৈরি",
+  "u": "https://loonaautomation.github.io/loona-study-tools/bn/math-worksheet-generator/",
+  "s": "Loona Study Tools",
+  "d": "মিলে যাওয়া উত্তরপত্রসহ ছাপানো যায় এমন গণিত ওয়ার্কশিট তৈরি করুন — যোগ, বিয়োগ, গুণ, ভাগ, ভগ্নাংশ ও দশমিক।",
+  "k": "math worksheet generator math worksheet generator মিলে যাওয়া উত্তরপত্রসহ ছাপানো যায় এমন গণিত ওয়ার্কশিট তৈরি করুন যোগ বিয়োগ গুণ ভাগ ভগ্নাংশ ও দশমিক",
+  "p": 2,
+  "c": "Tool"
+ },
+ {
+  "n": "পড়ার গতি পরীক্ষা",
+  "u": "https://loonaautomation.github.io/loona-study-tools/bn/reading-speed-test/",
+  "s": "Loona Study Tools",
+  "d": "একটি সময়বদ্ধ অনুচ্ছেদ পড়ুন, বোধগম্যতার প্রশ্নের উত্তর দিন এবং প্রতি মিনিটে শব্দে (WPM) আপনার আসল পড়ার গতি পান।",
+  "k": "reading speed test reading speed test একটি সময়বদ্ধ অনুচ্ছেদ পড়ুন বোধগম্যতার প্রশ্নের উত্তর দিন এবং প্রতি মিনিটে শব্দে wpm আপনার আসল পড়ার গতি পান",
+  "p": 3,
+  "c": "Tool"
+ },
+ {
+  "n": "পড়ার সময়সূচি পরিকল্পনা",
+  "u": "https://loonaautomation.github.io/loona-study-tools/bn/study-timetable-planner/",
+  "s": "Loona Study Tools",
+  "d": "আপনার বিষয়, দৈনিক ঘণ্টা ও পরীক্ষার তারিখ লিখুন এবং একটি ভারসাম্যপূর্ণ সাপ্তাহিক পড়ার সময়সূচি পান যা আপনি সম্পাদনা ও ছাপতে পারেন।",
+  "k": "study timetable planner study timetable planner আপনার বিষয় দৈনিক ঘণ্টা ও পরীক্ষার তারিখ লিখুন এবং একটি ভারসাম্যপূর্ণ সাপ্তাহিক পড়ার সময়সূচি পান যা আপনি সম্পাদনা ও ছাপতে পারেন",
+  "p": 4,
+  "c": "Tool"
+ },
+ {
+  "n": "নামতা অনুশীলনী",
+  "u": "https://loonaautomation.github.io/loona-study-tools/bn/multiplication-tables-practice/",
+  "s": "Loona Study Tools",
+  "d": "সময়ধারী অনুশীলনী রাউন্ড, তাৎক্ষণিক যাচাই এবং 12 × 12 পর্যন্ত ছাপানো যায় এমন গুণের ছক দিয়ে নামতা অনুশীলন করুন।",
+  "k": "multiplication tables practice multiplication tables practice সময়ধারী অনুশীলনী রাউন্ড তাৎক্ষণিক যাচাই এবং 12 12 পর্যন্ত ছাপানো যায় এমন গুণের ছক দিয়ে নামতা অনুশীলন করুন",
+  "p": 106,
+  "c": "Tool"
+ },
+ {
+  "n": "বানান পরীক্ষা",
+  "u": "https://loonaautomation.github.io/loona-study-tools/bn/spelling-test/",
+  "s": "Loona Study Tools",
+  "d": "কম্পিউটার প্রতিটি শব্দ জোরে পড়ে — আপনি বানান টাইপ করেন। তাৎক্ষণিক স্কোর এবং আপনার বাদ পড়া প্রতিটি শব্দের পর্যালোচনা।",
+  "k": "spelling test spelling test কম্পিউটার প্রতিটি শব্দ জোরে পড়ে আপনি বানান টাইপ করেন তাৎক্ষণিক স্কোর এবং আপনার বাদ পড়া প্রতিটি শব্দের পর্যালোচনা",
+  "p": 5,
+  "c": "Tool"
+ },
+ {
+  "n": "হাতের লেখা অনুশীলনী তৈরি",
+  "u": "https://loonaautomation.github.io/loona-study-tools/bn/handwriting-practice-generator/",
+  "s": "Loona Study Tools",
+  "d": "ট্রেসিং লাইন ও ফাঁকা কপি লাইনসহ অক্ষর, সংখ্যা ও আপনার নিজের শব্দের জন্য ছাপানো যায় এমন হাতের লেখা অনুশীলনী শিট তৈরি করুন।",
+  "k": "handwriting practice generator handwriting practice generator ট্রেসিং লাইন ও ফাঁকা কপি লাইনসহ অক্ষর সংখ্যা ও আপনার নিজের শব্দের জন্য ছাপানো যায় এমন হাতের লেখা অনুশীলনী শিট তৈরি করুন",
+  "p": 108,
+  "c": "Tool"
+ },
+ {
+  "n": "পরীক্ষার কাউন্টডাউন পরিকল্পনা",
+  "u": "https://loonaautomation.github.io/loona-study-tools/bn/exam-countdown-planner/",
+  "s": "Loona Study Tools",
+  "d": "আপনার পরীক্ষার তারিখ ও বিষয় লিখুন এবং দিন ধরে ধরে একটি পুনরালোচনা পরিকল্পনা পান যা আপনার বাকি দিনগুলোতে বিষয়গুলো ন্যায্যভাবে ছড়িয়ে দেয়।",
+  "k": "exam countdown planner exam countdown planner আপনার পরীক্ষার তারিখ ও বিষয় লিখুন এবং দিন ধরে ধরে একটি পুনরালোচনা পরিকল্পনা পান যা আপনার বাকি দিনগুলোতে বিষয়গুলো ন্যায্যভাবে ছড়িয়ে দেয়",
+  "p": 109,
+  "c": "Tool"
+ },
+ {
+  "n": "শব্দ খোঁজা তৈরি",
+  "u": "https://loonaautomation.github.io/loona-study-tools/bn/word-search-generator/",
+  "s": "Loona Study Tools",
+  "d": "আপনার নিজের শব্দ তালিকাকে একটি ছাপানো যায় এমন শব্দ খোঁজা ধাঁধায় পরিণত করুন, প্রতিটি শব্দের অবস্থান দেখানো আলাদা উত্তরপত্রসহ।",
+  "k": "word search generator word search generator আপনার নিজের শব্দ তালিকাকে একটি ছাপানো যায় এমন শব্দ খোঁজা ধাঁধায় পরিণত করুন প্রতিটি শব্দের অবস্থান দেখানো আলাদা উত্তরপত্রসহ",
+  "p": 110,
+  "c": "Tool"
+ },
+ {
+  "n": "মেলানো ওয়ার্কশিট তৈরি",
+  "u": "https://loonaautomation.github.io/loona-study-tools/bn/matching-worksheet-generator/",
+  "s": "Loona Study Tools",
+  "d": "শিক্ষকের উত্তরপত্রসহ ছাপানো যায় এমন মেলানো ওয়ার্কশিট তৈরি করুন — বামে পদ, ডানে এলোমেলো সংজ্ঞা।",
+  "k": "matching worksheet generator matching worksheet generator শিক্ষকের উত্তরপত্রসহ ছাপানো যায় এমন মেলানো ওয়ার্কশিট তৈরি করুন বামে পদ ডানে এলোমেলো সংজ্ঞা",
+  "p": 111,
+  "c": "Tool"
+ },
+ {
+  "n": "এলোমেলো নাম বাছাই",
+  "u": "https://loonaautomation.github.io/loona-study-tools/bn/random-name-picker/",
+  "s": "Loona Study Tools",
+  "d": "একটি শ্রেণির তালিকা পেস্ট করুন এবং ন্যায্যভাবে এলোমেলোভাবে শিক্ষার্থী বাছুন, একটি পুনরাবৃত্তি-ছাড়া মোডসহ যাতে সবাই একটি সুযোগ পায়।",
+  "k": "random name picker random name picker একটি শ্রেণির তালিকা পেস্ট করুন এবং ন্যায্যভাবে এলোমেলোভাবে শিক্ষার্থী বাছুন একটি পুনরাবৃত্তি ছাড়া মোডসহ যাতে সবাই একটি সুযোগ পায়",
+  "p": 112,
+  "c": "Tool"
+ },
+ {
+  "n": "জোড়া মেলানোর খেলা",
+  "u": "https://loonaautomation.github.io/loona-study-tools/bn/matching-pairs-game/",
+  "s": "Loona Study Tools",
+  "d": "যেকোনো পদ-ও-সংজ্ঞা জোড়াকে চাল ও সময় ট্র্যাকিংসহ একটি উল্টে-মেলানো স্মৃতি খেলায় পরিণত করুন।",
+  "k": "matching pairs game matching pairs game যেকোনো পদ ও সংজ্ঞা জোড়াকে চাল ও সময় ট্র্যাকিংসহ একটি উল্টে মেলানো স্মৃতি খেলায় পরিণত করুন",
+  "p": 113,
+  "c": "Tool"
+ },
+ {
+  "n": "দল সাজানোর খেলা",
+  "u": "https://loonaautomation.github.io/loona-study-tools/bn/group-sort-game/",
+  "s": "Loona Study Tools",
+  "d": "বিভাগ ও আইটেম তৈরি করুন; শিক্ষার্থীরা প্রতিটি আইটেম সঠিক দলে সাজায় এবং তাৎক্ষণিক স্কোর পায়।",
+  "k": "group sort game group sort game বিভাগ ও আইটেম তৈরি করুন শিক্ষার্থীরা প্রতিটি আইটেম সঠিক দলে সাজায় এবং তাৎক্ষণিক স্কোর পায়",
+  "p": 114,
+  "c": "Tool"
+ },
+ {
+  "n": "বাক্য গোছানো খেলা",
+  "u": "https://loonaautomation.github.io/loona-study-tools/bn/unjumble-game/",
+  "s": "Loona Study Tools",
+  "d": "বাক্যগুলো শব্দে শব্দে এলোমেলো করা হয় — শিক্ষার্থীরা শব্দগুলো ট্যাপ করে সঠিক ক্রমে ফিরিয়ে আনে।",
+  "k": "unjumble sentences game unjumble game বাক্যগুলো শব্দে শব্দে এলোমেলো করা হয় শিক্ষার্থীরা শব্দগুলো ট্যাপ করে সঠিক ক্রমে ফিরিয়ে আনে",
+  "p": 115,
+  "c": "Tool"
+ },
+ {
+  "n": "অ্যানাগ্রাম খেলা",
+  "u": "https://loonaautomation.github.io/loona-study-tools/bn/anagram-game/",
+  "s": "Loona Study Tools",
+  "d": "শব্দগুলো অক্ষরে অক্ষরে এলোমেলো করা হয়; শিক্ষার্থীরা আপনার দেওয়া সূত্র ব্যবহার করে সেগুলো গুছায়।",
+  "k": "anagram game anagram game শব্দগুলো অক্ষরে অক্ষরে এলোমেলো করা হয় শিক্ষার্থীরা আপনার দেওয়া সূত্র ব্যবহার করে সেগুলো গুছায়",
+  "p": 116,
+  "c": "Tool"
+ },
+ {
+  "n": "শব্দটির বানান করুন খেলা",
+  "u": "https://loonaautomation.github.io/loona-study-tools/bn/spell-the-word/",
+  "s": "Loona Study Tools",
+  "d": "ক্রমানুসারে অক্ষর টাইলে ট্যাপ করে প্রতিটি শব্দ গঠন করুন — সূত্র ও তাৎক্ষণিক যাচাইসহ বানান অনুশীলনী।",
+  "k": "spell the word game spell the word ক্রমানুসারে অক্ষর টাইলে ট্যাপ করে প্রতিটি শব্দ গঠন করুন সূত্র ও তাৎক্ষণিক যাচাইসহ বানান অনুশীলনী",
+  "p": 117,
+  "c": "Tool"
+ },
+ {
+  "n": "হ্যাংম্যান খেলা",
+  "u": "https://loonaautomation.github.io/loona-study-tools/bn/hangman-game/",
+  "s": "Loona Study Tools",
+  "d": "স্কুল বিষয়ের জন্য অন্তর্নির্মিত শব্দ তালিকাসহ ক্লাসিক অক্ষর-অনুমান খেলা, অথবা আপনার নিজের শব্দ তালিকা।",
+  "k": "hangman game hangman game স্কুল বিষয়ের জন্য অন্তর্নির্মিত শব্দ তালিকাসহ ক্লাসিক অক্ষর অনুমান খেলা অথবা আপনার নিজের শব্দ তালিকা",
+  "p": 118,
+  "c": "Tool"
+ },
+ {
+  "n": "শব্দছক তৈরি",
+  "u": "https://loonaautomation.github.io/loona-study-tools/bn/crossword-generator/",
+  "s": "Loona Study Tools",
+  "d": "শব্দ ও সূত্র লিখুন এবং একটি আসল ছেদকারী শব্দছক ধাঁধা তৈরি করুন — ছাপানো যায়, উত্তরপত্রসহ।",
+  "k": "crossword generator crossword generator শব্দ ও সূত্র লিখুন এবং একটি আসল ছেদকারী শব্দছক ধাঁধা তৈরি করুন ছাপানো যায় উত্তরপত্রসহ",
+  "p": 119,
+  "c": "Tool"
+ },
+ {
+  "n": "বিঙ্গো কার্ড তৈরি",
+  "u": "https://loonaautomation.github.io/loona-study-tools/bn/bingo-card-generator/",
+  "s": "Loona Study Tools",
+  "d": "পুরো শ্রেণির জন্য অনন্য ছাপানো যায় এমন শব্দভান্ডার বিঙ্গো কার্ড তৈরি করুন, পাশাপাশি একটি এলোমেলো ডাকের তালিকা।",
+  "k": "bingo card generator bingo card generator পুরো শ্রেণির জন্য অনন্য ছাপানো যায় এমন শব্দভান্ডার বিঙ্গো কার্ড তৈরি করুন পাশাপাশি একটি এলোমেলো ডাকের তালিকা",
+  "p": 120,
+  "c": "Tool"
+ },
+ {
+  "n": "লেবেলযুক্ত চিত্র তৈরি",
+  "u": "https://loonaautomation.github.io/loona-study-tools/bn/labelled-diagram-maker/",
+  "s": "Loona Study Tools",
+  "d": "একটি চিত্র আপলোড করুন, তার উপর লেবেল পিন করুন, একটি লেবেলযুক্ত বা খালি সংস্করণ ছাপান, এবং একটি লেবেল কুইজ চালান।",
+  "k": "labelled diagram maker labelled diagram maker একটি চিত্র আপলোড করুন তার উপর লেবেল পিন করুন একটি লেবেলযুক্ত বা খালি সংস্করণ ছাপান এবং একটি লেবেল কুইজ চালান",
+  "p": 121,
+  "c": "Tool"
+ },
+ {
+  "n": "শতক ছক",
+  "u": "https://loonaautomation.github.io/loona-study-tools/bn/hundreds-chart/",
+  "s": "Loona Study Tools",
+  "d": "জোড়/বিজোড় ও গুণিতক হাইলাইটসহ একটি ইন্টারঅ্যাক্টিভ, ছাপানো যায় এমন 1–100 ছক, পাশাপাশি হারানো সংখ্যা অনুশীলনী মোড।",
+  "k": "hundreds chart hundreds chart জোড় বিজোড় ও গুণিতক হাইলাইটসহ একটি ইন্টারঅ্যাক্টিভ ছাপানো যায় এমন 1 100 ছক পাশাপাশি হারানো সংখ্যা অনুশীলনী মোড",
+  "p": 122,
+  "c": "Tool"
+ },
+ {
+  "n": "ওয়ার্ড ওয়াল কার্ড তৈরি",
+  "u": "https://loonaautomation.github.io/loona-study-tools/bn/word-wall-cards/",
+  "s": "Loona Study Tools",
+  "d": "শ্রেণিকক্ষের প্রদর্শনের জন্য শব্দ তালিকাকে বড়, গাঢ়, ছাপানো যায় এমন ওয়ার্ড ওয়াল কার্ডে পরিণত করুন।",
+  "k": "word wall cards generator word wall cards শ্রেণিকক্ষের প্রদর্শনের জন্য শব্দ তালিকাকে বড় গাঢ় ছাপানো যায় এমন ওয়ার্ড ওয়াল কার্ডে পরিণত করুন",
+  "p": 123,
+  "c": "Tool"
+ },
+ {
+  "n": "সুডোকু তৈরি",
+  "u": "https://loonaautomation.github.io/loona-study-tools/bn/sudoku-generator/",
+  "s": "Loona Study Tools",
+  "d": "অনন্য সমাধান ও আলাদা সমাধান পৃষ্ঠাসহ ছাপানো যায় এমন সুডোকু ধাঁধা তৈরি করুন — 4×4, 6×6 ও 9×9।",
+  "k": "sudoku generator sudoku generator অনন্য সমাধান ও আলাদা সমাধান পৃষ্ঠাসহ ছাপানো যায় এমন সুডোকু ধাঁধা তৈরি করুন 4 4 6 6 ও 9 9",
+  "p": 124,
+  "c": "Tool"
+ },
+ {
+  "n": "গোলকধাঁধা তৈরি",
+  "u": "https://loonaautomation.github.io/loona-study-tools/bn/maze-generator/",
+  "s": "Loona Study Tools",
+  "d": "ঐচ্ছিক সমাধান পথসহ চারটি কঠিনতার স্তরে ছাপানো যায় এমন গোলকধাঁধা তৈরি করুন।",
+  "k": "maze generator maze generator ঐচ্ছিক সমাধান পথসহ চারটি কঠিনতার স্তরে ছাপানো যায় এমন গোলকধাঁধা তৈরি করুন",
+  "p": 125,
+  "c": "Tool"
+ },
+ {
+  "n": "সংখ্যা অনুযায়ী রং তৈরি",
+  "u": "https://loonaautomation.github.io/loona-study-tools/bn/colour-by-number-generator/",
+  "s": "Loona Study Tools",
+  "d": "একটি রঙের চাবি ও রঙিন উত্তরের ছবিসহ ছাপানো যায় এমন সংখ্যা অনুযায়ী রং মোজাইক তৈরি করুন।",
+  "k": "colour by number generator colour by number generator একটি রঙের চাবি ও রঙিন উত্তরের ছবিসহ ছাপানো যায় এমন সংখ্যা অনুযায়ী রং মোজাইক তৈরি করুন",
+  "p": 126,
+  "c": "Tool"
+ },
+ {
+  "n": "ছাপার কাগজ তৈরি",
+  "u": "https://loonaautomation.github.io/loona-study-tools/bn/printable-paper-generator/",
+  "s": "Loona Study Tools",
+  "d": "সঠিক আকারে গ্রাফ কাগজ, বিন্দু গ্রিড কাগজ, আইসোমেট্রিক কাগজ ও হাতের লেখা অনুশীলনের কাগজ ছাপান।",
+  "k": "printable paper generator printable paper generator সঠিক আকারে গ্রাফ কাগজ বিন্দু গ্রিড কাগজ আইসোমেট্রিক কাগজ ও হাতের লেখা অনুশীলনের কাগজ ছাপান",
+  "p": 127,
+  "c": "Tool"
+ },
+ {
+  "n": "বানান ওয়ার্কশিট তৈরি",
+  "u": "https://loonaautomation.github.io/loona-study-tools/bn/spelling-worksheet-generator/",
+  "s": "Loona Study Tools",
+  "d": "একটি বানান তালিকা থেকে: একটি পরীক্ষা শিট, শব্দ এলোমেলো, হারানো-অক্ষর অনুশীলনী ও ABC ক্রম — উত্তরপত্রসহ।",
+  "k": "spelling worksheet generator spelling worksheet generator একটি বানান তালিকা থেকে একটি পরীক্ষা শিট শব্দ এলোমেলো হারানো অক্ষর অনুশীলনী ও abc ক্রম উত্তরপত্রসহ",
+  "p": 128,
+  "c": "Tool"
+ },
+ {
+  "n": "শ্রেণিকক্ষের টাইমার ও পরীক্ষা টাইমার",
+  "u": "https://loonaautomation.github.io/loona-study-tools/bn/classroom-timers/",
+  "s": "Loona Study Tools",
+  "d": "অগ্রগতি রিংসহ বড়-ডিসপ্লে কাউন্টডাউন টাইমার, শেষ সময় দেখানো পরীক্ষা টাইমার, একটি চিত্রভিত্তিক বার টাইমার এবং ল্যাপসহ স্টপওয়াচ।",
+  "k": "classroom timers exam timer classroom timers অগ্রগতি রিংসহ বড় ডিসপ্লে কাউন্টডাউন টাইমার শেষ সময় দেখানো পরীক্ষা টাইমার একটি চিত্রভিত্তিক বার টাইমার এবং ল্যাপসহ স্টপওয়াচ",
+  "p": 129,
+  "c": "Tool"
+ },
+ {
+  "n": "শ্রেণিকক্ষের দল তৈরি",
+  "u": "https://loonaautomation.github.io/loona-study-tools/bn/classroom-group-maker/",
+  "s": "Loona Study Tools",
+  "d": "আপনার শ্রেণি তালিকা সংরক্ষণ করুন এবং সেগুলোকে ন্যায্য এলোমেলো দল বা জোড়ায় ভাগ করুন — সুষম আকার, এক ক্লিকে আবার এলোমেলো করুন।",
+  "k": "classroom group maker classroom group maker আপনার শ্রেণি তালিকা সংরক্ষণ করুন এবং সেগুলোকে ন্যায্য এলোমেলো দল বা জোড়ায় ভাগ করুন সুষম আকার এক ক্লিকে আবার এলোমেলো করুন",
+  "p": 130,
+  "c": "Tool"
+ },
+ {
+  "n": "আসন বিন্যাস তৈরি",
+  "u": "https://loonaautomation.github.io/loona-study-tools/bn/seating-chart-maker/",
+  "s": "Loona Study Tools",
+  "d": "শিক্ষার্থীদের একটি ডেস্ক গ্রিডে সাজান: বসাতে ক্লিক করুন, পছন্দের আসন লক করুন, বাকিদের এলোমেলো করুন, এবং ছকটি ছাপান।",
+  "k": "seating chart maker seating chart maker শিক্ষার্থীদের একটি ডেস্ক গ্রিডে সাজান বসাতে ক্লিক করুন পছন্দের আসন লক করুন বাকিদের এলোমেলো করুন এবং ছকটি ছাপান",
+  "p": 131,
+  "c": "Tool"
+ },
+ {
+  "n": "শ্রেণিকক্ষের স্কোরবোর্ড",
+  "u": "https://loonaautomation.github.io/loona-study-tools/bn/classroom-scoreboard/",
+  "s": "Loona Study Tools",
+  "d": "শ্রেণিকক্ষের পর্দার জন্য বড় ও স্পষ্ট দলীয় পয়েন্ট স্কোরবোর্ড — দল যোগ করুন, পয়েন্ট যোগ বা বাদ দিতে ট্যাপ করুন।",
+  "k": "classroom scoreboard classroom scoreboard শ্রেণিকক্ষের পর্দার জন্য বড় ও স্পষ্ট দলীয় পয়েন্ট স্কোরবোর্ড দল যোগ করুন পয়েন্ট যোগ বা বাদ দিতে ট্যাপ করুন",
+  "p": 132,
+  "c": "Tool"
+ },
+ {
+  "n": "শ্রেণিকক্ষের শব্দ মাপক",
+  "u": "https://loonaautomation.github.io/loona-study-tools/bn/noise-meter/",
+  "s": "Loona Study Tools",
+  "d": "আপনার মাইক্রোফোন ব্যবহার করে সরাসরি আপেক্ষিক শব্দ-মাত্রা মাপক — শ্রেণিগুলোকে নিজে নিয়ন্ত্রণে সাহায্য করতে সবুজ, হালকা কমলা ও লাল অঞ্চল।",
+  "k": "classroom noise meter noise meter আপনার মাইক্রোফোন ব্যবহার করে সরাসরি আপেক্ষিক শব্দ মাত্রা মাপক শ্রেণিগুলোকে নিজে নিয়ন্ত্রণে সাহায্য করতে সবুজ হালকা কমলা ও লাল অঞ্চল",
+  "p": 133,
+  "c": "Tool"
+ },
+ {
+  "n": "নামের ট্যাগ তৈরি",
+  "u": "https://loonaautomation.github.io/loona-study-tools/bn/name-tags-generator/",
+  "s": "Loona Study Tools",
+  "d": "একটি শ্রেণি তালিকাকে সাবটাইটেল লাইনসহ ছাপানো যায় এমন নামের ট্যাগে পরিণত করুন — ডেস্ক, ভ্রমণ ও প্রথম-সপ্তাহের পরিচিতির জন্য।",
+  "k": "name tags generator name tags generator একটি শ্রেণি তালিকাকে সাবটাইটেল লাইনসহ ছাপানো যায় এমন নামের ট্যাগে পরিণত করুন ডেস্ক ভ্রমণ ও প্রথম সপ্তাহের পরিচিতির জন্য",
+  "p": 134,
+  "c": "Tool"
+ },
+ {
+  "n": "দৃশ্যমান সময়সূচি নির্মাতা",
+  "u": "https://loonaautomation.github.io/loona-study-tools/bn/visual-schedule-builder/",
+  "s": "Loona Study Tools",
+  "d": "সময়, কার্যক্রম ও ছবির আইকনসহ একটি ছাপানো যায় এমন চিত্রভিত্তিক দিনের সূচি তৈরি করুন — ছোট শিশুদের জন্য আদর্শ।",
+  "k": "visual schedule builder visual schedule builder সময় কার্যক্রম ও ছবির আইকনসহ একটি ছাপানো যায় এমন চিত্রভিত্তিক দিনের সূচি তৈরি করুন ছোট শিশুদের জন্য আদর্শ",
+  "p": 135,
+  "c": "Tool"
+ },
+ {
+  "n": "EZ গ্রেডার",
+  "u": "https://loonaautomation.github.io/loona-study-tools/bn/ez-grader/",
+  "s": "Loona Study Tools",
+  "d": "ক্লাসিক শিক্ষকের গ্রেডিং স্লাইড-স্কেল: মোট প্রশ্ন ও ভুলের সংখ্যা দিন পেতে শতকরা হার ও অক্ষর গ্রেড, পাশাপাশি একটি পূর্ণ ছক।",
+  "k": "ez grader ez grader ক্লাসিক শিক্ষকের গ্রেডিং স্লাইড স্কেল মোট প্রশ্ন ও ভুলের সংখ্যা দিন পেতে শতকরা হার ও অক্ষর গ্রেড পাশাপাশি একটি পূর্ণ ছক",
+  "p": 136,
+  "c": "Tool"
+ },
+ {
+  "n": "পরীক্ষার গ্রেডার",
+  "u": "https://loonaautomation.github.io/loona-study-tools/bn/test-grader/",
+  "s": "Loona Study Tools",
+  "d": "একটি উত্তরপত্র ও একজন শিক্ষার্থীর উত্তর পেস্ট করুন এবং প্রশ্ন ধরে ধরে তাৎক্ষণিক পুরো পরীক্ষার গ্রেড দিন।",
+  "k": "test grader test grader একটি উত্তরপত্র ও একজন শিক্ষার্থীর উত্তর পেস্ট করুন এবং প্রশ্ন ধরে ধরে তাৎক্ষণিক পুরো পরীক্ষার গ্রেড দিন",
+  "p": 137,
+  "c": "Tool"
+ },
+ {
+  "n": "ওজনযুক্ত গ্রেড ক্যালকুলেটর",
+  "u": "https://loonaautomation.github.io/loona-study-tools/bn/weighted-grade-calculator/",
+  "s": "Loona Study Tools",
+  "d": "বিভাগের স্কোর (বাড়ির কাজ, কুইজ, পরীক্ষা, ফাইনাল) তাদের সিলেবাস ওজন অনুযায়ী মিলিয়ে একটি কোর্স গ্রেড তৈরি করুন।",
+  "k": "weighted grade calculator weighted grade calculator বিভাগের স্কোর বাড়ির কাজ কুইজ পরীক্ষা ফাইনাল তাদের সিলেবাস ওজন অনুযায়ী মিলিয়ে একটি কোর্স গ্রেড তৈরি করুন",
+  "p": 138,
+  "c": "Tool"
+ },
+ {
+  "n": "চূড়ান্ত পরীক্ষার গ্রেড ক্যালকুলেটর",
+  "u": "https://loonaautomation.github.io/loona-study-tools/bn/final-exam-calculator/",
+  "s": "Loona Study Tools",
+  "d": "ঠিক বের করুন ফাইনাল পরীক্ষায় আপনার লক্ষ্য কোর্স গ্রেডে পৌঁছাতে কত স্কোর লাগবে — এবং তা সম্ভব কিনা।",
+  "k": "final exam grade calculator final exam calculator ঠিক বের করুন ফাইনাল পরীক্ষায় আপনার লক্ষ্য কোর্স গ্রেডে পৌঁছাতে কত স্কোর লাগবে এবং তা সম্ভব কিনা",
+  "p": 139,
+  "c": "Tool"
+ },
+ {
+  "n": "গণিত তথ্য গতি পরীক্ষা",
+  "u": "https://loonaautomation.github.io/loona-study-tools/bn/math-facts-speed-test/",
+  "s": "Loona Study Tools",
+  "d": "60 সেকেন্ডের পাটিগণিত দৌড়: যতগুলো পারেন সঠিক +, −, × ও ÷ তথ্য, নির্ভুলতা ও ধারাবাহিকতাসহ।",
+  "k": "math facts speed test math facts speed test 60 সেকেন্ডের পাটিগণিত দৌড় যতগুলো পারেন সঠিক ও তথ্য নির্ভুলতা ও ধারাবাহিকতাসহ",
+  "p": 140,
+  "c": "Tool"
+ },
+ {
+  "n": "10-কি নম্বর প্যাড পরীক্ষা",
+  "u": "https://loonaautomation.github.io/loona-study-tools/bn/ten-key-test/",
+  "s": "Loona Study Tools",
+  "d": "সংখ্যাসূচক কিপ্যাডের জন্য ডেটা-এন্ট্রি গতি পরীক্ষা: সংখ্যার ক্রম দ্রুত ও নির্ভুলভাবে টাইপ করুন, প্রতি মিনিটে কী অনুযায়ী স্কোর করা হয়।",
+  "k": "10 key number pad test ten key test সংখ্যাসূচক কিপ্যাডের জন্য ডেটা এন্ট্রি গতি পরীক্ষা সংখ্যার ক্রম দ্রুত ও নির্ভুলভাবে টাইপ করুন প্রতি মিনিটে কী অনুযায়ী স্কোর করা হয়",
+  "p": 141,
+  "c": "Tool"
+ },
+ {
+  "n": "কোড টাইপিং পরীক্ষা",
+  "u": "https://loonaautomation.github.io/loona-study-tools/bn/code-typing-test/",
+  "s": "Loona Study Tools",
+  "d": "প্রতীক ও ইনডেন্টেশনসহ আসল কোড অংশ টাইপ করুন — প্রোগ্রামারদের জন্য কোড-টাইপিং গতি ও প্রতীক নির্ভুলতা মাপে।",
+  "k": "code typing test code typing test প্রতীক ও ইনডেন্টেশনসহ আসল কোড অংশ টাইপ করুন প্রোগ্রামারদের জন্য কোড টাইপিং গতি ও প্রতীক নির্ভুলতা মাপে",
+  "p": 142,
+  "c": "Tool"
+ },
+ {
+  "n": "ব্যাকরণ কুইজ",
+  "u": "https://loonaautomation.github.io/loona-study-tools/bn/grammar-quiz/",
+  "s": "Loona Study Tools",
+  "d": "24টি প্রশ্নের ইংরেজি ব্যাকরণ পরীক্ষা — কাল, আর্টিকেল, অব্যয়, সম্মতি ও যতিচিহ্ন — তাৎক্ষণিক স্কোর ও ব্যাখ্যাসহ।",
+  "k": "grammar quiz grammar quiz 24টি প্রশ্নের ইংরেজি ব্যাকরণ পরীক্ষা কাল আর্টিকেল অব্যয় সম্মতি ও যতিচিহ্ন তাৎক্ষণিক স্কোর ও ব্যাখ্যাসহ",
+  "p": 143,
+  "c": "Tool"
+ },
+ {
+  "n": "শব্দভান্ডার কুইজ",
+  "u": "https://loonaautomation.github.io/loona-study-tools/bn/vocabulary-quiz/",
+  "s": "Loona Study Tools",
+  "d": "বিশটি শব্দ-অর্থ প্রশ্ন যার প্রতিটির চারটি বিকল্প — আপনার ইংরেজি শব্দভান্ডার স্তরের একটি দ্রুত, সৎ যাচাই।",
+  "k": "vocabulary quiz vocabulary quiz বিশটি শব্দ অর্থ প্রশ্ন যার প্রতিটির চারটি বিকল্প আপনার ইংরেজি শব্দভান্ডার স্তরের একটি দ্রুত সৎ যাচাই",
+  "p": 144,
+  "c": "Tool"
+ },
+ {
+  "n": "ইন্টারঅ্যাক্টিভ পর্যায় সারণি",
+  "u": "https://loonaautomation.github.io/loona-study-tools/bn/periodic-table/",
+  "s": "Loona Study Tools",
+  "d": "রং-কোডযুক্ত সারণিতে সব 118টি মৌল — যেকোনো মৌলে ক্লিক করুন তার নাম, পারমাণবিক ভর, গ্রুপ, পর্যায় ও বিভাগের জন্য।",
+  "k": "interactive periodic table periodic table রং কোডযুক্ত সারণিতে সব 118টি মৌল যেকোনো মৌলে ক্লিক করুন তার নাম পারমাণবিক ভর গ্রুপ পর্যায় ও বিভাগের জন্য",
+  "p": 145,
+  "c": "Tool"
+ },
+ {
+  "n": "মোলার ভর ক্যালকুলেটর",
+  "u": "https://loonaautomation.github.io/loona-study-tools/bn/molar-mass-calculator/",
+  "s": "Loona Study Tools",
+  "d": "একটি রাসায়নিক সূত্র টাইপ করুন — বন্ধনীসহ — এবং প্রতি-মৌল বিশ্লেষণসহ g/mol-এ এর মোলার ভর পান।",
+  "k": "molar mass calculator molar mass calculator একটি রাসায়নিক সূত্র টাইপ করুন বন্ধনীসহ এবং প্রতি মৌল বিশ্লেষণসহ g mol এ এর মোলার ভর পান",
+  "p": 146,
+  "c": "Tool"
+ },
+ {
+  "n": "রাসায়নিক সমীকরণের ভারসাম্য",
+  "u": "https://loonaautomation.github.io/loona-study-tools/bn/chemical-equation-balancer/",
+  "s": "Loona Study Tools",
+  "d": "একটি ভারসাম্যহীন সমীকরণ লিখুন এবং পরমাণু ধরে ধরে যাচাই করা ভারসাম্যপূর্ণ সহগ পান।",
+  "k": "chemical equation balancer chemical equation balancer একটি ভারসাম্যহীন সমীকরণ লিখুন এবং পরমাণু ধরে ধরে যাচাই করা ভারসাম্যপূর্ণ সহগ পান",
+  "p": 147,
+  "c": "Tool"
+ },
+ {
+  "n": "pH ক্যালকুলেটর",
+  "u": "https://loonaautomation.github.io/loona-study-tools/bn/ph-calculator/",
+  "s": "Loona Study Tools",
+  "d": "pH, pOH, [H+] ও [OH-]-এর মধ্যে রূপান্তর করুন, এবং শক্তিশালী অ্যাসিড ও শক্তিশালী ক্ষারক দ্রবণের pH হিসাব করুন।",
+  "k": "ph calculator ph calculator ph poh h ও oh এর মধ্যে রূপান্তর করুন এবং শক্তিশালী অ্যাসিড ও শক্তিশালী ক্ষারক দ্রবণের ph হিসাব করুন",
+  "p": 148,
+  "c": "Tool"
+ },
+ {
+  "n": "রুব্রিক তৈরি",
+  "u": "https://loonaautomation.github.io/loona-study-tools/bn/rubric-maker/",
+  "s": "Loona Study Tools",
+  "d": "একটি ছাপানো যায় এমন গ্রেডিং রুব্রিক তৈরি করুন: পাশে মানদণ্ড, উপরে চারটি কর্মদক্ষতা স্তর, পয়েন্ট স্বয়ংক্রিয়ভাবে হিসাব করা।",
+  "k": "rubric maker rubric maker একটি ছাপানো যায় এমন গ্রেডিং রুব্রিক তৈরি করুন পাশে মানদণ্ড উপরে চারটি কর্মদক্ষতা স্তর পয়েন্ট স্বয়ংক্রিয়ভাবে হিসাব করা",
+  "p": 149,
+  "c": "Tool"
+ }
+]

@@ -1,0 +1,29 @@
+{
+  "name": "Loona সংখ্যা অনুযায়ী রং তৈরি",
+  "short_name": "সংখ্যা অনুযায়ী রং তৈরি",
+  "description": "বিনামূল্যে সংখ্যা অনুযায়ী রং জেনারেটর: ছয়-রঙের চাবিসহ একটি নম্বরযুক্ত মোজাইক ওয়ার্কশিট এবং একটি আলাদা রঙিন উত্তরের ছবি। প্রতিবার নতুন ছবি।",
+  "id": "/loona-study-tools/bn/colour-by-number-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona 4.0 স্কেলে GPA থেকে শতকরা হার",
+  "short_name": "4.0 স্কেলে GPA থেকে শতকরা হার",
+  "description": "একটি 4.0-স্কেল GPA-কে শতকরা হারে রূপান্তর করুন মানক অক্ষর-গ্রেড সারণির মাধ্যমে (A = 4.0 = 93–100%), রৈখিক ×25 হিসাবের পাশে দেখানো অবস্থায়।",
+  "id": "/loona-study-tools/bn/gpa-4-scale-to-percentage/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

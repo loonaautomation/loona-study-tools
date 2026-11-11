@@ -1,0 +1,29 @@
+{
+  "name": "Loona শতক ছক",
+  "short_name": "শতক ছক",
+  "description": "বিনামূল্যে শতক ছক: জোড়/বিজোড় ও গুণিতক হাইলাইট এবং সংখ্যা বোধের জন্য হারানো-সংখ্যা অনুশীলনী মোডসহ ইন্টারঅ্যাক্টিভ ছাপানো যায় এমন 1-100 ছক।",
+  "id": "/loona-study-tools/bn/hundreds-chart/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

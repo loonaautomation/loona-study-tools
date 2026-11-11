@@ -1,0 +1,29 @@
+{
+  "name": "Loona 5.0 স্কেলে CGPA থেকে শতকরা হার",
+  "short_name": "5.0 স্কেলে CGPA থেকে শতকরা হার",
+  "description": "সম্পূর্ণ সারণিসহ 5.0-স্কেল CGPA-কে শতকরা হারে রূপান্তর করুন (CGPA ÷ 5 × 100), এবং নাইজেরিয়া ও বাংলাদেশের জন্য শ্রেণি-ব্যান্ড পৃষ্ঠা যেখানে শতকরা হারের চেয়ে ব্যান্ড বেশি গুরুত্বপূর্ণ।",
+  "id": "/loona-study-tools/bn/cgpa-5-scale-to-percentage/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

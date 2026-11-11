@@ -1,0 +1,29 @@
+{
+  "name": "Loona কানাডা GPA রূপান্তরকারী",
+  "short_name": "কানাডা GPA রূপান্তরকারী",
+  "description": "কানাডিয়ান শতকরা গ্রেডকে 4.0 স্কেলে রূপান্তর করুন বহুল ব্যবহৃত অন্টারিও সারণি দিয়ে (90–100 = A+ = 4.0), পাশাপাশি নোটসহ — কানাডিয়ান স্কেল বিশ্ববিদ্যালয় অনুযায়ী কীভাবে ভিন্ন হয়।",
+  "id": "/loona-study-tools/bn/canada-gpa-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

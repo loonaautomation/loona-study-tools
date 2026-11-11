@@ -1,0 +1,29 @@
+{
+  "name": "Loona 1 শ্রেণি · উর্দু বিষয়সমূহ",
+  "short_name": "1 শ্রেণি · উর্দু বিষয়সমূহ",
+  "description": "1 শ্রেণির জন্য উর্দু বিষয়গুলো শিক্ষাদানের ক্রমে — অক্ষর জুড়ে শব্দ গঠন, দুই ও তিন অক্ষরের শব্দ পড়া, আলিফ মাদ্দ, ওয়াও ও ইয়ে ধ্বনি এবং আরও — প্রতিটি বিষয়ের জন্য বিনামূল্যে পাঠ সরঞ্জামসহ।",
+  "id": "/loona-study-tools/bn/grade-1-urdu-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona 10-কি পরীক্ষা",
+  "short_name": "10-কি পরীক্ষা",
+  "description": "বিনামূল্যে 10-কি নম্বর প্যাড পরীক্ষা: যত দ্রুত ও নির্ভুল পারেন অঙ্কের ক্রম টাইপ করুন; নির্ভুলতাসহ প্রতি মিনিটে কী অনুযায়ী স্কোর করা হয় — ডেটা-এন্ট্রি দক্ষতা পরীক্ষা।",
+  "id": "/loona-study-tools/bn/ten-key-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

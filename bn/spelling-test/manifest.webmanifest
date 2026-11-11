@@ -1,0 +1,29 @@
+{
+  "name": "Loona বানান পরীক্ষা",
+  "short_name": "বানান পরীক্ষা",
+  "description": "বিনামূল্যে বানান পরীক্ষা: ব্রাউজার প্রতিটি শব্দ উচ্চারণ করে শোনায়, আপনি বানান টাইপ করেন, এবং হারানো শব্দের পুনরালোচনাসহ তাৎক্ষণিক স্কোর পান। বয়স অনুযায়ী অন্তর্নির্মিত তালিকা ও আপনার নিজের শব্দ তালিকা।",
+  "id": "/loona-study-tools/bn/spelling-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

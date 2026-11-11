@@ -1,0 +1,29 @@
+{
+  "name": "Loona কুইজ তৈরি",
+  "short_name": "কুইজ তৈরি",
+  "description": "শিক্ষকদের জন্য বিনামূল্যে কুইজ তৈরি: বহুনির্বাচনি, সত্য/মিথ্যা ও সংক্ষিপ্ত-উত্তর প্রশ্ন, তাৎক্ষণিক স্কোর ও পুনরালোচনাসহ অংশগ্রহণ মোড, ছাপানো যায় এমন কুইজ + আলাদা উত্তরপত্র, JSON এক্সপোর্ট/ইমপোর্ট।",
+  "id": "/loona-study-tools/bn/quiz-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

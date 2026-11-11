@@ -1,0 +1,29 @@
+{
+  "name": "Loona SGPA থেকে CGPA ক্যালকুলেটর",
+  "short_name": "SGPA থেকে CGPA ক্যালকুলেটর",
+  "description": "সেমিস্টারের SGPA-গুলোকে সঠিক পদ্ধতিতে CGPA-তে মেলান: ক্রেডিট-ওজনযুক্ত গড়, সাধারণ গড় নয়। আপনার সেমিস্টারগুলো তাদের ক্রেডিটসহ যোগ করুন।",
+  "id": "/loona-study-tools/bn/sgpa-to-cgpa-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

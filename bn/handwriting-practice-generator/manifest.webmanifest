@@ -1,0 +1,29 @@
+{
+  "name": "Loona হাতের লেখা অনুশীলনী তৈরি",
+  "short_name": "হাতের লেখা অনুশীলনী তৈরি",
+  "description": "বিনামূল্যে হাতের লেখা অনুশীলনী জেনারেটর: বর্ণমালা, বড় হাতের, ছোট হাতের, সংখ্যা এবং আপনার নিজের শব্দ বা বাক্যের জন্য ছাপানো যায় এমন ট্রেসিং শিট, দাগযুক্ত চার-লাইন গাইডসহ।",
+  "id": "/loona-study-tools/bn/handwriting-practice-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona শব্দ খোঁজা তৈরি",
+  "short_name": "শব্দ খোঁজা তৈরি",
+  "description": "বিনামূল্যে শব্দ খোঁজা জেনারেটর: আপনার নিজের শব্দ তালিকাকে 8 দিকে ছাপানো যায় এমন শব্দ খোঁজা ধাঁধায় পরিণত করুন, আলাদা হাইলাইট করা উত্তরপত্রসহ। শব্দভান্ডার অনুশীলনের জন্য নিখুঁত।",
+  "id": "/loona-study-tools/bn/word-search-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

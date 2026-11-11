@@ -1,0 +1,29 @@
+{
+  "name": "Loona দৃশ্যমান সময়সূচি নির্মাতা",
+  "short_name": "দৃশ্যমান সময়সূচি নির্মাতা",
+  "description": "বিনামূল্যে চিত্রভিত্তিক সূচি তৈরি: সময়, আইকন ও কার্যক্রমসহ স্কুল দিনের একটি ছাপানো যায় এমন ছবির সূচি তৈরি করুন — ছোট শিশু ও SEN সহায়তার জন্য আদর্শ।",
+  "id": "/loona-study-tools/bn/visual-schedule-builder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

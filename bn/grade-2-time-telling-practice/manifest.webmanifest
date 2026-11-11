@@ -1,0 +1,29 @@
+{
+  "name": "Loona 2 শ্রেণি · সময় বলা অনুশীলনী",
+  "short_name": "2 শ্রেণি · সময় বলা অনুশীলনী",
+  "description": "বিনামূল্যে 2 শ্রেণির সময় বলা অনুশীলনী — পাঁচ মিনিট পর্যন্ত সময় বলা। একটি সমাধানসহ উদাহরণ, 6টি অনুশীলনী প্রশ্ন ছাপানো যায় এমন উত্তরপত্রসহ, পদ্ধতি, সাধারণ ভুল এবং একটি সেরা টিপস।",
+  "id": "/loona-study-tools/bn/grade-2-time-telling-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

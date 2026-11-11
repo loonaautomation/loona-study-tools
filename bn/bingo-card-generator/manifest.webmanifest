@@ -1,0 +1,29 @@
+{
+  "name": "Loona বিঙ্গো কার্ড তৈরি",
+  "short_name": "বিঙ্গো কার্ড তৈরি",
+  "description": "বিনামূল্যে বিঙ্গো কার্ড জেনারেটর: 24+ শব্দ লিখুন এবং পুরো শ্রেণির জন্য অনন্য ছাপানো যায় এমন 5x5 বিঙ্গো কার্ড ও একটি এলোমেলো ডাকের তালিকা তৈরি করুন। শব্দভান্ডার, দৃষ্টি-শব্দ, সংখ্যা ও আরও অনেক।",
+  "id": "/loona-study-tools/bn/bingo-card-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

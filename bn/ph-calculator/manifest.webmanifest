@@ -1,0 +1,29 @@
+{
+  "name": "Loona pH ক্যালকুলেটর",
+  "short_name": "pH ক্যালকুলেটর",
+  "description": "বিনামূল্যে pH ক্যালকুলেটর: pH, pOH, [H+] ও [OH-]-এর মধ্যে রূপান্তর করুন, এবং ঘনমাত্রা থেকে শক্তিশালী অ্যাসিড ও শক্তিশালী ক্ষারক দ্রবণের pH হিসাব করুন।",
+  "id": "/loona-study-tools/bn/ph-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

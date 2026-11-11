@@ -1,0 +1,29 @@
+{
+  "name": "Loona শব্দছক তৈরি",
+  "short_name": "শব্দছক তৈরি",
+  "description": "বিনামূল্যে শব্দছক জেনারেটর: শব্দ ও সূত্র লিখুন এবং একটি আসল ছেদকারী শব্দছক ধাঁধা পান, নম্বরযুক্ত সূত্র ও আলাদা উত্তরপত্রসহ ছাপানো যায়।",
+  "id": "/loona-study-tools/bn/crossword-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

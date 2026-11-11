@@ -1,0 +1,29 @@
+{
+  "name": "Loona গণিত ওয়ার্কশিট তৈরি",
+  "short_name": "গণিত ওয়ার্কশিট তৈরি",
+  "description": "বিনামূল্যে গণিত ওয়ার্কশিট জেনারেটর: সংখ্যার পরিসর, পুনর্দলবদ্ধকরণের বিকল্প ও ছাপানো যায় এমন উত্তরপত্রসহ যোগ, বিয়োগ, গুণ, ভাগ, ভগ্নাংশ, দশমিক ও দীর্ঘ ভাগের ওয়ার্কশিট।",
+  "id": "/loona-study-tools/bn/math-worksheet-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

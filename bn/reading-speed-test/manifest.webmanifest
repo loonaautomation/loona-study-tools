@@ -1,0 +1,29 @@
+{
+  "name": "Loona পড়ার গতি পরীক্ষা",
+  "short_name": "পড়ার গতি পরীক্ষা",
+  "description": "বিনামূল্যে পড়ার গতি পরীক্ষা: একটি সময়ধারী অনুচ্ছেদ পড়ুন (3টি পছন্দ, 400-600 শব্দ), বোধগম্যতা প্রশ্নের উত্তর দিন, এবং WPM-এ আপনার পড়ার গতি ও বয়স অনুযায়ী ভালো পড়ার গতির একটি সৎ নির্দেশিকা পান।",
+  "id": "/loona-study-tools/bn/reading-speed-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

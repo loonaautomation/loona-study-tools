@@ -1,0 +1,29 @@
+{
+  "name": "Loona পরীক্ষার কাউন্টডাউন পরিকল্পনা",
+  "short_name": "পরীক্ষার কাউন্টডাউন পরিকল্পনা",
+  "description": "বিনামূল্যে পরীক্ষার কাউন্টডাউন পরিকল্পনাকারী: আপনার পরীক্ষার তারিখ, বিষয় ও দৈনিক সেশন লিখুন এবং পরীক্ষার দিন পর্যন্ত কঠিনতার ওজন অনুযায়ী বিষয়গুলো ন্যায্যভাবে ছড়িয়ে দেওয়া দিন ধরে ধরে একটি পুনরালোচনা পরিকল্পনা পান।",
+  "id": "/loona-study-tools/bn/exam-countdown-planner/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona 1 শ্রেণি · স্থানীয় মান অনুশীলনী",
+  "short_name": "1 শ্রেণি · স্থানীয় মান অনুশীলনী",
+  "description": "বিনামূল্যে 1 শ্রেণির স্থানীয় মান অনুশীলনী — দশক ও একক: 2-অঙ্কের সংখ্যা গঠন। একটি সমাধানসহ উদাহরণ, 6টি অনুশীলনী প্রশ্ন ছাপানো যায় এমন উত্তরপত্রসহ, পদ্ধতি, সাধারণ ভুল এবং একটি সেরা টিপস।",
+  "id": "/loona-study-tools/bn/grade-1-place-value-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

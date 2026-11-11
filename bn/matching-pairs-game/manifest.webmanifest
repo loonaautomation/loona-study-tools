@@ -1,0 +1,29 @@
+{
+  "name": "Loona জোড়া মেলানোর খেলা",
+  "short_name": "জোড়া মেলানোর খেলা",
+  "description": "বিনামূল্যে জোড়া মেলানো স্মৃতি খেলা: পদ = সংজ্ঞা জুটি লিখুন এবং চাল ও সময় অনুসরণসহ উল্টে-মেলানো খেলুন। শব্দভান্ডার ও পুনরালোচনার জন্য চমৎকার।",
+  "id": "/loona-study-tools/bn/matching-pairs-game/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

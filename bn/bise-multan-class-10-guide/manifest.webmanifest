@@ -1,0 +1,29 @@
+{
+  "name": "Loona BISE মুলতান 10 শ্রেণির গাইড",
+  "short_name": "BISE মুলতান 10 শ্রেণির গাইড",
+  "description": "BISE মুলতান 10 শ্রেণি: বিষয় ও শাখা, বোর্ডের প্রশ্নপত্র কীভাবে সাজানো হয়, এবং পাঠ টুলসহ একটি বিনামূল্যে প্রস্তুতি পরিকল্পনা। বোর্ডের অফিসিয়াল সাইটে প্যাটার্ন যাচাই করুন।",
+  "id": "/loona-study-tools/bn/bise-multan-class-10-guide/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona ব্যাকরণ কুইজ",
+  "short_name": "ব্যাকরণ কুইজ",
+  "description": "বিনামূল্যে ইংরেজি ব্যাকরণ কুইজ: কাল, আর্টিকেল, অব্যয়, সম্মতি, শর্ত ও যতিচিহ্নের উপর 24টি প্রশ্ন, তাৎক্ষণিক স্কোর ও প্রতিটি উত্তরের ব্যাখ্যাসহ।",
+  "id": "/loona-study-tools/bn/grammar-quiz/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

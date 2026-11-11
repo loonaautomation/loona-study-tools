@@ -1,0 +1,29 @@
+{
+  "name": "Loona মোলার ভর ক্যালকুলেটর",
+  "short_name": "মোলার ভর ক্যালকুলেটর",
+  "description": "বিনামূল্যে মোলার ভর ক্যালকুলেটর: বন্ধনীসহ যেকোনো রাসায়নিক সংকেত টাইপ করুন — Ca(OH)2, Al2(SO4)3 — এবং প্রতি-মৌল বিভাজন সারণিসহ g/mol-এ মোলার ভর পান।",
+  "id": "/loona-study-tools/bn/molar-mass-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

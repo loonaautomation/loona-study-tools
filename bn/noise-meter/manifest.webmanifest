@@ -1,0 +1,29 @@
+{
+  "name": "Loona শ্রেণিকক্ষের শব্দ মাপক",
+  "short_name": "শ্রেণিকক্ষের শব্দ মাপক",
+  "description": "বিনামূল্যে শ্রেণিকক্ষ শব্দ মাপক: সবুজ/হালকা কমলা/লাল অঞ্চল ও নীরবতা-ধারাবাহিকতা কাউন্টারসহ সরাসরি মাইক্রোফোন মাত্রা বার। আপেক্ষিক মাত্রা প্রদর্শন (ডেসিবেল নয়), ডিভাইসেই বিশ্লেষণ করা, কখনো রেকর্ড করা হয় না।",
+  "id": "/loona-study-tools/bn/noise-meter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

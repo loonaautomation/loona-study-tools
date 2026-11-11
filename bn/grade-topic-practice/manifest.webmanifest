@@ -1,0 +1,29 @@
+{
+  "name": "Loona শ্রেণি ও বিষয় অনুযায়ী অনুশীলন",
+  "short_name": "শ্রেণি ও বিষয় অনুযায়ী অনুশীলন",
+  "description": "Loona Study Tools-এ সব শ্রেণি-ও-বিষয় অনুশীলনী পৃষ্ঠা (কিন্ডারগার্টেন থেকে 8 শ্রেণি), বিষয় গাইড, 9–12 শ্রেণির জন্য পাকিস্তান বোর্ড পরীক্ষার গাইড এবং CGPA রূপান্তরকারীর জন্য একটি সূচি।",
+  "id": "/loona-study-tools/bn/grade-topic-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

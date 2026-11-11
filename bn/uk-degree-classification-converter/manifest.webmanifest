@@ -1,0 +1,29 @@
+{
+  "name": "Loona যুক্তরাজ্য ডিগ্রি শ্রেণিবিন্যাস রূপান্তরকারী",
+  "short_name": "যুক্তরাজ্য ডিগ্রি শ্রেণিবিন্যাস রূপান্তরকারী",
+  "description": "একটি UK First, 2:1, 2:2 বা Third শতকরা হার ও আনুমানিক মার্কিন GPA-র ভাষায় কী বোঝায় — এই সৎ নোটসহ যে কোনো আনুষ্ঠানিক UK-থেকে-GPA রূপান্তর নেই।",
+  "id": "/loona-study-tools/bn/uk-degree-classification-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

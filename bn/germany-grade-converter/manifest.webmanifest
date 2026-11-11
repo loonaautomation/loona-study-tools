@@ -1,0 +1,29 @@
+{
+  "name": "Loona জার্মানি গ্রেড রূপান্তরকারী",
+  "short_name": "জার্মানি গ্রেড রূপান্তরকারী",
+  "description": "জার্মান বিশ্ববিদ্যালয়গুলোর ব্যবহৃত পরিবর্তিত ব্যাভারিয়ান সূত্র দিয়ে বিদেশি শতকরা বা GPA গ্রেডকে জার্মান 1.0–5.0 স্কেলে রূপান্তর করুন, এবং জার্মান গ্রেড আবার ফিরিয়ে রূপান্তর করুন।",
+  "id": "/loona-study-tools/bn/germany-grade-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

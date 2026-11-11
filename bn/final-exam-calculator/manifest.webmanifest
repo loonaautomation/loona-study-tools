@@ -1,0 +1,29 @@
+{
+  "name": "Loona চূড়ান্ত পরীক্ষার গ্রেড ক্যালকুলেটর",
+  "short_name": "চূড়ান্ত পরীক্ষার গ্রেড ক্যালকুলেটর",
+  "description": "বিনামূল্যে চূড়ান্ত পরীক্ষার ক্যালকুলেটর: আপনার বর্তমান গ্রেড, ফাইনালের ওজন ও আপনার লক্ষ্য লিখুন এবং ঠিক দেখুন ফাইনালে আপনার কত স্কোর দরকার — এবং তা এখনো সম্ভব কিনা।",
+  "id": "/loona-study-tools/bn/final-exam-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

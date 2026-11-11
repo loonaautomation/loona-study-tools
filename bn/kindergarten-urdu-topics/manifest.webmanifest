@@ -1,0 +1,29 @@
+{
+  "name": "Loona কিন্ডারগার্টেন উর্দু বিষয়সমূহ",
+  "short_name": "কিন্ডারগার্টেন উর্দু বিষয়সমূহ",
+  "description": "কিন্ডারগার্টেনের জন্য উর্দু বিষয়গুলো শিক্ষাদানের ক্রমে — উর্দু কায়দা, অক্ষরের ধ্বনি (উর্দুতে ফনিক্স), সরল তিন অক্ষরের শব্দ এবং আরও — প্রতিটি বিষয়ের জন্য বিনামূল্যে পাঠ সরঞ্জামসহ।",
+  "id": "/loona-study-tools/bn/kindergarten-urdu-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

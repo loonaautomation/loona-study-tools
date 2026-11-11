@@ -1,0 +1,29 @@
+{
+  "name": "Loona EZ গ্রেডার",
+  "short_name": "EZ গ্রেডার",
+  "description": "শিক্ষকদের জন্য বিনামূল্যে EZ গ্রেডার: মোট প্রশ্ন ও ভুলের সংখ্যা লিখুন এবং তাৎক্ষণিক শতকরা ও অক্ষর গ্রেড পান, সেই পরীক্ষার দৈর্ঘ্যের জন্য সম্পূর্ণ গ্রেডিং ছকসহ।",
+  "id": "/loona-study-tools/bn/ez-grader/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

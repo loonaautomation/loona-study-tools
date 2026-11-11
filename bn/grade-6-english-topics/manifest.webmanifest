@@ -1,0 +1,29 @@
+{
+  "name": "Loona 6 শ্রেণি · ইংরেজি বিষয়সমূহ",
+  "short_name": "6 শ্রেণি · ইংরেজি বিষয়সমূহ",
+  "description": "6 শ্রেণির জন্য ইংরেজি বিষয়গুলো শিক্ষাদানের ক্রমে — কর্তৃবাচ্য ও কর্মবাচ্য, পরোক্ষ উক্তি, জটিল বাক্য ও সংযোজক এবং আরও — প্রতিটি বিষয়ের জন্য বিনামূল্যে পাঠ সরঞ্জামসহ।",
+  "id": "/loona-study-tools/bn/grade-6-english-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

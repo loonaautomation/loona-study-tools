@@ -1,0 +1,29 @@
+{
+  "name": "Loona মেলানো ওয়ার্কশিট তৈরি",
+  "short_name": "মেলানো ওয়ার্কশিট তৈরি",
+  "description": "বিনামূল্যে মেলানো ওয়ার্কশিট জেনারেটর: পদ = সংজ্ঞা জুটি টাইপ করুন এবং এলোমেলো সংজ্ঞা ও শিক্ষকের উত্তরপত্রসহ একটি ছাপানো যায় এমন মেলানো ওয়ার্কশিট পান।",
+  "id": "/loona-study-tools/bn/matching-worksheet-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

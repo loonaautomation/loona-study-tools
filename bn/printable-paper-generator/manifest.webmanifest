@@ -1,0 +1,29 @@
+{
+  "name": "Loona ছাপার কাগজ তৈরি",
+  "short_name": "ছাপার কাগজ তৈরি",
+  "description": "বিনামূল্যে ছাপানো যায় এমন কাগজ জেনারেটর: গ্রাফ কাগজ, বিন্দু গ্রিড, আইসোমেট্রিক কাগজ, 3-লাইন হাতের লেখার কাগজ এবং ঠিক 8/10/14mm ব্যবধানে প্রশস্ত-দাগযুক্ত লাইন। আসল আকারের জন্য 100%-এ ছাপান।",
+  "id": "/loona-study-tools/bn/printable-paper-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

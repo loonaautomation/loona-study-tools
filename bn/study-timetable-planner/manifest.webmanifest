@@ -1,0 +1,29 @@
+{
+  "name": "Loona পড়ার সময়সূচি পরিকল্পনা",
+  "short_name": "পড়ার সময়সূচি পরিকল্পনা",
+  "description": "বিনামূল্যে পড়ার সময়সূচি পরিকল্পনাকারী: বিষয়, প্রতিদিনের ঘণ্টা ও পরীক্ষার তারিখ লিখুন এবং ন্যায্য বিষয়-আবর্তনসহ একটি ভারসাম্যপূর্ণ, সম্পাদনযোগ্য, ছাপানো যায় এমন সাপ্তাহিক পড়ার সময়সূচি তৈরি করুন।",
+  "id": "/loona-study-tools/bn/study-timetable-planner/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

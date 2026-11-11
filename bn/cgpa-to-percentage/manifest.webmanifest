@@ -1,0 +1,29 @@
+{
+  "name": "Loona CGPA থেকে শতকরা হার রূপান্তরকারী (4.0, 5.0)",
+  "short_name": "CGPA থেকে শতকরা হার রূপান্তরকারী",
+  "description": "একটি বিনামূল্যে রূপান্তরকারী দিয়ে 4.0, 5.0 ও 10-পয়েন্ট স্কেলে CGPA-কে শতকরা হারে রূপান্তর করুন, পাশাপাশি প্রতিটি স্কেলের সূত্র ও সম্পূর্ণ রূপান্তর সারণি।",
+  "id": "/loona-study-tools/bn/cgpa-to-percentage/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

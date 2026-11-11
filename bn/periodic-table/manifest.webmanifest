@@ -1,0 +1,29 @@
+{
+  "name": "Loona ইন্টারঅ্যাক্টিভ পর্যায় সারণি",
+  "short_name": "ইন্টারঅ্যাক্টিভ পর্যায় সারণি",
+  "description": "বিনামূল্যে ইন্টারঅ্যাক্টিভ পর্যায় সারণি: বিভাগ অনুযায়ী রং-কোড করা সব 118টি মৌল। যেকোনো মৌলে ক্লিক করুন তার পারমাণবিক সংখ্যা, ভর, গ্রুপ, পর্যায় ও বিভাগের জন্য।",
+  "id": "/loona-study-tools/bn/periodic-table/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
