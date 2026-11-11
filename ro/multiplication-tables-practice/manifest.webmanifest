@@ -1,0 +1,29 @@
+{
+  "name": "Loona Exersarea tablelor înmulțirii",
+  "short_name": "Exersarea tablelor înmulțirii",
+  "description": "Exersarea gratuită a tablelor înmulțirii: alegeți tablele 2-12, exersați runde cronometrate cu verificare instant și recapitularea tablelor slabe, plus un tabel de înmulțire imprimabil 12x12.",
+  "id": "/loona-study-tools/ro/multiplication-tables-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

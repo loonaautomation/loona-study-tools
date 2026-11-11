@@ -1,0 +1,29 @@
+{
+  "name": "Loona Generator de fișe de matematică",
+  "short_name": "Generator de fișe de matematică",
+  "description": "Generator gratuit de fișe de matematică: fișe de adunare, scădere, înmulțire, împărțire, fracții, zecimale și împărțire lungă, cu interval de numere, opțiuni de regrupare și o cheie de răspunsuri imprimabilă.",
+  "id": "/loona-study-tools/ro/math-worksheet-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

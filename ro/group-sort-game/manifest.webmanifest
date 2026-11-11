@@ -1,0 +1,29 @@
+{
+  "name": "Loona Joc de sortare în grupe",
+  "short_name": "Joc de sortare în grupe",
+  "description": "Joc gratuit de sortare în grupe pentru clase: definiți categorii și elemente, elevii ating elementele în grupele potrivite și obțin un scor instant cu corecturi.",
+  "id": "/loona-study-tools/ro/group-sort-game/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

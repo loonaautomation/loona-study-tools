@@ -1,0 +1,29 @@
+{
+  "name": "Loona Corector de teste",
+  "short_name": "Corector de teste",
+  "description": "Corector gratuit de teste: lipiți cheia de răspunsuri și răspunsurile unui elev (litere sau cuvinte) pentru a obține un scor instant, procent, notă cu literă și o defalcare întrebare cu întrebare.",
+  "id": "/loona-study-tools/ro/test-grader/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

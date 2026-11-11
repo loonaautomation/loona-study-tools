@@ -1,0 +1,29 @@
+{
+  "name": "Loona Generator de hârtie imprimabilă",
+  "short_name": "Generator de hârtie imprimabilă",
+  "description": "Generator gratuit de hârtie imprimabilă: hârtie milimetrică, grilă de puncte, hârtie izometrică, hârtie de scris cu 3 linii și linii cu spațiere largă la exact 8/10/14mm. Imprimați la 100% pentru dimensiunea reală.",
+  "id": "/loona-study-tools/ro/printable-paper-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

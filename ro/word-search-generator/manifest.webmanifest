@@ -1,0 +1,29 @@
+{
+  "name": "Loona Generator de căutare de cuvinte",
+  "short_name": "Generator de căutare de cuvinte",
+  "description": "Generator gratuit de căutare de cuvinte: transformați propria listă de cuvinte într-un puzzle imprimabil de căutare în 8 direcții, cu o cheie de răspunsuri evidențiată separată. Perfect pentru exersarea vocabularului.",
+  "id": "/loona-study-tools/ro/word-search-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

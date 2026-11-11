@@ -1,0 +1,29 @@
+{
+  "name": "Loona Test 10 taste",
+  "short_name": "Test 10 taste",
+  "description": "Test gratuit de tastatură numerică cu 10 taste: scrieți șiruri de cifre cât de rapid și precis puteți; pontat în taste pe minut cu precizie — testul de abilitate la introducerea datelor.",
+  "id": "/loona-study-tools/ro/ten-key-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

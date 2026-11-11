@@ -1,0 +1,29 @@
+{
+  "name": "Loona Test de ortografie",
+  "short_name": "Test de ortografie",
+  "description": "Test gratuit de ortografie: browserul citește fiecare cuvânt cu voce tare, tu scrii ortografia și obții un scor instant cu o recapitulare a cuvintelor greșite. Liste integrate pe vârste plus propriile liste de cuvinte.",
+  "id": "/loona-study-tools/ro/spelling-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

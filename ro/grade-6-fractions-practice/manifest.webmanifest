@@ -1,0 +1,29 @@
+{
+  "name": "Loona Exersare de fracții pentru clasa a 6-a",
+  "short_name": "Exersare de fracții pentru clasa a 6-a",
+  "description": "Exersare gratuită de fracții pentru clasa a 6-a — Adunarea fracțiilor cu numitori diferiți. Un exemplu rezolvat, 6 întrebări de exersare cu o cheie de răspunsuri imprimabilă, metoda, greșeala frecventă și un sfat util.",
+  "id": "/loona-study-tools/ro/grade-6-fractions-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

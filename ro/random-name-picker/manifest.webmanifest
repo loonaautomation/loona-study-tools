@@ -1,0 +1,29 @@
+{
+  "name": "Loona Alegător aleatoriu de nume",
+  "short_name": "Alegător aleatoriu de nume",
+  "description": "Alegător aleatoriu gratuit de nume pentru profesori: lipiți o listă de clasă și alegeți elevi corect la întâmplare, cu mod fără repetare, astfel încât fiecare să aibă un rând înainte ca cineva să se repete.",
+  "id": "/loona-study-tools/ro/random-name-picker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

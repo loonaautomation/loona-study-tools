@@ -1,0 +1,29 @@
+{
+  "name": "Loona Generator de cartonașe pentru peretele de cuvinte",
+  "short_name": "Generator de cartonașe pentru peretele de cuvinte",
+  "description": "Generator gratuit de cartonașe pentru peretele de cuvinte: scrieți o listă de cuvinte și obțineți cartonașe mari și îngroșate, imprimabile, în trei mărimi, pentru afișaje de clasă și colțuri de citire.",
+  "id": "/loona-study-tools/ro/word-wall-cards/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

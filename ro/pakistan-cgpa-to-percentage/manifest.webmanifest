@@ -1,0 +1,29 @@
+{
+  "name": "Loona CGPA Pakistan în procente",
+  "short_name": "CGPA Pakistan în procente",
+  "description": "Tabelul de note HEC pentru sistemul semestrial folosit de universitățile pakistaneze: note-litere, puncte GPA și intervale procentuale, cu un convertor pentru scala 4.0.",
+  "id": "/loona-study-tools/ro/pakistan-cgpa-to-percentage/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

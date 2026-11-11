@@ -1,0 +1,29 @@
+{
+  "name": "Loona Exersare de bani pentru clasa a 3-a",
+  "short_name": "Exersare de bani pentru clasa a 3-a",
+  "description": "Exersare gratuită de bani pentru clasa a 3-a — Probleme cu text despre bani: totaluri, prețuri unitare, cele mai bune cumpărături. Un exemplu rezolvat, 6 întrebări de exersare cu o cheie de răspunsuri imprimabilă, metoda, greșeala frecventă și un sfat util.",
+  "id": "/loona-study-tools/ro/grade-3-money-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,452 @@
+[
+ {
+  "n": "Creator de cartonașe",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ro/flashcards/",
+  "s": "Loona Study Tools",
+  "d": "Construiți seturi de cartonașe, învățați cu cartonașe de răsturnat și amestecare, urmăriți ce știți și exportați sau imprimați cartonașele.",
+  "k": "flashcards maker flashcards construiti seturi de cartonase invatati cu cartonase de rasturnat si amestecare urmariti ce stiti si exportati sau imprimati cartonasele",
+  "p": 0,
+  "c": "Tool"
+ },
+ {
+  "n": "Creator de teste",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ro/quiz-maker/",
+  "s": "Loona Study Tools",
+  "d": "Profesorii construiesc teste cu întrebări cu alegere multiplă, adevărat/fals și răspunsuri scurte — elevii le încearcă cu scoruri instant și o recapitulare completă a răspunsurilor.",
+  "k": "quiz maker quiz maker profesorii construiesc teste cu intrebari cu alegere multipla adevarat fals si raspunsuri scurte elevii le incearca cu scoruri instant si o recapitulare completa a raspunsurilor",
+  "p": 1,
+  "c": "Tool"
+ },
+ {
+  "n": "Practice by Grade & Topic",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ro/grade-topic-practice/",
+  "s": "Loona Study Tools",
+  "d": "196 de pagini noi: exemple rezolvate și întrebări de exersare pentru fiecare clasă și fiecare subiect de matematică, ghiduri de materii pentru Științe, Engleză, Studii sociale și Urdu, ghiduri de examen ale comisiilor din Pakistan pentru clasele 9–12 și convertoare CGPA pentru fiecare scală majoră de notare.",
+  "k": "practice by grade topic grade topic practice 196 de pagini noi exemple rezolvate si intrebari de exersare pentru fiecare clasa si fiecare subiect de matematica ghiduri de materii pentru stiinte engleza studii sociale si urdu ghiduri de examen ale comisiilor din pakistan pentru clasele 9 12 si convertoare cgpa pentru fiecare scala majora de notare",
+  "p": 102,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator de fișe de matematică",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ro/math-worksheet-generator/",
+  "s": "Loona Study Tools",
+  "d": "Generați fișe de matematică imprimabile — adunare, scădere, înmulțire, împărțire, fracții și zecimale — cu o cheie de răspunsuri corespunzătoare.",
+  "k": "math worksheet generator math worksheet generator generati fise de matematica imprimabile adunare scadere inmultire impartire fractii si zecimale cu o cheie de raspunsuri corespunzatoare",
+  "p": 2,
+  "c": "Tool"
+ },
+ {
+  "n": "Test de viteză de citire",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ro/reading-speed-test/",
+  "s": "Loona Study Tools",
+  "d": "Citiți un pasaj cronometrat, răspundeți la întrebări de înțelegere și obțineți viteza reală de citire în cuvinte pe minut (WPM).",
+  "k": "reading speed test reading speed test cititi un pasaj cronometrat raspundeti la intrebari de intelegere si obtineti viteza reala de citire in cuvinte pe minut wpm",
+  "p": 3,
+  "c": "Tool"
+ },
+ {
+  "n": "Planificator de orar de studiu",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ro/study-timetable-planner/",
+  "s": "Loona Study Tools",
+  "d": "Introduceți materiile, orele zilnice și data examenului și obțineți un orar săptămânal de studiu echilibrat, pe care îl puteți edita și imprima.",
+  "k": "study timetable planner study timetable planner introduceti materiile orele zilnice si data examenului si obtineti un orar saptamanal de studiu echilibrat pe care il puteti edita si imprima",
+  "p": 4,
+  "c": "Tool"
+ },
+ {
+  "n": "Exersarea tablelor înmulțirii",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ro/multiplication-tables-practice/",
+  "s": "Loona Study Tools",
+  "d": "Exersați tablele înmulțirii cu runde cronometrate, verificare instant și un tabel de înmulțire imprimabil până la 12 × 12.",
+  "k": "multiplication tables practice multiplication tables practice exersati tablele inmultirii cu runde cronometrate verificare instant si un tabel de inmultire imprimabil pana la 12 12",
+  "p": 106,
+  "c": "Tool"
+ },
+ {
+  "n": "Test de ortografie",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ro/spelling-test/",
+  "s": "Loona Study Tools",
+  "d": "Computerul citește fiecare cuvânt cu voce tare — dvs. scrieți ortografia. Scor instant și o recapitulare a fiecărui cuvânt greșit.",
+  "k": "spelling test spelling test computerul citeste fiecare cuvant cu voce tare dvs scrieti ortografia scor instant si o recapitulare a fiecarui cuvant gresit",
+  "p": 5,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator de exersare a scrisului de mână",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ro/handwriting-practice-generator/",
+  "s": "Loona Study Tools",
+  "d": "Creați fișe imprimabile de exersare a scrisului de mână pentru litere, numere și propriile cuvinte, cu linii de trasare și linii goale pentru copiere.",
+  "k": "handwriting practice generator handwriting practice generator creati fise imprimabile de exersare a scrisului de mana pentru litere numere si propriile cuvinte cu linii de trasare si linii goale pentru copiere",
+  "p": 108,
+  "c": "Tool"
+ },
+ {
+  "n": "Planificator de numărătoare inversă pentru examen",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ro/exam-countdown-planner/",
+  "s": "Loona Study Tools",
+  "d": "Introduceți data examenului și materiile și obțineți un plan de recapitulare zi cu zi, care repartizează subiectele corect pe zilele rămase.",
+  "k": "exam countdown planner exam countdown planner introduceti data examenului si materiile si obtineti un plan de recapitulare zi cu zi care repartizeaza subiectele corect pe zilele ramase",
+  "p": 109,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator de căutare de cuvinte",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ro/word-search-generator/",
+  "s": "Loona Study Tools",
+  "d": "Transformați propria listă de cuvinte într-un puzzle imprimabil de căutare de cuvinte, cu o cheie de răspunsuri separată care arată locația fiecărui cuvânt.",
+  "k": "word search generator word search generator transformati propria lista de cuvinte intr un puzzle imprimabil de cautare de cuvinte cu o cheie de raspunsuri separata care arata locatia fiecarui cuvant",
+  "p": 110,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator de fișe de potrivire",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ro/matching-worksheet-generator/",
+  "s": "Loona Study Tools",
+  "d": "Creați fișe de potrivire imprimabile — termeni în stânga, definiții amestecate în dreapta — cu o cheie de răspunsuri pentru profesor.",
+  "k": "matching worksheet generator matching worksheet generator creati fise de potrivire imprimabile termeni in stanga definitii amestecate in dreapta cu o cheie de raspunsuri pentru profesor",
+  "p": 111,
+  "c": "Tool"
+ },
+ {
+  "n": "Alegător aleatoriu de nume",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ro/random-name-picker/",
+  "s": "Loona Study Tools",
+  "d": "Lipiți o listă de clasă și alegeți elevi corect la întâmplare, cu un mod fără repetare, astfel încât fiecare să primească un rând.",
+  "k": "random name picker random name picker lipiti o lista de clasa si alegeti elevi corect la intamplare cu un mod fara repetare astfel incat fiecare sa primeasca un rand",
+  "p": 112,
+  "c": "Tool"
+ },
+ {
+  "n": "Joc de memorie cu perechi",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ro/matching-pairs-game/",
+  "s": "Loona Study Tools",
+  "d": "Transformați orice perechi termen-și-definiție într-un joc de memorie răstoarnă-și-potrivește, cu urmărirea mișcărilor și a timpului.",
+  "k": "matching pairs game matching pairs game transformati orice perechi termen si definitie intr un joc de memorie rastoarna si potriveste cu urmarirea miscarilor si a timpului",
+  "p": 113,
+  "c": "Tool"
+ },
+ {
+  "n": "Joc de sortare în grupe",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ro/group-sort-game/",
+  "s": "Loona Study Tools",
+  "d": "Creați categorii și elemente; elevii sortează fiecare element în grupa potrivită și obțin un scor instant.",
+  "k": "group sort game group sort game creati categorii si elemente elevii sorteaza fiecare element in grupa potrivita si obtin un scor instant",
+  "p": 114,
+  "c": "Tool"
+ },
+ {
+  "n": "Joc de reordonare a propozițiilor",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ro/unjumble-game/",
+  "s": "Loona Study Tools",
+  "d": "Propozițiile sunt amestecate cuvânt cu cuvânt — elevii ating cuvintele înapoi în ordinea corectă.",
+  "k": "unjumble sentences game unjumble game propozitiile sunt amestecate cuvant cu cuvant elevii ating cuvintele inapoi in ordinea corecta",
+  "p": 115,
+  "c": "Tool"
+ },
+ {
+  "n": "Joc de anagrame",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ro/anagram-game/",
+  "s": "Loona Study Tools",
+  "d": "Cuvintele sunt amestecate literă cu literă; elevii le descurcă folosind indiciul oferit de dvs.",
+  "k": "anagram game anagram game cuvintele sunt amestecate litera cu litera elevii le descurca folosind indiciul oferit de dvs",
+  "p": 116,
+  "c": "Tool"
+ },
+ {
+  "n": "Jocul Ortografiază cuvântul",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ro/spell-the-word/",
+  "s": "Loona Study Tools",
+  "d": "Construiți fiecare cuvânt atingând piesele cu litere în ordine — exersare a ortografiei cu indicii și verificări instant.",
+  "k": "spell the word game spell the word construiti fiecare cuvant atingand piesele cu litere in ordine exersare a ortografiei cu indicii si verificari instant",
+  "p": 117,
+  "c": "Tool"
+ },
+ {
+  "n": "Jocul Spânzurătoarea",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ro/hangman-game/",
+  "s": "Loona Study Tools",
+  "d": "Jocul clasic de ghicit litere cu liste de cuvinte integrate pentru materii școlare sau propria listă de cuvinte.",
+  "k": "hangman game hangman game jocul clasic de ghicit litere cu liste de cuvinte integrate pentru materii scolare sau propria lista de cuvinte",
+  "p": 118,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator de cuvinte încrucișate",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ro/crossword-generator/",
+  "s": "Loona Study Tools",
+  "d": "Introduceți cuvinte și indicii și generați un puzzle real de cuvinte încrucișate care se intersectează — imprimabil, cu cheie de răspunsuri.",
+  "k": "crossword generator crossword generator introduceti cuvinte si indicii si generati un puzzle real de cuvinte incrucisate care se intersecteaza imprimabil cu cheie de raspunsuri",
+  "p": 119,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator de cartonașe Bingo",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ro/bingo-card-generator/",
+  "s": "Loona Study Tools",
+  "d": "Generați cartonașe bingo de vocabular unice și imprimabile pentru întreaga clasă, plus o listă de apel amestecată.",
+  "k": "bingo card generator bingo card generator generati cartonase bingo de vocabular unice si imprimabile pentru intreaga clasa plus o lista de apel amestecata",
+  "p": 120,
+  "c": "Tool"
+ },
+ {
+  "n": "Creator de diagrame etichetate",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ro/labelled-diagram-maker/",
+  "s": "Loona Study Tools",
+  "d": "Încărcați o diagramă, fixați etichete pe ea, imprimați o versiune etichetată sau goală și rulați un test de etichete.",
+  "k": "labelled diagram maker labelled diagram maker incarcati o diagrama fixati etichete pe ea imprimati o versiune etichetata sau goala si rulati un test de etichete",
+  "p": 121,
+  "c": "Tool"
+ },
+ {
+  "n": "Tabelul sutelor",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ro/hundreds-chart/",
+  "s": "Loona Study Tools",
+  "d": "Un tabel interactiv și imprimabil 1–100, cu evidențierea numerelor pare/impare și a multiplilor, plus un mod de exersare cu numere lipsă.",
+  "k": "hundreds chart hundreds chart un tabel interactiv si imprimabil 1 100 cu evidentierea numerelor pare impare si a multiplilor plus un mod de exersare cu numere lipsa",
+  "p": 122,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator de cartonașe pentru peretele de cuvinte",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ro/word-wall-cards/",
+  "s": "Loona Study Tools",
+  "d": "Transformați listele de cuvinte în cartonașe mari, îngroșate și imprimabile pentru peretele de cuvinte, pentru afișaje de clasă.",
+  "k": "word wall cards generator word wall cards transformati listele de cuvinte in cartonase mari ingrosate si imprimabile pentru peretele de cuvinte pentru afisaje de clasa",
+  "p": 123,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator Sudoku",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ro/sudoku-generator/",
+  "s": "Loona Study Tools",
+  "d": "Generați puzzle-uri Sudoku imprimabile — 4×4, 6×6 și 9×9 — cu soluții unice și o pagină separată de soluții.",
+  "k": "sudoku generator sudoku generator generati puzzle uri sudoku imprimabile 4 4 6 6 si 9 9 cu solutii unice si o pagina separata de solutii",
+  "p": 124,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator de labirinturi",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ro/maze-generator/",
+  "s": "Loona Study Tools",
+  "d": "Generați labirinturi imprimabile la patru niveluri de dificultate, cu o cale de soluție opțională.",
+  "k": "maze generator maze generator generati labirinturi imprimabile la patru niveluri de dificultate cu o cale de solutie optionala",
+  "p": 125,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator de colorare după numere",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ro/colour-by-number-generator/",
+  "s": "Loona Study Tools",
+  "d": "Generați un mozaic imprimabil de colorat după numere, cu o cheie de culori și o imagine-răspuns colorată.",
+  "k": "colour by number generator colour by number generator generati un mozaic imprimabil de colorat dupa numere cu o cheie de culori si o imagine raspuns colorata",
+  "p": 126,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator de hârtie imprimabilă",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ro/printable-paper-generator/",
+  "s": "Loona Study Tools",
+  "d": "Imprimați hârtie milimetrică, hârtie cu grilă de puncte, hârtie izometrică și hârtie de exersare a scrisului la dimensiuni exacte.",
+  "k": "printable paper generator printable paper generator imprimati hartie milimetrica hartie cu grila de puncte hartie izometrica si hartie de exersare a scrisului la dimensiuni exacte",
+  "p": 127,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator de fișe de ortografie",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ro/spelling-worksheet-generator/",
+  "s": "Loona Study Tools",
+  "d": "Dintr-o singură listă de ortografie: o foaie de test, amestecuri de cuvinte, exersare cu litere lipsă și ordine ABC — cu o cheie de răspunsuri.",
+  "k": "spelling worksheet generator spelling worksheet generator dintr o singura lista de ortografie o foaie de test amestecuri de cuvinte exersare cu litere lipsa si ordine abc cu o cheie de raspunsuri",
+  "p": 128,
+  "c": "Tool"
+ },
+ {
+  "n": "Cronometre pentru clasă & cronometru de examen",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ro/classroom-timers/",
+  "s": "Loona Study Tools",
+  "d": "Cronometru cu numărătoare inversă pe afișaj mare și inel de progres, un cronometru de examen care arată ora de sfârșit, un cronometru vizual cu bară și un cronometru obișnuit cu ture.",
+  "k": "classroom timers exam timer classroom timers cronometru cu numaratoare inversa pe afisaj mare si inel de progres un cronometru de examen care arata ora de sfarsit un cronometru vizual cu bara si un cronometru obisnuit cu ture",
+  "p": 129,
+  "c": "Tool"
+ },
+ {
+  "n": "Creator de grupe pentru clasă",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ro/classroom-group-maker/",
+  "s": "Loona Study Tools",
+  "d": "Salvați-vă listele de clasă și împărțiți-le în grupe sau perechi aleatorii corecte — mărimi echilibrate, reamestecare cu un singur clic.",
+  "k": "classroom group maker classroom group maker salvati va listele de clasa si impartiti le in grupe sau perechi aleatorii corecte marimi echilibrate reamestecare cu un singur clic",
+  "p": 130,
+  "c": "Tool"
+ },
+ {
+  "n": "Creator de planuri de așezare",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ro/seating-chart-maker/",
+  "s": "Loona Study Tools",
+  "d": "Aranjați elevii pe o grilă de bănci: faceți clic pentru a-i plasa, blocați locurile preferate, amestecați restul și imprimați planul.",
+  "k": "seating chart maker seating chart maker aranjati elevii pe o grila de banci faceti clic pentru a i plasa blocati locurile preferate amestecati restul si imprimati planul",
+  "p": 131,
+  "c": "Tool"
+ },
+ {
+  "n": "Tabel de scor pentru clasă",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ro/classroom-scoreboard/",
+  "s": "Loona Study Tools",
+  "d": "Un tabel de scor mare și clar, cu puncte pe echipe, pentru ecranul clasei — adăugați echipe, atingeți pentru a adăuga sau a scoate puncte.",
+  "k": "classroom scoreboard classroom scoreboard un tabel de scor mare si clar cu puncte pe echipe pentru ecranul clasei adaugati echipe atingeti pentru a adauga sau a scoate puncte",
+  "p": 132,
+  "c": "Tool"
+ },
+ {
+  "n": "Măsurător de zgomot pentru clasă",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ro/noise-meter/",
+  "s": "Loona Study Tools",
+  "d": "Un măsurător live al nivelului relativ de zgomot, folosind microfonul dvs. — zone verzi, galbene și roșii care ajută clasele să se autoregleze.",
+  "k": "classroom noise meter noise meter un masurator live al nivelului relativ de zgomot folosind microfonul dvs zone verzi galbene si rosii care ajuta clasele sa se autoregleze",
+  "p": 133,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator de etichete cu nume",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ro/name-tags-generator/",
+  "s": "Loona Study Tools",
+  "d": "Transformați o listă de clasă în etichete cu nume imprimabile cu o linie de subtitlu — pentru bănci, excursii și prezentările din prima săptămână.",
+  "k": "name tags generator name tags generator transformati o lista de clasa in etichete cu nume imprimabile cu o linie de subtitlu pentru banci excursii si prezentarile din prima saptamana",
+  "p": 134,
+  "c": "Tool"
+ },
+ {
+  "n": "Constructor de program vizual",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ro/visual-schedule-builder/",
+  "s": "Loona Study Tools",
+  "d": "Construiți un program zilnic vizual imprimabil, cu ore, activități și pictograme — ideal pentru copiii mici.",
+  "k": "visual schedule builder visual schedule builder construiti un program zilnic vizual imprimabil cu ore activitati si pictograme ideal pentru copiii mici",
+  "p": 135,
+  "c": "Tool"
+ },
+ {
+  "n": "EZ Grader",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ro/ez-grader/",
+  "s": "Loona Study Tools",
+  "d": "Scala glisantă clasică de notare a profesorului: introduceți totalul întrebărilor și numărul de greșite pentru a obține procentul și nota-litere, plus un tabel complet.",
+  "k": "ez grader ez grader scala glisanta clasica de notare a profesorului introduceti totalul intrebarilor si numarul de gresite pentru a obtine procentul si nota litere plus un tabel complet",
+  "p": 136,
+  "c": "Tool"
+ },
+ {
+  "n": "Corector de teste",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ro/test-grader/",
+  "s": "Loona Study Tools",
+  "d": "Lipiți o cheie de răspunsuri și răspunsurile unui elev pentru a nota un test întreg instant, întrebare cu întrebare.",
+  "k": "test grader test grader lipiti o cheie de raspunsuri si raspunsurile unui elev pentru a nota un test intreg instant intrebare cu intrebare",
+  "p": 137,
+  "c": "Tool"
+ },
+ {
+  "n": "Calculator de note ponderate",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ro/weighted-grade-calculator/",
+  "s": "Loona Study Tools",
+  "d": "Combinați scorurile pe categorii (teme, teste scurte, examene, final) după ponderile din programă într-o notă de curs.",
+  "k": "weighted grade calculator weighted grade calculator combinati scorurile pe categorii teme teste scurte examene final dupa ponderile din programa intr o nota de curs",
+  "p": 138,
+  "c": "Tool"
+ },
+ {
+  "n": "Calculator de notă pentru examenul final",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ro/final-exam-calculator/",
+  "s": "Loona Study Tools",
+  "d": "Calculați exact ce scor vă trebuie la examenul final pentru a ajunge la nota țintă a cursului — și dacă este posibil.",
+  "k": "final exam grade calculator final exam calculator calculati exact ce scor va trebuie la examenul final pentru a ajunge la nota tinta a cursului si daca este posibil",
+  "p": 139,
+  "c": "Tool"
+ },
+ {
+  "n": "Test de viteză la fapte matematice",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ro/math-facts-speed-test/",
+  "s": "Loona Study Tools",
+  "d": "Un sprint aritmetic de 60 de secunde: cât mai multe operații corecte cu +, −, × și ÷, cu precizie și serii.",
+  "k": "math facts speed test math facts speed test un sprint aritmetic de 60 de secunde cat mai multe operatii corecte cu si cu precizie si serii",
+  "p": 140,
+  "c": "Tool"
+ },
+ {
+  "n": "Test de tastatură numerică (10 taste)",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ro/ten-key-test/",
+  "s": "Loona Study Tools",
+  "d": "Test de viteză la introducerea datelor pentru tastatura numerică: scrieți șiruri de numere rapid și precis, pontat în taste pe minut.",
+  "k": "10 key number pad test ten key test test de viteza la introducerea datelor pentru tastatura numerica scrieti siruri de numere rapid si precis pontat in taste pe minut",
+  "p": 141,
+  "c": "Tool"
+ },
+ {
+  "n": "Test de tastare a codului",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ro/code-typing-test/",
+  "s": "Loona Study Tools",
+  "d": "Scrieți fragmente reale de cod cu simboluri și indentare — măsoară viteza de tastare a codului și precizia simbolurilor pentru programatori.",
+  "k": "code typing test code typing test scrieti fragmente reale de cod cu simboluri si indentare masoara viteza de tastare a codului si precizia simbolurilor pentru programatori",
+  "p": 142,
+  "c": "Tool"
+ },
+ {
+  "n": "Test de gramatică",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ro/grammar-quiz/",
+  "s": "Loona Study Tools",
+  "d": "Un test de gramatică a limbii engleze cu 24 de întrebări — timpuri, articole, prepoziții, acord și punctuație — cu scor instant și explicații.",
+  "k": "grammar quiz grammar quiz un test de gramatica a limbii engleze cu 24 de intrebari timpuri articole prepozitii acord si punctuatie cu scor instant si explicatii",
+  "p": 143,
+  "c": "Tool"
+ },
+ {
+  "n": "Test de vocabular",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ro/vocabulary-quiz/",
+  "s": "Loona Study Tools",
+  "d": "Douăzeci de întrebări despre sensuri de cuvinte cu câte patru opțiuni fiecare — o verificare rapidă și sinceră a nivelului dvs. de vocabular englez.",
+  "k": "vocabulary quiz vocabulary quiz douazeci de intrebari despre sensuri de cuvinte cu cate patru optiuni fiecare o verificare rapida si sincera a nivelului dvs de vocabular englez",
+  "p": 144,
+  "c": "Tool"
+ },
+ {
+  "n": "Tabel periodic interactiv",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ro/periodic-table/",
+  "s": "Loona Study Tools",
+  "d": "Toate cele 118 elemente într-un tabel codat pe culori — faceți clic pe orice element pentru numele, masa atomică, grupa, perioada și categoria lui.",
+  "k": "interactive periodic table periodic table toate cele 118 elemente intr un tabel codat pe culori faceti clic pe orice element pentru numele masa atomica grupa perioada si categoria lui",
+  "p": 145,
+  "c": "Tool"
+ },
+ {
+  "n": "Calculator de masă molară",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ro/molar-mass-calculator/",
+  "s": "Loona Study Tools",
+  "d": "Scrieți o formulă chimică — paranteze incluse — și obțineți masa ei molară în g/mol cu o defalcare pe elemente.",
+  "k": "molar mass calculator molar mass calculator scrieti o formula chimica paranteze incluse si obtineti masa ei molara in g mol cu o defalcare pe elemente",
+  "p": 146,
+  "c": "Tool"
+ },
+ {
+  "n": "Echilibrator de ecuații chimice",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ro/chemical-equation-balancer/",
+  "s": "Loona Study Tools",
+  "d": "Introduceți o ecuație neechilibrată și obțineți coeficienți echilibrați, verificați atom cu atom.",
+  "k": "chemical equation balancer chemical equation balancer introduceti o ecuatie neechilibrata si obtineti coeficienti echilibrati verificati atom cu atom",
+  "p": 147,
+  "c": "Tool"
+ },
+ {
+  "n": "Calculator de pH",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ro/ph-calculator/",
+  "s": "Loona Study Tools",
+  "d": "Convertiți între pH, pOH, [H+] și [OH-] și calculați pH-ul soluțiilor de acid tare și bază tare.",
+  "k": "ph calculator ph calculator convertiti intre ph poh h si oh si calculati ph ul solutiilor de acid tare si baza tare",
+  "p": 148,
+  "c": "Tool"
+ },
+ {
+  "n": "Creator de grile de evaluare",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ro/rubric-maker/",
+  "s": "Loona Study Tools",
+  "d": "Construiți o grilă de evaluare imprimabilă: criterii pe laterală, patru niveluri de performanță sus, puncte calculate automat.",
+  "k": "rubric maker rubric maker construiti o grila de evaluare imprimabila criterii pe laterala patru niveluri de performanta sus puncte calculate automat",
+  "p": 149,
+  "c": "Tool"
+ }
+]

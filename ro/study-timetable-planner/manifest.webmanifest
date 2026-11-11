@@ -1,0 +1,29 @@
+{
+  "name": "Loona Planificator de orar de studiu",
+  "short_name": "Planificator de orar de studiu",
+  "description": "Planificator gratuit de orar de studiu: introduceți materiile, orele pe zi și o dată de examen pentru a genera un orar săptămânal de studiu echilibrat, editabil și imprimabil, cu rotație corectă a materiilor.",
+  "id": "/loona-study-tools/ro/study-timetable-planner/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

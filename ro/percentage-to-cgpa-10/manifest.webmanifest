@@ -1,0 +1,29 @@
+{
+  "name": "Loona Procent în CGPA (India, 10 puncte)",
+  "short_name": "Procent în CGPA (India)",
+  "description": "Convertiți procentele în CGPA indian de 10 puncte cu formula inversă CBSE (% ÷ 9.5) și variantele universitare, cu un tabel complet de la 95% în jos.",
+  "id": "/loona-study-tools/ro/percentage-to-cgpa-10/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Creator de planuri de așezare",
+  "short_name": "Creator de planuri de așezare",
+  "description": "Creator gratuit de planuri de așezare: construiți o grilă de bănci, faceți clic pentru a plasa elevii, blocați locurile care nu trebuie să se mute, amestecați pe toți ceilalți și imprimați planul.",
+  "id": "/loona-study-tools/ro/seating-chart-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Generator de fișe de ortografie",
+  "short_name": "Generator de fișe de ortografie",
+  "description": "Generator gratuit de fișe de ortografie: dintr-o singură listă de cuvinte obțineți exersare de descurcare, fișe cu vocale lipsă, exersare în ordine ABC și o foaie de test de ortografie, cu cheie de răspunsuri.",
+  "id": "/loona-study-tools/ro/spelling-worksheet-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Convertor GPA Canada",
+  "short_name": "Convertor GPA Canada",
+  "description": "Convertiți notele procentuale canadiene la scala 4.0 cu tabelul Ontario larg folosit (90–100 = A+ = 4.0), plus note despre cum diferă scalele canadiene între universități.",
+  "id": "/loona-study-tools/ro/canada-gpa-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

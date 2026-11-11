@@ -1,0 +1,29 @@
+{
+  "name": "Loona Subiecte de urdu pentru clasa a 1-a și ghid de studiu",
+  "short_name": "Subiecte de urdu pentru clasa a 1-a și ghid de studiu",
+  "description": "Subiectele de urdu pentru clasa 1 în ordinea predării — Unirea literelor pentru a construi cuvinte, Citirea cuvintelor de două și trei litere, Alif madd, sunetele wao și ye și altele — cu instrumente de studiu gratuite pentru fiecare subiect.",
+  "id": "/loona-study-tools/ro/grade-1-urdu-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

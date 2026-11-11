@@ -1,0 +1,29 @@
+{
+  "name": "Loona Calculator de notă pentru examenul final",
+  "short_name": "Calculator de notă pentru examenul final",
+  "description": "Calculator gratuit pentru examenul final: introduceți nota curentă, ponderea finalului și ținta dvs. pentru a vedea exact ce scor vă trebuie la final — și dacă mai este posibil.",
+  "id": "/loona-study-tools/ro/final-exam-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

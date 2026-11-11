@@ -1,0 +1,29 @@
+{
+  "name": "Loona Generator de cartonașe Bingo",
+  "short_name": "Generator de cartonașe Bingo",
+  "description": "Generator gratuit de cartonașe bingo: introduceți 24+ cuvinte și generați cartonașe bingo unice imprimabile 5x5 pentru o clasă întreagă, plus o listă de apel amestecată. Vocabular, cuvinte de recunoaștere vizuală, numere și altele.",
+  "id": "/loona-study-tools/ro/bingo-card-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

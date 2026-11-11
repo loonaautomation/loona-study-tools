@@ -1,0 +1,29 @@
+{
+  "name": "Loona Generator de etichete cu nume",
+  "short_name": "Generator de etichete cu nume",
+  "description": "Generator gratuit de etichete cu nume: lipiți o listă de clasă și imprimați etichete îngrijite cu un subtitlu de clasă/școală — pentru primele zile, excursii, ședințe cu părinții și lucrul în grupe.",
+  "id": "/loona-study-tools/ro/name-tags-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

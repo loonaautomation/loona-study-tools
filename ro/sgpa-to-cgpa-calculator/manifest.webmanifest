@@ -1,0 +1,29 @@
+{
+  "name": "Loona Calculator SGPA în CGPA",
+  "short_name": "Calculator SGPA în CGPA",
+  "description": "Combinați SGPA-urile semestriale într-un CGPA în modul corect: media ponderată cu credite, nu o medie simplă. Adăugați semestrele împreună cu creditele lor.",
+  "id": "/loona-study-tools/ro/sgpa-to-cgpa-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Cronometre pentru clasă",
+  "short_name": "Cronometre pentru clasă",
+  "description": "Cronometre gratuite pentru clasă: o numărătoare inversă pe afișaj mare cu inel de progres și bară vizuală care se micșorează, un cronometru de examen care arată ora de sfârșit și timpul rămas și un cronometru obișnuit cu ture.",
+  "id": "/loona-study-tools/ro/classroom-timers/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

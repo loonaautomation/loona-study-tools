@@ -1,0 +1,29 @@
+{
+  "name": "Loona Joc de memorie cu perechi",
+  "short_name": "Joc de memorie cu perechi",
+  "description": "Joc gratuit de memorie cu perechi: introduceți perechi termen = definiție și jucați răstoarnă-și-potrivește cu urmărirea mișcărilor și a timpului. Excelent pentru vocabular și recapitulare.",
+  "id": "/loona-study-tools/ro/matching-pairs-game/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Generator de colorare după numere",
+  "short_name": "Generator de colorare după numere",
+  "description": "Generator gratuit de colorare după numere: o fișă mozaic numerotată cu o cheie de șase culori și o imagine-răspuns colorată separată. Imagine proaspătă de fiecare dată.",
+  "id": "/loona-study-tools/ro/colour-by-number-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

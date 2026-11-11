@@ -1,0 +1,29 @@
+{
+  "name": "Loona Planificator de numărătoare inversă pentru examen",
+  "short_name": "Planificator de numărătoare inversă pentru examen",
+  "description": "Planificator gratuit de numărătoare inversă pentru examen: introduceți data examenului, materiile și sesiunile zilnice pentru a obține un plan de recapitulare zi cu zi, care repartizează materiile corect după greutatea dificultății până în ziua examenului.",
+  "id": "/loona-study-tools/ro/exam-countdown-planner/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

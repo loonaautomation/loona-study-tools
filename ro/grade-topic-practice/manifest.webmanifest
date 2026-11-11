@@ -1,0 +1,29 @@
+{
+  "name": "Loona Exersare pe clase și subiecte",
+  "short_name": "Exersare pe clase și subiecte",
+  "description": "Un index pentru toate paginile de exersare pe clase și subiecte (grădiniță până la clasa a 8-a), ghidurile pe materii, ghidurile de examen ale comisiilor din Pakistan pentru clasele 9–12 și convertorii CGPA de pe Loona Study Tools.",
+  "id": "/loona-study-tools/ro/grade-topic-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

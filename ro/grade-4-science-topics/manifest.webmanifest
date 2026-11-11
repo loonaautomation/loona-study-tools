@@ -1,0 +1,29 @@
+{
+  "name": "Loona Subiecte de științe pentru clasa a 4-a și ghid de studiu",
+  "short_name": "Subiecte de științe pentru clasa a 4-a și ghid de studiu",
+  "description": "Subiectele de științe pentru clasa a 4-a în ordinea predării — Ecosisteme și lanțuri trofice, Sistemele digestiv și respirator, Electricitatea și altele — cu instrumente de studiu gratuite pentru fiecare subiect.",
+  "id": "/loona-study-tools/ro/grade-4-science-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

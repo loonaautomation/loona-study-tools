@@ -1,0 +1,29 @@
+{
+  "name": "Loona Subiecte de engleză pentru grădiniță și ghid de studiu",
+  "short_name": "Subiecte de engleză pentru grădiniță",
+  "description": "Subiectele de engleză pentru grădiniță în ordinea predării — Numele și sunetele literelor (A–Z), Trasarea și scrierea literelor, Cuvinte care rimează și poezii pentru copii și altele — cu instrumente de studiu gratuite pentru fiecare subiect.",
+  "id": "/loona-study-tools/ro/kindergarten-english-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
