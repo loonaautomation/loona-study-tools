@@ -1,0 +1,29 @@
+{
+  "name": "Loona โปรแกรมแปลงระดับปริญญาสหราชอาณาจักร",
+  "short_name": "โปรแกรมแปลงระดับปริญญาสหราชอาณาจักร",
+  "description": "First, 2:1, 2:2 หรือ Third ของสหราชอาณาจักรหมายถึงอะไรในเชิงเปอร์เซ็นต์และ GPA สหรัฐโดยประมาณ — พร้อมหมายเหตุที่ซื่อสัตย์ว่าไม่มีการแปลง UK เป็น GPA อย่างเป็นทางการ",
+  "id": "/loona-study-tools/th/uk-degree-classification-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

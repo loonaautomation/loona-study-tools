@@ -1,0 +1,29 @@
+{
+  "name": "Loona หัวข้อสังคมศึกษา ชั้นปีที่ 4 และการเรียน",
+  "short_name": "หัวข้อสังคมศึกษา ชั้นปีที่ 4",
+  "description": "หัวข้อสังคมศึกษาสำหรับชั้นปีที่ 4 ตามลำดับการสอน — Latitude, longitude and reading maps, Climate zones of the world, Pakistan และอื่น ๆ — พร้อมเครื่องมือการเรียนฟรีสำหรับแต่ละหัวข้อ",
+  "id": "/loona-study-tools/th/grade-4-social-studies-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

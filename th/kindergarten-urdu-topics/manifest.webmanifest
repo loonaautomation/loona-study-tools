@@ -1,0 +1,29 @@
+{
+  "name": "Loona หัวข้อภาษาอูรดู ชั้นอนุบาล และคู่มือการเรียน",
+  "short_name": "ชั้นอนุบาล หัวข้อภาษาอูรดู และ",
+  "description": "หัวข้ออูรดูสำหรับชั้นอนุบาลตามลำดับการสอน — The Urdu qaida, Letter sounds (phonics in Urdu), Simple three-letter words และอื่น ๆ — พร้อมเครื่องมือการเรียนฟรีสำหรับแต่ละหัวข้อ",
+  "id": "/loona-study-tools/th/kindergarten-urdu-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

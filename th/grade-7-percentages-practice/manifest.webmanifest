@@ -1,0 +1,29 @@
+{
+  "name": "Loona แบบฝึกหัดเปอร์เซ็นต์ ชั้นปีที่ 7",
+  "short_name": "แบบฝึกหัดเปอร์เซ็นต์ ชั้นปีที่ 7",
+  "description": "แบบฝึกหัดเปอร์เซ็นต์ชั้นปีที่ 7 ฟรี — การเปลี่ยนแปลงเป็นเปอร์เซ็นต์: เพิ่มและลด ตัวอย่างที่แสดงวิธีทำ คำถามฝึก 6 ข้อพร้อมเฉลยสำหรับพิมพ์ วิธีทำ ข้อผิดพลาดทั่วไป และเคล็ดลับเด็ด",
+  "id": "/loona-study-tools/th/grade-7-percentages-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

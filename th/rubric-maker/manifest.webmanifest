@@ -1,0 +1,29 @@
+{
+  "name": "Loona โปรแกรมสร้างเกณฑ์การประเมิน",
+  "short_name": "โปรแกรมสร้างเกณฑ์การประเมิน",
+  "description": "โปรแกรมสร้างรูบริกฟรี: เพิ่มเกณฑ์และคะแนนสูงสุด อธิบายสี่ระดับประสิทธิภาพ และรับตารางรูบริกสำหรับพิมพ์พร้อมคะแนนต่อระดับที่คำนวณโดยอัตโนมัติ",
+  "id": "/loona-study-tools/th/rubric-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

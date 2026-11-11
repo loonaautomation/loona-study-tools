@@ -1,0 +1,29 @@
+{
+  "name": "Loona แบบฝึกหัดเรขาคณิต ชั้นปีที่ 5",
+  "short_name": "แบบฝึกหัดเรขาคณิต ชั้นปีที่ 5",
+  "description": "แบบฝึกหัดเรขาคณิตชั้นปีที่ 5 ฟรี — วงกลม: รัศมี เส้นผ่านศูนย์กลาง เส้นรอบวง ตัวอย่างที่แสดงวิธีทำ คำถามฝึก 6 ข้อพร้อมเฉลยสำหรับพิมพ์ วิธีทำ ข้อผิดพลาดทั่วไป และเคล็ดลับเด็ด",
+  "id": "/loona-study-tools/th/grade-5-geometry-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

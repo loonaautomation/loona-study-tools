@@ -1,0 +1,29 @@
+{
+  "name": "Loona โปรแกรมตัดเกรด EZ Grader",
+  "short_name": "โปรแกรมตัดเกรด EZ Grader",
+  "description": "โปรแกรมให้เกรด EZ ฟรีสำหรับครู: ป้อนคำถามทั้งหมดและจำนวนที่ผิดเพื่อรับเปอร์เซ็นต์และเกรดตัวอักษรทันที พร้อมแผนภูมิการให้เกรดเต็มสำหรับความยาวข้อสอบนั้น",
+  "id": "/loona-study-tools/th/ez-grader/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

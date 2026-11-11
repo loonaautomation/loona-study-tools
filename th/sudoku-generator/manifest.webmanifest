@@ -1,0 +1,29 @@
+{
+  "name": "Loona โปรแกรมสร้างซูโดกุ",
+  "short_name": "โปรแกรมสร้างซูโดกุ",
+  "description": "โปรแกรมสร้างซูโดกุฟรี: ปริศนาซูโดกุ 4x4, 6x6 และ 9x9 สำหรับพิมพ์ในสามระดับความยาก ทุกปริศนาตรวจสอบแล้วว่ามีเฉลยเพียงหนึ่งเดียว พร้อมหน้าเฉลยแยกต่างหาก",
+  "id": "/loona-study-tools/th/sudoku-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona ตัววางแผนทบทวนนับถอยหลังสู่วันสอบ",
+  "short_name": "ตัววางแผนทบทวนนับถอยหลังสู่วันสอบ",
+  "description": "โปรแกรมวางแผนสอบนับถอยหลังฟรี: ป้อนวันสอบ วิชา และเซสชันรายวันของคุณเพื่อรับแผนทบทวนรายวันที่กระจายวิชาอย่างยุติธรรมตามน้ำหนักความยากจนถึงวันสอบ",
+  "id": "/loona-study-tools/th/exam-countdown-planner/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

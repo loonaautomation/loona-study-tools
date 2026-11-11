@@ -1,0 +1,29 @@
+{
+  "name": "Loona โปรแกรมจัดกลุ่มห้องเรียน",
+  "short_name": "โปรแกรมจัดกลุ่มห้องเรียน",
+  "description": "โปรแกรมสร้างกลุ่มห้องเรียนฟรี: บันทึกรายชื่อชั้นเรียนในเบราว์เซอร์ของคุณ จากนั้นแยกนักเรียนเป็นกลุ่มสุ่มที่สมดุลตามขนาดกลุ่ม จำนวนกลุ่ม หรือเป็นคู่ พิมพ์ผลลัพธ์",
+  "id": "/loona-study-tools/th/classroom-group-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

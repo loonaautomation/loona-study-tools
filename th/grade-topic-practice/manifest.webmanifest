@@ -1,0 +1,29 @@
+{
+  "name": "Loona ฝึกตามระดับชั้นและหัวข้อ",
+  "short_name": "ฝึกตามระดับชั้นและหัวข้อ",
+  "description": "ดัชนีเดียวสำหรับหน้าแบบฝึกหัดตามชั้นปีและหัวข้อทั้งหมด (อนุบาลถึงชั้นปีที่ 8) คู่มือวิชา คู่มือสอบคณะกรรมการปากีสถานสำหรับ Class 9–12 และตัวแปลง CGPA บนเครื่องมือการเรียน Loona",
+  "id": "/loona-study-tools/th/grade-topic-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

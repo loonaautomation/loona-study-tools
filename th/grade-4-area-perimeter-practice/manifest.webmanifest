@@ -1,0 +1,29 @@
+{
+  "name": "Loona แบบฝึกหัดพื้นที่และเส้นรอบรูป ชั้นปีที่ 4",
+  "short_name": "ชั้นปีที่ 4 พื้นที่และเส้นรอบรูป",
+  "description": "แบบฝึกหัดพื้นที่และเส้นรอบรูปชั้นปีที่ 4 ฟรี — พื้นที่ของรูปสามเหลี่ยมและรูปสี่เหลี่ยมด้านขนาน ตัวอย่างที่แสดงวิธีทำ คำถามฝึก 6 ข้อพร้อมเฉลยสำหรับพิมพ์ วิธีทำ ข้อผิดพลาดทั่วไป และเคล็ดลับเด็ด",
+  "id": "/loona-study-tools/th/grade-4-area-perimeter-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

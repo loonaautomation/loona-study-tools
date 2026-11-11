@@ -1,0 +1,29 @@
+{
+  "name": "Loona โปรแกรมคำนวณเกรดถ่วงน้ำหนัก",
+  "short_name": "โปรแกรมคำนวณเกรดถ่วงน้ำหนัก",
+  "description": "โปรแกรมคำนวณเกรดถ่วงน้ำหนักฟรี: ป้อนน้ำหนักและคะแนนตามหมวดหมู่ (การบ้าน แบบทดสอบย่อย การสอบ ปลายภาค) เพื่อรับเปอร์เซ็นต์รายวิชาโดยรวมและเกรดตัวอักษร น้ำหนักปรับมาตรฐานโดยอัตโนมัติ",
+  "id": "/loona-study-tools/th/weighted-grade-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

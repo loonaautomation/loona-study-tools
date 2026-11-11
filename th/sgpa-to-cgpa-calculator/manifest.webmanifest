@@ -1,0 +1,29 @@
+{
+  "name": "Loona โปรแกรมแปลง SGPA เป็น CGPA",
+  "short_name": "โปรแกรมแปลง SGPA เป็น CGPA",
+  "description": "รวม SGPA ของภาคเรียนเป็น CGPA อย่างถูกวิธี: ค่าเฉลี่ยถ่วงน้ำหนักด้วยหน่วยกิต ไม่ใช่ค่าเฉลี่ยธรรมดา เพิ่มภาคเรียนของคุณพร้อมหน่วยกิตของพวกมัน",
+  "id": "/loona-study-tools/th/sgpa-to-cgpa-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

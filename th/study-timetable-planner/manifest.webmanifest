@@ -1,0 +1,29 @@
+{
+  "name": "Loona ตัววางแผนตารางเรียน",
+  "short_name": "ตัววางแผนตารางเรียน",
+  "description": "โปรแกรมวางแผนตารางเรียนฟรี: ป้อนวิชา ชั่วโมงต่อวัน และวันสอบเพื่อสร้างตารางเรียนรายสัปดาห์ที่สมดุล แก้ไขได้ พิมพ์ได้ พร้อมการสลับวิชาอย่างยุติธรรม",
+  "id": "/loona-study-tools/th/study-timetable-planner/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

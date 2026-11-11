@@ -1,0 +1,29 @@
+{
+  "name": "Loona แบบทดสอบแป้นตัวเลข 10 ปุ่ม",
+  "short_name": "แบบทดสอบแป้นตัวเลข 10 ปุ่ม",
+  "description": "แบบทดสอบแป้นตัวเลข 10 ปุ่มฟรี: พิมพ์ลำดับตัวเลขให้เร็วและแม่นยำที่สุดเท่าที่ทำได้ ให้คะแนนเป็นแป้นต่อนาทีพร้อมความแม่นยำ — แบบทดสอบทักษะการป้อนข้อมูล",
+  "id": "/loona-study-tools/th/ten-key-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

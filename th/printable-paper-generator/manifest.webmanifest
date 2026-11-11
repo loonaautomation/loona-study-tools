@@ -1,0 +1,29 @@
+{
+  "name": "Loona โปรแกรมสร้างกระดาษสำหรับพิมพ์",
+  "short_name": "โปรแกรมสร้างกระดาษสำหรับพิมพ์",
+  "description": "โปรแกรมสร้างกระดาษสำหรับพิมพ์ฟรี: กระดาษกราฟ กระดาษตารางจุด กระดาษไอโซเมตริก กระดาษลายมือ 3 เส้น และเส้นบรรทัดกว้างที่ระยะห่าง 8/10/14mm อย่างแม่นยำ พิมพ์ที่ 100% เพื่อขนาดจริง",
+  "id": "/loona-study-tools/th/printable-paper-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

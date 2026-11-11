@@ -1,0 +1,29 @@
+{
+  "name": "Loona หัวข้อวิทยาศาสตร์ ชั้นปีที่ 5 และคู่มือการเรียน",
+  "short_name": "ชั้นปีที่ 5 หัวข้อวิทยาศาสตร์ และ",
+  "description": "หัวข้อวิทยาศาสตร์สำหรับชั้นปีที่ 5 ตามลำดับการสอน — Photosynthesis and plant reproduction, The circulatory system and the heart, Mixtures and separating them (filtering, evaporation) และอื่น ๆ — พร้อมเครื่องมือการเรียนฟรีสำหรับแต่ละหัวข้อ",
+  "id": "/loona-study-tools/th/grade-5-science-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

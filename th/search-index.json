@@ -1,0 +1,452 @@
+[
+ {
+  "n": "โปรแกรมสร้างแฟลชการ์ด",
+  "u": "https://loonaautomation.github.io/loona-study-tools/th/flashcards/",
+  "s": "Loona Study Tools",
+  "d": "สร้างชุดแฟลชการ์ด เรียนด้วยการ์ดพลิกและสลับ ติดตามสิ่งที่คุณรู้ และส่งออกหรือพิมพ์การ์ดของคุณ",
+  "k": "flashcards maker flashcards สรางชดแฟลชการ์ด เรียนดวยการ์ดพลิกและสลับ ติดตามสิงทีคณร และสงออกหรือพิมพ์การ์ดของคณ",
+  "p": 0,
+  "c": "Tool"
+ },
+ {
+  "n": "โปรแกรมสร้างแบบทดสอบ",
+  "u": "https://loonaautomation.github.io/loona-study-tools/th/quiz-maker/",
+  "s": "Loona Study Tools",
+  "d": "ครูสร้างแบบทดสอบด้วยปรนัย ถูก/ผิด และคำตอบสั้น — นักเรียนทำพร้อมคะแนนทันทีและการทบทวนคำตอบฉบับเต็ม",
+  "k": "quiz maker quiz maker ครสรางแบบทดสอบดวยปรนัย ถก ผิด และคําตอบสัน นักเรียนทําพรอมคะแนนทันทีและการทบทวนคําตอบฉบับเต็ม",
+  "p": 1,
+  "c": "Tool"
+ },
+ {
+  "n": "Practice by Grade & Topic",
+  "u": "https://loonaautomation.github.io/loona-study-tools/th/grade-topic-practice/",
+  "s": "Loona Study Tools",
+  "d": "196 หน้าใหม่: ตัวอย่างที่แสดงวิธีทำและคำถามฝึกสำหรับทุกชั้นปีและหัวข้อคณิตศาสตร์ คู่มือวิชาสำหรับวิทยาศาสตร์ ภาษาอังกฤษ สังคมศึกษา และอูรดู คู่มือสอบคณะกรรมการปากีสถานสำหรับ Class 9–12 และตัวแปลง CGPA สำหรับสเกลให้เกรดหลักทุกสเกล",
+  "k": "practice by grade topic grade topic practice 196 หนาใหม ตัวอยางทีแสดงวิธีทําและคําถามฝึกสําหรับทกชันปีและหัวขอคณิตศาสตร์ คมือวิชาสําหรับวิทยาศาสตร์ ภาษาอังกฤษ สังคมศึกษา และอรด คมือสอบคณะกรรมการปากีสถานสําหรับ class 9 12 และตัวแปลง cgpa สําหรับสเกลใหเกรดหลักทกสเกล",
+  "p": 102,
+  "c": "Tool"
+ },
+ {
+  "n": "โปรแกรมสร้างแบบฝึกหัดคณิตศาสตร์",
+  "u": "https://loonaautomation.github.io/loona-study-tools/th/math-worksheet-generator/",
+  "s": "Loona Study Tools",
+  "d": "สร้างแบบฝึกหัดคณิตศาสตร์สำหรับพิมพ์ — การบวก การลบ การคูณ การหาร เศษส่วน และทศนิยม — พร้อมเฉลยที่ตรงกัน",
+  "k": "math worksheet generator math worksheet generator สรางแบบฝึกหัดคณิตศาสตร์สําหรับพิมพ์ การบวก การลบ การคณ การหาร เศษสวน และทศนิยม พรอมเฉลยทีตรงกัน",
+  "p": 2,
+  "c": "Tool"
+ },
+ {
+  "n": "แบบทดสอบความเร็วในการอ่าน",
+  "u": "https://loonaautomation.github.io/loona-study-tools/th/reading-speed-test/",
+  "s": "Loona Study Tools",
+  "d": "อ่านบทความจับเวลา ตอบคำถามความเข้าใจ และรับความเร็วการอ่านจริงของคุณเป็นคำต่อนาที (WPM)",
+  "k": "reading speed test reading speed test อานบทความจับเวลา ตอบคําถามความเขาใจ และรับความเร็วการอานจริงของคณเป็นคําตอนาที wpm",
+  "p": 3,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัววางแผนตารางเรียน",
+  "u": "https://loonaautomation.github.io/loona-study-tools/th/study-timetable-planner/",
+  "s": "Loona Study Tools",
+  "d": "ป้อนวิชา ชั่วโมงรายวัน และวันสอบของคุณ และรับตารางเรียนรายสัปดาห์ที่สมดุลที่คุณแก้ไขและพิมพ์ได้",
+  "k": "study timetable planner study timetable planner ปอนวิชา ชัวโมงรายวัน และวันสอบของคณ และรับตารางเรียนรายสัปดาห์ทีสมดลทีคณแกไขและพิมพ์ได",
+  "p": 4,
+  "c": "Tool"
+ },
+ {
+  "n": "แบบฝึกหัดสูตรคูณ",
+  "u": "https://loonaautomation.github.io/loona-study-tools/th/multiplication-tables-practice/",
+  "s": "Loona Study Tools",
+  "d": "ฝึกสูตรคูณด้วยรอบฝึกจับเวลา การตรวจทันที และตารางสูตรคูณสำหรับพิมพ์ถึง 12 × 12",
+  "k": "multiplication tables practice multiplication tables practice ฝึกสตรคณดวยรอบฝึกจับเวลา การตรวจทันที และตารางสตรคณสําหรับพิมพ์ถึง 12 12",
+  "p": 106,
+  "c": "Tool"
+ },
+ {
+  "n": "แบบทดสอบการสะกดคำ",
+  "u": "https://loonaautomation.github.io/loona-study-tools/th/spelling-test/",
+  "s": "Loona Study Tools",
+  "d": "คอมพิวเตอร์อ่านแต่ละคำออกเสียง — คุณพิมพ์การสะกด คะแนนทันทีและการทบทวนทุกคำที่คุณพลาด",
+  "k": "spelling test spelling test คอมพิวเตอร์อานแตละคําออกเสียง คณพิมพ์การสะกด คะแนนทันทีและการทบทวนทกคําทีคณพลาด",
+  "p": 5,
+  "c": "Tool"
+ },
+ {
+  "n": "โปรแกรมสร้างแบบฝึกคัดลายมือ",
+  "u": "https://loonaautomation.github.io/loona-study-tools/th/handwriting-practice-generator/",
+  "s": "Loona Study Tools",
+  "d": "สร้างแผ่นฝึกเขียนลายมือสำหรับพิมพ์สำหรับตัวอักษร ตัวเลข และคำของคุณเอง พร้อมเส้นลากตามและเส้นคัดลอกว่าง",
+  "k": "handwriting practice generator handwriting practice generator สรางแผนฝึกเขียนลายมือสําหรับพิมพ์สําหรับตัวอักษร ตัวเลข และคําของคณเอง พรอมเสนลากตามและเสนคัดลอกวาง",
+  "p": 108,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัววางแผนทบทวนนับถอยหลังสู่วันสอบ",
+  "u": "https://loonaautomation.github.io/loona-study-tools/th/exam-countdown-planner/",
+  "s": "Loona Study Tools",
+  "d": "ป้อนวันสอบและวิชาของคุณและรับแผนทบทวนรายวันที่กระจายหัวข้ออย่างยุติธรรมไปตามวันที่เหลือของคุณ",
+  "k": "exam countdown planner exam countdown planner ปอนวันสอบและวิชาของคณและรับแผนทบทวนรายวันทีกระจายหัวขออยางยติธรรมไปตามวันทีเหลือของคณ",
+  "p": 109,
+  "c": "Tool"
+ },
+ {
+  "n": "โปรแกรมสร้างเกมค้นหาคำศัพท์",
+  "u": "https://loonaautomation.github.io/loona-study-tools/th/word-search-generator/",
+  "s": "Loona Study Tools",
+  "d": "เปลี่ยนรายการคำของคุณเองให้เป็นปริศนาค้นหาคำสำหรับพิมพ์ พร้อมเฉลยแยกต่างหากที่แสดงตำแหน่งของทุกคำ",
+  "k": "word search generator word search generator เปลียนรายการคําของคณเองใหเป็นปริศนาคนหาคําสําหรับพิมพ์ พรอมเฉลยแยกตางหากทีแสดงตําแหนงของทกคํา",
+  "p": 110,
+  "c": "Tool"
+ },
+ {
+  "n": "โปรแกรมสร้างแบบฝึกหัดจับคู่",
+  "u": "https://loonaautomation.github.io/loona-study-tools/th/matching-worksheet-generator/",
+  "s": "Loona Study Tools",
+  "d": "สร้างแบบฝึกหัดจับคู่สำหรับพิมพ์ — คำด้านซ้าย คำนิยามที่สลับแล้วด้านขวา — พร้อมเฉลยสำหรับครู",
+  "k": "matching worksheet generator matching worksheet generator สรางแบบฝึกหัดจับคสําหรับพิมพ์ คําดานซาย คํานิยามทีสลับแลวดานขวา พรอมเฉลยสําหรับคร",
+  "p": 111,
+  "c": "Tool"
+ },
+ {
+  "n": "โปรแกรมสุ่มชื่อ",
+  "u": "https://loonaautomation.github.io/loona-study-tools/th/random-name-picker/",
+  "s": "Loona Study Tools",
+  "d": "วางรายชื่อชั้นเรียนและสุ่มเลือกนักเรียนอย่างยุติธรรม พร้อมโหมดไม่ซ้ำเพื่อให้ทุกคนได้เล่น",
+  "k": "random name picker random name picker วางรายชือชันเรียนและสมเลือกนักเรียนอยางยติธรรม พรอมโหมดไมซําเพือใหทกคนไดเลน",
+  "p": 112,
+  "c": "Tool"
+ },
+ {
+  "n": "เกมจับคู่ภาพเหมือน",
+  "u": "https://loonaautomation.github.io/loona-study-tools/th/matching-pairs-game/",
+  "s": "Loona Study Tools",
+  "d": "เปลี่ยนคู่คำและคำนิยามใด ๆ ให้เป็นเกมความจำแบบพลิกและจับคู่ พร้อมการติดตามจำนวนครั้งและเวลา",
+  "k": "matching pairs game matching pairs game เปลียนคคําและคํานิยามใด ๆ ใหเป็นเกมความจําแบบพลิกและจับค พรอมการติดตามจํานวนครังและเวลา",
+  "p": 113,
+  "c": "Tool"
+ },
+ {
+  "n": "เกมจัดกลุ่มแยกประเภท",
+  "u": "https://loonaautomation.github.io/loona-study-tools/th/group-sort-game/",
+  "s": "Loona Study Tools",
+  "d": "สร้างหมวดหมู่และรายการ นักเรียนจัดทุกรายการเข้ากลุ่มที่ถูกต้องและได้รับคะแนนทันที",
+  "k": "group sort game group sort game สรางหมวดหมและรายการ นักเรียนจัดทกรายการเขากลมทีถกตองและไดรับคะแนนทันที",
+  "p": 114,
+  "c": "Tool"
+ },
+ {
+  "n": "เกมเรียงประโยค",
+  "u": "https://loonaautomation.github.io/loona-study-tools/th/unjumble-game/",
+  "s": "Loona Study Tools",
+  "d": "ประโยคถูกสลับทีละคำ — นักเรียนแตะคำกลับเข้าลำดับที่ถูกต้อง",
+  "k": "unjumble sentences game unjumble game ประโยคถกสลับทีละคํา นักเรียนแตะคํากลับเขาลําดับทีถกตอง",
+  "p": 115,
+  "c": "Tool"
+ },
+ {
+  "n": "เกมสลับตัวอักษร",
+  "u": "https://loonaautomation.github.io/loona-study-tools/th/anagram-game/",
+  "s": "Loona Study Tools",
+  "d": "คำถูกสลับทีละตัวอักษร นักเรียนจัดเรียงกลับโดยใช้คำใบ้ที่คุณให้",
+  "k": "anagram game anagram game คําถกสลับทีละตัวอักษร นักเรียนจัดเรียงกลับโดยใชคําใบทีคณให",
+  "p": 116,
+  "c": "Tool"
+ },
+ {
+  "n": "เกมสะกดคำ",
+  "u": "https://loonaautomation.github.io/loona-study-tools/th/spell-the-word/",
+  "s": "Loona Study Tools",
+  "d": "สร้างแต่ละคำโดยแตะแผ่นตัวอักษรตามลำดับ — การฝึกสะกดคำพร้อมคำใบ้และการตรวจทันที",
+  "k": "spell the word game spell the word สรางแตละคําโดยแตะแผนตัวอักษรตามลําดับ การฝึกสะกดคําพรอมคําใบและการตรวจทันที",
+  "p": 117,
+  "c": "Tool"
+ },
+ {
+  "n": "เกมทายคำ Hangman",
+  "u": "https://loonaautomation.github.io/loona-study-tools/th/hangman-game/",
+  "s": "Loona Study Tools",
+  "d": "เกมทายตัวอักษรสุดคลาสสิกพร้อมรายการคำในตัวสำหรับวิชาในโรงเรียน หรือรายการคำของคุณเอง",
+  "k": "hangman game hangman game เกมทายตัวอักษรสดคลาสสิกพรอมรายการคําในตัวสําหรับวิชาในโรงเรียน หรือรายการคําของคณเอง",
+  "p": 118,
+  "c": "Tool"
+ },
+ {
+  "n": "โปรแกรมสร้างปริศนาอักษรไขว้",
+  "u": "https://loonaautomation.github.io/loona-study-tools/th/crossword-generator/",
+  "s": "Loona Study Tools",
+  "d": "ป้อนคำและคำใบ้และสร้างปริศนาอักษรไขว้ที่ตัดกันจริง — พิมพ์ได้ พร้อมเฉลย",
+  "k": "crossword generator crossword generator ปอนคําและคําใบและสรางปริศนาอักษรไขวทีตัดกันจริง พิมพ์ได พรอมเฉลย",
+  "p": 119,
+  "c": "Tool"
+ },
+ {
+  "n": "โปรแกรมสร้างการ์ดบิงโก",
+  "u": "https://loonaautomation.github.io/loona-study-tools/th/bingo-card-generator/",
+  "s": "Loona Study Tools",
+  "d": "สร้างการ์ดบิงโกคำศัพท์สำหรับพิมพ์ที่ไม่ซ้ำกันสำหรับทั้งชั้นเรียน พร้อมรายการเรียกที่สลับแล้ว",
+  "k": "bingo card generator bingo card generator สรางการ์ดบิงโกคําศัพท์สําหรับพิมพ์ทีไมซํากันสําหรับทังชันเรียน พรอมรายการเรียกทีสลับแลว",
+  "p": 120,
+  "c": "Tool"
+ },
+ {
+  "n": "โปรแกรมสร้างแผนภาพติดป้ายกำกับ",
+  "u": "https://loonaautomation.github.io/loona-study-tools/th/labelled-diagram-maker/",
+  "s": "Loona Study Tools",
+  "d": "อัปโหลดแผนภาพ ปักป้ายลงบนมัน พิมพ์เวอร์ชันที่มีป้ายหรือว่างเปล่า และทำแบบทดสอบป้าย",
+  "k": "labelled diagram maker labelled diagram maker อัปโหลดแผนภาพ ปักปายลงบนมัน พิมพ์เวอร์ชันทีมีปายหรือวางเปลา และทําแบบทดสอบปาย",
+  "p": 121,
+  "c": "Tool"
+ },
+ {
+  "n": "ตารางนับร้อย",
+  "u": "https://loonaautomation.github.io/loona-study-tools/th/hundreds-chart/",
+  "s": "Loona Study Tools",
+  "d": "แผนภูมิ 1–100 แบบโต้ตอบและพิมพ์ได้ พร้อมการเน้นคู่/คี่และพหุคูณ และโหมดฝึกตัวเลขที่หายไป",
+  "k": "hundreds chart hundreds chart แผนภมิ 1 100 แบบโตตอบและพิมพ์ได พรอมการเนนค คีและพหคณ และโหมดฝึกตัวเลขทีหายไป",
+  "p": 122,
+  "c": "Tool"
+ },
+ {
+  "n": "โปรแกรมสร้างการ์ดคำศัพท์ติดผนัง",
+  "u": "https://loonaautomation.github.io/loona-study-tools/th/word-wall-cards/",
+  "s": "Loona Study Tools",
+  "d": "เปลี่ยนรายการคำให้เป็นการ์ดคำติดผนังขนาดใหญ่ ตัวหนา พิมพ์ได้ สำหรับจัดแสดงในห้องเรียน",
+  "k": "word wall cards generator word wall cards เปลียนรายการคําใหเป็นการ์ดคําติดผนังขนาดใหญ ตัวหนา พิมพ์ได สําหรับจัดแสดงในหองเรียน",
+  "p": 123,
+  "c": "Tool"
+ },
+ {
+  "n": "โปรแกรมสร้างซูโดกุ",
+  "u": "https://loonaautomation.github.io/loona-study-tools/th/sudoku-generator/",
+  "s": "Loona Study Tools",
+  "d": "สร้างปริศนาซูโดกุสำหรับพิมพ์ — 4×4, 6×6 และ 9×9 — พร้อมเฉลยที่ไม่ซ้ำกันและหน้าเฉลยแยกต่างหาก",
+  "k": "sudoku generator sudoku generator สรางปริศนาซโดกสําหรับพิมพ์ 4 4 6 6 และ 9 9 พรอมเฉลยทีไมซํากันและหนาเฉลยแยกตางหาก",
+  "p": 124,
+  "c": "Tool"
+ },
+ {
+  "n": "โปรแกรมสร้างเขาวงกต",
+  "u": "https://loonaautomation.github.io/loona-study-tools/th/maze-generator/",
+  "s": "Loona Study Tools",
+  "d": "สร้างเขาวงกตสำหรับพิมพ์ในสี่ระดับความยาก พร้อมเส้นทางเฉลยตามต้องการ",
+  "k": "maze generator maze generator สรางเขาวงกตสําหรับพิมพ์ในสีระดับความยาก พรอมเสนทางเฉลยตามตองการ",
+  "p": 125,
+  "c": "Tool"
+ },
+ {
+  "n": "โปรแกรมสร้างภาพระบายสีตามตัวเลข",
+  "u": "https://loonaautomation.github.io/loona-study-tools/th/colour-by-number-generator/",
+  "s": "Loona Study Tools",
+  "d": "สร้างโมเสกระบายสีตามตัวเลขสำหรับพิมพ์ พร้อมรหัสสีและภาพเฉลยที่มีสี",
+  "k": "colour by number generator colour by number generator สรางโมเสกระบายสีตามตัวเลขสําหรับพิมพ์ พรอมรหัสสีและภาพเฉลยทีมีสี",
+  "p": 126,
+  "c": "Tool"
+ },
+ {
+  "n": "โปรแกรมสร้างกระดาษสำหรับพิมพ์",
+  "u": "https://loonaautomation.github.io/loona-study-tools/th/printable-paper-generator/",
+  "s": "Loona Study Tools",
+  "d": "พิมพ์กระดาษกราฟ กระดาษตารางจุด กระดาษไอโซเมตริก และกระดาษฝึกเขียนลายมือในขนาดที่แม่นยำ",
+  "k": "printable paper generator printable paper generator พิมพ์กระดาษกราฟ กระดาษตารางจด กระดาษไอโซเมตริก และกระดาษฝึกเขียนลายมือในขนาดทีแมนยํา",
+  "p": 127,
+  "c": "Tool"
+ },
+ {
+  "n": "โปรแกรมสร้างแบบฝึกหัดการสะกดคำ",
+  "u": "https://loonaautomation.github.io/loona-study-tools/th/spelling-worksheet-generator/",
+  "s": "Loona Study Tools",
+  "d": "จากรายการสะกดคำเดียว: แผ่นทดสอบ การสลับคำ การฝึกตัวอักษรที่หายไป และลำดับ ABC — พร้อมเฉลย",
+  "k": "spelling worksheet generator spelling worksheet generator จากรายการสะกดคําเดียว แผนทดสอบ การสลับคํา การฝึกตัวอักษรทีหายไป และลําดับ abc พรอมเฉลย",
+  "p": 128,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวจับเวลาห้องเรียนและตัวจับเวลาสอบ",
+  "u": "https://loonaautomation.github.io/loona-study-tools/th/classroom-timers/",
+  "s": "Loona Study Tools",
+  "d": "ตัวจับเวลานับถอยหลังจอใหญ่พร้อมวงแหวนความคืบหน้า ตัวจับเวลาสอบที่แสดงเวลาจบ ตัวจับเวลาแถบภาพ และนาฬิกาจับเวลาพร้อมรอบ",
+  "k": "classroom timers exam timer classroom timers ตัวจับเวลานับถอยหลังจอใหญพรอมวงแหวนความคืบหนา ตัวจับเวลาสอบทีแสดงเวลาจบ ตัวจับเวลาแถบภาพ และนาฬิกาจับเวลาพรอมรอบ",
+  "p": 129,
+  "c": "Tool"
+ },
+ {
+  "n": "โปรแกรมจัดกลุ่มห้องเรียน",
+  "u": "https://loonaautomation.github.io/loona-study-tools/th/classroom-group-maker/",
+  "s": "Loona Study Tools",
+  "d": "บันทึกรายชื่อชั้นเรียนของคุณและแยกเป็นกลุ่มหรือคู่แบบสุ่มที่ยุติธรรม — ขนาดสมดุล สลับใหม่ได้ในคลิกเดียว",
+  "k": "classroom group maker classroom group maker บันทึกรายชือชันเรียนของคณและแยกเป็นกลมหรือคแบบสมทียติธรรม ขนาดสมดล สลับใหมไดในคลิกเดียว",
+  "p": 130,
+  "c": "Tool"
+ },
+ {
+  "n": "โปรแกรมจัดผังที่นั่งในห้องเรียน",
+  "u": "https://loonaautomation.github.io/loona-study-tools/th/seating-chart-maker/",
+  "s": "Loona Study Tools",
+  "d": "จัดนักเรียนบนตารางโต๊ะ: คลิกเพื่อวาง ล็อกที่นั่งโปรด สลับที่เหลือ และพิมพ์แผนภูมิ",
+  "k": "seating chart maker seating chart maker จัดนักเรียนบนตารางโตะ คลิกเพือวาง ล็อกทีนังโปรด สลับทีเหลือ และพิมพ์แผนภมิ",
+  "p": 131,
+  "c": "Tool"
+ },
+ {
+  "n": "กระดานคะแนนห้องเรียน",
+  "u": "https://loonaautomation.github.io/loona-study-tools/th/classroom-scoreboard/",
+  "s": "Loona Study Tools",
+  "d": "ตารางคะแนนทีมขนาดใหญ่ชัดเจนสำหรับหน้าจอห้องเรียน — เพิ่มทีม แตะเพื่อเพิ่มหรือลบคะแนน",
+  "k": "classroom scoreboard classroom scoreboard ตารางคะแนนทีมขนาดใหญชัดเจนสําหรับหนาจอหองเรียน เพิมทีม แตะเพือเพิมหรือลบคะแนน",
+  "p": 132,
+  "c": "Tool"
+ },
+ {
+  "n": "เครื่องวัดระดับเสียงในห้องเรียน",
+  "u": "https://loonaautomation.github.io/loona-study-tools/th/noise-meter/",
+  "s": "Loona Study Tools",
+  "d": "มิเตอร์ระดับเสียงสัมพัทธ์แบบสดโดยใช้ไมโครโฟนของคุณ — โซนเขียว เหลืองอำพัน และแดง เพื่อช่วยให้ชั้นเรียนควบคุมตัวเอง",
+  "k": "classroom noise meter noise meter มิเตอร์ระดับเสียงสัมพัทธ์แบบสดโดยใชไมโครโฟนของคณ โซนเขียว เหลืองอําพัน และแดง เพือชวยใหชันเรียนควบคมตัวเอง",
+  "p": 133,
+  "c": "Tool"
+ },
+ {
+  "n": "โปรแกรมสร้างป้ายชื่อ",
+  "u": "https://loonaautomation.github.io/loona-study-tools/th/name-tags-generator/",
+  "s": "Loona Study Tools",
+  "d": "เปลี่ยนรายชื่อชั้นเรียนให้เป็นป้ายชื่อสำหรับพิมพ์พร้อมบรรทัดคำบรรยาย — สำหรับโต๊ะ ทัศนศึกษา และการแนะนำตัวสัปดาห์แรก",
+  "k": "name tags generator name tags generator เปลียนรายชือชันเรียนใหเป็นปายชือสําหรับพิมพ์พรอมบรรทัดคําบรรยาย สําหรับโตะ ทัศนศึกษา และการแนะนําตัวสัปดาห์แรก",
+  "p": 134,
+  "c": "Tool"
+ },
+ {
+  "n": "โปรแกรมสร้างตารางกิจกรรมแบบภาพ",
+  "u": "https://loonaautomation.github.io/loona-study-tools/th/visual-schedule-builder/",
+  "s": "Loona Study Tools",
+  "d": "สร้างตารางวันแบบภาพสำหรับพิมพ์พร้อมเวลา กิจกรรม และไอคอนรูปภาพ — เหมาะสำหรับเด็กเล็ก",
+  "k": "visual schedule builder visual schedule builder สรางตารางวันแบบภาพสําหรับพิมพ์พรอมเวลา กิจกรรม และไอคอนรปภาพ เหมาะสําหรับเด็กเล็ก",
+  "p": 135,
+  "c": "Tool"
+ },
+ {
+  "n": "โปรแกรมตัดเกรด EZ Grader",
+  "u": "https://loonaautomation.github.io/loona-study-tools/th/ez-grader/",
+  "s": "Loona Study Tools",
+  "d": "สเกลเลื่อนให้เกรดคลาสสิกของครู: ป้อนคำถามทั้งหมดและจำนวนที่ผิดเพื่อรับเปอร์เซ็นต์และเกรดตัวอักษร พร้อมแผนภูมิฉบับเต็ม",
+  "k": "ez grader ez grader สเกลเลือนใหเกรดคลาสสิกของคร ปอนคําถามทังหมดและจํานวนทีผิดเพือรับเปอร์เซ็นต์และเกรดตัวอักษร พรอมแผนภมิฉบับเต็ม",
+  "p": 136,
+  "c": "Tool"
+ },
+ {
+  "n": "โปรแกรมตรวจข้อสอบ",
+  "u": "https://loonaautomation.github.io/loona-study-tools/th/test-grader/",
+  "s": "Loona Study Tools",
+  "d": "วางเฉลยและคำตอบของนักเรียนเพื่อตรวจข้อสอบทั้งชุดทันที ทีละข้อ",
+  "k": "test grader test grader วางเฉลยและคําตอบของนักเรียนเพือตรวจขอสอบทังชดทันที ทีละขอ",
+  "p": 137,
+  "c": "Tool"
+ },
+ {
+  "n": "โปรแกรมคำนวณเกรดถ่วงน้ำหนัก",
+  "u": "https://loonaautomation.github.io/loona-study-tools/th/weighted-grade-calculator/",
+  "s": "Loona Study Tools",
+  "d": "รวมคะแนนตามหมวดหมู่ (การบ้าน แบบทดสอบย่อย การสอบ ปลายภาค) ตามน้ำหนักในหลักสูตรให้เป็นเกรดรายวิชา",
+  "k": "weighted grade calculator weighted grade calculator รวมคะแนนตามหมวดหม การบาน แบบทดสอบยอย การสอบ ปลายภาค ตามนําหนักในหลักสตรใหเป็นเกรดรายวิชา",
+  "p": 138,
+  "c": "Tool"
+ },
+ {
+  "n": "โปรแกรมคำนวณเกรดสอบปลายภาค",
+  "u": "https://loonaautomation.github.io/loona-study-tools/th/final-exam-calculator/",
+  "s": "Loona Study Tools",
+  "d": "คำนวณอย่างแม่นยำว่าคุณต้องการคะแนนเท่าไรในการสอบปลายภาคเพื่อถึงเกรดรายวิชาเป้าหมาย — และว่ามันเป็นไปได้หรือไม่",
+  "k": "final exam grade calculator final exam calculator คํานวณอยางแมนยําวาคณตองการคะแนนเทาไรในการสอบปลายภาคเพือถึงเกรดรายวิชาเปาหมาย และวามันเป็นไปไดหรือไม",
+  "p": 139,
+  "c": "Tool"
+ },
+ {
+  "n": "แบบทดสอบคณิตคิดเร็ว",
+  "u": "https://loonaautomation.github.io/loona-study-tools/th/math-facts-speed-test/",
+  "s": "Loona Study Tools",
+  "d": "การวิ่งเร็วเลขคณิต 60 วินาที: ข้อเท็จจริง +, −, × และ ÷ ที่ถูกต้องให้มากที่สุดเท่าที่ทำได้ พร้อมความแม่นยำและสถิติต่อเนื่อง",
+  "k": "math facts speed test math facts speed test การวิงเร็วเลขคณิต 60 วินาที ขอเท็จจริง และ ทีถกตองใหมากทีสดเทาทีทําได พรอมความแมนยําและสถิติตอเนือง",
+  "p": 140,
+  "c": "Tool"
+ },
+ {
+  "n": "แบบทดสอบแป้นตัวเลข 10 ปุ่ม",
+  "u": "https://loonaautomation.github.io/loona-study-tools/th/ten-key-test/",
+  "s": "Loona Study Tools",
+  "d": "แบบทดสอบความเร็วการป้อนข้อมูลสำหรับแป้นตัวเลข: พิมพ์ลำดับตัวเลขอย่างรวดเร็วและแม่นยำ ให้คะแนนเป็นแป้นต่อนาที",
+  "k": "10 key number pad test ten key test แบบทดสอบความเร็วการปอนขอมลสําหรับแปนตัวเลข พิมพ์ลําดับตัวเลขอยางรวดเร็วและแมนยํา ใหคะแนนเป็นแปนตอนาที",
+  "p": 141,
+  "c": "Tool"
+ },
+ {
+  "n": "แบบทดสอบการพิมพ์โค้ด",
+  "u": "https://loonaautomation.github.io/loona-study-tools/th/code-typing-test/",
+  "s": "Loona Study Tools",
+  "d": "พิมพ์ตัวอย่างโค้ดจริงพร้อมสัญลักษณ์และการเยื้อง — วัดความเร็วการพิมพ์โค้ดและความแม่นยำของสัญลักษณ์สำหรับโปรแกรมเมอร์",
+  "k": "code typing test code typing test พิมพ์ตัวอยางโคดจริงพรอมสัญลักษณ์และการเยือง วัดความเร็วการพิมพ์โคดและความแมนยําของสัญลักษณ์สําหรับโปรแกรมเมอร์",
+  "p": 142,
+  "c": "Tool"
+ },
+ {
+  "n": "แบบทดสอบไวยากรณ์",
+  "u": "https://loonaautomation.github.io/loona-study-tools/th/grammar-quiz/",
+  "s": "Loona Study Tools",
+  "d": "แบบทดสอบไวยากรณ์ภาษาอังกฤษ 24 ข้อ — กาล คำนำหน้านาม คำบุพบท ความสอดคล้อง และเครื่องหมายวรรคตอน — พร้อมคะแนนทันทีและคำอธิบาย",
+  "k": "grammar quiz grammar quiz แบบทดสอบไวยากรณ์ภาษาอังกฤษ 24 ขอ กาล คํานําหนานาม คําบพบท ความสอดคลอง และเครืองหมายวรรคตอน พรอมคะแนนทันทีและคําอธิบาย",
+  "p": 143,
+  "c": "Tool"
+ },
+ {
+  "n": "แบบทดสอบคำศัพท์",
+  "u": "https://loonaautomation.github.io/loona-study-tools/th/vocabulary-quiz/",
+  "s": "Loona Study Tools",
+  "d": "คำถามความหมายคำยี่สิบข้อ ข้อละสี่ตัวเลือก — การตรวจสอบระดับคำศัพท์ภาษาอังกฤษของคุณอย่างรวดเร็วและซื่อสัตย์",
+  "k": "vocabulary quiz vocabulary quiz คําถามความหมายคํายีสิบขอ ขอละสีตัวเลือก การตรวจสอบระดับคําศัพท์ภาษาอังกฤษของคณอยางรวดเร็วและซือสัตย์",
+  "p": 144,
+  "c": "Tool"
+ },
+ {
+  "n": "ตารางธาตุแบบโต้ตอบ",
+  "u": "https://loonaautomation.github.io/loona-study-tools/th/periodic-table/",
+  "s": "Loona Study Tools",
+  "d": "ธาตุทั้ง 118 ธาตุในตารางรหัสสี — คลิกธาตุใดก็ได้เพื่อดูชื่อ มวลอะตอม หมู่ คาบ และหมวดหมู่",
+  "k": "interactive periodic table periodic table ธาตทัง 118 ธาตในตารางรหัสสี คลิกธาตใดก็ไดเพือดชือ มวลอะตอม หม คาบ และหมวดหม",
+  "p": 145,
+  "c": "Tool"
+ },
+ {
+  "n": "โปรแกรมคำนวณมวลโมลาร์",
+  "u": "https://loonaautomation.github.io/loona-study-tools/th/molar-mass-calculator/",
+  "s": "Loona Study Tools",
+  "d": "พิมพ์สูตรเคมี — รวมวงเล็บ — และรับมวลโมลาร์เป็น g/mol พร้อมการแยกตามธาตุ",
+  "k": "molar mass calculator molar mass calculator พิมพ์สตรเคมี รวมวงเล็บ และรับมวลโมลาร์เป็น g mol พรอมการแยกตามธาต",
+  "p": 146,
+  "c": "Tool"
+ },
+ {
+  "n": "โปรแกรมดุลสมการเคมี",
+  "u": "https://loonaautomation.github.io/loona-study-tools/th/chemical-equation-balancer/",
+  "s": "Loona Study Tools",
+  "d": "ป้อนสมการที่ไม่ดุลและรับสัมประสิทธิ์ที่ดุลแล้ว ตรวจสอบทีละอะตอม",
+  "k": "chemical equation balancer chemical equation balancer ปอนสมการทีไมดลและรับสัมประสิทธิ์ทีดลแลว ตรวจสอบทีละอะตอม",
+  "p": 147,
+  "c": "Tool"
+ },
+ {
+  "n": "โปรแกรมคำนวณค่า pH",
+  "u": "https://loonaautomation.github.io/loona-study-tools/th/ph-calculator/",
+  "s": "Loona Study Tools",
+  "d": "แปลงค่าระหว่าง pH, pOH, [H+] และ [OH-] และคำนวณ pH ของสารละลายกรดแก่และเบสแก่",
+  "k": "ph calculator ph calculator แปลงคาระหวาง ph poh h และ oh และคํานวณ ph ของสารละลายกรดแกและเบสแก",
+  "p": 148,
+  "c": "Tool"
+ },
+ {
+  "n": "โปรแกรมสร้างเกณฑ์การประเมิน",
+  "u": "https://loonaautomation.github.io/loona-study-tools/th/rubric-maker/",
+  "s": "Loona Study Tools",
+  "d": "สร้างรูบริกการให้คะแนนสำหรับพิมพ์: เกณฑ์ด้านข้าง สี่ระดับประสิทธิภาพด้านบน คะแนนคำนวณโดยอัตโนมัติ",
+  "k": "rubric maker rubric maker สรางรบริกการใหคะแนนสําหรับพิมพ์ เกณฑ์ดานขาง สีระดับประสิทธิภาพดานบน คะแนนคํานวณโดยอัตโนมัติ",
+  "p": 149,
+  "c": "Tool"
+ }
+]

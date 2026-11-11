@@ -1,0 +1,29 @@
+{
+  "name": "Loona หัวข้อสังคมศึกษา ชั้นอนุบาล และ",
+  "short_name": "ชั้นอนุบาล สังคมศึกษา",
+  "description": "หัวข้อสังคมศึกษาสำหรับชั้นอนุบาลตามลำดับการสอน — My family and my home, My school and my classroom, Helpers in our neighbourhood และอื่น ๆ — พร้อมเครื่องมือการเรียนฟรีสำหรับแต่ละหัวข้อ",
+  "id": "/loona-study-tools/th/kindergarten-social-studies-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

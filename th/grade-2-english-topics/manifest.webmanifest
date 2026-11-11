@@ -1,0 +1,29 @@
+{
+  "name": "Loona หัวข้อภาษาอังกฤษ ชั้นปีที่ 2 และคู่มือการเรียน",
+  "short_name": "ชั้นปีที่ 2 หัวข้อภาษาอังกฤษ และ",
+  "description": "หัวข้อภาษาอังกฤษสำหรับชั้นปีที่ 2 ตามลำดับการสอน — Long vowels and digraphs (sh, ch, th), Sight words set 2 and word families, Question marks and exclamation marks และอื่น ๆ — พร้อมเครื่องมือการเรียนฟรีสำหรับแต่ละหัวข้อ",
+  "id": "/loona-study-tools/th/grade-2-english-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

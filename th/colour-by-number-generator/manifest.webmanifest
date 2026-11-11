@@ -1,0 +1,29 @@
+{
+  "name": "Loona โปรแกรมสร้างภาพระบายสีตามตัวเลข",
+  "short_name": "โปรแกรมสร้างภาพระบายสีตามตัวเลข",
+  "description": "โปรแกรมสร้างระบายสีตามตัวเลขฟรี: ใบงานโมเสกที่มีหมายเลขพร้อมรหัสหกสีและภาพเฉลยมีสีแยกต่างหาก ภาพใหม่ทุกครั้ง",
+  "id": "/loona-study-tools/th/colour-by-number-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

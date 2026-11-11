@@ -1,0 +1,29 @@
+{
+  "name": "Loona แบบทดสอบคณิตคิดเร็ว",
+  "short_name": "แบบทดสอบคณิตคิดเร็ว",
+  "description": "แบบทดสอบความเร็วข้อเท็จจริงคณิตศาสตร์ฟรี: การวิ่งเร็ว 60 วินาทีของข้อเท็จจริงการบวก การลบ การคูณ และการหาร พร้อมการตรวจทันที ความแม่นยำ และการติดตามสถิติต่อเนื่อง",
+  "id": "/loona-study-tools/th/math-facts-speed-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

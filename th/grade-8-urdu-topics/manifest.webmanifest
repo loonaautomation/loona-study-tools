@@ -1,0 +1,29 @@
+{
+  "name": "Loona หัวข้อภาษาอูรดู ชั้นปีที่ 8 และคู่มือการเรียน",
+  "short_name": "ชั้นปีที่ 8 หัวข้อภาษาอูรดู และการเรียน",
+  "description": "หัวข้ออูรดูสำหรับชั้นปีที่ 8 ตามลำดับการสอน — Complete qawaid revision (exam focus), How to explain nazms and ghazals in the exam, Essays on social issues และอื่น ๆ — พร้อมเครื่องมือการเรียนฟรีสำหรับแต่ละหัวข้อ",
+  "id": "/loona-study-tools/th/grade-8-urdu-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

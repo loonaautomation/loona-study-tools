@@ -1,0 +1,29 @@
+{
+  "name": "Loona โปรแกรมสร้างป้ายชื่อ",
+  "short_name": "โปรแกรมสร้างป้ายชื่อ",
+  "description": "โปรแกรมสร้างป้ายชื่อฟรี: วางรายชื่อชั้นเรียนและพิมพ์ป้ายชื่อที่เรียบร้อยพร้อมคำบรรยายชั้นเรียน/โรงเรียน — สำหรับวันแรก ทัศนศึกษา ค่ำคืนผู้ปกครอง และงานกลุ่ม",
+  "id": "/loona-study-tools/th/name-tags-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

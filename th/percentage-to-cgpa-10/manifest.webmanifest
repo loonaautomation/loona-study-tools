@@ -1,0 +1,29 @@
+{
+  "name": "Loona โปรแกรมแปลงเปอร์เซ็นต์เป็น CGPA (อินเดีย, 10 ระดับ)",
+  "short_name": "โปรแกรมแปลงเปอร์เซ็นต์เป็น CGPA (อินเดีย",
+  "description": "แปลงเปอร์เซ็นต์เป็น CGPA 10 ระดับของอินเดียด้วยสูตรย้อนกลับของ CBSE (% ÷ 9.5) และรูปแบบของมหาวิทยาลัย พร้อมตารางเต็มตั้งแต่ 95% ลงมา",
+  "id": "/loona-study-tools/th/percentage-to-cgpa-10/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
