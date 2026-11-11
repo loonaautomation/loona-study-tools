@@ -1,0 +1,29 @@
+{
+  "name": "Loona 애너그램 게임",
+  "short_name": "애너그램 게임",
+  "description": "무료 애너그램 게임: 단어가 글자 단위로 뒤섞여요; 학생은 단서를 써서 각 단어를 풀어요. 즉시 확인과 최종 점수가 있어요.",
+  "id": "/loona-study-tools/ko/anagram-game/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

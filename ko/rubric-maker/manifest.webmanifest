@@ -1,0 +1,29 @@
+{
+  "name": "Loona 루브릭 만들기",
+  "short_name": "루브릭 만들기",
+  "description": "무료 루브릭 만들기: 기준과 최대 점수를 추가하고, 네 가지 수행 수준을 설명하면, 수준별 점수가 자동으로 계산되는 인쇄 가능한 루브릭 격자를 받아요.",
+  "id": "/loona-study-tools/ko/rubric-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

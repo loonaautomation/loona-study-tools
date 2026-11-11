@@ -1,0 +1,29 @@
+{
+  "name": "Loona 영국 학위 등급",
+  "short_name": "영국 학위 등급",
+  "description": "영국의 일등급, 2:1, 2:2 또는 삼등급이 백분율과 대략적인 미국 GPA로 무엇을 뜻하는지 — 공식적인 영국-GPA 변환은 존재하지 않는다는 솔직한 주석과 함께.",
+  "id": "/loona-study-tools/ko/uk-degree-classification-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

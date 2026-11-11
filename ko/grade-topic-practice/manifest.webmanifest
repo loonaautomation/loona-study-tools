@@ -1,0 +1,29 @@
+{
+  "name": "Loona 학년과 주제별 연습",
+  "short_name": "학년과 주제별 연습",
+  "description": "모든 학년 및 주제 연습 페이지 (유치원부터 8학년까지), 과목 가이드, 9–12학년 파키스탄 교육청 시험 가이드와 Loona Study Tools의 CGPA 변환기를 위한 하나의 색인.",
+  "id": "/loona-study-tools/ko/grade-topic-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

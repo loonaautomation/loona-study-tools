@@ -1,0 +1,29 @@
+{
+  "name": "Loona 대화형 주기율표",
+  "short_name": "대화형 주기율표",
+  "description": "무료 상호작용 주기율표: 범주별로 색상이 정해진 모든 118개 원소. 원자 번호, 질량, 족, 주기와 범주를 보려면 아무 원소나 클릭하세요.",
+  "id": "/loona-study-tools/ko/periodic-table/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

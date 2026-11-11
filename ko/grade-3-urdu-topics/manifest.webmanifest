@@ -1,0 +1,29 @@
+{
+  "name": "Loona 3학년 우르두어 주제와 공부",
+  "short_name": "3학년 우르두어 주제와 공부",
+  "description": "3학년 우르두어 주제를 가르치는 순서대로 — 카와이드 (문법), 시제, Tashbeeh와 일상 문장 패턴 등 더 많이 — 각 주제에 대한 무료 학습 도구와 함께.",
+  "id": "/loona-study-tools/ko/grade-3-urdu-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

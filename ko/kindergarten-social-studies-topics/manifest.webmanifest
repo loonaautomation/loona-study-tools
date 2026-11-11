@@ -1,0 +1,29 @@
+{
+  "name": "Loona 유치원 사회",
+  "short_name": "유치원 사회",
+  "description": "유치원 사회 주제를 가르치는 순서대로 — 내 가족과 내 집, 내 학교와 내 교실, 우리 동네의 도우미 등 더 많이 — 각 주제에 대한 무료 학습 도구와 함께.",
+  "id": "/loona-study-tools/ko/kindergarten-social-studies-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

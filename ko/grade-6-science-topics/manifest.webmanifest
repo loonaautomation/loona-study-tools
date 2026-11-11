@@ -1,0 +1,29 @@
+{
+  "name": "Loona 6학년 과학 주제",
+  "short_name": "6학년 과학 주제",
+  "description": "6학년 과학 주제를 가르치는 순서대로 — 세포, 원소, 화합물과 혼합물, 산과 알칼리 (첫 만남, 지시약) 등 더 많이 — 각 주제에 대한 무료 학습 도구와 함께.",
+  "id": "/loona-study-tools/ko/grade-6-science-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

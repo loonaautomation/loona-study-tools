@@ -1,0 +1,29 @@
+{
+  "name": "Loona 나이지리아 CGPA 학위 등급",
+  "short_name": "나이지리아 CGPA 학위 등급",
+  "description": "5.0 척도의 나이지리아 대학 CGPA 등급 구간: 일등급 4.50–5.00, 이등급 상 3.50–4.49, 이등급 하 2.40–3.49. 등급 확인기가 있어요.",
+  "id": "/loona-study-tools/ko/nigeria-cgpa-class-of-degree/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

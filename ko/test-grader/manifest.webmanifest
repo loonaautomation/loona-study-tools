@@ -1,0 +1,29 @@
+{
+  "name": "Loona 시험 채점기",
+  "short_name": "시험 채점기",
+  "description": "무료 시험 채점기: 정답지와 학생의 답 (문자 또는 단어)을 붙여 넣으면 즉시 점수, 백분율, 문자 등급과 문제별 분석을 받아요.",
+  "id": "/loona-study-tools/ko/test-grader/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

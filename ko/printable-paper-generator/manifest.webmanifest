@@ -1,0 +1,29 @@
+{
+  "name": "Loona 인쇄용 종이 생성기",
+  "short_name": "인쇄용 종이 생성기",
+  "description": "무료 인쇄 가능한 종이 생성기: 모눈종이, 점 격자, 등각 종이, 3줄 손글씨 종이와 정확한 8/10/14mm 간격의 넓은 괘선. 실제 크기를 위해 100%로 인쇄하세요.",
+  "id": "/loona-study-tools/ko/printable-paper-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

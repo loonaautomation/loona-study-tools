@@ -1,0 +1,29 @@
+{
+  "name": "Loona 캐나다 GPA 변환기",
+  "short_name": "캐나다 GPA 변환기",
+  "description": "캐나다 백분율 성적을 널리 쓰이는 온타리오 표로 4.0 척도로 변환하세요 (90–100 = A+ = 4.0). 캐나다 척도가 대학마다 어떻게 다른지에 대한 설명도 있어요.",
+  "id": "/loona-study-tools/ko/canada-gpa-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

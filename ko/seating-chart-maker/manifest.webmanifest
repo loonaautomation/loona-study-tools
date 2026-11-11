@@ -1,0 +1,29 @@
+{
+  "name": "Loona 자리 배치표 만들기",
+  "short_name": "자리 배치표 만들기",
+  "description": "무료 자리 배치표 만들기: 책상 격자를 만들고, 클릭해서 학생을 배치하고, 움직이면 안 되는 자리를 잠그고, 나머지를 모두 섞은 뒤, 차트를 인쇄하세요.",
+  "id": "/loona-study-tools/ko/seating-chart-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

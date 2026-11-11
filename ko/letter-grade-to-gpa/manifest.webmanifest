@@ -1,0 +1,29 @@
+{
+  "name": "Loona 문자 등급 GPA 변환기",
+  "short_name": "문자 등급 GPA 변환기",
+  "description": "A, B+ 또는 C−는 GPA로 몇이에요? 4.0 척도의 전체 문자 등급-GPA 점수 표. 백분율 구간과 원클릭 변환기와 함께.",
+  "id": "/loona-study-tools/ko/letter-grade-to-gpa/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

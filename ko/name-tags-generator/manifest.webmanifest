@@ -1,0 +1,29 @@
+{
+  "name": "Loona 이름표 생성기",
+  "short_name": "이름표 생성기",
+  "description": "무료 이름표 생성기: 학급 목록을 붙여 넣고 학급/학교 부제가 있는 깔끔한 이름표를 인쇄하세요 — 첫날, 소풍, 학부모 저녁과 모둠 활동을 위해.",
+  "id": "/loona-study-tools/ko/name-tags-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

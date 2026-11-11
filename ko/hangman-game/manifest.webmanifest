@@ -1,0 +1,29 @@
+{
+  "name": "Loona 행맨 게임",
+  "short_name": "행맨 게임",
+  "description": "내장 학교 단어 목록 (동물, 과학, 지리, 학교)이나 직접 고른 단어로 하는 무료 행맨 게임. 여섯 번의 틀린 추측, 화면 키보드, 인쇄 없이 즐기는 재미.",
+  "id": "/loona-study-tools/ko/hangman-game/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

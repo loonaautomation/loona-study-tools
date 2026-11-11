@@ -1,0 +1,29 @@
+{
+  "name": "Loona pH 계산기",
+  "short_name": "pH 계산기",
+  "description": "무료 pH 계산기: pH, pOH, [H+]와 [OH-] 사이를 변환하고, 농도에서 강산과 강염기 용액의 pH를 계산하세요.",
+  "id": "/loona-study-tools/ko/ph-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

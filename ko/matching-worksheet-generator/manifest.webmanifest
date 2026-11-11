@@ -1,0 +1,29 @@
+{
+  "name": "Loona 연결 학습지 생성기",
+  "short_name": "연결 학습지 생성기",
+  "description": "무료 짝 맞추기 학습지 생성기: 용어 = 정의 쌍을 입력하고 뒤섞인 정의와 교사용 정답지가 있는 인쇄 가능한 짝 맞추기 학습지를 받으세요.",
+  "id": "/loona-study-tools/ko/matching-worksheet-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

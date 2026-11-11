@@ -1,0 +1,29 @@
+{
+  "name": "Loona 문장 순서 맞추기 게임",
+  "short_name": "문장 순서 맞추기 게임",
+  "description": "무료 문장 배열 게임: 문장이 단어 단위로 뒤섞이고 학생이 단어를 탭해 올바른 순서로 되돌려요. 즉시 확인과 최종 점수가 있어요.",
+  "id": "/loona-study-tools/ko/unjumble-game/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

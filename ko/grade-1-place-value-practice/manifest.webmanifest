@@ -1,0 +1,29 @@
+{
+  "name": "Loona 1학년 자릿값 연습",
+  "short_name": "1학년 자릿값 연습",
+  "description": "무료 1학년 자리값 연습 — 십의 자리와 일의 자리: 2자리 수 만들기. 풀이가 있는 예제, 인쇄 가능한 정답지가 있는 연습 문제 6개, 방법, 흔한 실수와 최고의 팁.",
+  "id": "/loona-study-tools/ko/grade-1-place-value-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

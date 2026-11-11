@@ -1,0 +1,29 @@
+{
+  "name": "Loona 빙고 카드 생성기",
+  "short_name": "빙고 카드 생성기",
+  "description": "무료 빙고 카드 생성기: 24개 이상의 단어를 입력하고 학급 전체를 위한 고유한 인쇄 가능한 5x5 빙고 카드와 뒤섞인 부르기 목록을 생성하세요. 어휘, 시각 단어, 숫자와 그 이상.",
+  "id": "/loona-study-tools/ko/bingo-card-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

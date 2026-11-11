@@ -1,0 +1,29 @@
+{
+  "name": "Loona CGPA를 백분율로 (5.0",
+  "short_name": "CGPA를 백분율로 (5.0",
+  "description": "5.0 척도 CGPA를 백분율로 변환하세요 (CGPA ÷ 5 × 100). 전체 표와, 구간이 백분율보다 중요한 나이지리아와 방글라데시용 학위 등급 구간 페이지가 있어요.",
+  "id": "/loona-study-tools/ko/cgpa-5-scale-to-percentage/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

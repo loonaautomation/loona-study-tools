@@ -1,0 +1,29 @@
+{
+  "name": "Loona 단어 벽 카드 생성기",
+  "short_name": "단어 벽 카드 생성기",
+  "description": "무료 단어 벽 카드 생성기: 단어 목록을 입력하고 교실 게시와 읽기 코너를 위한 세 가지 크기의 크고 굵은 인쇄 가능한 단어 벽 카드를 받으세요.",
+  "id": "/loona-study-tools/ko/word-wall-cards/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

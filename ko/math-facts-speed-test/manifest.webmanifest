@@ -1,0 +1,29 @@
+{
+  "name": "Loona 수학 연산 속도 테스트",
+  "short_name": "수학 연산 속도 테스트",
+  "description": "무료 수학 사실 속도 테스트: 즉시 확인, 정확도와 연속 기록 추적이 있는 덧셈, 뺄셈, 곱셈과 나눗셈 사실의 60초 스프린트.",
+  "id": "/loona-study-tools/ko/math-facts-speed-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

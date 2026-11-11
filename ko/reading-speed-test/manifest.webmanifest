@@ -1,0 +1,29 @@
+{
+  "name": "Loona 읽기 속도 테스트",
+  "short_name": "읽기 속도 테스트",
+  "description": "무료 읽기 속도 테스트: 시간을 재는 지문 (3가지 선택, 400-600 단어)을 읽고, 이해 질문에 답하면, WPM 단위의 읽기 속도와 나이별 좋은 읽기 속도에 대한 정직한 안내를 받아요.",
+  "id": "/loona-study-tools/ko/reading-speed-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

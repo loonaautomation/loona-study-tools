@@ -1,0 +1,29 @@
+{
+  "name": "Loona 교실 모둠 만들기",
+  "short_name": "교실 모둠 만들기",
+  "description": "무료 학급 모둠 만들기: 브라우저에 학급 목록을 저장한 뒤, 모둠 크기, 모둠 수 또는 쌍으로 학생을 균형 잡힌 무작위 모둠으로 나누세요. 결과를 인쇄하세요.",
+  "id": "/loona-study-tools/ko/classroom-group-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

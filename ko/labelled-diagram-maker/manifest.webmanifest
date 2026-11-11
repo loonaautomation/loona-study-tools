@@ -1,0 +1,29 @@
+{
+  "name": "Loona 라벨 도표 만들기",
+  "short_name": "라벨 도표 만들기",
+  "description": "무료 라벨 다이어그램 만들기: 다이어그램을 업로드하고, 클릭해서 번호 라벨을 핀으로 꽂고, 라벨 버전이나 빈 버전을 인쇄하고, 라벨로 학생에게 퀴즈를 내세요. 이미지는 기기를 떠나지 않아요.",
+  "id": "/loona-study-tools/ko/labelled-diagram-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

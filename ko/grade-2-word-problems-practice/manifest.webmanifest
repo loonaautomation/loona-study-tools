@@ -1,0 +1,29 @@
+{
+  "name": "Loona 2학년 문장제 연습",
+  "short_name": "2학년 문장제 연습",
+  "description": "무료 2학년 문장제 연습 — 두 자리 수 문장제 (합치기, 나누기, 비교하기). 풀이가 있는 예제, 인쇄 가능한 정답지가 있는 연습 문제 6개, 방법, 흔한 실수와 최고의 팁.",
+  "id": "/loona-study-tools/ko/grade-2-word-problems-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona 백분율을 CGPA로 (인도, 10점)",
+  "short_name": "백분율을 CGPA로 (인도",
+  "description": "백분율을 인도 10점 CGPA로 변환하세요. CBSE 역공식 (% ÷ 9.5)과 대학 변형으로요. 95%부터 아래쪽까지의 전체 표가 있어요.",
+  "id": "/loona-study-tools/ko/percentage-to-cgpa-10/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

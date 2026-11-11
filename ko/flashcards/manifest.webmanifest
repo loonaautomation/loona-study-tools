@@ -1,0 +1,29 @@
+{
+  "name": "Loona 플래시카드 만들기",
+  "short_name": "플래시카드 만들기",
+  "description": "무료 플래시카드 만들기: 덱을 만들고, 뒤집기 카드로 공부하고, 섞기와 알기/모르기 추적을 하세요. CSV &amp; JSON 가져오기/내보내기, 카드 인쇄. 가입 없음, 기기에 저장.",
+  "id": "/loona-study-tools/ko/flashcards/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

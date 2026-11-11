@@ -1,0 +1,29 @@
+{
+  "name": "Loona 몰 질량 계산기",
+  "short_name": "몰 질량 계산기",
+  "description": "무료 몰 질량 계산기: 괄호가 있는 어떤 화학식이든 입력하세요 — Ca(OH)2, Al2(SO4)3 — 그러면 원소별 분석표와 함께 g/mol 단위의 몰 질량을 받아요.",
+  "id": "/loona-study-tools/ko/molar-mass-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

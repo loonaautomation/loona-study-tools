@@ -1,0 +1,29 @@
+{
+  "name": "Loona EZ 채점기",
+  "short_name": "EZ 채점기",
+  "description": "선생님을 위한 무료 EZ 채점기: 전체 문제 수와 틀린 개수를 입력하면 그 시험 길이에 맞는 전체 채점표와 함께 백분율과 문자 등급을 즉시 받아요.",
+  "id": "/loona-study-tools/ko/ez-grader/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

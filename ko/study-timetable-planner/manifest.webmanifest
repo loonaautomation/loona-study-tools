@@ -1,0 +1,29 @@
+{
+  "name": "Loona 학습 시간표 플래너",
+  "short_name": "학습 시간표 플래너",
+  "description": "무료 공부 시간표 플래너: 과목, 하루 시간과 시험 날짜를 입력하면 공정한 과목 순환이 있는 균형 잡힌, 편집 가능한, 인쇄 가능한 주간 공부 시간표를 생성해요.",
+  "id": "/loona-study-tools/ko/study-timetable-planner/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

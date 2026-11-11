@@ -1,0 +1,29 @@
+{
+  "name": "Loona 교실 소음 측정기",
+  "short_name": "교실 소음 측정기",
+  "description": "무료 교실 소음 측정기: 초록/황색/빨강 구간과 조용함 연속 카운터가 있는 실시간 마이크 레벨 막대. 상대 레벨 표시 (데시벨 아님), 기기에서 분석되고, 절대 녹음되지 않아요.",
+  "id": "/loona-study-tools/ko/noise-meter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

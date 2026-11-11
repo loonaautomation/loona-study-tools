@@ -1,0 +1,29 @@
+{
+  "name": "Loona 교실 타이머",
+  "short_name": "교실 타이머",
+  "description": "무료 교실 타이머: 진행 링과 줄어드는 시각 막대가 있는 큰 화면 카운트다운, 종료 시각과 남은 시간을 보여 주는 시험 타이머, 그리고 랩이 있는 스톱워치.",
+  "id": "/loona-study-tools/ko/classroom-timers/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

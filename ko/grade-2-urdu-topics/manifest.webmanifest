@@ -1,0 +1,29 @@
+{
+  "name": "Loona 2학년 우르두어 주제와 공부",
+  "short_name": "2학년 우르두어 주제와 공부",
+  "description": "2학년 우르두어 주제를 가르치는 순서대로 — 읽기 유창함, Ism, fail과 harf (문법 첫 만남), Wahid와 jama (단수와 복수, 기초) 등 더 많이 — 각 주제에 대한 무료 학습 도구와 함께.",
+  "id": "/loona-study-tools/ko/grade-2-urdu-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

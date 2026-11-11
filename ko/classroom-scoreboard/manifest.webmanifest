@@ -1,0 +1,29 @@
+{
+  "name": "Loona 교실 점수판",
+  "short_name": "교실 점수판",
+  "description": "무료 교실 점수판: 교실 화면을 위한 크고 화려한 팀 점수 카드, 한 번의 탭으로 +1/+5/-1, 수업 사이에 브라우저에 저장돼요.",
+  "id": "/loona-study-tools/ko/classroom-scoreboard/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

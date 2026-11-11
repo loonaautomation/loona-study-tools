@@ -1,0 +1,29 @@
+{
+  "name": "Loona 스도쿠 생성기",
+  "short_name": "스도쿠 생성기",
+  "description": "무료 스도쿠 생성기: 세 가지 난이도로 인쇄 가능한 4x4, 6x6과 9x9 스도쿠 퍼즐. 모든 퍼즐은 해가 정확히 하나만 있도록 검증되고, 별도의 해법 페이지가 있어요.",
+  "id": "/loona-study-tools/ko/sudoku-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

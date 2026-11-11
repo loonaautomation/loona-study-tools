@@ -1,0 +1,29 @@
+{
+  "name": "Loona 퀴즈 만들기",
+  "short_name": "퀴즈 만들기",
+  "description": "선생님을 위한 무료 퀴즈 만들기: 객관식, 참/거짓과 단답형 문제, 즉시 점수와 복습이 있는 도전 모드, 인쇄 가능한 퀴즈 + 별도의 정답지, JSON 내보내기/가져오기.",
+  "id": "/loona-study-tools/ko/quiz-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

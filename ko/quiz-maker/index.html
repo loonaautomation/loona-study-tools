@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="msvalidate.01" content="668EEE252F09B71CC35E95DB8F5999EF">
+<title>퀴즈 만들기 - 즉시 채점 &amp; 정답지로 퀴즈 만들기 | Loona Study Tools</title>
+<meta name="description" content="선생님을 위한 무료 퀴즈 만들기: 객관식, 참/거짓과 단답형 문제, 즉시 점수와 복습이 있는 도전 모드, 인쇄 가능한 퀴즈 + 별도의 정답지, JSON 내보내기/가져오기.">
+<link rel="canonical" href="https://loonaautomation.github.io/loona-study-tools/ko/quiz-maker/"><link rel="alternate" hreflang="en" href="https://loonaautomation.github.io/loona-study-tools/quiz-maker/"><link rel="alternate" hreflang="es" href="https://loonaautomation.github.io/loona-study-tools/es/quiz-maker/"><link rel="alternate" hreflang="de" href="https://loonaautomation.github.io/loona-study-tools/de/quiz-maker/"><link rel="alternate" hreflang="fr" href="https://loonaautomation.github.io/loona-study-tools/fr/quiz-maker/"><link rel="alternate" hreflang="pt" href="https://loonaautomation.github.io/loona-study-tools/pt/quiz-maker/"><link rel="alternate" hreflang="it" href="https://loonaautomation.github.io/loona-study-tools/it/quiz-maker/"><link rel="alternate" hreflang="nl" href="https://loonaautomation.github.io/loona-study-tools/nl/quiz-maker/"><link rel="alternate" hreflang="ar" href="https://loonaautomation.github.io/loona-study-tools/ar/quiz-maker/"><link rel="alternate" hreflang="ur" href="https://loonaautomation.github.io/loona-study-tools/ur/quiz-maker/"><link rel="alternate" hreflang="tr" href="https://loonaautomation.github.io/loona-study-tools/tr/quiz-maker/"><link rel="alternate" hreflang="ru" href="https://loonaautomation.github.io/loona-study-tools/ru/quiz-maker/"><link rel="alternate" hreflang="ko" href="https://loonaautomation.github.io/loona-study-tools/ko/quiz-maker/"><link rel="alternate" hreflang="x-default" href="https://loonaautomation.github.io/loona-study-tools/quiz-maker/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Loona Study Tools">
+<meta property="og:title" content="퀴즈 만들기 - 즉시 채점 &amp; 정답지로 퀴즈 만들기 | Loona Study Tools">
+<meta property="og:description" content="선생님을 위한 무료 퀴즈 만들기: 객관식, 참/거짓과 단답형 문제, 즉시 점수와 복습이 있는 도전 모드, 인쇄 가능한 퀴즈 + 별도의 정답지, JSON 내보내기/가져오기.">
+<meta property="og:url" content="https://loonaautomation.github.io/loona-study-tools/ko/quiz-maker/"><meta property="og:locale" content="ko_KR">
+<meta property="og:image" content="https://loonaautomation.github.io/loona-study-tools/og-image.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="퀴즈 만들기 - 즉시 채점 &amp; 정답지로 퀴즈 만들기 | Loona Study Tools">
+<meta name="twitter:description" content="선생님을 위한 무료 퀴즈 만들기: 객관식, 참/거짓과 단답형 문제, 즉시 점수와 복습이 있는 도전 모드, 인쇄 가능한 퀴즈 + 별도의 정답지, JSON 내보내기/가져오기.">
+<meta name="twitter:image" content="https://loonaautomation.github.io/loona-study-tools/og-image.jpg">
+<link rel="icon" type="image/png" sizes="32x32" href="../../favicon-32.png">
+<link rel="icon" href="../../favicon.ico">
+<link rel="apple-touch-icon" href="../../apple-touch-icon.png">
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1566440962454692" crossorigin="anonymous"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5L43M13ZYT"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-5L43M13ZYT');</script>
+<script type="text/javascript">(function(c,l,a,r,i,t,y){c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);})(window,document,"clarity","script","z599jkwoy9");</script>
+<style>
+:root{--teal:#062e2a;--teal2:#0b3d37;--gold:#c9a227;--gold2:#e3c565;--ink:#12211e;--mut:#5a6d68;--bg:#f6f4ec;--card:#ffffff;--line:#e3ddc9;--radius:16px}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{font-family:'Segoe UI',system-ui,-apple-system,Roboto,Arial,sans-serif;background:var(--bg);color:var(--ink);line-height:1.6}
+a{color:#0a5c50;text-decoration:none}
+a:hover{text-decoration:underline}
+header.site{position:sticky;top:0;z-index:50;background:var(--teal);box-shadow:0 2px 14px rgba(0,0,0,.25)}
+.header-in{max-width:1140px;margin:0 auto;display:flex;align-items:center;gap:14px;padding:10px 16px}
+.brand{display:flex;align-items:center;gap:10px;color:#fff;font-weight:700;font-size:1.15rem}
+.brand img{width:40px;height:40px;border-radius:9px}
+.brand span{color:var(--gold2)}
+nav.main{margin-left:auto;display:flex;gap:4px;flex-wrap:wrap}
+nav.main a{color:#dcebe4;padding:7px 11px;border-radius:9px;font-size:.93rem}
+nav.main a:hover{background:var(--teal2);text-decoration:none;color:#fff}
+.wrap{max-width:1140px;margin:0 auto;padding:0 16px}
+.hero{background:linear-gradient(135deg,var(--teal) 0%,#0d4a41 60%,#10604f 100%);color:#fff;padding:52px 0 46px;text-align:center}
+.hero h1{font-size:2.35rem;line-height:1.2;margin-bottom:12px}
+.hero h1 .gold{color:var(--gold2)}
+.hero p{max-width:720px;margin:0 auto 8px;color:#d7e8df;font-size:1.06rem}
+.hero .badges{margin-top:18px;display:flex;gap:8px;justify-content:center;flex-wrap:wrap}
+.badge{background:rgba(255,255,255,.12);border:1px solid rgba(255,255,255,.25);color:#fff;padding:5px 13px;border-radius:999px;font-size:.85rem}
+.crumbs{font-size:.86rem;color:var(--mut);padding:16px 0 4px}
+.crumbs a{color:var(--mut)}
+main.page{padding:8px 0 10px}
+h1.tool{font-size:2rem;line-height:1.25;color:var(--teal);margin:6px 0 8px}
+.inshort{background:#fff8e1;border-left:4px solid var(--gold);padding:12px 16px;border-radius:0 12px 12px 0;margin:12px 0 16px;font-size:1.0rem}
+.lede{color:#33473f;max-width:820px;margin-bottom:18px}
+.panel{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:22px;box-shadow:0 4px 18px rgba(6,46,42,.06);margin-bottom:22px}
+.btn{display:inline-block;background:var(--gold);color:#231a00;font-weight:700;border:none;padding:12px 26px;border-radius:11px;font-size:1rem;cursor:pointer;box-shadow:0 3px 10px rgba(201,162,39,.35)}
+.btn:hover{background:var(--gold2)}
+.btn:disabled{opacity:.45;cursor:not-allowed}
+.btn.ghost{background:#fff;border:1.5px solid var(--teal);color:var(--teal);box-shadow:none;padding:9px 18px;font-size:.93rem}
+.btn.small{padding:7px 13px;font-size:.86rem}
+.row{display:flex;gap:14px;flex-wrap:wrap;margin:14px 0}
+.field{flex:1;min-width:150px}
+.field label{display:block;font-weight:600;font-size:.9rem;margin-bottom:5px;color:var(--teal)}
+.field select,.field input[type=text],.field input[type=number],.field textarea{width:100%;padding:10px 12px;border:1.5px solid #cfc9ae;border-radius:10px;font-size:.97rem;background:#fff;font-family:inherit}
+.field textarea{min-height:150px;resize:vertical}
+textarea.big{min-height:220px;font-size:1rem;line-height:1.65}
+textarea.mono{font-family:ui-monospace,Menlo,Consolas,monospace;font-size:.92rem}
+input[type=range]{width:100%}
+.check{display:flex;align-items:center;gap:8px;font-size:.95rem;margin:6px 0;cursor:pointer}
+.check input{width:17px;height:17px;accent-color:#0b3d37}
+.status{margin-top:14px;font-size:.95rem;min-height:22px}
+.status.ok{color:#0a6b3c}.status.err{color:#b3261e}
+.privacy-note{background:#e9f5ef;border:1px solid #bfe0cd;color:#14532d;border-radius:12px;padding:12px 16px;font-size:.94rem;margin-bottom:22px}
+section.block{margin:30px 0}
+section.block h2{color:var(--teal);font-size:1.45rem;margin-bottom:12px}
+section.block h3{color:var(--teal);margin:14px 0 6px}
+section.block p,section.block li{color:#33473f}
+section.block ol,section.block ul{padding-left:22px}
+section.block li{margin-bottom:6px}
+.strip{display:flex;gap:8px;flex-wrap:wrap}
+.chip{background:#fff;border:1.5px solid var(--gold);color:var(--teal);font-weight:600;padding:8px 15px;border-radius:999px;font-size:.9rem}
+.chip:hover{background:#fff7dd;text-decoration:none}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:16px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:20px;display:block;color:var(--ink);transition:.15s}
+.card:hover{transform:translateY(-3px);box-shadow:0 10px 24px rgba(6,46,42,.12);text-decoration:none;border-color:var(--gold)}
+.card .ic{font-size:1.9rem;margin-bottom:8px}
+.card h3{color:var(--teal);font-size:1.12rem;margin-bottom:5px}
+.card p{color:var(--mut);font-size:.92rem}
+details.faq{background:#fff;border:1px solid var(--line);border-radius:12px;padding:13px 17px;margin-bottom:10px}
+details.faq summary{cursor:pointer;font-weight:600;color:var(--teal)}
+details.faq p{margin-top:8px;color:#33473f}
+.kv{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:10px;margin-top:12px}
+.kv div{background:#faf8ef;border:1px solid var(--line);border-radius:10px;padding:9px 12px;font-size:.92rem}
+.kv b{color:var(--teal);display:block;font-size:1.05rem}
+table.freq{width:100%;border-collapse:collapse;background:#fff;border:1px solid var(--line);border-radius:12px;overflow:hidden}
+table.freq th,table.freq td{padding:8px 12px;border-bottom:1px solid var(--line);text-align:left;font-size:.94rem}
+table.freq th{background:#faf8ef;color:var(--teal)}
+.diffout{white-space:pre-wrap;word-break:break-word;background:#fff;border:1px solid var(--line);border-radius:12px;padding:14px 16px;font-family:ui-monospace,Menlo,Consolas,monospace;font-size:.9rem;line-height:1.55;max-height:480px;overflow:auto}
+.diffout .add{background:#e2f4e5}
+.diffout .del{background:#fbe3e1}
+.fancyrow{display:flex;align-items:center;gap:10px;background:#fff;border:1px solid var(--line);border-radius:11px;padding:10px 14px;margin-bottom:9px}
+.fancyrow .fv{flex:1;font-size:1.08rem;word-break:break-all}
+footer.site{background:var(--teal);color:#cfe0d6;margin-top:44px}
+.footer-in{max-width:1140px;margin:0 auto;padding:30px 16px;display:flex;gap:26px;flex-wrap:wrap}
+.footer-in h4{color:var(--gold2);margin-bottom:9px;font-size:1rem}
+.footer-in a{color:#cfe0d6;display:block;margin-bottom:5px;font-size:.93rem}
+.footer-in .col{min-width:170px}
+.copyright{border-top:1px solid #12463e;text-align:center;padding:14px;font-size:.86rem;color:#9db8ab}
+@media(max-width:640px){.hero h1{font-size:1.7rem}h1.tool{font-size:1.55rem}.panel{padding:16px}nav.main a{padding:6px 8px;font-size:.86rem}}
+
+/* ---- study tools extras ---- */
+.cardgrid{display:grid;grid-template-columns:1fr 1fr;gap:14px}@media(max-width:640px){.cardgrid{grid-template-columns:1fr}}
+.flashcard{background:linear-gradient(135deg,#fffdf4,#fff6d8);border:2px solid var(--gold);border-radius:18px;min-height:230px;display:flex;align-items:center;justify-content:center;text-align:center;padding:28px;font-size:1.35rem;font-weight:600;color:var(--teal);cursor:pointer;box-shadow:0 8px 22px rgba(6,46,42,.12);white-space:pre-wrap;word-break:break-word}
+.flashcard.back{background:linear-gradient(135deg,#eafaf2,#d8f3e3)}
+.fcnav{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-top:12px}
+.qitem{background:#fff;border:1px solid var(--line);border-radius:12px;padding:14px 16px;margin-bottom:12px}
+.qitem.correct{border-color:#2e9e5b;background:#f0faf3}.qitem.wrong{border-color:#d9534f;background:#fdf1f0}
+.qitem .qtxt{font-weight:600;color:var(--teal);margin-bottom:8px}
+.optline{display:block;padding:6px 10px;border-radius:8px;cursor:pointer}.optline:hover{background:#faf8ef}
+.optline input{margin-right:8px;accent-color:#0b3d37}
+.wsgrid{display:grid;grid-template-columns:1fr 1fr;gap:10px 34px;font-size:1.12rem}
+@media(max-width:640px){.wsgrid{grid-template-columns:1fr}}
+.wsq{padding:9px 4px;border-bottom:1px dashed #ddd5b8;font-family:ui-monospace,Menlo,Consolas,monospace}
+.wshead{display:flex;justify-content:space-between;flex-wrap:wrap;gap:8px;border-bottom:2px solid var(--teal);padding-bottom:10px;margin-bottom:14px;font-size:.95rem}
+table.tt{width:100%;border-collapse:collapse;background:#fff;font-size:.92rem}
+table.tt th,table.tt td{border:1px solid var(--line);padding:8px;vertical-align:top;min-width:86px}
+table.tt th{background:var(--teal);color:#fff;text-align:left}
+table.tt td[contenteditable]{outline:none}table.tt td[contenteditable]:focus{background:#fffbe8}
+.slot{display:block;background:#eef7f1;border-radius:6px;padding:3px 7px;margin-bottom:4px;font-size:.86rem}
+.readbox{background:#fff;border:1px solid var(--line);border-radius:14px;padding:26px;font-size:1.08rem;line-height:1.85;max-height:520px;overflow:auto}
+.bigstat{font-size:2.2rem;font-weight:800;color:var(--teal)}
+.kbtns{display:flex;gap:10px;flex-wrap:wrap;margin-top:14px}
+.printonly{display:none}
+@media print{body{background:#fff}header.site,footer.site,.no-print,.crumbs,#loona-embed,.privacy-note{display:none!important}.printonly{display:block!important}.panel{box-shadow:none;border:none;padding:0}main.page{padding:0}}
+body.print-quiz .screenonly,body.print-key .screenonly{display:none!important}
+body.print-quiz #printQuiz,body.print-key #printKey{display:block!important}
+body.print-cards .screenonly{display:none!important}body.print-cards #printCards{display:block!important}
+.pcard{border:1.5px dashed #999;border-radius:10px;padding:16px;min-height:110px;page-break-inside:avoid;white-space:pre-wrap}
+.pcards{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+</style>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebApplication","name":"Quiz Maker - Loona Study Tools","url":"https://loonaautomation.github.io/loona-study-tools/ko/quiz-maker/","description":"Build quizzes with MCQ, true/false and short-answer questions; attempt mode with instant scoring and review; printable quiz and answer key.","applicationCategory":"EducationalApplication","operatingSystem":"Any","browserRequirements":"Requires JavaScript","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"},"publisher":{"@type":"Organization","name":"Loona Automation","url":"https://loonaautomation.github.io/"}}</script>
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="theme-color" content="#062e2a">
+</head>
+<body>
+<header class="site"><div class="header-in">
+<a class="brand" href="../index.html"><img src="../../apple-touch-icon.png" alt="Loona Automation 로고">Loona <span>학습 도구</span></a>
+<nav class="main">
+<a href="../index.html">홈</a>
+<a href="../flashcards/">플래시카드</a>
+<a href="../quiz-maker/">퀴즈 만들기</a>
+<a href="../math-worksheet-generator/">학습지</a>
+<a href="../reading-speed-test/">읽기 테스트</a>
+<a href="../study-timetable-planner/">시간표</a>
+<a href="../about.html">소개</a>
+</nav></div></header>
+
+<div class="wrap"><div class="crumbs"><a href="../index.html">홈</a> &rsaquo; 퀴즈 만들기</div><main class="page">
+<h1 class="tool">퀴즈 만들기 — 즉시 채점 &amp; 인쇄 가능한 정답지로 퀴즈 만들기</h1>
+<div class="inshort"><strong>요컨대:</strong> 객관식, 참/거짓과 단답형 문제로 퀴즈를 만든 뒤, 학생이 즉시 채점과 전체 답 복습으로 화면에서 도전하게 하세요 — 또는 종이 시험을 위해 퀴즈와 별도의 정답지를 인쇄하세요. 퀴즈를 JSON으로 내보내고 가져오세요.</div>
+<p class="lede">학급 한 세트의 퀴즈를 손으로 채점하면 저녁이 다 가요. 아래에서 퀴즈를 한 번 만드세요: 학생은 어떤 폰이나 컴퓨터에서든 도전해서 점수와 복습을 즉시 받거나, 교실용으로 인쇄하고 정답지는 혼자 보관할 수 있어요.</p>
+<div class="privacy-note">🔒 <strong>설계부터 비공개:</strong> 퀴즈는 이 기기의 이 브라우저에서만 만들어지고 저장돼요. 업로드되는 것은 없어요.</div>
+<div class="screenonly">
+<div class="panel">
+<div class="field"><label for="quizTitle">퀴즈 제목</label><input type="text" id="quizTitle" value="My Quiz"></div>
+<h3 style="color:var(--teal);margin:16px 0 8px">문제 추가</h3>
+<div class="row"><div class="field"><label for="qType">문제 유형</label><select id="qType"><option value="mcq">객관식 (선택지 4개)</option><option value="tf">참 / 거짓</option><option value="short">단답형</option></select></div></div>
+<div class="field"><label for="qText">문제</label><textarea id="qText" style="min-height:56px" placeholder="여기에 질문을 입력하세요"></textarea></div>
+<div id="grpMcq">
+<div class="row"><div class="field"><label>선택지 A</label><input type="text" id="opt0"></div><div class="field"><label>선택지 B</label><input type="text" id="opt1"></div></div>
+<div class="row"><div class="field"><label>선택지 C</label><input type="text" id="opt2"></div><div class="field"><label>선택지 D</label><input type="text" id="opt3"></div></div>
+<div class="field"><label for="qCorrect">올바른 선택지</label><select id="qCorrect"><option value="0">A</option><option value="1">B</option><option value="2">C</option><option value="3">D</option></select></div></div>
+<div id="grpTf" style="display:none"><div class="field"><label for="tfCorrect">정답</label><select id="tfCorrect"><option value="true">참</option><option value="false">거짓</option></select></div></div>
+<div id="grpShort" style="display:none"><div class="field"><label for="shortAns">정답 (대안은 | 로 구분)</label><input type="text" id="shortAns" placeholder="예: 파리"></div></div>
+<div class="row"><button class="btn" id="bAddQ" type="button">문제 추가</button><span class="status" id="qStatus"></span></div>
+<div id="qList"></div>
+<div class="kbtns">
+<button class="btn ghost small" id="bExport" type="button">JSON 내보내기</button>
+<label class="btn ghost small" style="cursor:pointer">JSON 가져오기<input type="file" id="fileImport" accept=".json" style="display:none"></label>
+<button class="btn ghost small" id="bClear" type="button">퀴즈 지우기</button>
+</div></div>
+<div class="panel">
+<h2 style="color:var(--teal);margin-bottom:10px">퀴즈에 도전하세요</h2>
+<div id="attemptArea"></div>
+<div class="kbtns"><button class="btn" id="bSubmit" type="button">제출 &amp; 점수 보기</button>
+<button class="btn ghost small" id="bPrintQuiz" type="button">퀴즈 인쇄</button>
+<button class="btn ghost small" id="bPrintKey" type="button">정답지 인쇄</button></div>
+<div id="resultArea"></div>
+</div></div>
+<div id="printQuiz" class="printonly"></div>
+<div id="printKey" class="printonly"></div>
+<section class="block"><h2>퀴즈 만들기 사용 방법</h2><ol>
+<li><strong>퀴즈에 제목 붙이기</strong> 그리고 문제 유형을 선택하세요: 객관식, 참/거짓 또는 단답형.</li>
+<li><strong>질문을 쓰세요.</strong> 객관식에서는 네 가지 선택지를 모두 채우고 어느 것이 올바른지 골라 선택하세요. 단답형에서는 | 로 구분한 대안을 추가할 수 있어요.</li>
+<li><strong>모든 문제 추가</strong> — 목록에 나타나고, 그중 어느 것이든 삭제할 수 있어요.</li>
+<li><strong>실행:</strong> 학생은 도전 섹션에서 답하고 제출을 눌러 점수와 문제별 복습을 봐요.</li>
+<li><strong>또는 종이로:</strong> 퀴즈 인쇄는 깔끔한 문제지 (이름과 날짜 줄 포함)를 나눠 줘요; 정답지 인쇄는 채점용으로 정답지를 따로 인쇄해요.</li>
+<li><strong>유지:</strong> JSON 내보내기는 전체 퀴즈를 다음 학기에 다시 가져오거나 동료와 공유할 수 있는 파일로 저장해요.</li></ol></section>
+<section class="block"><h2>작동 방식</h2>
+<p>퀴즈는 브라우저에 구조화된 데이터로 저장돼요: 제목과 문제 목록. 각각 유형, 텍스트와 정답이 있어요. 도전 모드는 문제를 양식으로 렌더링해요; 제출하면, 작은 채점 엔진이 각 답을 비교해요 — 객관식과 참/거짓은 정확히, 단답형은 대문자와 간격을 정규화한 뒤에요 — 그런 뒤 복습을 만들어요. 각 문제를 맞았는지 틀렸는지 표시하고 정답을 보여 줘요. 인쇄 보기는 같은 데이터에서 생성돼요: 퀴즈 시트는 의도적으로 답을 생략하고, 정답지는 순서대로 나열해요.</p></section>
+<section class="block"><h2>자주 묻는 질문</h2><details class="faq"><summary>어떤 문제 유형을 쓸 수 있어요?</summary><p>세 가지: 네 가지 선택지가 있는 객관식 (올바른 것을 표시해요), 참/거짓, 그리고 단답형. 단답형은 확인이 대문자와 여분의 공백에 관대하고, | 문자로 구분해서 허용 가능한 답을 여러 개 허용할 수 있어요 — 예를 들어 <em>USA | 미국 | 아메리카</em>.</p></details><details class="faq"><summary>퀴즈는 어떻게 채점돼요?</summary><p>각 문제는 한 점의 가치가 있어요. 객관식과 참/거짓은 정확히 확인하고; 단답형은 대소문자와 간격을 정리한 뒤 비교해요. 제출 후 학생은 점수와 모든 문제의 정답을 보여 주는 전체 복습을 봐요.</p></details><details class="faq"><summary>종이 시험용으로 퀴즈를 인쇄할 수 있어요?</summary><p>예 — 인쇄 버튼 두 개가 제공돼요. "퀴즈 인쇄"는 이름, 날짜와 쓴 답을 위한 공간과 함께 문제를 인쇄하고, 답은 표시되지 않아요. "정답지 인쇄"는 선생님을 위한 별도의 정답지를 인쇄해요. 정답지가 학생에게 닿지 않도록 따로 인쇄하세요.</p></details><details class="faq"><summary>제 퀴즈는 어디에 저장되고, 재사용할 수 있어요?</summary><p>만들고 있는 퀴즈는 이 기기의 브라우저에 자동으로 저장돼요. JSON 내보내기를 써서 영구 사본을 파일로 저장하고, 다른 선생님과 공유하거나, JSON 가져오기로 다른 기기에 불러오세요.</p></details><details class="faq"><summary>학생들이 시도 모드에서 답을 보고 부정행위를 할 수 있어요?</summary><p>답은 학생이 제출한 뒤, 검토 화면에서만 공개돼요. 모든 기기 내 도구와 마찬가지로, 마음먹은 학생은 페이지 코드를 들여다볼 수 있어요 — 중요한 시험에서는 대신 인쇄한 퀴즈를 사용하세요.</p></details></section>
+<section class="block no-print"><h2>더 많은 학습 도구</h2><div class="strip"><a class="chip" href="../flashcards/">🃏 플래시카드 만들기</a><a class="chip" href="../math-worksheet-generator/">➗ 수학 학습지 생성기</a><a class="chip" href="../reading-speed-test/">📖 읽기 속도 테스트</a><a class="chip" href="../study-timetable-planner/">🗓️ 학습 시간표 플래너</a><a class="chip" href="../multiplication-tables-practice/">✖️ 구구단 연습</a><a class="chip" href="../spelling-test/">🔤 철자 테스트</a><a class="chip" href="../handwriting-practice-generator/">✏️ 필기 연습 생성기</a><a class="chip" href="../exam-countdown-planner/">⏳ 시험 카운트다운 플래너</a><a class="chip" href="../word-search-generator/">🔍 단어 찾기 생성기</a><a class="chip" href="../matching-worksheet-generator/">🔗 연결 학습지 생성기</a><a class="chip" href="../random-name-picker/">🎲 무작위 이름 뽑기</a><a class="chip" href="../matching-pairs-game/">🧩 짝 맞추기 게임</a><a class="chip" href="../group-sort-game/">🗂️ 그룹 분류 게임</a><a class="chip" href="../unjumble-game/">🔀 문장 순서 맞추기 게임</a><a class="chip" href="../anagram-game/">🔤 애너그램 게임</a><a class="chip" href="../spell-the-word/">🧱 단어 철자 게임</a><a class="chip" href="../hangman-game/">🎯 행맨 게임</a><a class="chip" href="../crossword-generator/">✚ 십자말풀이 생성기</a><a class="chip" href="../bingo-card-generator/">🏆 빙고 카드 생성기</a><a class="chip" href="../labelled-diagram-maker/">🏷️ 라벨 도표 만들기</a><a class="chip" href="../hundreds-chart/">💯 백 수판</a><a class="chip" href="../word-wall-cards/">🧱 단어 벽 카드 생성기</a><a class="chip" href="../sudoku-generator/">🔢 스도쿠 생성기</a><a class="chip" href="../maze-generator/">🌀 미로 생성기</a><a class="chip" href="../colour-by-number-generator/">🎨 숫자 색칠 생성기</a><a class="chip" href="../printable-paper-generator/">📄 인쇄용 종이 생성기</a><a class="chip" href="../spelling-worksheet-generator/">✍️ 철자 학습지 생성기</a><a class="chip" href="../classroom-timers/">⏰ 수업 타이머와 시험 타이머</a><a class="chip" href="../classroom-group-maker/">👥 교실 모둠 만들기</a><a class="chip" href="../seating-chart-maker/">💺 자리 배치표 만들기</a><a class="chip" href="../classroom-scoreboard/">🏅 교실 점수판</a><a class="chip" href="../noise-meter/">🔊 교실 소음 측정기</a><a class="chip" href="../name-tags-generator/">📛 이름표 생성기</a><a class="chip" href="../visual-schedule-builder/">🧭 시각 일정표 만들기</a><a class="chip" href="../ez-grader/">📊 EZ 채점기</a><a class="chip" href="../test-grader/">✅ 시험 채점기</a><a class="chip" href="../weighted-grade-calculator/">⚖️ 가중 성적 계산기</a><a class="chip" href="../final-exam-calculator/">🎓 기말시험 성적 계산기</a><a class="chip" href="../math-facts-speed-test/">⚡ 수학 연산 속도 테스트</a><a class="chip" href="../ten-key-test/">🔟 10키 숫자 패드 테스트</a><a class="chip" href="../code-typing-test/">💻 코드 타이핑 테스트</a><a class="chip" href="../grammar-quiz/">📘 문법 퀴즈</a><a class="chip" href="../vocabulary-quiz/">📚 어휘 퀴즈</a><a class="chip" href="../periodic-table/">🧪 대화형 주기율표</a><a class="chip" href="../molar-mass-calculator/">⚗️ 몰 질량 계산기</a><a class="chip" href="../chemical-equation-balancer/">⚖️ 화학 반응식 균형 맞추기</a><a class="chip" href="../ph-calculator/">🧫 pH 계산기</a><a class="chip" href="../rubric-maker/">📐 루브릭 만들기</a><a class="chip" href="https://loonaautomation.github.io/loona-text-tools/typing-test/">⌨️ 타이핑 테스트 — Loona Text Tools에서</a></div></section>
+</main></div>
+<div id="loona-embed" class="no-print" style="max-width:780px;margin:30px auto;padding:24px;background:#fdfaf1;border:1px solid #d9c98a;border-radius:14px;text-align:left">
+<h2 style="margin:0 0 10px;color:#062e2a;font-size:1.35rem;line-height:1.3">이 도구를 웹사이트에 임베드하세요 — 무료</h2>
+<p style="margin:0 0 12px;line-height:1.6">이 도구를 여러분의 웹사이트나 블로그에 추가하세요 — 완전히 무료이고, 회원가입이 필요 없으며, 항상 최신 버전을 보여 줘요. 아래 코드를 복사해서 도구가 나타나길 원하는 페이지에 붙여넣으세요. 임베드 아래의 작은 &ldquo;Powered by Loona Automation&rdquo; 크레딧 줄을 유지하면 이 도구를 무료로 유지하는 데 도움이 돼요 &mdash; 하지만 자유롭게 스타일을 바꾸거나 제거해도 돼요; 어느 쪽이든 도구는 작동해요.</p>
+<textarea id="loonaEmbedCode" readonly rows="4" style="width:100%;box-sizing:border-box;font-family:ui-monospace,Menlo,Consolas,monospace;font-size:.8rem;line-height:1.45;padding:12px;border:1px solid #e4ddc8;border-radius:10px;background:#fff;color:#1c2422;resize:vertical">&lt;iframe src="https://loonaautomation.github.io/loona-study-tools/quiz-maker/" width="100%" height="720" style="border:1px solid #e5e7eb;border-radius:12px;max-width:760px" loading="lazy" title="Loona의 무료 퀴즈 만들기"&gt;&lt;/iframe&gt;
+&lt;p style="font-size:13px;font-family:Arial,sans-serif"&gt;제공: &lt;a href="https://loonaautomation.github.io/loona-study-tools/quiz-maker/" target="_blank" rel="noopener"&gt;Loona Automation&lt;/a&gt; &mdash; 무료 퀴즈 만들기&lt;/p&gt;</textarea>
+<p style="margin:10px 0 0"><button type="button" id="loonaEmbedBtn" style="background:#062e2a;color:#fff;border:0;border-radius:8px;padding:10px 18px;font-size:.95rem;font-weight:700;cursor:pointer">임베드 코드 복사</button></p>
+</div>
+<script>
+(function(){var b=document.getElementById('loonaEmbedBtn'),t=document.getElementById('loonaEmbedCode');if(!b||!t)return;b.addEventListener('click',function(){var done=function(){b.textContent='복사됐어요!';setTimeout(function(){b.textContent='임베드 코드 복사';},2000);};var fallback=function(){t.removeAttribute('readonly');t.select();try{document.execCommand('copy');}catch(e){}t.setAttribute('readonly','');done();};if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(t.value).then(done,fallback);}else{fallback();}});})();
+</script>
+
+<footer class="site"><div class="footer-in">
+<div class="col"><h4>Loona Study Tools</h4>
+<a href="../index.html">모든 학습 도구</a>
+<a href="../about.html">소개</a>
+<a href="../contact.html">문의</a></div>
+<div class="col"><h4>학습 도구</h4><a href="../flashcards/">플래시카드 만들기</a><a href="../quiz-maker/">퀴즈 만들기</a><a href="../math-worksheet-generator/">수학 학습지 생성기</a><a href="../reading-speed-test/">읽기 속도 테스트</a><a href="../study-timetable-planner/">학습 시간표 플래너</a><a href="../multiplication-tables-practice/">구구단 연습</a><a href="../spelling-test/">철자 테스트</a><a href="../handwriting-practice-generator/">필기 연습 생성기</a><a href="../exam-countdown-planner/">시험 카운트다운 플래너</a><a href="../word-search-generator/">단어 찾기 생성기</a><a href="../matching-worksheet-generator/">연결 학습지 생성기</a><a href="../random-name-picker/">무작위 이름 뽑기</a><a href="../matching-pairs-game/">짝 맞추기 게임</a><a href="../group-sort-game/">그룹 분류 게임</a><a href="../unjumble-game/">문장 순서 맞추기 게임</a><a href="../anagram-game/">애너그램 게임</a><a href="../spell-the-word/">단어 철자 게임</a><a href="../hangman-game/">행맨 게임</a><a href="../crossword-generator/">십자말풀이 생성기</a><a href="../bingo-card-generator/">빙고 카드 생성기</a><a href="../labelled-diagram-maker/">라벨 도표 만들기</a><a href="../hundreds-chart/">백 수판</a><a href="../word-wall-cards/">단어 벽 카드 생성기</a><a href="../sudoku-generator/">스도쿠 생성기</a><a href="../maze-generator/">미로 생성기</a><a href="../colour-by-number-generator/">숫자 색칠 생성기</a><a href="../printable-paper-generator/">인쇄용 종이 생성기</a><a href="../spelling-worksheet-generator/">철자 학습지 생성기</a><a href="../classroom-timers/">교실 타이머와 시험 타이머</a><a href="../classroom-group-maker/">교실 모둠 만들기</a><a href="../seating-chart-maker/">자리 배치표 만들기</a><a href="../classroom-scoreboard/">교실 점수판</a><a href="../noise-meter/">교실 소음 측정기</a><a href="../name-tags-generator/">이름표 생성기</a><a href="../visual-schedule-builder/">시각 일정표 만들기</a><a href="../ez-grader/">EZ 채점기</a><a href="../test-grader/">시험 채점기</a><a href="../weighted-grade-calculator/">가중 성적 계산기</a><a href="../final-exam-calculator/">기말시험 성적 계산기</a><a href="../math-facts-speed-test/">수학 연산 속도 테스트</a><a href="../ten-key-test/">10키 숫자 패드 테스트</a><a href="../code-typing-test/">코드 타이핑 테스트</a><a href="../grammar-quiz/">문법 퀴즈</a><a href="../vocabulary-quiz/">어휘 퀴즈</a><a href="../periodic-table/">대화형 주기율표</a><a href="../molar-mass-calculator/">몰 질량 계산기</a><a href="../chemical-equation-balancer/">화학 반응식 균형 맞추기</a><a href="../ph-calculator/">pH 계산기</a><a href="../rubric-maker/">루브릭 만들기</a></div>
+<div class="col"><h4>자매 도구</h4>
+<a href="https://loonaautomation.github.io/loona-text-tools/typing-test/">타이핑 테스트 — Loona Text Tools</a>
+<a href="https://loonaautomation.github.io/loona-hours/">포모도로 &amp; 시간 도구 — Loona Hours</a>
+<a href="https://loonaautomation.github.io/loona-calculators/">GPA / CGPA 계산기 — Loona Calculators</a>
+<a href="https://loonaautomation.github.io/loona-text-tools/">Loona Text Tools</a>
+<a href="https://loonaautomation.github.io/">모든 Loona 도구</a></div>
+<div class="col"><h4>법적 정보</h4>
+<a href="../privacy.html">개인정보 처리방침</a>
+<a href="../terms.html">이용약관</a>
+<a href="mailto:loonaautomation@gmail.com">loonaautomation@gmail.com</a></div>
+</div><div class="copyright">&copy; 2026 Loona Automation - Loona Study Tools. 브라우저에서 100% 실행되는 무료 온라인 학습 도구예요.</div></footer>
+<script>/*loona-pwa*/(function(){if('serviceWorker' in navigator){window.addEventListener('load',function(){navigator.serviceWorker.register('../../sw.js').catch(function(){});});}var D=null;function S(){return window.matchMedia('(display-mode: standalone)').matches||window.navigator.standalone===true;}function B(m){if(S()||document.getElementById('loona-install-btn'))return;var b=document.createElement('button');b.id='loona-install-btn';b.type='button';b.textContent=String.fromCodePoint(0x1F4F2)+' 앱 설치';b.setAttribute('style','position:fixed;right:16px;bottom:16px;z-index:2147483000;background:#062e2a;color:#fff;border:1px solid #c9a227;border-radius:999px;padding:11px 18px;font:600 14px/1.2 system-ui,-apple-system,sans-serif;box-shadow:0 6px 18px rgba(0,0,0,.35);cursor:pointer');b.addEventListener('click',function(){if(m==='p'&&D){D.prompt();D.userChoice.then(function(){D=null;b.remove();});}else{alert('이 앱을 설치하세요: 공유 버튼을 탭한 뒤 "홈 화면에 추가"를 선택하세요.');}});document.body.appendChild(b);}window.addEventListener('beforeinstallprompt',function(e){e.preventDefault();D=e;B('p');});window.addEventListener('appinstalled',function(){var b=document.getElementById('loona-install-btn');if(b)b.remove();});if(/iphone|ipad|ipod/i.test(navigator.userAgent)&&!S()){window.addEventListener('load',function(){B('i');});}})();</script>
+</body>
+</html>
+
+<script id="core">
+function normShort(s){return String(s==null?"":s).trim().toLowerCase().replace(/\s+/g," ");}
+function shortMatches(given, expected){
+  var g=normShort(given);if(!g)return false;
+  return String(expected).split("|").some(function(alt){return normShort(alt)===g;});
+}
+function scoreQuiz(quiz, answers){
+  var per=[],score=0;
+  quiz.questions.forEach(function(q,i){
+    var a=answers?answers[i]:null;var ok=false;
+    if(q.type==="mcq"){ok=(a!==null&&a!==undefined&&Number(a)===Number(q.correct));}
+    else if(q.type==="tf"){ok=(a!==null&&a!==undefined&&String(a)===String(q.correct));}
+    else if(q.type==="short"){ok=shortMatches(a==null?"":a,q.answer);}
+    if(ok)score++;
+    per.push({correct:ok,given:a});
+  });
+  return {score:score,total:quiz.questions.length,per:per};
+}
+</script>
+<script>
+var LSKEY="loona_study_quiz_v1";
+function $(id){return document.getElementById(id);}
+function esc(s){var d=document.createElement("div");d.textContent=String(s==null?"":s);return d.innerHTML;}
+var quiz={title:"내 퀴즈",questions:[]};
+try{var saved=JSON.parse(localStorage.getItem(LSKEY));if(saved&&saved.questions)quiz=saved;}catch(e){}
+function persist(){try{localStorage.setItem(LSKEY,JSON.stringify(quiz));}catch(e){}}
+$("quizTitle").value=quiz.title;
+$("quizTitle").oninput=function(){quiz.title=this.value;persist();renderAttempt();};
+$("qType").onchange=function(){var t=this.value;$("grpMcq").style.display=t==="mcq"?"block":"none";$("grpTf").style.display=t==="tf"?"block":"none";$("grpShort").style.display=t==="short"?"block":"none";};
+$("bAddQ").onclick=function(){var t=$("qType").value;var text=$("qText").value.trim();if(!text){$("qStatus").textContent="먼저 문제를 쓰세요.";$("qStatus").className="status err";return;}
+var q={type:t,q:text};
+if(t==="mcq"){q.options=[$("opt0").value.trim(),$("opt1").value.trim(),$("opt2").value.trim(),$("opt3").value.trim()];if(q.options.some(function(o){return !o;})){$("qStatus").textContent="네 가지 선택지를 모두 채우세요.";$("qStatus").className="status err";return;}q.correct=Number($("qCorrect").value);}
+else if(t==="tf"){q.correct=$("tfCorrect").value==="true";}
+else{q.answer=$("shortAns").value.trim();if(!q.answer){$("qStatus").textContent="정답을 입력하세요.";$("qStatus").className="status err";return;}}
+quiz.questions.push(q);persist();$("qText").value="";["opt0","opt1","opt2","opt3","shortAns"].forEach(function(id){$(id).value="";});$("qStatus").textContent="문제가 추가됐어요 — "+quiz.questions.length+" 퀴즈에서.";$("qStatus").className="status ok";renderList();renderAttempt();};
+function correctText(q){if(q.type==="mcq")return "ABCD"[q.correct]+". "+q.options[q.correct];if(q.type==="tf")return q.correct?"True":"False";return q.answer;}
+function renderList(){var el=$("qList");if(!quiz.questions.length){el.innerHTML='<p style="color:var(--mut);margin-top:12px">아직 문제가 없어요.</p>';return;}var h='<h3 style="color:var(--teal);margin:14px 0 8px">문제 ('+quiz.questions.length+')</h3>';quiz.questions.forEach(function(q,i){h+='<div class="qitem"><div class="qtxt">'+(i+1)+'. '+esc(q.q)+' <span style="color:var(--mut);font-weight:400">['+({mcq:"객관식",tf:"참/거짓",short:"단답형"})[q.type]+']</span></div><div style="color:var(--mut)">Correct: '+esc(correctText(q))+'</div><div style="margin-top:6px"><button class="btn ghost small" data-del="'+i+'" type="button">삭제</button></div></div>';});el.innerHTML=h;el.querySelectorAll("[data-del]").forEach(function(b){b.onclick=function(){quiz.questions.splice(+b.getAttribute("data-del"),1);persist();renderList();renderAttempt();};});}
+function renderAttempt(){var el=$("attemptArea");$("resultArea").innerHTML="";if(!quiz.questions.length){el.innerHTML='<p style="color:var(--mut)">위에 문제를 추가하면 여기에 나타나서 풀 준비가 돼요.</p>';return;}var h='<h3 style="color:var(--teal);margin-bottom:10px">'+esc(quiz.title||"Quiz")+'</h3>';quiz.questions.forEach(function(q,i){h+='<div class="qitem" id="att'+i+'"><div class="qtxt">'+(i+1)+'. '+esc(q.q)+'</div>';if(q.type==="mcq"){q.options.forEach(function(o,j){h+='<label class="optline"><input type="radio" name="a'+i+'" value="'+j+'">'+esc(o)+'</label>';});}else if(q.type==="tf"){h+='<label class="optline"><input type="radio" name="a'+i+'" value="true">참</label><label class="optline"><input type="radio" name="a'+i+'" value="false">거짓</label>';}else{h+='<input type="text" id="sa'+i+'" placeholder="답을 입력하세요" style="width:100%;padding:10px 12px;border:1.5px solid #cfc9ae;border-radius:10px">';}h+='<div class="review" style="margin-top:8px;font-size:.93rem"></div></div>';});el.innerHTML=h;}
+function collectAnswers(){return quiz.questions.map(function(q,i){if(q.type==="short")return $("sa"+i).value;var sel=document.querySelector('input[name="a'+i+'"]:checked');if(!sel)return null;return q.type==="mcq"?Number(sel.value):(sel.value==="true");});}
+$("bSubmit").onclick=function(){if(!quiz.questions.length)return;var ans=collectAnswers();var res=scoreQuiz(quiz,ans);var pct=Math.round(res.score/res.total*100);$("resultArea").innerHTML='<div class="inshort" style="margin-top:16px"><strong>내 점수: '+res.score+' / '+res.total+' ('+pct+'%)</strong> — '+(pct===100?"완벽해요! 🎉":pct>=60?"잘했어요 — 아래 표시된 것을 복습하고 간격을 좁혀 보세요.":"계속하세요 — 아래 각 정답을 복습한 뒤 다시 시도하세요.")+'</div>';quiz.questions.forEach(function(q,i){var box=$("att"+i);box.classList.remove("correct","wrong");box.classList.add(res.per[i].correct?"correct":"wrong");box.querySelector(".review").innerHTML=res.per[i].correct?'✓ 정답':'✗ 아쉽네요. 정답: <strong>'+esc(correctText(q))+'</strong>';});window.scrollTo({top:$("resultArea").offsetTop-80,behavior:"smooth"});};
+function buildPrint(key){var h='<h2 style="color:#062e2a">'+esc(quiz.title||"Quiz")+(key?" — 정답지":"")+'</h2>';if(!key)h+='<p>이름: ______________________________ &nbsp; 학급: ______________ &nbsp; 날짜: ______________</p>';quiz.questions.forEach(function(q,i){h+='<div style="margin-bottom:14px"><strong>'+(i+1)+'. '+esc(q.q)+'</strong>';if(key){h+='<div>답: <strong>'+esc(correctText(q))+'</strong></div>';}else if(q.type==="mcq"){q.options.forEach(function(o,j){h+='<div style="margin-left:18px">'+"ABCD"[j]+'. '+esc(o)+'</div>';});}else if(q.type==="tf"){h+='<div style="margin-left:18px">참 &nbsp;&nbsp; 거짓</div>';}else{h+='<div style="border-bottom:1px solid #999;height:26px;margin-left:18px"></div>';}h+='</div>';});return h;}
+$("bPrintQuiz").onclick=function(){if(!quiz.questions.length)return alert("먼저 문제를 추가하세요.");$("printQuiz").innerHTML=buildPrint(false);document.body.classList.add("print-quiz");window.print();setTimeout(function(){document.body.classList.remove("print-quiz");},500);};
+$("bPrintKey").onclick=function(){if(!quiz.questions.length)return alert("먼저 문제를 추가하세요.");$("printKey").innerHTML=buildPrint(true);document.body.classList.add("print-key");window.print();setTimeout(function(){document.body.classList.remove("print-key");},500);};
+function download(name,text){var a=document.createElement("a");a.href=URL.createObjectURL(new Blob([text],{type:"application/json"}));a.download=name;a.click();setTimeout(function(){URL.revokeObjectURL(a.href);},2000);}
+$("bExport").onclick=function(){download((quiz.title||"quiz").replace(/[^\w\- ]+/g,"")+".json",JSON.stringify(quiz,null,2));};
+$("fileImport").onchange=function(){var f=this.files[0];if(!f)return;var r=new FileReader();r.onload=function(){try{var j=JSON.parse(String(r.result));if(!j.questions||!Array.isArray(j.questions))throw new Error("문제 배열이 없어요");quiz={title:j.title||"가져온 퀴즈",questions:j.questions};$("quizTitle").value=quiz.title;persist();renderList();renderAttempt();alert("가져온 퀴즈: "+quiz.questions.length+"개 문제.");}catch(e){alert("그 파일을 가져올 수 없었어요: "+e.message);}};r.readAsText(f);this.value="";};
+$("bClear").onclick=function(){if(!confirm("이 퀴즈의 모든 문제를 삭제할까요?"))return;quiz.questions=[];persist();renderList();renderAttempt();};
+renderList();renderAttempt();
+</script>

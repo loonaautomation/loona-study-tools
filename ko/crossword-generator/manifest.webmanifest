@@ -1,0 +1,29 @@
+{
+  "name": "Loona 십자말풀이 생성기",
+  "short_name": "십자말풀이 생성기",
+  "description": "무료 크로스워드 생성기: 단어와 단서를 입력하고 실제로 교차하는 크로스워드 퍼즐을 받으세요. 번호가 있는 단서와 별도의 정답지와 함께 인쇄 가능해요.",
+  "id": "/loona-study-tools/ko/crossword-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona 시험 카운트다운 플래너",
+  "short_name": "시험 카운트다운 플래너",
+  "description": "무료 시험 카운트다운 플래너: 시험 날짜, 과목과 일일 세션을 입력하고 시험 날까지 난이도 비중으로 과목을 고르게 나누는 일별 복습 계획을 받으세요.",
+  "id": "/loona-study-tools/ko/exam-countdown-planner/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

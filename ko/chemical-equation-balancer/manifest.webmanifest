@@ -1,0 +1,29 @@
+{
+  "name": "Loona 화학 반응식 균형 맞추기",
+  "short_name": "화학 반응식 균형 맞추기",
+  "description": "무료 화학식 균형 맞추기: C3H8 + O2 -> CO2 + H2O 같은 식을 입력하면 원자별 전체 확인과 함께 균형 계수를 얻어요.",
+  "id": "/loona-study-tools/ko/chemical-equation-balancer/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
