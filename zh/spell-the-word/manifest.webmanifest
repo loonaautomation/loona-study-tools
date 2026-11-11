@@ -1,0 +1,29 @@
+{
+  "name": "Loona 拼词游戏",
+  "short_name": "拼词游戏",
+  "description": "免费拼词游戏:学生利用线索,点按打乱的字母砖来拼出每个单词。带即时核对的触觉拼写练习。",
+  "id": "/loona-study-tools/zh/spell-the-word/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

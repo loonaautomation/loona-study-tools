@@ -1,0 +1,29 @@
+{
+  "name": "Loona 单词墙卡片生成器",
+  "short_name": "单词墙卡片生成器",
+  "description": "免费单词墙卡片生成器:输入一个单词列表,得到大而粗的可打印单词墙卡片,三种尺寸,适用于教室展示和阅读角。",
+  "id": "/loona-study-tools/zh/word-wall-cards/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

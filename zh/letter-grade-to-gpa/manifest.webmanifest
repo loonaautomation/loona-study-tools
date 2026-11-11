@@ -1,0 +1,29 @@
+{
+  "name": "Loona 字母等级转 GPA 转换器",
+  "short_name": "字母等级转 GPA 转换器",
+  "description": "A、B+ 或 C− 是什么 GPA?4.0 制的完整的字母等级转 GPA 分数表,带百分比区间和一键转换器。",
+  "id": "/loona-study-tools/zh/letter-grade-to-gpa/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

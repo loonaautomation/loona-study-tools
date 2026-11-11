@@ -1,0 +1,29 @@
+{
+  "name": "Loona 课堂记分牌",
+  "short_name": "课堂记分牌",
+  "description": "免费课堂记分牌:教室大屏幕上的大型彩色团队积分卡,一键 +1/+5/-1,课间保存在您的浏览器中。",
+  "id": "/loona-study-tools/zh/classroom-scoreboard/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

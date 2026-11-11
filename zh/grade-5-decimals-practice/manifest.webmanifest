@@ -1,0 +1,29 @@
+{
+  "name": "Loona 5年级小数练习",
+  "short_name": "5年级小数练习",
+  "description": "免费 5 年级小数练习——小数的排序与四舍五入。一个例题、6 道带可打印答案的练习题、方法、常见错误和一条顶级建议。",
+  "id": "/loona-study-tools/zh/grade-5-decimals-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

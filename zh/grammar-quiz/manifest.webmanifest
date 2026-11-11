@@ -1,0 +1,29 @@
+{
+  "name": "Loona 语法测验",
+  "short_name": "语法测验",
+  "description": "免费英语语法测验:24 道关于时态、冠词、介词、一致关系、条件句和标点的题目,即时出分,每个答案附讲解。",
+  "id": "/loona-study-tools/zh/grammar-quiz/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

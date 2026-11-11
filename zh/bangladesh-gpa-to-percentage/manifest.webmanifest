@@ -1,0 +1,29 @@
+{
+  "name": "Loona 孟加拉国 GPA 转百分比",
+  "short_name": "孟加拉国 GPA 转百分比",
+  "description": "孟加拉国教育委员会 SSC 和 HSC 的 GPA 表:A+ 5.00 = 80–100 分,带每个学分和分数范围,外加一个分数转 GPA 转换器。",
+  "id": "/loona-study-tools/zh/bangladesh-gpa-to-percentage/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona 拼写练习纸生成器",
+  "short_name": "拼写练习纸生成器",
+  "description": "免费拼写练习纸生成器:从一个单词列表得到重组练习、缺元音练习纸、ABC 顺序练习和拼写测试纸,附答案。",
+  "id": "/loona-study-tools/zh/spelling-worksheet-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

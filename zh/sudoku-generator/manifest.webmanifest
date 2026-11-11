@@ -1,0 +1,29 @@
+{
+  "name": "Loona 数独生成器",
+  "short_name": "数独生成器",
+  "description": "免费数独生成器:可打印的 4x4、6x6 和 9x9 数独谜题,三种难度,每个谜题都经验证只有一个解,附单独的解答页。",
+  "id": "/loona-study-tools/zh/sudoku-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

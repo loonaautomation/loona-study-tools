@@ -1,0 +1,29 @@
+{
+  "name": "Loona 抽认卡制作工具",
+  "short_name": "抽认卡制作工具",
+  "description": "免费抽认卡制作工具:创建卡组,用翻卡学习、打乱和会/不会跟踪。导入/导出 CSV 和 JSON,打印卡片。无需注册,保存在您的设备上。",
+  "id": "/loona-study-tools/zh/flashcards/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

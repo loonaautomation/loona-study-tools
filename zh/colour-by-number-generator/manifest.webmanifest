@@ -1,0 +1,29 @@
+{
+  "name": "Loona 按数字涂色生成器",
+  "short_name": "按数字涂色生成器",
+  "description": "免费按数字涂色生成器:一张带编号的马赛克练习纸,附六色图例和单独的彩色答案图。每次都是新图画。",
+  "id": "/loona-study-tools/zh/colour-by-number-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

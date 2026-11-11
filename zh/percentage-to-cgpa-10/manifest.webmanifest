@@ -1,0 +1,29 @@
+{
+  "name": "Loona 百分比转 CGPA(印度,10 分制)",
+  "short_name": "百分比转 CGPA(印度",
+  "description": "用 CBSE 反向公式(% ÷ 9.5)和大学变体,把百分比转换为印度 10 分制 CGPA,附从 95% 起的完整表格。",
+  "id": "/loona-study-tools/zh/percentage-to-cgpa-10/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

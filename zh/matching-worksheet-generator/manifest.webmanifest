@@ -1,0 +1,29 @@
+{
+  "name": "Loona 配对练习纸生成器",
+  "short_name": "配对练习纸生成器",
+  "description": "免费配对练习纸生成器:输入术语 = 定义对,得到一份可打印的配对练习纸,定义被打乱,附教师答案。",
+  "id": "/loona-study-tools/zh/matching-worksheet-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

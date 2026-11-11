@@ -1,0 +1,29 @@
+{
+  "name": "Loona 随机点名工具",
+  "short_name": "随机点名工具",
+  "description": "免费教师用随机点名工具:粘贴班级名单,公平地随机挑选学生,带不重复模式,让每个人都轮到一次之后才有人重复。",
+  "id": "/loona-study-tools/zh/random-name-picker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

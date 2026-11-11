@@ -1,0 +1,29 @@
+{
+  "name": "Loona CGPA 转百分比转换器(4.0、5.0",
+  "short_name": "CGPA 转百分比转换器",
+  "description": "用一个免费转换器把 CGPA 转换为 4.0、5.0 和 10 分制的百分比,附每种制式的公式和完整转换表。",
+  "id": "/loona-study-tools/zh/cgpa-to-percentage/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

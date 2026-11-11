@@ -1,0 +1,29 @@
+{
+  "name": "Loona 6 年级科学主题与学习指南",
+  "short_name": "6 年级科学主题与",
+  "description": "6 年级的科学主题按教学顺序——细胞、元素、化合物和混合物、酸和碱(初探,指示剂)等——每个主题都有免费学习工具。",
+  "id": "/loona-study-tools/zh/grade-6-science-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona 2 年级英语主题与学习指南",
+  "short_name": "2 年级英语主题与",
+  "description": "2 年级的英语主题按教学顺序——长元音和二合字母 (sh, ch, th)、常见词组 2 和词族、问号和感叹号等——每个主题都有免费学习工具。",
+  "id": "/loona-study-tools/zh/grade-2-english-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

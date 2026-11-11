@@ -1,0 +1,29 @@
+{
+  "name": "Loona 猜词游戏",
+  "short_name": "猜词游戏",
+  "description": "免费猜词游戏,内置学校单词列表(动物、科学、地理、学校)或您自己的单词。六次猜错机会,屏幕键盘,无需打印的乐趣。",
+  "id": "/loona-study-tools/zh/hangman-game/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

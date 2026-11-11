@@ -1,0 +1,29 @@
+{
+  "name": "Loona 书写练习生成器",
+  "short_name": "书写练习生成器",
+  "description": "免费书写练习生成器:可打印的描红纸,练习字母表、大写、小写、数字和您自己的单词或句子,带四线格引导。",
+  "id": "/loona-study-tools/zh/handwriting-practice-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

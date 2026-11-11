@@ -1,0 +1,29 @@
+{
+  "name": "Loona 单词搜索生成器",
+  "short_name": "单词搜索生成器",
+  "description": "免费单词搜索生成器:把您自己的单词列表变成一个可打印的单词搜索谜题,8 个方向,附单独的高亮答案。非常适合词汇练习。",
+  "id": "/loona-study-tools/zh/word-search-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

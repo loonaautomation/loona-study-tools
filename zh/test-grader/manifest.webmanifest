@@ -1,0 +1,29 @@
+{
+  "name": "Loona 试卷评分工具",
+  "short_name": "试卷评分工具",
+  "description": "免费试卷评分工具:粘贴答案和学生的答案(字母或单词),得到即时分数、百分比、字母等级和逐题明细。",
+  "id": "/loona-study-tools/zh/test-grader/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

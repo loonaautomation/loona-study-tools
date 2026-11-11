@@ -1,0 +1,29 @@
+{
+  "name": "Loona 可视化日程制作工具",
+  "short_name": "可视化日程制作工具",
+  "description": "免费可视化日程制作工具:创建一个可打印的上学日图片日程,带时间、图标和活动——非常适合年幼的孩子和特殊教育支持。",
+  "id": "/loona-study-tools/zh/visual-schedule-builder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

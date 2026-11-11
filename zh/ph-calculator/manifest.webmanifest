@@ -1,0 +1,29 @@
+{
+  "name": "Loona pH 计算器",
+  "short_name": "pH 计算器",
+  "description": "免费 pH 计算器:在 pH、pOH、[H+] 和 [OH-] 之间换算,并根据浓度计算强酸和强碱溶液的 pH。",
+  "id": "/loona-study-tools/zh/ph-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

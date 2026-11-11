@@ -1,0 +1,29 @@
+{
+  "name": "Loona 幼儿园科学主题与学习",
+  "short_name": "幼儿园科学主题",
+  "description": "幼儿园的科学主题按教学顺序——我们周围的生物和非生物、身体部位和五种感官、我们看到的植物等——每个主题都有免费学习工具。",
+  "id": "/loona-study-tools/zh/kindergarten-science-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona 拼写测试",
+  "short_name": "拼写测试",
+  "description": "免费拼写测试:浏览器朗读每个单词,您输入拼写,得到即时分数和错词复习。按年龄的内置列表加上您自己的单词列表。",
+  "id": "/loona-study-tools/zh/spelling-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

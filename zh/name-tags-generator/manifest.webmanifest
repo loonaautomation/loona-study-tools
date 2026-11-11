@@ -1,0 +1,29 @@
+{
+  "name": "Loona 姓名牌生成器",
+  "short_name": "姓名牌生成器",
+  "description": "免费姓名牌生成器:粘贴班级名单,打印整齐的姓名牌,带班级/学校副标题——适用于开学第一天、郊游、家长会和小组活动。",
+  "id": "/loona-study-tools/zh/name-tags-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

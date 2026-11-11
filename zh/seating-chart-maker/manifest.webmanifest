@@ -1,0 +1,29 @@
+{
+  "name": "Loona 座位表制作工具",
+  "short_name": "座位表制作工具",
+  "description": "免费座位表制作工具:构建课桌网格,点击放置学生,锁定不能移动的座位,打乱其他人,然后打印座位表。",
+  "id": "/loona-study-tools/zh/seating-chart-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

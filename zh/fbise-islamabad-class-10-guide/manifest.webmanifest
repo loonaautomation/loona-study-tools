@@ -1,0 +1,29 @@
+{
+  "name": "Loona FBISE 伊斯兰堡 10 年级指南",
+  "short_name": "FBISE 伊斯兰堡 10 年级指南",
+  "description": "FBISE 伊斯兰堡 10 年级:科目与学科方向、考试局试卷的构成方式,以及带学习工具的免费备考计划。请在考试局官方网站核实试卷结构。",
+  "id": "/loona-study-tools/zh/fbise-islamabad-class-10-guide/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

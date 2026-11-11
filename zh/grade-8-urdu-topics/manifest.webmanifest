@@ -1,0 +1,29 @@
+{
+  "name": "Loona 8 年级乌尔都语主题与学习指南",
+  "short_name": "8 年级乌尔都语主题与学习",
+  "description": "8 年级的乌尔都语主题按教学顺序——完整的语法复习(考试重点)、如何在考试中讲解 nazm 和 ghazal、社会议题作文等——每个主题都有免费学习工具。",
+  "id": "/loona-study-tools/zh/grade-8-urdu-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona 学习工具",
+  "short_name": "学习工具",
+  "description": "为学生和教师提供的免费在线学习工具:抽认卡制作工具、测验制作工具、数学练习纸生成器、阅读速度测试和学习时间表规划工具。无需注册,保护隐私,可打印。",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "id": "/loona-study-tools/zh/"
+}

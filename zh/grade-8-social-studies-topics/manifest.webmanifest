@@ -1,0 +1,29 @@
+{
+  "name": "Loona 8 年级社会研究主题与学习",
+  "short_name": "8年级社会研究主题",
+  "description": "8 年级的社会研究主题按教学顺序——世界大战和现代世界(概述)、巴基斯坦运动与巴基斯坦的建立、地缘政治基础等——每个主题都有免费学习工具。",
+  "id": "/loona-study-tools/zh/grade-8-social-studies-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

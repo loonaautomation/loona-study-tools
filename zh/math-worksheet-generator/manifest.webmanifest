@@ -1,0 +1,29 @@
+{
+  "name": "Loona 数学练习纸生成器",
+  "short_name": "数学练习纸生成器",
+  "description": "免费数学练习纸生成器:加法、减法、乘法、除法、分数、小数和长除法练习纸,带数字范围、重组选项和可打印答案。",
+  "id": "/loona-study-tools/zh/math-worksheet-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

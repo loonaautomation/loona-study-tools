@@ -1,0 +1,29 @@
+{
+  "name": "Loona 可打印纸张生成器",
+  "short_name": "可打印纸张生成器",
+  "description": "免费可打印纸张生成器:方格纸、点阵纸、等距纸、3 线书写纸和宽横线纸,间距精确为 8/10/14mm。按 100% 打印得到真实大小。",
+  "id": "/loona-study-tools/zh/printable-paper-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona 代码打字测试",
+  "short_name": "代码打字测试",
+  "description": "免费代码打字测试:精确输入真实的 JavaScript、Python 和 SQL 代码片段——括号、符号和缩进都计分——附准确率、每分钟字符数和 WPM。",
+  "id": "/loona-study-tools/zh/code-typing-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

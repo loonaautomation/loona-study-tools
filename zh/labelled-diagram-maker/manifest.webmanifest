@@ -1,0 +1,29 @@
+{
+  "name": "Loona 标注图制作工具",
+  "short_name": "标注图制作工具",
+  "description": "免费标注图制作工具:上传一张图表,点击钉上编号标签,打印带标注或空白版本,并就标签测验学生。图片永远不会离开您的设备。",
+  "id": "/loona-study-tools/zh/labelled-diagram-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

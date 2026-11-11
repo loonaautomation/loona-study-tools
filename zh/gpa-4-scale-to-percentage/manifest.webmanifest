@@ -1,0 +1,29 @@
+{
+  "name": "Loona 4.0 制 GPA 转百分比",
+  "short_name": "4.0 制 GPA 转百分比",
+  "description": "通过标准字母等级表(A = 4.0 = 93–100%)把 4.0 制 GPA 转换为百分比,并与线性 ×25 估算并列展示。",
+  "id": "/loona-study-tools/zh/gpa-4-scale-to-percentage/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

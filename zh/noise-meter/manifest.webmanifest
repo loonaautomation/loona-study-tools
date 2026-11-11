@@ -1,0 +1,29 @@
+{
+  "name": "Loona 课堂噪音测量仪",
+  "short_name": "课堂噪音测量仪",
+  "description": "免费课堂噪音测量仪:实时麦克风音量条,带绿色/琥珀色/红色区域和安静连对计数器。相对水平显示(不是分贝),在设备上分析,从不录音。",
+  "id": "/loona-study-tools/zh/noise-meter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

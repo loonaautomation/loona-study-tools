@@ -1,0 +1,29 @@
+{
+  "name": "Loona 配对游戏",
+  "short_name": "配对游戏",
+  "description": "免费配对记忆游戏:输入术语 = 定义对,玩翻牌配对,带步数和时间跟踪。非常适合词汇和复习。",
+  "id": "/loona-study-tools/zh/matching-pairs-game/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

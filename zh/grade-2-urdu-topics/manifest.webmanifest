@@ -1,0 +1,29 @@
+{
+  "name": "Loona 2 年级乌尔都语主题与学习指南",
+  "short_name": "2 年级乌尔都语主题与学习",
+  "description": "2 年级的乌尔都语主题按教学顺序——阅读流利度、Ism、fail 和 harf(语法初探)、Wahid 和 jama(单数和复数,基础)等——每个主题都有免费学习工具。",
+  "id": "/loona-study-tools/zh/grade-2-urdu-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

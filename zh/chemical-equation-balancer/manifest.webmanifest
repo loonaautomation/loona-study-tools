@@ -1,0 +1,29 @@
+{
+  "name": "Loona 化学方程式配平工具",
+  "short_name": "化学方程式配平工具",
+  "description": "免费化学方程式配平工具:输入像 C3H8 + O2 -> CO2 + H2O 这样的方程式,即可获得配平系数和完整的逐原子验证。",
+  "id": "/loona-study-tools/zh/chemical-equation-balancer/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
