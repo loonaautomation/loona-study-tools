@@ -1,0 +1,29 @@
+{
+  "name": "Loona Letter Grade to GPA Converter",
+  "short_name": "Letter Grade to GPA Converter",
+  "description": "What GPA is an A, a B+ or a C−? The full letter-grade to GPA points table on the 4.0 scale, with percentage bands and a one-click converter.",
+  "id": "/loona-study-tools/en-us/letter-grade-to-gpa/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Australia GPA Converter (7-Point Scale)",
+  "short_name": "Australia GPA Converter (7-Point Scale)",
+  "description": "Convert Australian university grades on the 7-point scale (HD = 7) to percentages and approximate 4.0-scale GPA, with the standard grade table.",
+  "id": "/loona-study-tools/en-us/australia-gpa-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

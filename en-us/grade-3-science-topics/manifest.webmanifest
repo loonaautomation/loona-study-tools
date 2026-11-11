@@ -1,0 +1,29 @@
+{
+  "name": "Loona Grade 3 Science Topics",
+  "short_name": "Grade 3 Science Topics",
+  "description": "The Science topics for grade 3 in teaching order — Plant parts and their jobs, Animal groups, States of matter and changing state and more — with free study tools for each topic.",
+  "id": "/loona-study-tools/en-us/grade-3-science-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

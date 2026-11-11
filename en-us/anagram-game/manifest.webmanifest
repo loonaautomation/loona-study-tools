@@ -1,0 +1,29 @@
+{
+  "name": "Loona Anagram Game — Unscramble the Word",
+  "short_name": "Anagram Game — Unscramble the Word",
+  "description": "Free anagram game: your words are scrambled letter by letter; students use the clue to unscramble each word. Instant checks and a final score.",
+  "id": "/loona-study-tools/en-us/anagram-game/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

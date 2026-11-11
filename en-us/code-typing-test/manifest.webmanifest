@@ -1,0 +1,29 @@
+{
+  "name": "Loona Code Typing Test — Brackets, Symbols and All",
+  "short_name": "Code Typing Test — Brackets, Symbols and All",
+  "description": "Free code typing test: type real JavaScript, Python and SQL snippets exactly — brackets, symbols and indentation scored — with accuracy, characters per minute and WPM.",
+  "id": "/loona-study-tools/en-us/code-typing-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

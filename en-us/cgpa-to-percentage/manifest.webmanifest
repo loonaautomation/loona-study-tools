@@ -1,0 +1,29 @@
+{
+  "name": "Loona CGPA to Percentage Converter",
+  "short_name": "CGPA to Percentage Converter",
+  "description": "Convert CGPA to percentage on the 4.0, 5.0 and 10-point scales with one free converter, plus the formula for each scale and a full conversion table.",
+  "id": "/loona-study-tools/en-us/cgpa-to-percentage/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

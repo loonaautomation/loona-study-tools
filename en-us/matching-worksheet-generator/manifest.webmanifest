@@ -1,0 +1,29 @@
+{
+  "name": "Loona Matching Worksheet Generator — Match Terms to Definitions",
+  "short_name": "Matching Worksheet Generator — Match Terms to Definitions",
+  "description": "Free matching worksheet generator: type term = definition pairs and get a printable matching worksheet with shuffled definitions and a teacher answer key.",
+  "id": "/loona-study-tools/en-us/matching-worksheet-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

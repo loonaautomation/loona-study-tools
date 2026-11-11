@@ -1,0 +1,29 @@
+{
+  "name": "Loona Bingo Card Generator — A Full Class Set in Seconds",
+  "short_name": "Bingo Card Generator — A Full Class Set in Seconds",
+  "description": "Free bingo card generator: enter 24+ words and generate unique printable 5x5 bingo cards for a whole class plus a shuffled call list. Vocabulary, sight words, numbers and more.",
+  "id": "/loona-study-tools/en-us/bingo-card-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Percentage to CGPA Converter (India)",
+  "short_name": "Percentage to CGPA Converter (India)",
+  "description": "Convert percentage to Indian 10-point CGPA with the CBSE reverse formula (% ÷ 9.5) and the university variants, with a full table from 95% down.",
+  "id": "/loona-study-tools/en-us/percentage-to-cgpa-10/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

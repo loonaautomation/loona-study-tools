@@ -1,0 +1,29 @@
+{
+  "name": "Loona Molar Mass Calculator — Formula In, g/mol Out",
+  "short_name": "Molar Mass Calculator — Formula In, g/mol Out",
+  "description": "Free molar mass calculator: type any chemical formula with brackets — Ca(OH)2, Al2(SO4)3 — and get the molar mass in g/mol with a per-element breakdown table.",
+  "id": "/loona-study-tools/en-us/molar-mass-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

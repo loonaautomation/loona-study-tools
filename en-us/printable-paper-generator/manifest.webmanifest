@@ -1,0 +1,29 @@
+{
+  "name": "Loona Printable Paper Generator — The Right Paper, On Demand",
+  "short_name": "Printable Paper Generator — The Right Paper, On Demand",
+  "description": "Free printable paper generator: graph paper, dot grid, isometric paper, 3-line handwriting paper and wide-ruled lines at exact 8/10/14mm spacing. Print at 100% for true size.",
+  "id": "/loona-study-tools/en-us/printable-paper-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

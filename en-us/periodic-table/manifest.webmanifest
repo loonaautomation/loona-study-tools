@@ -1,0 +1,29 @@
+{
+  "name": "Loona Interactive Periodic Table — All 118 Elements",
+  "short_name": "Interactive Periodic Table — All 118 Elements",
+  "description": "Free interactive periodic table: all 118 elements color-coded by category. Click any element for its atomic number, mass, group, period and category.",
+  "id": "/loona-study-tools/en-us/periodic-table/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

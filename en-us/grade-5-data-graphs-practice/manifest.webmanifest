@@ -1,0 +1,29 @@
+{
+  "name": "Loona Grade 5 Data and Graphs Practice",
+  "short_name": "Grade 5 Data and Graphs Practice",
+  "description": "Free grade 5 data and graphs practice — mean, median and mode. A worked example, 6 practice questions with a printable answer key, the method, the common mistake and a top tip.",
+  "id": "/loona-study-tools/en-us/grade-5-data-graphs-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

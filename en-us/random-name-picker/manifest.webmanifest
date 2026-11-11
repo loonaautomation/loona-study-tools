@@ -1,0 +1,29 @@
+{
+  "name": "Loona Random Name Picker — Fair Picks for the Whole Class",
+  "short_name": "Random Name Picker — Fair Picks for the Whole Class",
+  "description": "Free random name picker for teachers: paste a class list and pick students fairly at random, with no-repeat mode so everyone gets a turn before anyone repeats.",
+  "id": "/loona-study-tools/en-us/random-name-picker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

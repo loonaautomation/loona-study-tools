@@ -1,0 +1,29 @@
+{
+  "name": "Loona Test Grader — Mark a Whole Test in Seconds",
+  "short_name": "Test Grader — Mark a Whole Test in Seconds",
+  "description": "Free test grader: paste the answer key and a student's answers (letters or words) to get an instant score, percentage, letter grade and question-by-question breakdown.",
+  "id": "/loona-study-tools/en-us/test-grader/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

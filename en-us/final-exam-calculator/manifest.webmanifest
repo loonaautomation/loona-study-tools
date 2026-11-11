@@ -1,0 +1,29 @@
+{
+  "name": "Loona Final Exam Calculator — What Do I Need in the Final?",
+  "short_name": "Final Exam Calculator — What Do I Need in the Final?",
+  "description": "Free final exam calculator: enter your current grade, the final's weight and your target to see exactly what score you need in the final — and whether it is still possible.",
+  "id": "/loona-study-tools/en-us/final-exam-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

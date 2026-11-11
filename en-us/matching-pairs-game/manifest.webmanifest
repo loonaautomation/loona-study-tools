@@ -1,0 +1,29 @@
+{
+  "name": "Loona Matching Pairs Game — Flip, Match, Remember",
+  "short_name": "Matching Pairs Game — Flip, Match, Remember",
+  "description": "Free matching pairs memory game: enter term = definition pairs and play flip-and-match with move and time tracking. Great for vocabulary and revision.",
+  "id": "/loona-study-tools/en-us/matching-pairs-game/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

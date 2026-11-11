@@ -1,0 +1,29 @@
+{
+  "name": "Loona Grade 4 Urdu Topics",
+  "short_name": "Grade 4 Urdu Topics",
+  "description": "The Urdu topics for grade 4 in teaching order — Qawaid, Muhawray (idioms) and their meanings, Synonyms (mutashabih alfaaz) and more — with free study tools for each topic.",
+  "id": "/loona-study-tools/en-us/grade-4-urdu-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

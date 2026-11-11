@@ -1,0 +1,29 @@
+{
+  "name": "Loona Multiplication Tables Practice — Drill, Check, Master",
+  "short_name": "Multiplication Tables Practice — Drill, Check, Master",
+  "description": "Free multiplication tables practice: pick tables 2-12, drill timed rounds with instant checking and weak-table review, plus a printable 12x12 multiplication chart.",
+  "id": "/loona-study-tools/en-us/multiplication-tables-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
