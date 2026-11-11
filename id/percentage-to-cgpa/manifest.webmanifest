@@ -1,0 +1,29 @@
+{
+  "name": "Loona Persentase untuk CGPA Konverter (4.0, 5.0",
+  "short_name": "Konverter Persentase ke IPK",
+  "description": "Convert percentage kembali untuk CGPA di 4.0, 5.0 dan 10-poin scales: % ÷ 9.5 untuk India, linear equivalents untuk 4.0 dan 5.0, dengan tabel.",
+  "id": "/loona-study-tools/id/percentage-to-cgpa/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

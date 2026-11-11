@@ -1,0 +1,29 @@
+{
+  "name": "Loona Taman Kanak-Kanak Topik Sains dan Belajar",
+  "short_name": "Topik Sains Taman Kanak-Kanak",
+  "description": "Sains topik untuk taman kanak-kanak di teaching urutan — Living dan non-living things around us, Bagian dari body dan lima senses, Tumbuhan we lihat dan lebih banyak — dengan gratis belajar alat untuk setiap topik.",
+  "id": "/loona-study-tools/id/kindergarten-science-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

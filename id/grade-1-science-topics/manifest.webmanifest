@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kelas 1 Sains Topik dan Panduan Belajar",
+  "short_name": "Kelas 1 Topik Sains dan",
+  "description": "Sains topik untuk kelas 1 di teaching urutan — Tumbuhan, Animals, human body dan lebih banyak — dengan gratis belajar alat untuk setiap topik.",
+  "id": "/loona-study-tools/id/grade-1-science-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

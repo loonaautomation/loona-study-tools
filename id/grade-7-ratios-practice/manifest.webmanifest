@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kelas 7 Rasio dan Proportions Latihan",
+  "short_name": "Kelas 7 Rasio dan",
+  "description": "Latihan ratios and proportions kelas 7 gratis — proportions dan unitary metode. contoh soal yang dikerjakan, 6 soal latihan dengan kunci jawaban yang bisa dicetak, metodenya, kesalahan yang umum terjadi dan sebuah tips terbaik.",
+  "id": "/loona-study-tools/id/grade-7-ratios-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

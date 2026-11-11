@@ -1,0 +1,29 @@
+{
+  "name": "Loona Printable Kertas Generator",
+  "short_name": "Generator Kertas Siap Cetak",
+  "description": "Gratis bisa dicetak kertas generator: graph kertas, dot grid, isometric kertas, 3-baris handwriting kertas dan wide-ruled baris di persis 8/10/14mm jarak. Cetak di 100% untuk Benar ukuran.",
+  "id": "/loona-study-tools/id/printable-paper-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

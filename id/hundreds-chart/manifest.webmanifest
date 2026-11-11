@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ratusan Bagan",
+  "short_name": "Bagan Ratusan",
+  "description": "Gratis ratusan bagan: interactive bisa dicetak 1-100 bagan dengan bahkan/odd dan multiples highlighting dan missing-angka latihan mode untuk angka sense.",
+  "id": "/loona-study-tools/id/hundreds-chart/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

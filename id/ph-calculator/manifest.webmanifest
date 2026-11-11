@@ -1,0 +1,29 @@
+{
+  "name": "Loona pH Kalkulator",
+  "short_name": "Kalkulator pH",
+  "description": "Gratis pH calculator: convert between pH, pOH, [H+] dan [OH-], dan calculate pH dari kuat asam dan kuat basa solusi dari konsentrasi.",
+  "id": "/loona-study-tools/id/ph-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

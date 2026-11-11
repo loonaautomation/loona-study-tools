@@ -1,0 +1,29 @@
+{
+  "name": "Loona Pakistan CGPA untuk Persentase",
+  "short_name": "IPK Pakistan ke Persentase",
+  "description": "HEC semester-system kelas tabel digunakan oleh Pakistani universities: huruf nilai, GPA poin dan percentage bands, dengan converter untuk 4.0 skala.",
+  "id": "/loona-study-tools/id/pakistan-cgpa-to-percentage/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

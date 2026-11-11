@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kata Cari Generator",
+  "short_name": "Generator Pencarian Kata",
+  "description": "Gratis kata cari generator: ubah daftar kata Anda sendiri ke dalam bisa dicetak kata cari puzzle di 8 arah, dengan kunci jawaban terpisah yang disorot. Sempurna untuk vocabulary latihan.",
+  "id": "/loona-study-tools/id/word-search-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

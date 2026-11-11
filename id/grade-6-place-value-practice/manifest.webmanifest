@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kelas 6 Place Nilai Latihan",
+  "short_name": "Latihan Nilai Tempat Kelas 6",
+  "description": "Latihan nilai tempat kelas 6 gratis — powers dari sepuluh dan place nilai pola. contoh soal yang dikerjakan, 6 soal latihan dengan kunci jawaban yang bisa dicetak, metodenya, kesalahan yang umum terjadi dan sebuah tips terbaik.",
+  "id": "/loona-study-tools/id/grade-6-place-value-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kelas 1 Pengukuran Latihan",
+  "short_name": "Latihan Pengukuran Kelas 1",
+  "description": "Latihan pengukuran kelas 1 gratis — membandingkan lengths: longer, shorter, lebih tinggi. contoh soal yang dikerjakan, 6 soal latihan dengan kunci jawaban yang bisa dicetak, metodenya, kesalahan yang umum terjadi dan sebuah tips terbaik.",
+  "id": "/loona-study-tools/id/grade-1-measurement-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

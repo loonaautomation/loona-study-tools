@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kelas 2 Pengukuran Latihan",
+  "short_name": "Latihan Pengukuran Kelas 2",
+  "description": "Latihan pengukuran kelas 2 gratis — mengukur dengan centimetres dan metres. contoh soal yang dikerjakan, 6 soal latihan dengan kunci jawaban yang bisa dicetak, metodenya, kesalahan yang umum terjadi dan sebuah tips terbaik.",
+  "id": "/loona-study-tools/id/grade-2-measurement-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

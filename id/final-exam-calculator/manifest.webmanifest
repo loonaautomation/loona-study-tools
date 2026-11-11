@@ -1,0 +1,29 @@
+{
+  "name": "Loona Akhir Ujian Kelas Kalkulator",
+  "short_name": "Kalkulator Nilai Ujian Akhir",
+  "description": "Gratis akhir ujian calculator: masukkan Anda current kelas, final's bobot dan Anda target untuk lihat tepat apa skor Anda perlu di akhir — dan whether itu adalah masih yang mungkin.",
+  "id": "/loona-study-tools/id/final-exam-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

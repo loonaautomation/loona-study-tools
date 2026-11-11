@@ -1,0 +1,29 @@
+{
+  "name": "Loona Canada GPA Konverter",
+  "short_name": "Konverter IPK Kanada",
+  "description": "Convert Canadian percentage nilai untuk 4.0 skala dengan widely digunakan Ontario tabel (90–100 = + = 4.0), ditambah catatan di bagaimana Canadian scales differ oleh university.",
+  "id": "/loona-study-tools/id/canada-gpa-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

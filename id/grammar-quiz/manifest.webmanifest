@@ -1,0 +1,29 @@
+{
+  "name": "Loona Grammar Kuis",
+  "short_name": "Kuis Tata Bahasa",
+  "description": "Gratis Bahasa inggris grammar kuis: 24 pertanyaan di tenses, artikel, preposisi, kesesuaian subjek-kata kerja, kalimat pengandaian dan tanda baca, dengan skor instan dan penjelasan untuk setiap jawaban.",
+  "id": "/loona-study-tools/id/grammar-quiz/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

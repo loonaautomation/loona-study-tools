@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kelas 2 Bahasa inggris Topik dan Panduan Belajar",
+  "short_name": "Kelas 2 Topik Bahasa Inggris dan",
+  "description": "Bahasa inggris topik untuk kelas 2 di teaching urutan — Panjang vowels dan digraphs (sh, ch, th), Sight kata atur 2 dan kata families, Pertanyaan nilai dan exclamation nilai dan lebih banyak — dengan gratis belajar alat untuk setiap topik.",
+  "id": "/loona-study-tools/id/grade-2-english-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

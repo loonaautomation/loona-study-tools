@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kelas 1 Bahasa inggris Topik dan Panduan Belajar",
+  "short_name": "Kelas 1 Topik Bahasa Inggris dan",
+  "description": "Bahasa inggris topik untuk kelas 1 di teaching urutan — CVC kata, Sight kata atur 1, Capital huruf dan penuh stops dan lebih banyak — dengan gratis belajar alat untuk setiap topik.",
+  "id": "/loona-study-tools/id/grade-1-english-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

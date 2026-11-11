@@ -1,0 +1,29 @@
+{
+  "name": "Loona CGPA untuk Persentase di 5.0 Skala",
+  "short_name": "CGPA untuk Persentase di 5.0",
+  "description": "Convert 5.0-skala CGPA untuk percentage (CGPA ÷ 5 × 100) dengan penuh tabel, dan class-band halaman untuk Nigeria dan Bangladesh where bands penting lebih banyak than persentase.",
+  "id": "/loona-study-tools/id/cgpa-5-scale-to-percentage/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

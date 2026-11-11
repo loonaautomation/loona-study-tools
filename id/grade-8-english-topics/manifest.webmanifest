@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kelas 8 Bahasa inggris Topik dan Panduan Belajar",
+  "short_name": "Kelas 8 Topik Bahasa Inggris dan",
+  "description": "Bahasa inggris topik untuk kelas 8 di teaching urutan — Subjunctive dan lanjutan kalimat pengandaian (awareness), Gaya, Literary perangkat dan lebih banyak — dengan gratis belajar alat untuk setiap topik.",
+  "id": "/loona-study-tools/id/grade-8-english-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

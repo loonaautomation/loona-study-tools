@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kelas Noise Meter",
+  "short_name": "Pengukur Kebisingan Kelas",
+  "description": "Gratis kelas noise meter: live microphone level bar dengan green/amber/red zones dan quiet-streak counter. Relative level pajangan (tidak decibels), analysed on-device, tidak pernah recorded.",
+  "id": "/loona-study-tools/id/noise-meter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

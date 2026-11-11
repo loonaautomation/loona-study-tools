@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kelas 5 Kata Soal Latihan",
+  "short_name": "Latihan Soal Cerita Kelas 5",
+  "description": "Latihan soal cerita kelas 5 gratis — fraction dan decimal kata soal. contoh soal yang dikerjakan, 6 soal latihan dengan kunci jawaban yang bisa dicetak, metodenya, kesalahan yang umum terjadi dan sebuah tips terbaik.",
+  "id": "/loona-study-tools/id/grade-5-word-problems-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona BISE Karachi Kelas 9 Panduan",
+  "short_name": "Panduan BISE Karachi Kelas 9",
+  "description": "BISE Karachi Kelas 9: mata pelajaran dan streams, bagaimana dewan papers adalah structured, dan gratis preparation plan dengan belajar alat. Verify pola di board's official site.",
+  "id": "/loona-study-tools/id/bise-karachi-class-9-guide/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Crossword Generator",
+  "short_name": "Generator Teka-Teki Silang",
+  "description": "Gratis crossword generator: masukkan kata dan petunjuk dan dapatkan nyata intersecting crossword puzzle, bisa dicetak dengan numbered petunjuk dan terpisah kunci jawaban.",
+  "id": "/loona-study-tools/id/crossword-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

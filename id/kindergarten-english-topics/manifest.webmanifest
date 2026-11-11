@@ -1,0 +1,29 @@
+{
+  "name": "Loona Taman Kanak-Kanak Topik Bahasa Inggris dan Belajar",
+  "short_name": "Topik Bahasa Inggris Taman Kanak-Kanak",
+  "description": "Bahasa inggris topik untuk taman kanak-kanak di teaching urutan — Huruf nama dan sounds (–Z), Tracing dan menulis huruf, Rhyming kata dan nursery rhymes dan lebih banyak — dengan gratis belajar alat untuk setiap topik.",
+  "id": "/loona-study-tools/id/kindergarten-english-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

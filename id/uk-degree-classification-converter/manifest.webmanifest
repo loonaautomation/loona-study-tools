@@ -1,0 +1,29 @@
+{
+  "name": "Loona UK Derajat Klasifikasi Konverter",
+  "short_name": "Klasifikasi Gelar Inggris (UK)",
+  "description": "Apa UK Pertama, 2:1, 2:2 atau Ketiga berarti di percentage dan approximate US GPA suku — dengan jujur catatan itu tidak ada official UK-to-GPA conversion exists.",
+  "id": "/loona-study-tools/id/uk-degree-classification-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

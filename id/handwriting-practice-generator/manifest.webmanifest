@@ -1,0 +1,29 @@
+{
+  "name": "Loona Handwriting Latihan Generator",
+  "short_name": "Generator Latihan Tulisan Tangan",
+  "description": "Gratis handwriting latihan generator: bisa dicetak tracing sheets untuk alphabet, uppercase, lowercase, angka dan kata-kata Anda sendiri atau kalimat, dengan ruled four-line guides.",
+  "id": "/loona-study-tools/id/handwriting-practice-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

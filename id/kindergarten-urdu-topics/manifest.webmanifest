@@ -1,0 +1,29 @@
+{
+  "name": "Loona Taman Kanak-Kanak Urdu Topik dan Panduan Belajar",
+  "short_name": "Taman Kanak-Kanak Topik Urdu dan",
+  "description": "Urdu topik untuk taman kanak-kanak di teaching urutan — Urdu qaida, Huruf sounds (phonics di Urdu), Sederhana three-huruf kata dan lebih banyak — dengan gratis belajar alat untuk setiap topik.",
+  "id": "/loona-study-tools/id/kindergarten-urdu-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

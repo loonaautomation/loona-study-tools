@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kelas 2 Urdu Topik dan Panduan Belajar",
+  "short_name": "Kelas 2 Topik Urdu dan Belajar",
+  "description": "Urdu topik untuk kelas 2 di teaching urutan — Membaca kelancaran, Ism, fail dan harf (pertama lihat di grammar), Wahid dan jama (singular dan plural, dasar) dan lebih banyak — dengan gratis belajar alat untuk setiap topik.",
+  "id": "/loona-study-tools/id/grade-2-urdu-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

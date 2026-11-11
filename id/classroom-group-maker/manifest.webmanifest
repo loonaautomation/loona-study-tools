@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kelas Kelompok Pembuat",
+  "short_name": "Pembuat Kelompok Kelas",
+  "description": "Gratis kelas kelompok maker: simpan kelas daftar di browser Anda, lalu split siswa ke dalam balanced acak kelompok oleh kelompok ukuran, kelompok hitung, atau pasangan. Cetak result.",
+  "id": "/loona-study-tools/id/classroom-group-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
