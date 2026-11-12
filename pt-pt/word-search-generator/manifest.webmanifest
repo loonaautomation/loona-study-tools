@@ -1,0 +1,29 @@
+{
+  "name": "Loona Gerador de Sopa de Letras",
+  "short_name": "Gerador de Sopa de Letras",
+  "description": "Gerador de sopa de letras gratuito: transformar uma lista de palavras própria numa sopa de letras imprimível em 8 direções, com uma chave de respostas destacada em separado. Perfeito para a prática de vocabulário.",
+  "id": "/loona-study-tools/pt-pt/word-search-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Criador de Diagramas com Legendas",
+  "short_name": "Criador de Diagramas com Legendas",
+  "description": "Criador de diagramas com legendas gratuito: carregar um diagrama, clicar para fixar legendas numeradas, imprimir versões com legendas ou em branco e testar os alunos nas legendas. A imagem nunca sai do dispositivo.",
+  "id": "/loona-study-tools/pt-pt/labelled-diagram-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Medidor de Ruído da Sala de Aula",
+  "short_name": "Medidor de Ruído da Sala de Aula",
+  "description": "Medidor de ruído da sala de aula gratuito: barra de nível do microfone em tempo real com zonas verde/âmbar/vermelha e um contador de sequências de silêncio. Apresentação do nível relativo (não em decibéis), analisado no dispositivo, nunca gravado.",
+  "id": "/loona-study-tools/pt-pt/noise-meter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

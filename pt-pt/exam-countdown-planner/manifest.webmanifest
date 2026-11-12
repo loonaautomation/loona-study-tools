@@ -1,0 +1,29 @@
+{
+  "name": "Loona Planeador de Contagem Decrescente para os Exames",
+  "short_name": "Planeador de Contagem Decrescente para os Exames",
+  "description": "Planeador de contagem decrescente para exames gratuito: introduzir a data do exame, as disciplinas e as sessões diárias para obter um plano de revisão dia a dia que distribui as disciplinas de forma justa, por peso de dificuldade, até ao dia do exame.",
+  "id": "/loona-study-tools/pt-pt/exam-countdown-planner/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

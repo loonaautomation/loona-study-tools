@@ -1,0 +1,29 @@
+{
+  "name": "Loona Jogo de Classificação em Grupos",
+  "short_name": "Jogo de Classificação em Grupos",
+  "description": "Jogo de classificação em grupos gratuito para salas de aula: definir categorias e itens, os alunos tocarem nos itens para os colocar nos grupos certos e obterem uma pontuação imediata com correções.",
+  "id": "/loona-study-tools/pt-pt/group-sort-game/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Gerador de Papel para Imprimir",
+  "short_name": "Gerador de Papel para Imprimir",
+  "description": "Gerador de papel para imprimir gratuito: papel quadriculado, grelha de pontos, papel isométrico, papel de caligrafia de 3 linhas e linhas largas com espaçamento exato de 8/10/14mm. Imprimir a 100% para o tamanho real.",
+  "id": "/loona-study-tools/pt-pt/printable-paper-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

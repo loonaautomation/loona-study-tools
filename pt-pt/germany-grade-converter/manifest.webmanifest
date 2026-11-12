@@ -1,0 +1,29 @@
+{
+  "name": "Loona Conversor de Notas da Alemanha",
+  "short_name": "Conversor de Notas da Alemanha",
+  "description": "Converter notas estrangeiras em percentagem ou GPA para a escala alemã de 1.0–5.0 com a fórmula bávara modificada usada pelas universidades alemãs, e converter as notas alemãs no sentido inverso.",
+  "id": "/loona-study-tools/pt-pt/germany-grade-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Conversor de Nota por Letra para GPA",
+  "short_name": "Conversor de Nota por Letra para GPA",
+  "description": "Que GPA corresponde a um A, a um B+ ou a um C−? A tabela completa de conversão de notas por letra para pontos de GPA na escala de 4.0, com faixas percentuais e um conversor de um clique.",
+  "id": "/loona-study-tools/pt-pt/letter-grade-to-gpa/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
