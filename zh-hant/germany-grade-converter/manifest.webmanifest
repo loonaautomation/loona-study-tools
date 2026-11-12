@@ -1,0 +1,29 @@
+{
+  "name": "Loona 德國成績轉換器",
+  "short_name": "德國成績轉換器",
+  "description": "用德國大學使用的修正巴伐利亞公式,把外國百分比或 GPA 成績轉換為德國 1.0–5.0 制,並把德國成績反向轉換。",
+  "id": "/loona-study-tools/zh-hant/germany-grade-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

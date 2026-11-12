@@ -1,0 +1,29 @@
+{
+  "name": "Loona 配對遊戲",
+  "short_name": "配對遊戲",
+  "description": "免費配對記憶遊戲:輸入術語 = 定義對,玩翻牌配對,帶步數和時間跟蹤。非常適合詞彙和複習。",
+  "id": "/loona-study-tools/zh-hant/matching-pairs-game/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

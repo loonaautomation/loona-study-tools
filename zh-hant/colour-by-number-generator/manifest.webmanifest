@@ -1,0 +1,29 @@
+{
+  "name": "Loona 按數字塗色生成器",
+  "short_name": "按數字塗色生成器",
+  "description": "免費按數字塗色生成器:一張帶編號的馬賽克練習紙,附六色圖例和單獨的彩色答案圖。每次都是新圖畫。",
+  "id": "/loona-study-tools/zh-hant/colour-by-number-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

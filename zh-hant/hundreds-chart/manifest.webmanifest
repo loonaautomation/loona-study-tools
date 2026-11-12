@@ -1,0 +1,29 @@
+{
+  "name": "Loona 百數表",
+  "short_name": "百數表",
+  "description": "免費百數表:可互動、可列印的 1-100 表格,帶奇偶數和倍數高亮,還有培養數感的缺數字練習模式。",
+  "id": "/loona-study-tools/zh-hant/hundreds-chart/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

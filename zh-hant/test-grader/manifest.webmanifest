@@ -1,0 +1,29 @@
+{
+  "name": "Loona 試卷評分工具",
+  "short_name": "試卷評分工具",
+  "description": "免費試卷評分工具:貼上答案和學生的答案(字母或單詞),得到即時分數、百分比、字母等級和逐題明細。",
+  "id": "/loona-study-tools/zh-hant/test-grader/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

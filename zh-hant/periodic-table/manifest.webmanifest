@@ -1,0 +1,29 @@
+{
+  "name": "Loona 互動式元素週期表",
+  "short_name": "互動式元素週期表",
+  "description": "免費互動式元素週期表:全部 118 種元素按類別顏色編碼。點選任意元素檢視其原子序數、質量、族、週期和類別。",
+  "id": "/loona-study-tools/zh-hant/periodic-table/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

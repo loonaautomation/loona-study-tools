@@ -1,0 +1,29 @@
+{
+  "name": "Loona 課堂計時器",
+  "short_name": "課堂計時器",
+  "description": "免費課堂計時器:帶進度環和收縮可視條的大顯示屏倒計時、顯示結束時間和剩餘時間的考試計時器,以及帶計圈的秒錶。",
+  "id": "/loona-study-tools/zh-hant/classroom-timers/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

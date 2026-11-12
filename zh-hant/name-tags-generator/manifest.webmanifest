@@ -1,0 +1,29 @@
+{
+  "name": "Loona 姓名牌生成器",
+  "short_name": "姓名牌生成器",
+  "description": "免費姓名牌生成器:貼上班級名單,列印整齊的姓名牌,帶班級/學校副標題——適用於開學第一天、郊遊、家長會和小組活動。",
+  "id": "/loona-study-tools/zh-hant/name-tags-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

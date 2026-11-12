@@ -1,0 +1,29 @@
+{
+  "name": "Loona 書寫練習生成器",
+  "short_name": "書寫練習生成器",
+  "description": "免費書寫練習生成器:可列印的描紅紙,練習字母表、大寫、小寫、數字和您自己的單詞或句子,帶四線格引導。",
+  "id": "/loona-study-tools/zh-hant/handwriting-practice-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

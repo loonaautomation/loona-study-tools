@@ -1,0 +1,29 @@
+{
+  "name": "Loona 拼寫練習紙生成器",
+  "short_name": "拼寫練習紙生成器",
+  "description": "免費拼寫練習紙生成器:從一個單詞列表得到重組練習、缺母音練習紙、ABC 順序練習和拼寫測試紙,附答案。",
+  "id": "/loona-study-tools/zh-hant/spelling-worksheet-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

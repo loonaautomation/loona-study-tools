@@ -1,0 +1,29 @@
+{
+  "name": "Loona SGPA 轉 CGPA 計算器",
+  "short_name": "SGPA 轉 CGPA 計算器",
+  "description": "以正確的方式把各學期 SGPA 合併為 CGPA:學分加權平均,而不是簡單平均。新增您的學期及其學分。",
+  "id": "/loona-study-tools/zh-hant/sgpa-to-cgpa-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

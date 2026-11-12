@@ -1,0 +1,29 @@
+{
+  "name": "Loona 澳大利亞 GPA 轉換器",
+  "short_name": "澳大利亞 GPA 轉換器",
+  "description": "把澳大利亞大學 7 分制的成績(HD = 7)轉換為百分比和約 4.0 制 GPA,附標準成績表。",
+  "id": "/loona-study-tools/zh-hant/australia-gpa-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

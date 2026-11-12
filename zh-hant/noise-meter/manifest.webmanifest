@@ -1,0 +1,29 @@
+{
+  "name": "Loona 課堂噪音測量儀",
+  "short_name": "課堂噪音測量儀",
+  "description": "免費課堂噪音測量儀:實時麥克風音量條,帶綠色/琥珀色/紅色區域和安靜連對計數器。相對水平顯示(不是分貝),在裝置上分析,從不錄音。",
+  "id": "/loona-study-tools/zh-hant/noise-meter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

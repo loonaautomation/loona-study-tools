@@ -1,0 +1,29 @@
+{
+  "name": "Loona 數學練習紙生成器",
+  "short_name": "數學練習紙生成器",
+  "description": "免費數學練習紙生成器:加法、減法、乘法、除法、分數、小數和長除法練習紙,帶數字範圍、重組選項和可列印答案。",
+  "id": "/loona-study-tools/zh-hant/math-worksheet-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

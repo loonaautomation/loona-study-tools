@@ -1,0 +1,452 @@
+[
+ {
+  "n": "抽認卡製作工具",
+  "u": "https://loonaautomation.github.io/loona-study-tools/zh-hant/flashcards/",
+  "s": "Loona Study Tools",
+  "d": "構建抽認卡組,用翻卡和打亂來學習,跟蹤您的掌握情況,並匯出或列印您的卡片。",
+  "k": "flashcards maker flashcards 構建抽認卡組 用翻卡和打亂來學習 跟蹤您的掌握情況 並匯出或列印您的卡片",
+  "p": 0,
+  "c": "Tool"
+ },
+ {
+  "n": "測驗製作工具",
+  "u": "https://loonaautomation.github.io/loona-study-tools/zh-hant/quiz-maker/",
+  "s": "Loona Study Tools",
+  "d": "教師用選擇題、對/錯和簡答題構建測驗——學生作答,帶即時分數和完整的答案回顧。",
+  "k": "quiz maker quiz maker 教師用選擇題 對 錯和簡答題構建測驗 學生作答 帶即時分數和完整的答案回顧",
+  "p": 1,
+  "c": "Tool"
+ },
+ {
+  "n": "Practice by Grade & Topic",
+  "u": "https://loonaautomation.github.io/loona-study-tools/zh-hant/grade-topic-practice/",
+  "s": "Loona Study Tools",
+  "d": "196 個新頁面:為每個年級和數學主題提供例題與練習題,為科學、英語、社會研究和烏爾都語提供科目指南,為 9–12 年級提供巴基斯坦考試局考試指南,併為每種主要評分制提供 CGPA 轉換器。",
+  "k": "practice by grade topic grade topic practice 196 9 12 cgpa 個新頁面 為每個年級和數學主題提供例題與練習題 為科學 英語 社會研究和烏爾都語提供科目指南 為 年級提供巴基斯坦考試局考試指南 併為每種主要評分制提供 轉換器",
+  "p": 102,
+  "c": "Tool"
+ },
+ {
+  "n": "數學練習紙生成器",
+  "u": "https://loonaautomation.github.io/loona-study-tools/zh-hant/math-worksheet-generator/",
+  "s": "Loona Study Tools",
+  "d": "生成可列印的數學練習紙——加法、減法、乘法、除法、分數和小數——附配套答案。",
+  "k": "math worksheet generator math worksheet generator 生成可列印的數學練習紙 加法 減法 乘法 除法 分數和小數 附配套答案",
+  "p": 2,
+  "c": "Tool"
+ },
+ {
+  "n": "閱讀速度測試",
+  "u": "https://loonaautomation.github.io/loona-study-tools/zh-hant/reading-speed-test/",
+  "s": "Loona Study Tools",
+  "d": "閱讀一篇計時文章,回答理解問題,獲得您真實的每分鐘單詞數 (WPM) 閱讀速度。",
+  "k": "reading speed test reading speed test wpm 閱讀一篇計時文章 回答理解問題 獲得您真實的每分鐘單詞數 閱讀速度",
+  "p": 3,
+  "c": "Tool"
+ },
+ {
+  "n": "學習時間表規劃工具",
+  "u": "https://loonaautomation.github.io/loona-study-tools/zh-hant/study-timetable-planner/",
+  "s": "Loona Study Tools",
+  "d": "輸入您的科目、每日小時數和考試日期,得到一份均衡的每週學習時間表,可以編輯和列印。",
+  "k": "study timetable planner study timetable planner 輸入您的科目 每日小時數和考試日期 得到一份均衡的每週學習時間表 可以編輯和列印",
+  "p": 4,
+  "c": "Tool"
+ },
+ {
+  "n": "乘法表練習",
+  "u": "https://loonaautomation.github.io/loona-study-tools/zh-hant/multiplication-tables-practice/",
+  "s": "Loona Study Tools",
+  "d": "透過限時練習輪次訓練乘法表,即時核對,附可列印的 12 × 12 以內乘法表。",
+  "k": "multiplication tables practice multiplication tables practice 12 12 透過限時練習輪次訓練乘法表 即時核對 附可列印的 以內乘法表",
+  "p": 106,
+  "c": "Tool"
+ },
+ {
+  "n": "拼寫測試",
+  "u": "https://loonaautomation.github.io/loona-study-tools/zh-hant/spelling-test/",
+  "s": "Loona Study Tools",
+  "d": "電腦大聲讀出每個單詞——您輸入拼寫。即時分數和每個漏掉單詞的複習。",
+  "k": "spelling test spelling test 電腦大聲讀出每個單詞 您輸入拼寫 即時分數和每個漏掉單詞的複習",
+  "p": 5,
+  "c": "Tool"
+ },
+ {
+  "n": "書寫練習生成器",
+  "u": "https://loonaautomation.github.io/loona-study-tools/zh-hant/handwriting-practice-generator/",
+  "s": "Loona Study Tools",
+  "d": "建立可列印的書寫練習紙,練習字母、數字和您自己的單詞,帶描紅線和空白抄寫線。",
+  "k": "handwriting practice generator handwriting practice generator 建立可列印的書寫練習紙 練習字母 數字和您自己的單詞 帶描紅線和空白抄寫線",
+  "p": 108,
+  "c": "Tool"
+ },
+ {
+  "n": "考試倒計時規劃工具",
+  "u": "https://loonaautomation.github.io/loona-study-tools/zh-hant/exam-countdown-planner/",
+  "s": "Loona Study Tools",
+  "d": "輸入您的考試日期和科目,得到一份逐日複習計劃,把主題公平地分佈在您剩餘的日子裡。",
+  "k": "exam countdown planner exam countdown planner 輸入您的考試日期和科目 得到一份逐日複習計劃 把主題公平地分佈在您剩餘的日子裡",
+  "p": 109,
+  "c": "Tool"
+ },
+ {
+  "n": "單詞搜尋生成器",
+  "u": "https://loonaautomation.github.io/loona-study-tools/zh-hant/word-search-generator/",
+  "s": "Loona Study Tools",
+  "d": "把您自己的單詞列表變成可列印的單詞搜尋謎題,帶單獨的答案,顯示每個單詞的位置。",
+  "k": "word search generator word search generator 把您自己的單詞列表變成可列印的單詞搜尋謎題 帶單獨的答案 顯示每個單詞的位置",
+  "p": 110,
+  "c": "Tool"
+ },
+ {
+  "n": "配對練習紙生成器",
+  "u": "https://loonaautomation.github.io/loona-study-tools/zh-hant/matching-worksheet-generator/",
+  "s": "Loona Study Tools",
+  "d": "建立可列印的配對練習紙——術語在左,打亂的定義在右——附教師答案。",
+  "k": "matching worksheet generator matching worksheet generator 建立可列印的配對練習紙 術語在左 打亂的定義在右 附教師答案",
+  "p": 111,
+  "c": "Tool"
+ },
+ {
+  "n": "隨機點名工具",
+  "u": "https://loonaautomation.github.io/loona-study-tools/zh-hant/random-name-picker/",
+  "s": "Loona Study Tools",
+  "d": "貼上班級名單,公平地隨機挑選學生,帶不重複模式,讓每個人都有機會。",
+  "k": "random name picker random name picker 貼上班級名單 公平地隨機挑選學生 帶不重複模式 讓每個人都有機會",
+  "p": 112,
+  "c": "Tool"
+ },
+ {
+  "n": "配對遊戲",
+  "u": "https://loonaautomation.github.io/loona-study-tools/zh-hant/matching-pairs-game/",
+  "s": "Loona Study Tools",
+  "d": "把任何術語-定義配對變成帶步數和時間跟蹤的翻牌配對記憶遊戲。",
+  "k": "matching pairs game matching pairs game 把任何術語 定義配對變成帶步數和時間跟蹤的翻牌配對記憶遊戲",
+  "p": 113,
+  "c": "Tool"
+ },
+ {
+  "n": "分組排序遊戲",
+  "u": "https://loonaautomation.github.io/loona-study-tools/zh-hant/group-sort-game/",
+  "s": "Loona Study Tools",
+  "d": "建立類別和條目;學生把每個條目分類到正確的組中,並即時得到分數。",
+  "k": "group sort game group sort game 建立類別和條目 學生把每個條目分類到正確的組中 並即時得到分數",
+  "p": 114,
+  "c": "Tool"
+ },
+ {
+  "n": "句子重組遊戲",
+  "u": "https://loonaautomation.github.io/loona-study-tools/zh-hant/unjumble-game/",
+  "s": "Loona Study Tools",
+  "d": "句子逐詞打亂——學生點選單詞把它們恢復到正確的順序。",
+  "k": "unjumble sentences game unjumble game 句子逐詞打亂 學生點選單詞把它們恢復到正確的順序",
+  "p": 115,
+  "c": "Tool"
+ },
+ {
+  "n": "字謎遊戲",
+  "u": "https://loonaautomation.github.io/loona-study-tools/zh-hant/anagram-game/",
+  "s": "Loona Study Tools",
+  "d": "單詞逐字母重組;學生利用您提供的線索還原它們。",
+  "k": "anagram game anagram game 單詞逐字母重組 學生利用您提供的線索還原它們",
+  "p": 116,
+  "c": "Tool"
+ },
+ {
+  "n": "拼詞遊戲",
+  "u": "https://loonaautomation.github.io/loona-study-tools/zh-hant/spell-the-word/",
+  "s": "Loona Study Tools",
+  "d": "按順序點選字母磚來拼出每個單詞——帶線索和即時核對拼寫練習。",
+  "k": "spell the word game spell the word 按順序點選字母磚來拼出每個單詞 帶線索和即時核對拼寫練習",
+  "p": 117,
+  "c": "Tool"
+ },
+ {
+  "n": "猜詞遊戲",
+  "u": "https://loonaautomation.github.io/loona-study-tools/zh-hant/hangman-game/",
+  "s": "Loona Study Tools",
+  "d": "經典的猜字母遊戲,內建學校科目的單詞列表,或您自己的單詞列表。",
+  "k": "hangman game hangman game 經典的猜字母遊戲 內建學校科目的單詞列表 或您自己的單詞列表",
+  "p": 118,
+  "c": "Tool"
+ },
+ {
+  "n": "縱橫填字遊戲生成器",
+  "u": "https://loonaautomation.github.io/loona-study-tools/zh-hant/crossword-generator/",
+  "s": "Loona Study Tools",
+  "d": "輸入單詞和線索,生成一個真正交叉的縱橫填字謎題——可列印,附答案。",
+  "k": "crossword generator crossword generator 輸入單詞和線索 生成一個真正交叉的縱橫填字謎題 可列印 附答案",
+  "p": 119,
+  "c": "Tool"
+ },
+ {
+  "n": "賓果卡生成器",
+  "u": "https://loonaautomation.github.io/loona-study-tools/zh-hant/bingo-card-generator/",
+  "s": "Loona Study Tools",
+  "d": "為全班生成獨一無二的可列印詞彙賓果卡,外加一份打亂的叫號列表。",
+  "k": "bingo card generator bingo card generator 為全班生成獨一無二的可列印詞彙賓果卡 外加一份打亂的叫號列表",
+  "p": 120,
+  "c": "Tool"
+ },
+ {
+  "n": "標註圖製作工具",
+  "u": "https://loonaautomation.github.io/loona-study-tools/zh-hant/labelled-diagram-maker/",
+  "s": "Loona Study Tools",
+  "d": "上傳圖表,把標籤釘在上面,列印帶標籤或空白版本,並執行標籤測驗。",
+  "k": "labelled diagram maker labelled diagram maker 上傳圖表 把標籤釘在上面 列印帶標籤或空白版本 並執行標籤測驗",
+  "p": 121,
+  "c": "Tool"
+ },
+ {
+  "n": "百數表",
+  "u": "https://loonaautomation.github.io/loona-study-tools/zh-hant/hundreds-chart/",
+  "s": "Loona Study Tools",
+  "d": "一張可互動、可列印的 1–100 表格,帶奇偶數和倍數高亮,還有缺數字練習模式。",
+  "k": "hundreds chart hundreds chart 1 100 一張可互動 可列印的 表格 帶奇偶數和倍數高亮 還有缺數字練習模式",
+  "p": 122,
+  "c": "Tool"
+ },
+ {
+  "n": "單詞牆卡片生成器",
+  "u": "https://loonaautomation.github.io/loona-study-tools/zh-hant/word-wall-cards/",
+  "s": "Loona Study Tools",
+  "d": "把單詞列表變成大而粗的可列印單詞牆卡片,用於課堂展示。",
+  "k": "word wall cards generator word wall cards 把單詞列表變成大而粗的可列印單詞牆卡片 用於課堂展示",
+  "p": 123,
+  "c": "Tool"
+ },
+ {
+  "n": "數獨生成器",
+  "u": "https://loonaautomation.github.io/loona-study-tools/zh-hant/sudoku-generator/",
+  "s": "Loona Study Tools",
+  "d": "生成可列印的數獨謎題——4×4、6×6 和 9×9——解唯一,附單獨的解答頁。",
+  "k": "sudoku generator sudoku generator 4 4 6 6 9 9 生成可列印的數獨謎題 和 解唯一 附單獨的解答頁",
+  "p": 124,
+  "c": "Tool"
+ },
+ {
+  "n": "迷宮生成器",
+  "u": "https://loonaautomation.github.io/loona-study-tools/zh-hant/maze-generator/",
+  "s": "Loona Study Tools",
+  "d": "生成四個難度級別的可列印迷宮,可選解答路徑。",
+  "k": "maze generator maze generator 生成四個難度級別的可列印迷宮 可選解答路徑",
+  "p": 125,
+  "c": "Tool"
+ },
+ {
+  "n": "按數字塗色生成器",
+  "u": "https://loonaautomation.github.io/loona-study-tools/zh-hant/colour-by-number-generator/",
+  "s": "Loona Study Tools",
+  "d": "生成一張可列印的按數字塗色馬賽克,附顏色圖例和彩色答案圖。",
+  "k": "colour by number generator colour by number generator 生成一張可列印的按數字塗色馬賽克 附顏色圖例和彩色答案圖",
+  "p": 126,
+  "c": "Tool"
+ },
+ {
+  "n": "可列印紙張生成器",
+  "u": "https://loonaautomation.github.io/loona-study-tools/zh-hant/printable-paper-generator/",
+  "s": "Loona Study Tools",
+  "d": "以精確尺寸列印方格紙、點陣紙、等距紙和手寫練習紙。",
+  "k": "printable paper generator printable paper generator 以精確尺寸列印方格紙 點陣紙 等距紙和手寫練習紙",
+  "p": 127,
+  "c": "Tool"
+ },
+ {
+  "n": "拼寫練習紙生成器",
+  "u": "https://loonaautomation.github.io/loona-study-tools/zh-hant/spelling-worksheet-generator/",
+  "s": "Loona Study Tools",
+  "d": "從一個拼寫列表:一張測試紙、單詞重組、缺字母練習和 ABC 順序——附答案。",
+  "k": "spelling worksheet generator spelling worksheet generator abc 從一個拼寫列表 一張測試紙 單詞重組 缺字母練習和 順序 附答案",
+  "p": 128,
+  "c": "Tool"
+ },
+ {
+  "n": "課堂計時器與考試計時器",
+  "u": "https://loonaautomation.github.io/loona-study-tools/zh-hant/classroom-timers/",
+  "s": "Loona Study Tools",
+  "d": "大顯示屏倒計時器(帶進度環)、顯示結束時間的考試計時器、視覺化條形計時器,以及帶計圈功能的秒錶。",
+  "k": "classroom timers exam timer classroom timers 大顯示屏倒計時器 帶進度環 顯示結束時間的考試計時器 視覺化條形計時器 以及帶計圈功能的秒錶",
+  "p": 129,
+  "c": "Tool"
+ },
+ {
+  "n": "課堂分組製作工具",
+  "u": "https://loonaautomation.github.io/loona-study-tools/zh-hant/classroom-group-maker/",
+  "s": "Loona Study Tools",
+  "d": "儲存您的班級名單,把它們分成公平的隨機小組或配對——大小均衡,一鍵重新洗牌。",
+  "k": "classroom group maker classroom group maker 儲存您的班級名單 把它們分成公平的隨機小組或配對 大小均衡 一鍵重新洗牌",
+  "p": 130,
+  "c": "Tool"
+ },
+ {
+  "n": "座位表製作工具",
+  "u": "https://loonaautomation.github.io/loona-study-tools/zh-hant/seating-chart-maker/",
+  "s": "Loona Study Tools",
+  "d": "在課桌網格上安排學生:點選放置,鎖定心儀的座位,打亂其餘座位,然後列印座位表。",
+  "k": "seating chart maker seating chart maker 在課桌網格上安排學生 點選放置 鎖定心儀的座位 打亂其餘座位 然後列印座位表",
+  "p": 131,
+  "c": "Tool"
+ },
+ {
+  "n": "課堂記分牌",
+  "u": "https://loonaautomation.github.io/loona-study-tools/zh-hant/classroom-scoreboard/",
+  "s": "Loona Study Tools",
+  "d": "一個大而清晰的團隊積分記分牌,適合教室大螢幕——新增隊伍,點按即可加分或減分。",
+  "k": "classroom scoreboard classroom scoreboard 一個大而清晰的團隊積分記分牌 適合教室大螢幕 新增隊伍 點按即可加分或減分",
+  "p": 132,
+  "c": "Tool"
+ },
+ {
+  "n": "課堂噪音測量儀",
+  "u": "https://loonaautomation.github.io/loona-study-tools/zh-hant/noise-meter/",
+  "s": "Loona Study Tools",
+  "d": "使用您的麥克風的實時相對噪音水平儀——綠色、琥珀色和紅色區域,幫助班級自我調節。",
+  "k": "classroom noise meter noise meter 使用您的麥克風的實時相對噪音水平儀 綠色 琥珀色和紅色區域 幫助班級自我調節",
+  "p": 133,
+  "c": "Tool"
+ },
+ {
+  "n": "姓名牌生成器",
+  "u": "https://loonaautomation.github.io/loona-study-tools/zh-hant/name-tags-generator/",
+  "s": "Loona Study Tools",
+  "d": "把班級名單變成帶副標題行的可列印名牌——用於課桌、旅行和開學第一週自我介紹。",
+  "k": "name tags generator name tags generator 把班級名單變成帶副標題行的可列印名牌 用於課桌 旅行和開學第一週自我介紹",
+  "p": 134,
+  "c": "Tool"
+ },
+ {
+  "n": "視覺化日程製作工具",
+  "u": "https://loonaautomation.github.io/loona-study-tools/zh-hant/visual-schedule-builder/",
+  "s": "Loona Study Tools",
+  "d": "構建一份可列印的視覺化日程表,帶時間、活動和圖片圖示——非常適合年幼的孩子。",
+  "k": "visual schedule builder visual schedule builder 構建一份可列印的視覺化日程表 帶時間 活動和圖片圖示 非常適合年幼的孩子",
+  "p": 135,
+  "c": "Tool"
+ },
+ {
+  "n": "EZ 評分工具",
+  "u": "https://loonaautomation.github.io/loona-study-tools/zh-hant/ez-grader/",
+  "s": "Loona Study Tools",
+  "d": "經典的教師評分滑動尺:輸入總題數和錯題數,得到百分比和字母等級,外加一張完整圖表。",
+  "k": "ez grader ez grader 經典的教師評分滑動尺 輸入總題數和錯題數 得到百分比和字母等級 外加一張完整圖表",
+  "p": 136,
+  "c": "Tool"
+ },
+ {
+  "n": "試卷評分工具",
+  "u": "https://loonaautomation.github.io/loona-study-tools/zh-hant/test-grader/",
+  "s": "Loona Study Tools",
+  "d": "貼上答案和學生的答案,逐題即時批改整份試卷。",
+  "k": "test grader test grader 貼上答案和學生的答案 逐題即時批改整份試卷",
+  "p": 137,
+  "c": "Tool"
+ },
+ {
+  "n": "加權成績計算器",
+  "u": "https://loonaautomation.github.io/loona-study-tools/zh-hant/weighted-grade-calculator/",
+  "s": "Loona Study Tools",
+  "d": "按教學大綱的權重把各類別分數(作業、小測、考試、期末)合併為課程成績。",
+  "k": "weighted grade calculator weighted grade calculator 按教學大綱的權重把各類別分數 作業 小測 考試 期末 合併為課程成績",
+  "p": 138,
+  "c": "Tool"
+ },
+ {
+  "n": "期末考試成績計算器",
+  "u": "https://loonaautomation.github.io/loona-study-tools/zh-hant/final-exam-calculator/",
+  "s": "Loona Study Tools",
+  "d": "準確算出您在期末考試中需要多少分才能達到目標課程成績——以及這是否可能。",
+  "k": "final exam grade calculator final exam calculator 準確算出您在期末考試中需要多少分才能達到目標課程成績 以及這是否可能",
+  "p": 139,
+  "c": "Tool"
+ },
+ {
+  "n": "數學速算測試",
+  "u": "https://loonaautomation.github.io/loona-study-tools/zh-hant/math-facts-speed-test/",
+  "s": "Loona Study Tools",
+  "d": "60 秒算術衝刺:在準確率和連對記錄的陪伴下,儘可能多地答對 +、−、× 和 ÷ 運算。",
+  "k": "math facts speed test math facts speed test 60 秒算術衝刺 在準確率和連對記錄的陪伴下 儘可能多地答對 和 運算",
+  "p": 140,
+  "c": "Tool"
+ },
+ {
+  "n": "10 鍵數字小鍵盤測試",
+  "u": "https://loonaautomation.github.io/loona-study-tools/zh-hant/ten-key-test/",
+  "s": "Loona Study Tools",
+  "d": "數字小鍵盤的資料錄入速度測試:快速準確地輸入數字序列,按每分鐘擊鍵數計分。",
+  "k": "10 key number pad test ten key test 數字小鍵盤的資料錄入速度測試 快速準確地輸入數字序列 按每分鐘擊鍵數計分",
+  "p": 141,
+  "c": "Tool"
+ },
+ {
+  "n": "程式碼打字測試",
+  "u": "https://loonaautomation.github.io/loona-study-tools/zh-hant/code-typing-test/",
+  "s": "Loona Study Tools",
+  "d": "輸入帶符號和縮排的真實程式碼片段——測量程式設計師的程式碼打字速度和符號準確性。",
+  "k": "code typing test code typing test 輸入帶符號和縮排的真實程式碼片段 測量程式設計師的程式碼打字速度和符號準確性",
+  "p": 142,
+  "c": "Tool"
+ },
+ {
+  "n": "語法測驗",
+  "u": "https://loonaautomation.github.io/loona-study-tools/zh-hant/grammar-quiz/",
+  "s": "Loona Study Tools",
+  "d": "一份 24 道題的英語語法測試——涵蓋時態、冠詞、介詞、一致關係和標點——即時出分並附講解。",
+  "k": "grammar quiz grammar quiz 24 一份 道題的英語語法測試 涵蓋時態 冠詞 介詞 一致關係和標點 即時出分並附講解",
+  "p": 143,
+  "c": "Tool"
+ },
+ {
+  "n": "詞彙測驗",
+  "u": "https://loonaautomation.github.io/loona-study-tools/zh-hant/vocabulary-quiz/",
+  "s": "Loona Study Tools",
+  "d": "二十個詞義問題,每個四個選項——快速、誠實地檢查您的英語詞彙水平。",
+  "k": "vocabulary quiz vocabulary quiz 二十個詞義問題 每個四個選項 快速 誠實地檢查您的英語詞彙水平",
+  "p": 144,
+  "c": "Tool"
+ },
+ {
+  "n": "互動式元素週期表",
+  "u": "https://loonaautomation.github.io/loona-study-tools/zh-hant/periodic-table/",
+  "s": "Loona Study Tools",
+  "d": "全部 118 種元素都在一張顏色編碼的表格中——點選任意元素檢視其名稱、原子質量、族、週期和類別。",
+  "k": "interactive periodic table periodic table 118 全部 種元素都在一張顏色編碼的表格中 點選任意元素檢視其名稱 原子質量 族 週期和類別",
+  "p": 145,
+  "c": "Tool"
+ },
+ {
+  "n": "摩爾質量計算器",
+  "u": "https://loonaautomation.github.io/loona-study-tools/zh-hant/molar-mass-calculator/",
+  "s": "Loona Study Tools",
+  "d": "輸入化學式——包括括號——得到其摩爾質量 (g/mol),帶每種元素的分解。",
+  "k": "molar mass calculator molar mass calculator g mol 輸入化學式 包括括號 得到其摩爾質量 帶每種元素的分解",
+  "p": 146,
+  "c": "Tool"
+ },
+ {
+  "n": "化學方程式配平工具",
+  "u": "https://loonaautomation.github.io/loona-study-tools/zh-hant/chemical-equation-balancer/",
+  "s": "Loona Study Tools",
+  "d": "輸入一個未配平的方程式,得到配平係數,逐原子驗證。",
+  "k": "chemical equation balancer chemical equation balancer 輸入一個未配平的方程式 得到配平係數 逐原子驗證",
+  "p": 147,
+  "c": "Tool"
+ },
+ {
+  "n": "pH 計算器",
+  "u": "https://loonaautomation.github.io/loona-study-tools/zh-hant/ph-calculator/",
+  "s": "Loona Study Tools",
+  "d": "在 pH、pOH、[H+] 和 [OH-] 之間換算,並計算強酸和強鹼溶液的 pH。",
+  "k": "ph calculator ph calculator ph poh h oh ph 在 和 之間換算 並計算強酸和強鹼溶液的",
+  "p": 148,
+  "c": "Tool"
+ },
+ {
+  "n": "評分量規制作工具",
+  "u": "https://loonaautomation.github.io/loona-study-tools/zh-hant/rubric-maker/",
+  "s": "Loona Study Tools",
+  "d": "構建一份可列印的評分量規:標準沿側面排列,四個表現等級橫貫頂部,分數自動計算。",
+  "k": "rubric maker rubric maker 構建一份可列印的評分量規 標準沿側面排列 四個表現等級橫貫頂部 分數自動計算",
+  "p": 149,
+  "c": "Tool"
+ }
+]

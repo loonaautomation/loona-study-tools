@@ -1,0 +1,29 @@
+{
+  "name": "Loona 閱讀速度測試",
+  "short_name": "閱讀速度測試",
+  "description": "免費閱讀速度測試:閱讀一篇限時文章(3 個選擇,400-600 詞),回答理解問題,得到以 WPM 為單位的閱讀速度,以及按年齡劃分的良好閱讀速度的誠實指南。",
+  "id": "/loona-study-tools/zh-hant/reading-speed-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

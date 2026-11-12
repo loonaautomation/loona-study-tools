@@ -1,0 +1,29 @@
+{
+  "name": "Loona 摩爾質量計算器",
+  "short_name": "摩爾質量計算器",
+  "description": "免費摩爾質量計算器:輸入任何帶括號的化學式——Ca(OH)2、Al2(SO4)3——得到以 g/mol 為單位的摩爾質量,附逐元素明細表。",
+  "id": "/loona-study-tools/zh-hant/molar-mass-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

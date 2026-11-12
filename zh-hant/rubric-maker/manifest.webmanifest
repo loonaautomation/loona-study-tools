@@ -1,0 +1,29 @@
+{
+  "name": "Loona 評分量規制作工具",
+  "short_name": "評分量規制作工具",
+  "description": "免費評分量規制作工具:新增標準和最高分,描述四個表現等級,得到一份可列印的量規網格,每個等級的分數自動計算。",
+  "id": "/loona-study-tools/zh-hant/rubric-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

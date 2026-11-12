@@ -1,0 +1,29 @@
+{
+  "name": "Loona 語法測驗",
+  "short_name": "語法測驗",
+  "description": "免費英語語法測驗:24 道關於時態、冠詞、介詞、一致關係、條件句和標點的題目,即時出分,每個答案附講解。",
+  "id": "/loona-study-tools/zh-hant/grammar-quiz/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

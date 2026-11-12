@@ -1,0 +1,29 @@
+{
+  "name": "Loona 按年級和主題練習",
+  "short_name": "按年級和主題練習",
+  "description": "一個索引,涵蓋 Loona Study Tools 上所有按年級和主題的練習頁面(幼兒園到 8 年級)、科目指南、9–12 年級巴基斯坦考試局考試指南和 CGPA 轉換器。",
+  "id": "/loona-study-tools/zh-hant/grade-topic-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

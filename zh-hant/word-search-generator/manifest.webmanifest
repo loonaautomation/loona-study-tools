@@ -1,0 +1,29 @@
+{
+  "name": "Loona 單詞搜尋生成器",
+  "short_name": "單詞搜尋生成器",
+  "description": "免費單詞搜尋生成器:把您自己的單詞列表變成一個可列印的單詞搜尋謎題,8 個方向,附單獨的高亮答案。非常適合詞彙練習。",
+  "id": "/loona-study-tools/zh-hant/word-search-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

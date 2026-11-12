@@ -1,0 +1,29 @@
+{
+  "name": "Loona 加拿大 GPA 轉換器",
+  "short_name": "加拿大 GPA 轉換器",
+  "description": "用廣泛使用的安大略表格(90–100 = A+ = 4.0)把加拿大百分比成績轉換為 4.0 制,附加拿大各大學評分制差異的說明。",
+  "id": "/loona-study-tools/zh-hant/canada-gpa-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona 4 年級烏爾都語主題與學習指南",
+  "short_name": "4 年級烏爾都語主題與學習",
+  "description": "4 年級的烏爾都語主題按教學順序——語法、習語 (Muhawray) 及其含義、同義詞 (mutashabih alfaaz) 等——每個主題都有免費學習工具。",
+  "id": "/loona-study-tools/zh-hant/grade-4-urdu-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona 學習時間表規劃工具",
+  "short_name": "學習時間表規劃工具",
+  "description": "免費學習時間表規劃工具:輸入科目、每天小時數和考試日期,生成一份均衡、可編輯、可列印的每週學習時間表,科目公平輪換。",
+  "id": "/loona-study-tools/zh-hant/study-timetable-planner/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

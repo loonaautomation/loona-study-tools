@@ -1,0 +1,29 @@
+{
+  "name": "Loona 8年級比與比例練習",
+  "short_name": "8 年級比與",
+  "description": "免費 8 年級比與比例練習——比例圖、地圖和相似圖形。一個例題、6 道帶可列印答案的練習題、方法、常見錯誤和一條頂級建議。",
+  "id": "/loona-study-tools/zh-hant/grade-8-ratios-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

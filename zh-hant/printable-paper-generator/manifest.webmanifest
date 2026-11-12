@@ -1,0 +1,29 @@
+{
+  "name": "Loona 可列印紙張生成器",
+  "short_name": "可列印紙張生成器",
+  "description": "免費可列印紙張生成器:方格紙、點陣紙、等距紙、3 線書寫紙和寬橫線紙,間距精確為 8/10/14mm。按 100% 列印得到真實大小。",
+  "id": "/loona-study-tools/zh-hant/printable-paper-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

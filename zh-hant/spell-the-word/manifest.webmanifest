@@ -1,0 +1,29 @@
+{
+  "name": "Loona 拼詞遊戲",
+  "short_name": "拼詞遊戲",
+  "description": "免費拼詞遊戲:學生利用線索,點按打亂的字母磚來拼出每個單詞。帶即時核對的觸覺拼寫練習。",
+  "id": "/loona-study-tools/zh-hant/spell-the-word/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

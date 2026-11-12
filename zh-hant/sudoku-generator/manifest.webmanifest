@@ -1,0 +1,29 @@
+{
+  "name": "Loona 數獨生成器",
+  "short_name": "數獨生成器",
+  "description": "免費數獨生成器:可列印的 4x4、6x6 和 9x9 數獨謎題,三種難度,每個謎題都經驗證只有一個解,附單獨的解答頁。",
+  "id": "/loona-study-tools/zh-hant/sudoku-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

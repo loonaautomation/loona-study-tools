@@ -1,0 +1,29 @@
+{
+  "name": "Loona 1年級金錢練習",
+  "short_name": "1年級金錢練習",
+  "description": "免費 1 年級金錢練習——硬幣和紙幣:數錢到 Rs 100。一個例題、6 道帶可列印答案的練習題、方法、常見錯誤和一條頂級建議。",
+  "id": "/loona-study-tools/zh-hant/grade-1-money-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

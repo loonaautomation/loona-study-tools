@@ -1,0 +1,29 @@
+{
+  "name": "Loona 詞彙測驗",
+  "short_name": "詞彙測驗",
+  "description": "免費詞彙測驗:20 個英語單詞,每個有四個含義選項,從常見學校詞彙到更豐富的學術詞彙。即時分數和複習。",
+  "id": "/loona-study-tools/zh-hant/vocabulary-quiz/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona 測驗製作工具",
+  "short_name": "測驗製作工具",
+  "description": "免費教師用測驗製作工具:多項選擇、對/錯和簡答題,帶即時分數和複習的作答模式,可列印的測驗 + 單獨答案,JSON 匯出/匯入。",
+  "id": "/loona-study-tools/zh-hant/quiz-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

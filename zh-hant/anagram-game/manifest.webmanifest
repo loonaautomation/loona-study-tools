@@ -1,0 +1,29 @@
+{
+  "name": "Loona 字謎遊戲",
+  "short_name": "字謎遊戲",
+  "description": "免費字謎遊戲:您的單詞被逐字母打亂;學生利用線索還原每個單詞。即時核對和最終分數。",
+  "id": "/loona-study-tools/zh-hant/anagram-game/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

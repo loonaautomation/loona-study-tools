@@ -1,0 +1,29 @@
+{
+  "name": "Loona 加權成績計算器",
+  "short_name": "加權成績計算器",
+  "description": "免費加權成績計算器:輸入類別權重和分數(作業、小測、考試、期末),得到您的總體課程百分比和字母等級。權重會自動歸一化。",
+  "id": "/loona-study-tools/zh-hant/weighted-grade-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

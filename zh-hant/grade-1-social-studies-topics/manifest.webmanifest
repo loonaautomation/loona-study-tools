@@ -1,0 +1,29 @@
+{
+  "name": "Loona 1 年級社會研究主題與學習",
+  "short_name": "1年級社會研究主題",
+  "description": "1 年級的社會研究主題按教學順序——我們的社群、幫助我們的人、交通等——每個主題都有免費學習工具。",
+  "id": "/loona-study-tools/zh-hant/grade-1-social-studies-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona 縱橫填字遊戲生成器",
+  "short_name": "縱橫填字遊戲生成器",
+  "description": "免費縱橫填字遊戲生成器:輸入單詞和線索,得到一個真正交叉的縱橫填字謎題,可列印,附編號線索和單獨的答案。",
+  "id": "/loona-study-tools/zh-hant/crossword-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona 期末考試成績計算器",
+  "short_name": "期末考試成績計算器",
+  "description": "免費期末考試計算器:輸入您當前的成績、期末權重和目標,確切檢視您期末需要考多少分——以及是否還來得及。",
+  "id": "/loona-study-tools/zh-hant/final-exam-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
