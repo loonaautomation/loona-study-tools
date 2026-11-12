@@ -1,0 +1,29 @@
+{
+  "name": "Loona Тест з граматики",
+  "short_name": "Тест з граматики",
+  "description": "Безкоштовний тест із граматики англійської: 24 запитання про часи, артиклі, прийменники, узгодження, умовні речення та пунктуацію, з миттєвим результатом і поясненням до кожної відповіді.",
+  "id": "/loona-study-tools/uk/grammar-quiz/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Grade 1 Social Studies Topics and Study",
+  "short_name": "Grade 1 Social Studies Topics",
+  "description": "Теми з суспільствознавства для 1 класу у порядку викладання — Наш район, Люди, які нам допомагають та Транспорт та більше — з безкоштовними навчальними інструментами для кожної теми.",
+  "id": "/loona-study-tools/uk/grade-1-social-studies-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

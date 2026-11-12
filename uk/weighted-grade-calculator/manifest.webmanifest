@@ -1,0 +1,29 @@
+{
+  "name": "Loona Калькулятор зваженої оцінки",
+  "short_name": "Калькулятор зваженої оцінки",
+  "description": "Безкоштовний калькулятор зваженої оцінки: введіть ваги категорій і бали (домашнє завдання, тести, контрольні, підсумковий), щоб отримати загальний відсоток за курс і літерну оцінку. Ваги автоматично нормуються.",
+  "id": "/loona-study-tools/uk/weighted-grade-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

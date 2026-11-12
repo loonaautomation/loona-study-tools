@@ -1,0 +1,29 @@
+{
+  "name": "Loona Тест на словниковий запас",
+  "short_name": "Тест на словниковий запас",
+  "description": "Безкоштовний словниковий тест: 20 англійських слів із чотирма варіантами значення кожне, від поширених шкільних слів до багатшого академічного словника. Миттєвий результат і огляд.",
+  "id": "/loona-study-tools/uk/vocabulary-quiz/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

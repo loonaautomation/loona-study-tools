@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kindergarten Social Studies Topics and",
+  "short_name": "Kindergarten Social Studies",
+  "description": "Теми з суспільствознавства для дошкільнят у порядку викладання — Моя родина та мій дім, Моя школа та мій клас та Помічники в нашому районі та більше — з безкоштовними навчальними інструментами для кожної теми.",
+  "id": "/loona-study-tools/uk/kindergarten-social-studies-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

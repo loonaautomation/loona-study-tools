@@ -1,0 +1,29 @@
+{
+  "name": "Loona 10-Key Test",
+  "short_name": "10-Key Test",
+  "description": "Безкоштовний тест цифрової клавіатури з 10 клавіш: друкуйте послідовності цифр якомога швидше й точніше; оцінка — у натисканнях за хвилину з точністю — тест навичок введення даних.",
+  "id": "/loona-study-tools/uk/ten-key-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

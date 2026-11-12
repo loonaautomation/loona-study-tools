@@ -1,0 +1,29 @@
+{
+  "name": "Loona Конструктор візуального розкладу",
+  "short_name": "Конструктор візуального розкладу",
+  "description": "Безкоштовний конструктор візуального розкладу: створіть розклад шкільного дня з картинками для друку — із часом, значками та заняттями — ідеально для малих дітей і підтримки особливих освітніх потреб.",
+  "id": "/loona-study-tools/uk/visual-schedule-builder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

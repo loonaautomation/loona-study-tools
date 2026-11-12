@@ -1,0 +1,29 @@
+{
+  "name": "Loona Конструктор схеми розсадки",
+  "short_name": "Конструктор схеми розсадки",
+  "description": "Безкоштовний конструктор схеми розсадки: створіть сітку парт, клацайте, щоб розмістити учнів, блокуйте місця, які не мають рухатися, перемішуйте всіх інших і друкуйте схему.",
+  "id": "/loona-study-tools/uk/seating-chart-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

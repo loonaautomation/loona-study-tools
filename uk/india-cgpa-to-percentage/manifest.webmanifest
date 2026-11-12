@@ -1,0 +1,29 @@
+{
+  "name": "Loona India CGPA to Percentage",
+  "short_name": "India CGPA to Percentage",
+  "description": "Конвертуйте індійський CGPA за 10-бальною шкалою у відсотки за формулою CBSE (× 9.5) і варіантами, які використовують індійські університети, — (CGPA − 0.5) × 10 і × 10 — з повною таблицею.",
+  "id": "/loona-study-tools/uk/india-cgpa-to-percentage/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

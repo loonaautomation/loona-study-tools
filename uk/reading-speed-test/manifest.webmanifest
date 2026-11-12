@@ -1,0 +1,29 @@
+{
+  "name": "Loona Тест на швидкість читання",
+  "short_name": "Тест на швидкість читання",
+  "description": "Безкоштовний тест швидкості читання: прочитайте уривок на час (3 варіанти, 400-600 слів), дайте відповіді на запитання на розуміння й отримайте швидкість читання у словах за хвилину плюс чесний посібник із хороших швидкостей читання за віком.",
+  "id": "/loona-study-tools/uk/reading-speed-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

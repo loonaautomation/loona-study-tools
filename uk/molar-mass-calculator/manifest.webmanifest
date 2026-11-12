@@ -1,0 +1,29 @@
+{
+  "name": "Loona Калькулятор молярної маси",
+  "short_name": "Калькулятор молярної маси",
+  "description": "Безкоштовний калькулятор молярної маси: введіть будь-яку хімічну формулу з дужками — Ca(OH)2, Al2(SO4)3 — і отримайте молярну масу в г/моль із таблицею розбиття за елементами.",
+  "id": "/loona-study-tools/uk/molar-mass-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

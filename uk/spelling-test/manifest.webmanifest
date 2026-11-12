@@ -1,0 +1,29 @@
+{
+  "name": "Loona Тест з правопису",
+  "short_name": "Тест з правопису",
+  "description": "Безкоштовний тест правопису: браузер читає кожне слово вголос, ви друкуєте написання й отримуєте миттєвий результат із оглядом пропущених слів. Вбудовані списки за віком плюс власні списки слів.",
+  "id": "/loona-study-tools/uk/spelling-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

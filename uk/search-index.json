@@ -1,0 +1,452 @@
+[
+ {
+  "n": "Конструктор карток для запам’ятовування",
+  "u": "https://loonaautomation.github.io/loona-study-tools/uk/flashcards/",
+  "s": "Loona Study Tools",
+  "d": "Створюйте колоди карток, навчайтеся з перевернутими картками та перемішуванням, відстежуйте, що ви знаєте, і експортуйте або друкуйте свої картки.",
+  "k": "flashcards maker flashcards",
+  "p": 0,
+  "c": "Tool"
+ },
+ {
+  "n": "Конструктор тестів",
+  "u": "https://loonaautomation.github.io/loona-study-tools/uk/quiz-maker/",
+  "s": "Loona Study Tools",
+  "d": "Учителі створюють тести з вибором варіанта, правда/неправда та короткими відповідями — учні проходять їх із миттєвими результатами й повним оглядом відповідей.",
+  "k": "quiz maker quiz maker",
+  "p": 1,
+  "c": "Tool"
+ },
+ {
+  "n": "Practice by Grade & Topic",
+  "u": "https://loonaautomation.github.io/loona-study-tools/uk/grade-topic-practice/",
+  "s": "Loona Study Tools",
+  "d": "196 нових сторінок: розібрані приклади та практичні запитання для кожного класу й кожної теми з математики, посібники з природознавства, англійської мови, суспільствознавства та урду, посібники до іспитів рад Пакистану для 9–12 класів і конвертери CGPA для кожної основної шкали оцінювання.",
+  "k": "practice by grade topic grade topic practice 196 9 12 cgpa",
+  "p": 102,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор робочих аркушів з математики",
+  "u": "https://loonaautomation.github.io/loona-study-tools/uk/math-worksheet-generator/",
+  "s": "Loona Study Tools",
+  "d": "Генеруйте робочі аркуші з математики для друку — додавання, віднімання, множення, ділення, дроби та десяткові дроби — із відповідним ключем відповідей.",
+  "k": "math worksheet generator math worksheet generator",
+  "p": 2,
+  "c": "Tool"
+ },
+ {
+  "n": "Тест на швидкість читання",
+  "u": "https://loonaautomation.github.io/loona-study-tools/uk/reading-speed-test/",
+  "s": "Loona Study Tools",
+  "d": "Прочитайте уривок на час, дайте відповіді на запитання на розуміння й отримайте справжню швидкість читання у словах за хвилину (WPM).",
+  "k": "reading speed test reading speed test wpm",
+  "p": 3,
+  "c": "Tool"
+ },
+ {
+  "n": "Планувальник навчального розкладу",
+  "u": "https://loonaautomation.github.io/loona-study-tools/uk/study-timetable-planner/",
+  "s": "Loona Study Tools",
+  "d": "Введіть свої предмети, щоденні години та дату іспиту й отримайте збалансований тижневий навчальний розклад, який можна редагувати та друкувати.",
+  "k": "study timetable planner study timetable planner",
+  "p": 4,
+  "c": "Tool"
+ },
+ {
+  "n": "Практика таблиць множення",
+  "u": "https://loonaautomation.github.io/loona-study-tools/uk/multiplication-tables-practice/",
+  "s": "Loona Study Tools",
+  "d": "Тренуйте таблиці множення тренувальними раундами на час, миттєвою перевіркою та таблицею множення для друку до 12 × 12.",
+  "k": "multiplication tables practice multiplication tables practice 12 12",
+  "p": 106,
+  "c": "Tool"
+ },
+ {
+  "n": "Тест з правопису",
+  "u": "https://loonaautomation.github.io/loona-study-tools/uk/spelling-test/",
+  "s": "Loona Study Tools",
+  "d": "Комп’ютер читає кожне слово вголос — ви друкуєте написання. Миттєвий результат і огляд кожного пропущеного слова.",
+  "k": "spelling test spelling test",
+  "p": 5,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор вправ з письма від руки",
+  "u": "https://loonaautomation.github.io/loona-study-tools/uk/handwriting-practice-generator/",
+  "s": "Loona Study Tools",
+  "d": "Створюйте аркуші для практики письма для друку — для літер, чисел і власних слів, із рядками для обведення та порожніми рядками для копіювання.",
+  "k": "handwriting practice generator handwriting practice generator",
+  "p": 108,
+  "c": "Tool"
+ },
+ {
+  "n": "Планувальник зворотного відліку до іспиту",
+  "u": "https://loonaautomation.github.io/loona-study-tools/uk/exam-countdown-planner/",
+  "s": "Loona Study Tools",
+  "d": "Введіть дату іспиту та предмети й отримайте щоденний план повторення, який чесно розподіляє теми на дні, що у вас залишилися.",
+  "k": "exam countdown planner exam countdown planner",
+  "p": 109,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор пошуку слів",
+  "u": "https://loonaautomation.github.io/loona-study-tools/uk/word-search-generator/",
+  "s": "Loona Study Tools",
+  "d": "Перетворіть власний список слів на головоломку пошуку слів для друку, з окремим ключем відповідей, що показує розташування кожного слова.",
+  "k": "word search generator word search generator",
+  "p": 110,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор робочих аркушів на зіставлення",
+  "u": "https://loonaautomation.github.io/loona-study-tools/uk/matching-worksheet-generator/",
+  "s": "Loona Study Tools",
+  "d": "Створюйте робочі аркуші на відповідність для друку — терміни ліворуч, перемішані визначення праворуч — із ключем відповідей для вчителя.",
+  "k": "matching worksheet generator matching worksheet generator",
+  "p": 111,
+  "c": "Tool"
+ },
+ {
+  "n": "Випадковий вибір імені",
+  "u": "https://loonaautomation.github.io/loona-study-tools/uk/random-name-picker/",
+  "s": "Loona Study Tools",
+  "d": "Вставте список класу й вибирайте учнів чесно випадково, з режимом без повторів, щоб кожен отримав чергу.",
+  "k": "random name picker random name picker",
+  "p": 112,
+  "c": "Tool"
+ },
+ {
+  "n": "Гра «Знайди пару»",
+  "u": "https://loonaautomation.github.io/loona-study-tools/uk/matching-pairs-game/",
+  "s": "Loona Study Tools",
+  "d": "Перетворіть будь-які пари термін-визначення на гру на пам’ять «переверни та зістав» із відстеженням ходів і часу.",
+  "k": "matching pairs game matching pairs game",
+  "p": 113,
+  "c": "Tool"
+ },
+ {
+  "n": "Гра «Сортування за групами»",
+  "u": "https://loonaautomation.github.io/loona-study-tools/uk/group-sort-game/",
+  "s": "Loona Study Tools",
+  "d": "Створюйте категорії та елементи; учні сортують кожен елемент у правильну групу й одразу отримують результат.",
+  "k": "group sort game group sort game",
+  "p": 114,
+  "c": "Tool"
+ },
+ {
+  "n": "Гра «Склади речення»",
+  "u": "https://loonaautomation.github.io/loona-study-tools/uk/unjumble-game/",
+  "s": "Loona Study Tools",
+  "d": "Речення перемішуються слово за словом — учні дотикаються до слів назад у правильному порядку.",
+  "k": "unjumble sentences game unjumble game",
+  "p": 115,
+  "c": "Tool"
+ },
+ {
+  "n": "Гра «Анаграма»",
+  "u": "https://loonaautomation.github.io/loona-study-tools/uk/anagram-game/",
+  "s": "Loona Study Tools",
+  "d": "Слова перемішуються літера за літерою; учні розплутують їх, використовуючи підказку, яку ви надаєте.",
+  "k": "anagram game anagram game",
+  "p": 116,
+  "c": "Tool"
+ },
+ {
+  "n": "Гра «Напиши слово»",
+  "u": "https://loonaautomation.github.io/loona-study-tools/uk/spell-the-word/",
+  "s": "Loona Study Tools",
+  "d": "Складайте кожне слово, торкаючись літерних плиток по порядку — практика правопису з підказками та миттєвими перевірками.",
+  "k": "spell the word game spell the word",
+  "p": 117,
+  "c": "Tool"
+ },
+ {
+  "n": "Гра «Шибениця»",
+  "u": "https://loonaautomation.github.io/loona-study-tools/uk/hangman-game/",
+  "s": "Loona Study Tools",
+  "d": "Класична гра у вгадування літер із вбудованими списками слів для шкільних предметів або вашим власним списком слів.",
+  "k": "hangman game hangman game",
+  "p": 118,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор кросвордів",
+  "u": "https://loonaautomation.github.io/loona-study-tools/uk/crossword-generator/",
+  "s": "Loona Study Tools",
+  "d": "Введіть слова й підказки та згенеруйте справжній кросворд, що перетинається, — для друку, з ключем відповідей.",
+  "k": "crossword generator crossword generator",
+  "p": 119,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор карток бінго",
+  "u": "https://loonaautomation.github.io/loona-study-tools/uk/bingo-card-generator/",
+  "s": "Loona Study Tools",
+  "d": "Генеруйте унікальні картки словникового бінго для друку для всього класу плюс перемішаний список виклику.",
+  "k": "bingo card generator bingo card generator",
+  "p": 120,
+  "c": "Tool"
+ },
+ {
+  "n": "Конструктор схем із підписами",
+  "u": "https://loonaautomation.github.io/loona-study-tools/uk/labelled-diagram-maker/",
+  "s": "Loona Study Tools",
+  "d": "Завантажте схему, прикріпіть підписи на неї, надрукуйте підписану чи порожню версію та запустіть тест підписів.",
+  "k": "labelled diagram maker labelled diagram maker",
+  "p": 121,
+  "c": "Tool"
+ },
+ {
+  "n": "Таблиця сотні",
+  "u": "https://loonaautomation.github.io/loona-study-tools/uk/hundreds-chart/",
+  "s": "Loona Study Tools",
+  "d": "Інтерактивна таблиця 1–100 для друку з підсвічуванням парних/непарних чисел і кратних, плюс режим практики з відсутніми числами.",
+  "k": "hundreds chart hundreds chart 1 100",
+  "p": 122,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор карток для стіни слів",
+  "u": "https://loonaautomation.github.io/loona-study-tools/uk/word-wall-cards/",
+  "s": "Loona Study Tools",
+  "d": "Перетворіть списки слів на великі, жирні картки стіни слів для друку для класних стендів.",
+  "k": "word wall cards generator word wall cards",
+  "p": 123,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор судоку",
+  "u": "https://loonaautomation.github.io/loona-study-tools/uk/sudoku-generator/",
+  "s": "Loona Study Tools",
+  "d": "Генеруйте головоломки судоку для друку — 4×4, 6×6 і 9×9 — з унікальними розв’язками та окремою сторінкою розв’язків.",
+  "k": "sudoku generator sudoku generator 4 4 6 6 9 9",
+  "p": 124,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор лабіринтів",
+  "u": "https://loonaautomation.github.io/loona-study-tools/uk/maze-generator/",
+  "s": "Loona Study Tools",
+  "d": "Генеруйте лабіринти для друку на чотирьох рівнях складності з необов’язковим шляхом розв’язку.",
+  "k": "maze generator maze generator",
+  "p": 125,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор розмальовок за номерами",
+  "u": "https://loonaautomation.github.io/loona-study-tools/uk/colour-by-number-generator/",
+  "s": "Loona Study Tools",
+  "d": "Згенеруйте мозаїку-розмальовку за номерами для друку з ключем кольорів і кольоровою картинкою-відповіддю.",
+  "k": "colour by number generator colour by number generator",
+  "p": 126,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор паперу для друку",
+  "u": "https://loonaautomation.github.io/loona-study-tools/uk/printable-paper-generator/",
+  "s": "Loona Study Tools",
+  "d": "Друкуйте міліметровий папір, крапковий папір, ізометричний папір і папір для практики письма в точних розмірах.",
+  "k": "printable paper generator printable paper generator",
+  "p": 127,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор робочих аркушів з правопису",
+  "u": "https://loonaautomation.github.io/loona-study-tools/uk/spelling-worksheet-generator/",
+  "s": "Loona Study Tools",
+  "d": "З одного списку правопису: аркуш тесту, перемішані слова, практика пропущених літер і порядок ABC — із ключем відповідей.",
+  "k": "spelling worksheet generator spelling worksheet generator abc",
+  "p": 128,
+  "c": "Tool"
+ },
+ {
+  "n": "Таймери для класу та іспитовий таймер",
+  "u": "https://loonaautomation.github.io/loona-study-tools/uk/classroom-timers/",
+  "s": "Loona Study Tools",
+  "d": "Таймер зворотного відліку з великим дисплеєм і кільцем прогресу, іспитовий таймер, що показує час закінчення, візуальний смуговий таймер і секундомір із колами.",
+  "k": "classroom timers exam timer classroom timers",
+  "p": 129,
+  "c": "Tool"
+ },
+ {
+  "n": "Формування груп у класі",
+  "u": "https://loonaautomation.github.io/loona-study-tools/uk/classroom-group-maker/",
+  "s": "Loona Study Tools",
+  "d": "Зберігайте списки класів і діліть їх на чесні випадкові групи або пари — збалансовані розміри, перемішування в один клік.",
+  "k": "classroom group maker classroom group maker",
+  "p": 130,
+  "c": "Tool"
+ },
+ {
+  "n": "Конструктор схеми розсадки",
+  "u": "https://loonaautomation.github.io/loona-study-tools/uk/seating-chart-maker/",
+  "s": "Loona Study Tools",
+  "d": "Розташуйте учнів на сітці парт: клацайте, щоб розмістити, блокуйте улюблені місця, перемішуйте решту й друкуйте схему.",
+  "k": "seating chart maker seating chart maker",
+  "p": 131,
+  "c": "Tool"
+ },
+ {
+  "n": "Табло рахунку класу",
+  "u": "https://loonaautomation.github.io/loona-study-tools/uk/classroom-scoreboard/",
+  "s": "Loona Study Tools",
+  "d": "Велике, чітке табло командних балів для класного екрана: додавайте команди, торкайтеся, щоб додавати або забирати бали.",
+  "k": "classroom scoreboard classroom scoreboard",
+  "p": 132,
+  "c": "Tool"
+ },
+ {
+  "n": "Вимірювач шуму в класі",
+  "u": "https://loonaautomation.github.io/loona-study-tools/uk/noise-meter/",
+  "s": "Loona Study Tools",
+  "d": "Живий вимірювач відносного рівня шуму через ваш мікрофон — зелена, жовта та червона зони, які допомагають класам саморегулюватися.",
+  "k": "classroom noise meter noise meter",
+  "p": 133,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор бейджів з іменами",
+  "u": "https://loonaautomation.github.io/loona-study-tools/uk/name-tags-generator/",
+  "s": "Loona Study Tools",
+  "d": "Перетворіть список класу на бейджі з іменами для друку з рядком підзаголовка — для парт, поїздок і знайомств першого тижня.",
+  "k": "name tags generator name tags generator",
+  "p": 134,
+  "c": "Tool"
+ },
+ {
+  "n": "Конструктор візуального розкладу",
+  "u": "https://loonaautomation.github.io/loona-study-tools/uk/visual-schedule-builder/",
+  "s": "Loona Study Tools",
+  "d": "Створіть візуальний розклад дня для друку з часом, активностями та значками-картинками — ідеально для молодших дітей.",
+  "k": "visual schedule builder visual schedule builder",
+  "p": 135,
+  "c": "Tool"
+ },
+ {
+  "n": "EZ Grader",
+  "u": "https://loonaautomation.github.io/loona-study-tools/uk/ez-grader/",
+  "s": "Loona Study Tools",
+  "d": "Класична вчительська шкала оцінювання: введіть загальну кількість запитань і кількість неправильних, щоб отримати відсоток і літерну оцінку, плюс повну таблицю.",
+  "k": "ez grader ez grader",
+  "p": 136,
+  "c": "Tool"
+ },
+ {
+  "n": "Оцінювання тестів",
+  "u": "https://loonaautomation.github.io/loona-study-tools/uk/test-grader/",
+  "s": "Loona Study Tools",
+  "d": "Вставте ключ відповідей і відповіді учня, щоб миттєво оцінити цілий тест, запитання за запитанням.",
+  "k": "test grader test grader",
+  "p": 137,
+  "c": "Tool"
+ },
+ {
+  "n": "Калькулятор зваженої оцінки",
+  "u": "https://loonaautomation.github.io/loona-study-tools/uk/weighted-grade-calculator/",
+  "s": "Loona Study Tools",
+  "d": "Поєднайте бали за категоріями (домашнє завдання, тести, контрольні, підсумковий) за їхніми вагами в програмі в оцінку за курс.",
+  "k": "weighted grade calculator weighted grade calculator",
+  "p": 138,
+  "c": "Tool"
+ },
+ {
+  "n": "Калькулятор оцінки підсумкового іспиту",
+  "u": "https://loonaautomation.github.io/loona-study-tools/uk/final-exam-calculator/",
+  "s": "Loona Study Tools",
+  "d": "Обчисліть точно, який бал вам потрібен на фінальному іспиті, щоб досягти цільової оцінки курсу, — і чи це можливо.",
+  "k": "final exam grade calculator final exam calculator",
+  "p": 139,
+  "c": "Tool"
+ },
+ {
+  "n": "Тест на швидкість обчислень",
+  "u": "https://loonaautomation.github.io/loona-study-tools/uk/math-facts-speed-test/",
+  "s": "Loona Study Tools",
+  "d": "Арифметичний спринт на 60 секунд: якомога більше правильних прикладів на +, −, × і ÷, з точністю та серіями.",
+  "k": "math facts speed test math facts speed test 60",
+  "p": 140,
+  "c": "Tool"
+ },
+ {
+  "n": "Тест цифрової клавіатури на 10 клавіш",
+  "u": "https://loonaautomation.github.io/loona-study-tools/uk/ten-key-test/",
+  "s": "Loona Study Tools",
+  "d": "Тест швидкості введення даних для цифрової клавіатури: друкуйте послідовності чисел швидко й точно, оцінка — у натисканнях за хвилину.",
+  "k": "10 key number pad test ten key test",
+  "p": 141,
+  "c": "Tool"
+ },
+ {
+  "n": "Тест друку коду",
+  "u": "https://loonaautomation.github.io/loona-study-tools/uk/code-typing-test/",
+  "s": "Loona Study Tools",
+  "d": "Друкуйте справжні фрагменти коду із символами та відступами — вимірює швидкість друку коду та точність символів для програмістів.",
+  "k": "code typing test code typing test",
+  "p": 142,
+  "c": "Tool"
+ },
+ {
+  "n": "Тест з граматики",
+  "u": "https://loonaautomation.github.io/loona-study-tools/uk/grammar-quiz/",
+  "s": "Loona Study Tools",
+  "d": "Тест з граматики англійської мови на 24 запитання — часи, артиклі, прийменники, узгодження та пунктуація — з миттєвим результатом і поясненнями.",
+  "k": "grammar quiz grammar quiz 24",
+  "p": 143,
+  "c": "Tool"
+ },
+ {
+  "n": "Тест на словниковий запас",
+  "u": "https://loonaautomation.github.io/loona-study-tools/uk/vocabulary-quiz/",
+  "s": "Loona Study Tools",
+  "d": "Двадцять запитань про значення слів із чотирма варіантами кожне — швидка, чесна перевірка вашого рівня англійського словника.",
+  "k": "vocabulary quiz vocabulary quiz",
+  "p": 144,
+  "c": "Tool"
+ },
+ {
+  "n": "Інтерактивна періодична таблиця",
+  "u": "https://loonaautomation.github.io/loona-study-tools/uk/periodic-table/",
+  "s": "Loona Study Tools",
+  "d": "Усі 118 елементів у таблиці з кольоровим кодуванням — клацніть будь-який елемент, щоб побачити його назву, атомну масу, групу, період і категорію.",
+  "k": "interactive periodic table periodic table 118",
+  "p": 145,
+  "c": "Tool"
+ },
+ {
+  "n": "Калькулятор молярної маси",
+  "u": "https://loonaautomation.github.io/loona-study-tools/uk/molar-mass-calculator/",
+  "s": "Loona Study Tools",
+  "d": "Введіть хімічну формулу — дужки включно — і отримайте її молярну масу в г/моль із розбивкою за елементами.",
+  "k": "molar mass calculator molar mass calculator",
+  "p": 146,
+  "c": "Tool"
+ },
+ {
+  "n": "Балансування хімічних рівнянь",
+  "u": "https://loonaautomation.github.io/loona-study-tools/uk/chemical-equation-balancer/",
+  "s": "Loona Study Tools",
+  "d": "Введіть незбалансоване рівняння й отримайте збалансовані коефіцієнти, перевірені атом за атомом.",
+  "k": "chemical equation balancer chemical equation balancer",
+  "p": 147,
+  "c": "Tool"
+ },
+ {
+  "n": "Калькулятор pH",
+  "u": "https://loonaautomation.github.io/loona-study-tools/uk/ph-calculator/",
+  "s": "Loona Study Tools",
+  "d": "Конвертуйте між pH, pOH, [H+] і [OH-] та обчислюйте pH розчинів сильних кислот і сильних основ.",
+  "k": "ph calculator ph calculator ph poh h oh ph",
+  "p": 148,
+  "c": "Tool"
+ },
+ {
+  "n": "Конструктор рубрик оцінювання",
+  "u": "https://loonaautomation.github.io/loona-study-tools/uk/rubric-maker/",
+  "s": "Loona Study Tools",
+  "d": "Створіть рубрику оцінювання для друку: критерії збоку, чотири рівні виконання вгорі, бали обчислюються автоматично.",
+  "k": "rubric maker rubric maker",
+  "p": 149,
+  "c": "Tool"
+ }
+]

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Планувальник зворотного відліку до іспиту",
+  "short_name": "Планувальник зворотного відліку",
+  "description": "Безкоштовний планувальник зворотного відліку до іспиту: введіть дату іспиту, предмети та щоденні заняття, щоб отримати щоденний план повторення, який чесно розподіляє предмети за вагою складності до дня іспиту.",
+  "id": "/loona-study-tools/uk/exam-countdown-planner/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

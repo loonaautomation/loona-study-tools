@@ -1,0 +1,29 @@
+{
+  "name": "Loona Конструктор карток для запам’ятовування",
+  "short_name": "Конструктор карток для",
+  "description": "Безкоштовний конструктор карток: створюйте колоди, навчайтеся з картками-перевертишами, перемішуванням і відстеженням «знаю/не знаю». Імпорт/експорт CSV і JSON, друк карток. Без реєстрації, зберігається на вашому пристрої.",
+  "id": "/loona-study-tools/uk/flashcards/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

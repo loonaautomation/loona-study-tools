@@ -1,0 +1,29 @@
+{
+  "name": "Loona Генератор карток бінго",
+  "short_name": "Генератор карток бінго",
+  "description": "Безкоштовний генератор карток бінго: введіть 24+ слів і згенеруйте унікальні картки бінго 5x5 для друку для всього класу плюс перемішаний список виклику. Словник, слова зорового сприйняття, числа та інше.",
+  "id": "/loona-study-tools/uk/bingo-card-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

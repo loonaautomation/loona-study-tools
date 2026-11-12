@@ -1,0 +1,29 @@
+{
+  "name": "Loona Планувальник навчального розкладу",
+  "short_name": "Планувальник навчального",
+  "description": "Безкоштовний планувальник навчального розкладу: введіть предмети, години на день і дату іспиту, щоб згенерувати збалансований тижневий навчальний розклад, який можна редагувати та друкувати, із чесною ротацією предметів.",
+  "id": "/loona-study-tools/uk/study-timetable-planner/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

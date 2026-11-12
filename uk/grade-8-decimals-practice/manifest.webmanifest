@@ -1,0 +1,29 @@
+{
+  "name": "Loona Десяткові дроби, 8 клас — практика",
+  "short_name": "Десяткові дроби, 8 клас —",
+  "description": "Безкоштовна практика: десяткові дроби для 8 класу — періодичні десяткові дроби та раціональні числа. Розібраний приклад, 6 практичних запитань із ключем відповідей для друку, метод, типова помилка та головна порада.",
+  "id": "/loona-study-tools/uk/grade-8-decimals-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

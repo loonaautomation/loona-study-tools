@@ -1,0 +1,29 @@
+{
+  "name": "Loona Навчальні інструменти",
+  "short_name": "Інструменти",
+  "description": "Безкоштовні онлайн навчальні інструменти для учнів і вчителів: конструктор карток для запам’ятовування, конструктор тестів, генератор математичних робочих аркушів, тест швидкості читання та планувальник навчального розкладу. Без реєстрації, приватно, для друку.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "id": "/loona-study-tools/uk/"
+}

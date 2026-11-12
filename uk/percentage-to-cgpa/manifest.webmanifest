@@ -1,0 +1,29 @@
+{
+  "name": "Loona Конвертер відсотків у CGPA (4.0, 5.0",
+  "short_name": "Конвертер відсотків у CGPA",
+  "description": "Конвертуйте відсоток назад у CGPA за шкалами 4.0, 5.0 і 10-бальною: % ÷ 9.5 для Індії, лінійні еквіваленти для 4.0 і 5.0, з таблицями.",
+  "id": "/loona-study-tools/uk/percentage-to-cgpa/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Гроші, 1 клас — практика",
+  "short_name": "Гроші, 1 клас — практика",
+  "description": "Безкоштовна практика для 1 класу: гроші — монети та купюри: лічба грошей до Rs 100. Розібраний приклад, 6 практичних запитань із ключем відповідей для друку, метод, типова помилка та найкраща порада.",
+  "id": "/loona-study-tools/uk/grade-1-money-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

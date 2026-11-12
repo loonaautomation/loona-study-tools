@@ -1,0 +1,29 @@
+{
+  "name": "Loona Додавання для дошкільнят — практика",
+  "short_name": "Додавання для дошкільнят —",
+  "description": "Безкоштовна практика: додавання для дошкільнят — додавання двох чисел у межах 10. Розібраний приклад, 6 практичних запитань із ключем відповідей для друку, метод, типова помилка та головна порада.",
+  "id": "/loona-study-tools/uk/kindergarten-addition-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

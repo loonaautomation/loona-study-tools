@@ -1,0 +1,29 @@
+{
+  "name": "Loona Конвертер CGPA у відсотки (4.0, 5.0",
+  "short_name": "Конвертер CGPA у відсотки",
+  "description": "Конвертуйте CGPA у відсотки за шкалами 4.0, 5.0 і 10-бальною одним безкоштовним конвертером, плюс формула для кожної шкали та повна таблиця перетворення.",
+  "id": "/loona-study-tools/uk/cgpa-to-percentage/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Лічба, 2 клас — практика",
+  "short_name": "Лічба, 2 клас — практика",
+  "description": "Безкоштовна практика: лічба для 2 класу — лічба через 2, 5 і 10. Розібраний приклад, 6 практичних запитань із ключем відповідей для друку, метод, типова помилка та головна порада.",
+  "id": "/loona-study-tools/uk/grade-2-counting-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

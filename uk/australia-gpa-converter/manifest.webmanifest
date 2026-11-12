@@ -1,0 +1,29 @@
+{
+  "name": "Loona Australia GPA Converter",
+  "short_name": "Australia GPA Converter",
+  "description": "Конвертуйте оцінки австралійських університетів за 7-бальною шкалою (HD = 7) у відсотки та приблизний GPA за шкалою 4.0 зі стандартною таблицею оцінок.",
+  "id": "/loona-study-tools/uk/australia-gpa-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

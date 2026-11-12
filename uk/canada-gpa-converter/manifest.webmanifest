@@ -1,0 +1,29 @@
+{
+  "name": "Loona Canada GPA Converter",
+  "short_name": "Canada GPA Converter",
+  "description": "Конвертуйте канадські відсоткові оцінки до шкали 4.0 за поширеною таблицею Онтаріо (90–100 = A+ = 4.0), плюс примітки про те, як канадські шкали різняться між університетами.",
+  "id": "/loona-study-tools/uk/canada-gpa-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

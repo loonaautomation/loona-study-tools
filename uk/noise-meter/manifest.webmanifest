@@ -1,0 +1,29 @@
+{
+  "name": "Loona Вимірювач шуму в класі",
+  "short_name": "Вимірювач шуму в класі",
+  "description": "Безкоштовний вимірювач шуму для класу: жива смуга рівня мікрофона із зеленою/бурштиновою/червоною зонами та лічильником тихих серій. Показ відносного рівня (не децибелів), аналіз на пристрої, ніколи не записується.",
+  "id": "/loona-study-tools/uk/noise-meter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

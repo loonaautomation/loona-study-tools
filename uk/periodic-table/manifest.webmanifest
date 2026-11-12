@@ -1,0 +1,29 @@
+{
+  "name": "Loona Інтерактивна періодична таблиця",
+  "short_name": "Інтерактивна періодична таблиця",
+  "description": "Безкоштовна інтерактивна періодична таблиця: усі 118 елементів позначено кольорами за категоріями. Клацніть будь-який елемент, щоб побачити його атомний номер, масу, групу, період і категорію.",
+  "id": "/loona-study-tools/uk/periodic-table/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
