@@ -1,0 +1,452 @@
+[
+ {
+  "n": "Pembuat Kad Imbas",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ms/flashcards/",
+  "s": "Loona Study Tools",
+  "d": "Bina dek kad imbas, belajar dengan kad selak dan kocok, jejak apa yang anda tahu, dan eksport atau cetak kad anda.",
+  "k": "flashcards maker flashcards bina dek kad imbas belajar dengan kad selak dan kocok jejak apa yang anda tahu dan eksport atau cetak kad anda",
+  "p": 0,
+  "c": "Tool"
+ },
+ {
+  "n": "Pembuat Kuiz",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ms/quiz-maker/",
+  "s": "Loona Study Tools",
+  "d": "Guru membina kuiz dengan MCQ, betul/salah dan jawapan pendek — pelajar mencubanya dengan markah segera dan semakan jawapan penuh.",
+  "k": "quiz maker quiz maker guru membina kuiz dengan mcq betul salah dan jawapan pendek pelajar mencubanya dengan markah segera dan semakan jawapan penuh",
+  "p": 1,
+  "c": "Tool"
+ },
+ {
+  "n": "Practice by Grade & Topic",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ms/grade-topic-practice/",
+  "s": "Loona Study Tools",
+  "d": "196 halaman baharu: contoh yang diselesaikan dan soalan latihan untuk setiap gred dan topik matematik, panduan subjek untuk Sains, Bahasa Inggeris, Kajian Sosial dan Bahasa Urdu, panduan peperiksaan lembaga Pakistan untuk Kelas 9–12, dan penukar CGPA untuk setiap skala penggredan utama.",
+  "k": "practice by grade topic grade topic practice 196 halaman baharu contoh yang diselesaikan dan soalan latihan untuk setiap gred dan topik matematik panduan subjek untuk sains bahasa inggeris kajian sosial dan bahasa urdu panduan peperiksaan lembaga pakistan untuk kelas 9 12 dan penukar cgpa untuk setiap skala penggredan utama",
+  "p": 102,
+  "c": "Tool"
+ },
+ {
+  "n": "Penjana Lembaran Kerja Matematik",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ms/math-worksheet-generator/",
+  "s": "Loona Study Tools",
+  "d": "Jana lembaran kerja matematik boleh cetak — penambahan, penolakan, pendaraban, pembahagian, pecahan dan perpuluhan — dengan kunci jawapan sepadan.",
+  "k": "math worksheet generator math worksheet generator jana lembaran kerja matematik boleh cetak penambahan penolakan pendaraban pembahagian pecahan dan perpuluhan dengan kunci jawapan sepadan",
+  "p": 2,
+  "c": "Tool"
+ },
+ {
+  "n": "Ujian Kelajuan Membaca",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ms/reading-speed-test/",
+  "s": "Loona Study Tools",
+  "d": "Baca petikan bermasa, jawab soalan pemahaman dan dapatkan kelajuan membaca sebenar anda dalam perkataan seminit (WPM).",
+  "k": "reading speed test reading speed test baca petikan bermasa jawab soalan pemahaman dan dapatkan kelajuan membaca sebenar anda dalam perkataan seminit wpm",
+  "p": 3,
+  "c": "Tool"
+ },
+ {
+  "n": "Perancang Jadual Belajar",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ms/study-timetable-planner/",
+  "s": "Loona Study Tools",
+  "d": "Masukkan subjek, jam harian dan tarikh peperiksaan anda dan dapatkan jadual belajar mingguan seimbang yang boleh anda sunting dan cetak.",
+  "k": "study timetable planner study timetable planner masukkan subjek jam harian dan tarikh peperiksaan anda dan dapatkan jadual belajar mingguan seimbang yang boleh anda sunting dan cetak",
+  "p": 4,
+  "c": "Tool"
+ },
+ {
+  "n": "Latihan Jadual Darab",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ms/multiplication-tables-practice/",
+  "s": "Loona Study Tools",
+  "d": "Latih jadual darab dengan pusingan latihan bermasa, semakan serta-merta dan carta pendaraban boleh cetak hingga 12 × 12.",
+  "k": "multiplication tables practice multiplication tables practice latih jadual darab dengan pusingan latihan bermasa semakan serta merta dan carta pendaraban boleh cetak hingga 12 12",
+  "p": 106,
+  "c": "Tool"
+ },
+ {
+  "n": "Ujian Ejaan",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ms/spelling-test/",
+  "s": "Loona Study Tools",
+  "d": "Komputer membaca setiap perkataan dengan lantang — anda menaip ejaan. Markah segera dan semakan setiap perkataan yang anda terlepas.",
+  "k": "spelling test spelling test komputer membaca setiap perkataan dengan lantang anda menaip ejaan markah segera dan semakan setiap perkataan yang anda terlepas",
+  "p": 5,
+  "c": "Tool"
+ },
+ {
+  "n": "Penjana Latihan Tulisan Tangan",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ms/handwriting-practice-generator/",
+  "s": "Loona Study Tools",
+  "d": "Cipta helaian latihan tulisan tangan boleh cetak untuk huruf, nombor dan perkataan anda sendiri, dengan garisan surih dan garisan salin kosong.",
+  "k": "handwriting practice generator handwriting practice generator cipta helaian latihan tulisan tangan boleh cetak untuk huruf nombor dan perkataan anda sendiri dengan garisan surih dan garisan salin kosong",
+  "p": 108,
+  "c": "Tool"
+ },
+ {
+  "n": "Perancang Kira Detik Peperiksaan",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ms/exam-countdown-planner/",
+  "s": "Loona Study Tools",
+  "d": "Masukkan tarikh peperiksaan dan subjek anda dan dapatkan pelan ulang kaji hari demi hari yang mengagihkan topik secara adil merentasi hari yang anda ada.",
+  "k": "exam countdown planner exam countdown planner masukkan tarikh peperiksaan dan subjek anda dan dapatkan pelan ulang kaji hari demi hari yang mengagihkan topik secara adil merentasi hari yang anda ada",
+  "p": 109,
+  "c": "Tool"
+ },
+ {
+  "n": "Penjana Cari Kata",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ms/word-search-generator/",
+  "s": "Loona Study Tools",
+  "d": "Tukar senarai perkataan anda sendiri menjadi teka-teki cari kata boleh cetak, dengan kunci jawapan berasingan yang menunjukkan lokasi setiap perkataan.",
+  "k": "word search generator word search generator tukar senarai perkataan anda sendiri menjadi teka teki cari kata boleh cetak dengan kunci jawapan berasingan yang menunjukkan lokasi setiap perkataan",
+  "p": 110,
+  "c": "Tool"
+ },
+ {
+  "n": "Penjana Lembaran Kerja Pemadanan",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ms/matching-worksheet-generator/",
+  "s": "Loona Study Tools",
+  "d": "Cipta lembaran kerja pemadanan boleh cetak — istilah di kiri, definisi yang dikocok di kanan — dengan kunci jawapan guru.",
+  "k": "matching worksheet generator matching worksheet generator cipta lembaran kerja pemadanan boleh cetak istilah di kiri definisi yang dikocok di kanan dengan kunci jawapan guru",
+  "p": 111,
+  "c": "Tool"
+ },
+ {
+  "n": "Pemilih Nama Rawak",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ms/random-name-picker/",
+  "s": "Loona Study Tools",
+  "d": "Tampal senarai kelas dan pilih pelajar secara rawak yang adil, dengan mod tanpa ulangan supaya semua orang mendapat giliran.",
+  "k": "random name picker random name picker tampal senarai kelas dan pilih pelajar secara rawak yang adil dengan mod tanpa ulangan supaya semua orang mendapat giliran",
+  "p": 112,
+  "c": "Tool"
+ },
+ {
+  "n": "Permainan Pasangan Sepadan",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ms/matching-pairs-game/",
+  "s": "Loona Study Tools",
+  "d": "Tukar mana-mana pasangan istilah dan takrif menjadi permainan ingatan balik dan padan dengan penjejakan gerakan dan masa.",
+  "k": "matching pairs game matching pairs game tukar mana mana pasangan istilah dan takrif menjadi permainan ingatan balik dan padan dengan penjejakan gerakan dan masa",
+  "p": 113,
+  "c": "Tool"
+ },
+ {
+  "n": "Permainan Isih Kumpulan",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ms/group-sort-game/",
+  "s": "Loona Study Tools",
+  "d": "Cipta kategori dan item; pelajar mengisih setiap item ke kumpulan yang betul dan mendapat markah serta-merta.",
+  "k": "group sort game group sort game cipta kategori dan item pelajar mengisih setiap item ke kumpulan yang betul dan mendapat markah serta merta",
+  "p": 114,
+  "c": "Tool"
+ },
+ {
+  "n": "Permainan Susun Semula Ayat",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ms/unjumble-game/",
+  "s": "Loona Study Tools",
+  "d": "Ayat dikocok perkataan demi perkataan — pelajar mengetik perkataan kembali ke susunan yang betul.",
+  "k": "unjumble sentences game unjumble game ayat dikocok perkataan demi perkataan pelajar mengetik perkataan kembali ke susunan yang betul",
+  "p": 115,
+  "c": "Tool"
+ },
+ {
+  "n": "Permainan Anagram",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ms/anagram-game/",
+  "s": "Loona Study Tools",
+  "d": "Perkataan dikacau huruf demi huruf; pelajar menyusunnya semula menggunakan petunjuk yang anda berikan.",
+  "k": "anagram game anagram game perkataan dikacau huruf demi huruf pelajar menyusunnya semula menggunakan petunjuk yang anda berikan",
+  "p": 116,
+  "c": "Tool"
+ },
+ {
+  "n": "Permainan Eja Perkataan",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ms/spell-the-word/",
+  "s": "Loona Study Tools",
+  "d": "Bina setiap perkataan dengan mengetik jubin huruf mengikut susunan — latihan ejaan dengan petunjuk dan semakan serta-merta.",
+  "k": "spell the word game spell the word bina setiap perkataan dengan mengetik jubin huruf mengikut susunan latihan ejaan dengan petunjuk dan semakan serta merta",
+  "p": 117,
+  "c": "Tool"
+ },
+ {
+  "n": "Permainan Hangman",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ms/hangman-game/",
+  "s": "Loona Study Tools",
+  "d": "Permainan teka huruf klasik dengan senarai perkataan terbina dalam untuk subjek sekolah, atau senarai perkataan anda sendiri.",
+  "k": "hangman game hangman game permainan teka huruf klasik dengan senarai perkataan terbina dalam untuk subjek sekolah atau senarai perkataan anda sendiri",
+  "p": 118,
+  "c": "Tool"
+ },
+ {
+  "n": "Penjana Silang Kata",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ms/crossword-generator/",
+  "s": "Loona Study Tools",
+  "d": "Masukkan perkataan dan petunjuk dan jana teka-teki silang kata bersilang sebenar — boleh cetak, dengan kunci jawapan.",
+  "k": "crossword generator crossword generator masukkan perkataan dan petunjuk dan jana teka teki silang kata bersilang sebenar boleh cetak dengan kunci jawapan",
+  "p": 119,
+  "c": "Tool"
+ },
+ {
+  "n": "Penjana Kad Bingo",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ms/bingo-card-generator/",
+  "s": "Loona Study Tools",
+  "d": "Jana kad bingo perbendaharaan kata boleh cetak yang unik untuk seluruh kelas, ditambah senarai panggilan yang dikocok.",
+  "k": "bingo card generator bingo card generator jana kad bingo perbendaharaan kata boleh cetak yang unik untuk seluruh kelas ditambah senarai panggilan yang dikocok",
+  "p": 120,
+  "c": "Tool"
+ },
+ {
+  "n": "Pembuat Rajah Berlabel",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ms/labelled-diagram-maker/",
+  "s": "Loona Study Tools",
+  "d": "Muat naik rajah, pin label padanya, cetak versi berlabel atau kosong, dan jalankan kuiz label.",
+  "k": "labelled diagram maker labelled diagram maker muat naik rajah pin label padanya cetak versi berlabel atau kosong dan jalankan kuiz label",
+  "p": 121,
+  "c": "Tool"
+ },
+ {
+  "n": "Carta Ratusan",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ms/hundreds-chart/",
+  "s": "Loona Study Tools",
+  "d": "Carta 1–100 interaktif yang boleh dicetak dengan penonjolan genap/ganjil dan gandaan, ditambah mod latihan nombor hilang.",
+  "k": "hundreds chart hundreds chart carta 1 100 interaktif yang boleh dicetak dengan penonjolan genap ganjil dan gandaan ditambah mod latihan nombor hilang",
+  "p": 122,
+  "c": "Tool"
+ },
+ {
+  "n": "Penjana Kad Dinding Kata",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ms/word-wall-cards/",
+  "s": "Loona Study Tools",
+  "d": "Tukar senarai perkataan menjadi kad dinding kata besar, tebal dan boleh cetak untuk paparan kelas.",
+  "k": "word wall cards generator word wall cards tukar senarai perkataan menjadi kad dinding kata besar tebal dan boleh cetak untuk paparan kelas",
+  "p": 123,
+  "c": "Tool"
+ },
+ {
+  "n": "Penjana Sudoku",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ms/sudoku-generator/",
+  "s": "Loona Study Tools",
+  "d": "Jana teka-teki Sudoku boleh cetak — 4×4, 6×6 dan 9×9 — dengan penyelesaian unik dan halaman penyelesaian berasingan.",
+  "k": "sudoku generator sudoku generator jana teka teki sudoku boleh cetak 4 4 6 6 dan 9 9 dengan penyelesaian unik dan halaman penyelesaian berasingan",
+  "p": 124,
+  "c": "Tool"
+ },
+ {
+  "n": "Penjana Labirin",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ms/maze-generator/",
+  "s": "Loona Study Tools",
+  "d": "Jana labirin boleh cetak pada empat tahap kesukaran, dengan laluan penyelesaian pilihan.",
+  "k": "maze generator maze generator jana labirin boleh cetak pada empat tahap kesukaran dengan laluan penyelesaian pilihan",
+  "p": 125,
+  "c": "Tool"
+ },
+ {
+  "n": "Penjana Warna Ikut Nombor",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ms/colour-by-number-generator/",
+  "s": "Loona Study Tools",
+  "d": "Jana mozek warna ikut nombor boleh cetak dengan kunci warna dan gambar jawapan berwarna.",
+  "k": "colour by number generator colour by number generator jana mozek warna ikut nombor boleh cetak dengan kunci warna dan gambar jawapan berwarna",
+  "p": 126,
+  "c": "Tool"
+ },
+ {
+  "n": "Penjana Kertas Boleh Cetak",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ms/printable-paper-generator/",
+  "s": "Loona Study Tools",
+  "d": "Cetak kertas graf, kertas grid titik, kertas isometrik dan kertas latihan tulisan tangan pada saiz yang tepat.",
+  "k": "printable paper generator printable paper generator cetak kertas graf kertas grid titik kertas isometrik dan kertas latihan tulisan tangan pada saiz yang tepat",
+  "p": 127,
+  "c": "Tool"
+ },
+ {
+  "n": "Penjana Lembaran Kerja Ejaan",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ms/spelling-worksheet-generator/",
+  "s": "Loona Study Tools",
+  "d": "Daripada satu senarai ejaan: helaian ujian, kocokan perkataan, latihan huruf hilang dan susunan ABC — dengan kunci jawapan.",
+  "k": "spelling worksheet generator spelling worksheet generator daripada satu senarai ejaan helaian ujian kocokan perkataan latihan huruf hilang dan susunan abc dengan kunci jawapan",
+  "p": 128,
+  "c": "Tool"
+ },
+ {
+  "n": "Pemasa Kelas & Pemasa Peperiksaan",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ms/classroom-timers/",
+  "s": "Loona Study Tools",
+  "d": "Pemasa kira detik paparan besar dengan gelang kemajuan, pemasa peperiksaan yang menunjukkan masa tamat, pemasa bar visual dan jam randik dengan pusingan.",
+  "k": "classroom timers exam timer classroom timers pemasa kira detik paparan besar dengan gelang kemajuan pemasa peperiksaan yang menunjukkan masa tamat pemasa bar visual dan jam randik dengan pusingan",
+  "p": 129,
+  "c": "Tool"
+ },
+ {
+  "n": "Pembuat Kumpulan Kelas",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ms/classroom-group-maker/",
+  "s": "Loona Study Tools",
+  "d": "Simpan senarai kelas anda dan bahagikannya kepada kumpulan atau pasangan rawak yang adil — saiz seimbang, kocok semula dengan satu klik.",
+  "k": "classroom group maker classroom group maker simpan senarai kelas anda dan bahagikannya kepada kumpulan atau pasangan rawak yang adil saiz seimbang kocok semula dengan satu klik",
+  "p": 130,
+  "c": "Tool"
+ },
+ {
+  "n": "Pembuat Carta Tempat Duduk",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ms/seating-chart-maker/",
+  "s": "Loona Study Tools",
+  "d": "Susun pelajar pada grid meja: klik untuk meletak, kunci tempat duduk kegemaran, kocok bakinya, dan cetak carta.",
+  "k": "seating chart maker seating chart maker susun pelajar pada grid meja klik untuk meletak kunci tempat duduk kegemaran kocok bakinya dan cetak carta",
+  "p": 131,
+  "c": "Tool"
+ },
+ {
+  "n": "Papan Markah Kelas",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ms/classroom-scoreboard/",
+  "s": "Loona Study Tools",
+  "d": "Papan markah mata pasukan yang besar dan jelas untuk skrin kelas — tambah pasukan, ketik untuk menambah atau membuang mata.",
+  "k": "classroom scoreboard classroom scoreboard papan markah mata pasukan yang besar dan jelas untuk skrin kelas tambah pasukan ketik untuk menambah atau membuang mata",
+  "p": 132,
+  "c": "Tool"
+ },
+ {
+  "n": "Meter Bunyi Bising Kelas",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ms/noise-meter/",
+  "s": "Loona Study Tools",
+  "d": "Meter tahap bunyi bising relatif secara langsung menggunakan mikrofon anda — zon hijau, kuning gelap dan merah untuk membantu kelas mengawal selia sendiri.",
+  "k": "classroom noise meter noise meter meter tahap bunyi bising relatif secara langsung menggunakan mikrofon anda zon hijau kuning gelap dan merah untuk membantu kelas mengawal selia sendiri",
+  "p": 133,
+  "c": "Tool"
+ },
+ {
+  "n": "Penjana Tag Nama",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ms/name-tags-generator/",
+  "s": "Loona Study Tools",
+  "d": "Tukar senarai kelas menjadi tag nama boleh cetak dengan baris sari kata — untuk meja, lawatan dan perkenalan minggu pertama.",
+  "k": "name tags generator name tags generator tukar senarai kelas menjadi tag nama boleh cetak dengan baris sari kata untuk meja lawatan dan perkenalan minggu pertama",
+  "p": 134,
+  "c": "Tool"
+ },
+ {
+  "n": "Pembina Jadual Visual",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ms/visual-schedule-builder/",
+  "s": "Loona Study Tools",
+  "d": "Bina jadual hari visual boleh cetak dengan masa, aktiviti dan ikon gambar — sesuai untuk kanak-kanak yang lebih muda.",
+  "k": "visual schedule builder visual schedule builder bina jadual hari visual boleh cetak dengan masa aktiviti dan ikon gambar sesuai untuk kanak kanak yang lebih muda",
+  "p": 135,
+  "c": "Tool"
+ },
+ {
+  "n": "Penggred EZ",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ms/ez-grader/",
+  "s": "Loona Study Tools",
+  "d": "Skala slaid penggredan guru klasik: masukkan jumlah soalan dan bilangan salah untuk mendapat peratusan dan gred huruf, serta carta penuh.",
+  "k": "ez grader ez grader skala slaid penggredan guru klasik masukkan jumlah soalan dan bilangan salah untuk mendapat peratusan dan gred huruf serta carta penuh",
+  "p": 136,
+  "c": "Tool"
+ },
+ {
+  "n": "Penggred Ujian",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ms/test-grader/",
+  "s": "Loona Study Tools",
+  "d": "Tampal kunci jawapan dan jawapan pelajar untuk menggred keseluruhan ujian serta-merta, soalan demi soalan.",
+  "k": "test grader test grader tampal kunci jawapan dan jawapan pelajar untuk menggred keseluruhan ujian serta merta soalan demi soalan",
+  "p": 137,
+  "c": "Tool"
+ },
+ {
+  "n": "Kalkulator Gred Berwajaran",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ms/weighted-grade-calculator/",
+  "s": "Loona Study Tools",
+  "d": "Gabungkan markah kategori (kerja rumah, kuiz, ujian, akhir) mengikut pemberat sukatan mereka menjadi gred kursus.",
+  "k": "weighted grade calculator weighted grade calculator gabungkan markah kategori kerja rumah kuiz ujian akhir mengikut pemberat sukatan mereka menjadi gred kursus",
+  "p": 138,
+  "c": "Tool"
+ },
+ {
+  "n": "Kalkulator Gred Peperiksaan Akhir",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ms/final-exam-calculator/",
+  "s": "Loona Study Tools",
+  "d": "Kira tepat markah yang anda perlukan dalam peperiksaan akhir untuk mencapai gred kursus sasaran anda — dan sama ada ia mungkin.",
+  "k": "final exam grade calculator final exam calculator kira tepat markah yang anda perlukan dalam peperiksaan akhir untuk mencapai gred kursus sasaran anda dan sama ada ia mungkin",
+  "p": 139,
+  "c": "Tool"
+ },
+ {
+  "n": "Ujian Kelajuan Fakta Matematik",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ms/math-facts-speed-test/",
+  "s": "Loona Study Tools",
+  "d": "Pecutan aritmetik 60 saat: sebanyak mungkin fakta +, −, × dan ÷ yang betul yang anda boleh, dengan ketepatan dan rentetan.",
+  "k": "math facts speed test math facts speed test pecutan aritmetik 60 saat sebanyak mungkin fakta dan yang betul yang anda boleh dengan ketepatan dan rentetan",
+  "p": 140,
+  "c": "Tool"
+ },
+ {
+  "n": "Ujian Pad Nombor 10 Kekunci",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ms/ten-key-test/",
+  "s": "Loona Study Tools",
+  "d": "Ujian kelajuan kemasukan data untuk pad kekunci numerik: taip jujukan nombor dengan pantas dan tepat, dimarkahkan dalam kekunci seminit.",
+  "k": "10 key number pad test ten key test ujian kelajuan kemasukan data untuk pad kekunci numerik taip jujukan nombor dengan pantas dan tepat dimarkahkan dalam kekunci seminit",
+  "p": 141,
+  "c": "Tool"
+ },
+ {
+  "n": "Ujian Menaip Kod",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ms/code-typing-test/",
+  "s": "Loona Study Tools",
+  "d": "Taip keratan kod sebenar dengan simbol dan inden — mengukur kelajuan menaip kod dan ketepatan simbol untuk pengatur cara.",
+  "k": "code typing test code typing test taip keratan kod sebenar dengan simbol dan inden mengukur kelajuan menaip kod dan ketepatan simbol untuk pengatur cara",
+  "p": 142,
+  "c": "Tool"
+ },
+ {
+  "n": "Kuiz Tatabahasa",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ms/grammar-quiz/",
+  "s": "Loona Study Tools",
+  "d": "Ujian tatabahasa Bahasa Inggeris 24 soalan — kala, kata sandang, kata sendi, persesuaian dan tanda baca — dengan markah serta-merta dan penerangan.",
+  "k": "grammar quiz grammar quiz ujian tatabahasa bahasa inggeris 24 soalan kala kata sandang kata sendi persesuaian dan tanda baca dengan markah serta merta dan penerangan",
+  "p": 143,
+  "c": "Tool"
+ },
+ {
+  "n": "Kuiz Perbendaharaan Kata",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ms/vocabulary-quiz/",
+  "s": "Loona Study Tools",
+  "d": "Dua puluh soalan makna perkataan dengan empat pilihan setiap satu — semakan pantas dan jujur tahap perbendaharaan kata Bahasa Inggeris anda.",
+  "k": "vocabulary quiz vocabulary quiz dua puluh soalan makna perkataan dengan empat pilihan setiap satu semakan pantas dan jujur tahap perbendaharaan kata bahasa inggeris anda",
+  "p": 144,
+  "c": "Tool"
+ },
+ {
+  "n": "Jadual Berkala Interaktif",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ms/periodic-table/",
+  "s": "Loona Study Tools",
+  "d": "Kesemua 118 unsur dalam jadual berkod warna — klik mana-mana unsur untuk nama, jisim atom, kumpulan, kala dan kategorinya.",
+  "k": "interactive periodic table periodic table kesemua 118 unsur dalam jadual berkod warna klik mana mana unsur untuk nama jisim atom kumpulan kala dan kategorinya",
+  "p": 145,
+  "c": "Tool"
+ },
+ {
+  "n": "Kalkulator Jisim Molar",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ms/molar-mass-calculator/",
+  "s": "Loona Study Tools",
+  "d": "Taip formula kimia — kurungan termasuk — dan dapatkan jisim molarnya dalam g/mol dengan pecahan bagi setiap unsur.",
+  "k": "molar mass calculator molar mass calculator taip formula kimia kurungan termasuk dan dapatkan jisim molarnya dalam g mol dengan pecahan bagi setiap unsur",
+  "p": 146,
+  "c": "Tool"
+ },
+ {
+  "n": "Pengimbang Persamaan Kimia",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ms/chemical-equation-balancer/",
+  "s": "Loona Study Tools",
+  "d": "Masukkan persamaan tidak seimbang dan dapatkan pekali seimbang, disahkan atom demi atom.",
+  "k": "chemical equation balancer chemical equation balancer masukkan persamaan tidak seimbang dan dapatkan pekali seimbang disahkan atom demi atom",
+  "p": 147,
+  "c": "Tool"
+ },
+ {
+  "n": "Kalkulator pH",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ms/ph-calculator/",
+  "s": "Loona Study Tools",
+  "d": "Tukar antara pH, pOH, [H+] dan [OH-], dan kira pH larutan asid kuat dan bes kuat.",
+  "k": "ph calculator ph calculator tukar antara ph poh h dan oh dan kira ph larutan asid kuat dan bes kuat",
+  "p": 148,
+  "c": "Tool"
+ },
+ {
+  "n": "Pembuat Rubrik",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ms/rubric-maker/",
+  "s": "Loona Study Tools",
+  "d": "Bina rubrik penggredan boleh cetak: kriteria di sisi, empat tahap prestasi di bahagian atas, mata dikira secara automatik.",
+  "k": "rubric maker rubric maker bina rubrik penggredan boleh cetak kriteria di sisi empat tahap prestasi di bahagian atas mata dikira secara automatik",
+  "p": 149,
+  "c": "Tool"
+ }
+]

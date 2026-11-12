@@ -1,0 +1,29 @@
+{
+  "name": "Loona Pembuat Carta Tempat Duduk",
+  "short_name": "Pembuat Carta Tempat Duduk",
+  "description": "Pembuat carta tempat duduk percuma: bina grid meja, klik untuk meletakkan pelajar, kunci tempat duduk yang tidak boleh bergerak, kocok semua orang lain, dan cetak carta.",
+  "id": "/loona-study-tools/ms/seating-chart-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

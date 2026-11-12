@@ -1,0 +1,29 @@
+{
+  "name": "Loona FBISE Islamabad Class 11 Guide",
+  "short_name": "FBISE Islamabad Class 11 Guide",
+  "description": "FBISE Islamabad Kelas 11: subjek dan aliran, cara kertas lembaga disusun, dan pelan persediaan percuma dengan alat belajar. Sahkan corak di laman rasmi lembaga.",
+  "id": "/loona-study-tools/ms/fbise-islamabad-class-11-guide/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

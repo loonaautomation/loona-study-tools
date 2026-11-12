@@ -1,0 +1,29 @@
+{
+  "name": "Loona Penjana Silang Kata",
+  "short_name": "Penjana Silang Kata",
+  "description": "Penjana silang kata percuma: masukkan perkataan dan petunjuk dan dapatkan teka-teki silang kata bersilang sebenar, boleh cetak dengan petunjuk bernombor dan kunci jawapan berasingan.",
+  "id": "/loona-study-tools/ms/crossword-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

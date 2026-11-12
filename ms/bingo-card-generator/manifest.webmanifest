@@ -1,0 +1,29 @@
+{
+  "name": "Loona Penjana Kad Bingo",
+  "short_name": "Penjana Kad Bingo",
+  "description": "Penjana kad bingo percuma: masukkan 24+ perkataan dan jana kad bingo 5x5 boleh cetak yang unik untuk seluruh kelas ditambah senarai panggilan yang dikocok. Perbendaharaan kata, perkataan penglihatan, nombor dan banyak lagi.",
+  "id": "/loona-study-tools/ms/bingo-card-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona CGPA to Percentage on the 5.0 Scale",
+  "short_name": "CGPA to Percentage on the 5.0",
+  "description": "Tukar CGPA skala 5.0 kepada peratusan (CGPA ÷ 5 × 100) dengan jadual penuh, dan halaman jalur kelas untuk Nigeria dan Bangladesh yang jalurnya lebih penting daripada peratusan.",
+  "id": "/loona-study-tools/ms/cgpa-5-scale-to-percentage/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona UK Degree Classification Converter",
+  "short_name": "UK Degree Classification",
+  "description": "Maksud First, 2:1, 2:2 atau Third UK dalam peratusan dan istilah GPA AS anggaran — dengan nota jujur bahawa tiada penukaran rasmi UK ke GPA wujud.",
+  "id": "/loona-study-tools/ms/uk-degree-classification-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

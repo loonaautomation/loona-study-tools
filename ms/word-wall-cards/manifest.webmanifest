@@ -1,0 +1,29 @@
+{
+  "name": "Loona Penjana Kad Dinding Kata",
+  "short_name": "Penjana Kad Dinding Kata",
+  "description": "Penjana kad dinding kata percuma: taip senarai perkataan dan dapatkan kad dinding kata boleh cetak yang besar dan tebal dalam tiga saiz untuk paparan kelas dan sudut bacaan.",
+  "id": "/loona-study-tools/ms/word-wall-cards/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Jadual Berkala Interaktif",
+  "short_name": "Jadual Berkala Interaktif",
+  "description": "Jadual berkala interaktif percuma: kesemua 118 unsur berkod warna mengikut kategori. Klik mana-mana unsur untuk nombor atom, jisim, kumpulan, kala dan kategorinya.",
+  "id": "/loona-study-tools/ms/periodic-table/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

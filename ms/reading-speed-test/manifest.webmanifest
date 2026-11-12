@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ujian Kelajuan Membaca",
+  "short_name": "Ujian Kelajuan Membaca",
+  "description": "Ujian kelajuan membaca percuma: baca petikan bermasa (3 pilihan, 400-600 perkataan), jawab soalan kefahaman, dan dapatkan kelajuan membaca anda dalam PPK ditambah panduan jujur kepada kelajuan membaca yang baik mengikut umur.",
+  "id": "/loona-study-tools/ms/reading-speed-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

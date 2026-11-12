@@ -1,0 +1,29 @@
+{
+  "name": "Loona Grade 3 Urdu Topics and Study Guide",
+  "short_name": "Grade 3 Urdu Topics and Study",
+  "description": "Topik Bahasa Urdu untuk Tahun 3 mengikut urutan pengajaran — Qawaid (tatabahasa), Kala, Tashbeeh dan corak ayat harian dan banyak lagi — dengan alat belajar percuma untuk setiap topik.",
+  "id": "/loona-study-tools/ms/grade-3-urdu-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

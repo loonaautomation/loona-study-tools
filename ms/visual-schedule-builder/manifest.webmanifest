@@ -1,0 +1,29 @@
+{
+  "name": "Loona Pembina Jadual Visual",
+  "short_name": "Pembina Jadual Visual",
+  "description": "Pembina jadual visual percuma: cipta jadual gambar boleh cetak bagi hari persekolahan dengan masa, ikon dan aktiviti — sesuai untuk kanak-kanak kecil dan sokongan SEN.",
+  "id": "/loona-study-tools/ms/visual-schedule-builder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

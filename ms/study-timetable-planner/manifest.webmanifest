@@ -1,0 +1,29 @@
+{
+  "name": "Loona Perancang Jadual Belajar",
+  "short_name": "Perancang Jadual Belajar",
+  "description": "Perancang jadual belajar percuma: masukkan subjek, jam sehari dan tarikh peperiksaan untuk menjana jadual belajar mingguan yang seimbang, boleh disunting, boleh cetak dengan penggiliran subjek yang adil.",
+  "id": "/loona-study-tools/ms/study-timetable-planner/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Meter Bunyi Bising Kelas",
+  "short_name": "Meter Bunyi Bising Kelas",
+  "description": "Meter bunyi bising kelas percuma: bar tahap mikrofon langsung dengan zon hijau/kuning gelap/merah dan pembilang rentetan senyap. Paparan tahap relatif (bukan desibel), dianalisis pada peranti, tidak pernah dirakam.",
+  "id": "/loona-study-tools/ms/noise-meter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

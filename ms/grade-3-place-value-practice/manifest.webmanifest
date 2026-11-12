@@ -1,0 +1,29 @@
+{
+  "name": "Loona Latihan Nilai Tempat Tahun 3",
+  "short_name": "Latihan Nilai Tempat Tahun 3",
+  "description": "Latihan nilai tempat Tahun 3 percuma — nilai tempat hingga ribu. Contoh yang diselesaikan, 6 soalan latihan dengan kunci jawapan boleh cetak, kaedahnya, kesilapan biasa dan petua terbaik.",
+  "id": "/loona-study-tools/ms/grade-3-place-value-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

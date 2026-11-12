@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kalkulator Gred Peperiksaan Akhir",
+  "short_name": "Kalkulator Gred Peperiksaan",
+  "description": "Kalkulator peperiksaan akhir percuma: masukkan gred semasa anda, pemberat akhir dan sasaran anda untuk melihat dengan tepat markah yang anda perlukan dalam peperiksaan akhir — dan sama ada ia masih mungkin.",
+  "id": "/loona-study-tools/ms/final-exam-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

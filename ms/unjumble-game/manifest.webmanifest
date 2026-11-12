@@ -1,0 +1,29 @@
+{
+  "name": "Loona Permainan Susun Semula Ayat",
+  "short_name": "Permainan Susun Semula Ayat",
+  "description": "Permainan susun semula percuma: ayat dikocok perkataan demi perkataan dan pelajar mengetik perkataan kembali ke susunan yang betul, dengan semakan serta-merta dan markah akhir.",
+  "id": "/loona-study-tools/ms/unjumble-game/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

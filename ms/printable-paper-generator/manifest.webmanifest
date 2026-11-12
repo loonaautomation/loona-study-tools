@@ -1,0 +1,29 @@
+{
+  "name": "Loona Penjana Kertas Boleh Cetak",
+  "short_name": "Penjana Kertas Boleh Cetak",
+  "description": "Penjana kertas boleh cetak percuma: kertas graf, grid titik, kertas isometrik, kertas tulisan tangan 3 garisan dan garisan lebar bergaris pada jarak tepat 8/10/14mm. Cetak pada 100% untuk saiz sebenar.",
+  "id": "/loona-study-tools/ms/printable-paper-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

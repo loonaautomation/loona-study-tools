@@ -1,0 +1,29 @@
+{
+  "name": "Loona Latihan Jadual Darab",
+  "short_name": "Latihan Jadual Darab",
+  "description": "Latihan jadual darab percuma: pilih jadual 2-12, latih pusingan bermasa dengan semakan serta-merta dan ulasan jadual lemah, ditambah carta pendaraban 12x12 boleh cetak.",
+  "id": "/loona-study-tools/ms/multiplication-tables-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

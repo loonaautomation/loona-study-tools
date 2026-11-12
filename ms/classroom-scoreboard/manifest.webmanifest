@@ -1,0 +1,29 @@
+{
+  "name": "Loona Papan Markah Kelas",
+  "short_name": "Papan Markah Kelas",
+  "description": "Papan markah kelas percuma: kad mata pasukan besar berwarna-warni untuk skrin kelas, satu ketik +1/+5/-1, disimpan dalam pelayar anda antara pelajaran.",
+  "id": "/loona-study-tools/ms/classroom-scoreboard/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

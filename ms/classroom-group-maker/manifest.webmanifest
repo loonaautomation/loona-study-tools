@@ -1,0 +1,29 @@
+{
+  "name": "Loona Pembuat Kumpulan Kelas",
+  "short_name": "Pembuat Kumpulan Kelas",
+  "description": "Pembuat kumpulan kelas percuma: simpan senarai kelas dalam pelayar anda, kemudian bahagikan pelajar kepada kumpulan rawak seimbang mengikut saiz kumpulan, bilangan kumpulan, atau pasangan. Cetak hasilnya.",
+  "id": "/loona-study-tools/ms/classroom-group-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

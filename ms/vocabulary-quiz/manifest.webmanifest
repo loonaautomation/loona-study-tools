@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kuiz Perbendaharaan Kata",
+  "short_name": "Kuiz Perbendaharaan Kata",
+  "description": "Kuiz perbendaharaan kata percuma: 20 perkataan Bahasa Inggeris dengan empat pilihan maksud setiap satu, daripada perkataan sekolah umum kepada perbendaharaan kata akademik yang lebih kaya. Markah serta-merta dan ulasan.",
+  "id": "/loona-study-tools/ms/vocabulary-quiz/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

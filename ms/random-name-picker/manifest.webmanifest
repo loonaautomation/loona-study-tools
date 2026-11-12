@@ -1,0 +1,29 @@
+{
+  "name": "Loona Pemilih Nama Rawak",
+  "short_name": "Pemilih Nama Rawak",
+  "description": "Pemilih nama rawak percuma untuk guru: tampal senarai kelas dan pilih pelajar secara rawak yang adil, dengan mod tanpa ulang supaya semua orang mendapat giliran sebelum sesiapa mengulang.",
+  "id": "/loona-study-tools/ms/random-name-picker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Latihan Mengira Tahun 1",
+  "short_name": "Latihan Mengira Tahun 1",
+  "description": "Latihan mengira Tahun 1 percuma — mengira ke hadapan dan ke belakang hingga 100. Contoh yang diselesaikan, 6 soalan latihan dengan kunci jawapan boleh cetak, kaedahnya, kesilapan biasa dan petua terbaik.",
+  "id": "/loona-study-tools/ms/grade-1-counting-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

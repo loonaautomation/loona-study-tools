@@ -1,0 +1,29 @@
+{
+  "name": "Loona Pembuat Rubrik",
+  "short_name": "Pembuat Rubrik",
+  "description": "Pembuat rubrik percuma: tambah kriteria dan mata maksimum, terangkan empat tahap prestasi, dan dapatkan grid rubrik boleh cetak dengan mata setiap tahap dikira secara automatik.",
+  "id": "/loona-study-tools/ms/rubric-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

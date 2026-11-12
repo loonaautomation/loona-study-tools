@@ -1,0 +1,29 @@
+{
+  "name": "Loona Penggred EZ",
+  "short_name": "Penggred EZ",
+  "description": "Penggred EZ percuma untuk guru: masukkan jumlah soalan dan bilangan salah untuk mendapatkan peratusan dan gred huruf serta-merta, dengan carta penggredan penuh untuk panjang ujian itu.",
+  "id": "/loona-study-tools/ms/ez-grader/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

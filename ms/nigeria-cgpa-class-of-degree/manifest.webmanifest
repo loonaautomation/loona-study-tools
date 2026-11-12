@@ -1,0 +1,29 @@
+{
+  "name": "Loona Nigeria CGPA Class of Degree",
+  "short_name": "Nigeria CGPA Class of Degree",
+  "description": "Jalur kelas CGPA universiti Nigeria pada skala 5.0: Kelas Pertama 4.50–5.00, Kelas Kedua Atas 3.50–4.49, Kelas Kedua Bawah 2.40–3.49, dengan penyemak kelas.",
+  "id": "/loona-study-tools/ms/nigeria-cgpa-class-of-degree/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
