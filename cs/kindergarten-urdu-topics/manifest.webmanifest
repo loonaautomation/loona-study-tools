@@ -1,0 +1,29 @@
+{
+  "name": "Loona Témata z urdštiny — Mateřská škola",
+  "short_name": "Témata z urdštiny — Mateřská škola",
+  "description": "Témata z urdštiny pro mateřskou školu v pořadí výuky — urdská qaida, zvuky písmen (fonetika v urdštině), jednoduchá třípísmenná slova a další — s bezplatnými studijními nástroji pro každé téma.",
+  "id": "/loona-study-tools/cs/kindergarten-urdu-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

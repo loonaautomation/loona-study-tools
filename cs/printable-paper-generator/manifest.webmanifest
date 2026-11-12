@@ -1,0 +1,29 @@
+{
+  "name": "Loona Generátor papíru k tisku",
+  "short_name": "Generátor papíru k tisku",
+  "description": "Bezplatný generátor papíru k tisku: milimetrový papír, tečková mřížka, izometrický papír, 3řádkový papír na rukopis a široce linkované řádky s přesným rozestupem 8/10/14 mm. Tiskněte na 100 % pro skutečnou velikost.",
+  "id": "/loona-study-tools/cs/printable-paper-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

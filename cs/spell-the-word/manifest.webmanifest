@@ -1,0 +1,29 @@
+{
+  "name": "Loona Hra Hláskuj slovo",
+  "short_name": "Hra Hláskuj slovo",
+  "description": "Bezplatná hra Hláskuj slovo: žáci skládají každé slovo klepáním na zamíchané písmenné dlaždice pomocí nápovědy. Hmatové procvičování pravopisu s okamžitou kontrolou.",
+  "id": "/loona-study-tools/cs/spell-the-word/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

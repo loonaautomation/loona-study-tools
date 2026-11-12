@@ -1,0 +1,29 @@
+{
+  "name": "Loona EZ známkovač",
+  "short_name": "EZ známkovač",
+  "description": "Bezplatný EZ grader pro učitele: zadejte celkový počet otázek a počet chyb a okamžitě získáte procento a písmennou známku s úplnou klasifikační tabulkou pro tuto délku testu.",
+  "id": "/loona-study-tools/cs/ez-grader/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

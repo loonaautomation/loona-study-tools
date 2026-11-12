@@ -1,0 +1,29 @@
+{
+  "name": "Loona Převodník australského GPA",
+  "short_name": "Převodník australského GPA",
+  "description": "Převeďte australské univerzitní známky na 7bodové stupnici (HD = 7) na procenta a přibližné GPA stupnice 4.0 se standardní tabulkou známek.",
+  "id": "/loona-study-tools/cs/australia-gpa-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

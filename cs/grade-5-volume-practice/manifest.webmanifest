@@ -1,0 +1,29 @@
+{
+  "name": "Loona Objem — 5. ročník",
+  "short_name": "Objem — 5. ročník",
+  "description": "Bezplatné procvičování — Objem pro 5. ročník: Objem kvádrů počítáním a podle vzorce. Řešený příklad, 6 cvičných otázek s klíčem odpovědí k tisku, postup, častá chyba a nejlepší tip.",
+  "id": "/loona-study-tools/cs/grade-5-volume-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

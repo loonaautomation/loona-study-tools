@@ -1,0 +1,29 @@
+{
+  "name": "Loona Bangladéš — GPA na procenta",
+  "short_name": "Bangladéš — GPA na procenta",
+  "description": "Tabulka GPA bangladéšské vzdělávací komise pro SSC a HSC: A+ 5.00 = 80–100 bodů, s každým bodem známky a rozmezím bodů plus převodník bodů na GPA.",
+  "id": "/loona-study-tools/cs/bangladesh-gpa-to-percentage/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

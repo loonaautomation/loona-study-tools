@@ -1,0 +1,29 @@
+{
+  "name": "Loona Témata z přírodních věd — 4. ročník",
+  "short_name": "Témata z přírodních věd — 4. ročník",
+  "description": "Témata z přírodních věd pro 4. ročník v pořadí výuky — Ekosystémy a potravní řetězce, Trávicí a dýchací soustava, Elektřina a další — s bezplatnými studijními nástroji pro každé téma.",
+  "id": "/loona-study-tools/cs/grade-4-science-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

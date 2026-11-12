@@ -1,0 +1,29 @@
+{
+  "name": "Loona Tvůrce skupin pro třídu",
+  "short_name": "Tvůrce skupin pro třídu",
+  "description": "Bezplatný tvůrce skupin pro třídu: uložte si seznamy třídy v prohlížeči a potom rozdělte žáky do vyvážených náhodných skupin podle velikosti skupiny, počtu skupin, nebo dvojic. Výsledek vytiskněte.",
+  "id": "/loona-study-tools/cs/classroom-group-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Témata z přírodních věd — 7. ročník",
+  "short_name": "Témata z přírodních věd — 7. ročník",
+  "description": "Témata z přírodních věd pro 7. ročník v pořadí výuky — Atomy a periodická tabulka (první seznámení), Chemické reakce a slovní rovnice, Elektrické obvody a další — s bezplatnými studijními nástroji pro každé téma.",
+  "id": "/loona-study-tools/cs/grade-7-science-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

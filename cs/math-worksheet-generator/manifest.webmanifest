@@ -1,0 +1,29 @@
+{
+  "name": "Loona Generátor pracovních listů z matematiky",
+  "short_name": "Generátor pracovních listů z matematiky",
+  "description": "Bezplatný generátor pracovních listů z matematiky: pracovní listy na sčítání, odčítání, násobení, dělení, zlomky, desetinná čísla a písemné dělení s rozsahem čísel, možnostmi přechodu přes desítku a klíčem odpovědí k tisku.",
+  "id": "/loona-study-tools/cs/math-worksheet-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

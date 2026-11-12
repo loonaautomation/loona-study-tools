@@ -1,0 +1,29 @@
+{
+  "name": "Loona Třídní časovače",
+  "short_name": "Třídní časovače",
+  "description": "Bezplatné třídní časovače: odpočítávání s velkým displejem, kruhem průběhu a zmenšujícím se vizuálním pruhem, časovač zkoušek zobrazující čas konce a zbývající čas a stopky s mezičasy.",
+  "id": "/loona-study-tools/cs/classroom-timers/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

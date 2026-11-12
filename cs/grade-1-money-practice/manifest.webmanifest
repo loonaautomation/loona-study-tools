@@ -1,0 +1,29 @@
+{
+  "name": "Loona Peníze — 1. ročník",
+  "short_name": "Peníze — 1. ročník",
+  "description": "Bezplatné procvičování — Peníze pro 1. ročník: Mince a bankovky: počítání peněz do 100 Rs. Řešený příklad, 6 cvičných otázek s klíčem odpovědí k tisku, postup, častá chyba a nejlepší tip.",
+  "id": "/loona-study-tools/cs/grade-1-money-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

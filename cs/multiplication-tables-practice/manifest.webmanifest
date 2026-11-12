@@ -1,0 +1,29 @@
+{
+  "name": "Loona Procvičování násobilky",
+  "short_name": "Procvičování násobilky",
+  "description": "Bezplatné procvičování násobilky: vyberte tabulky 2-12, procvičujte časovaná kola s okamžitou kontrolou a opakováním slabých tabulek plus tabulku násobilky 12x12 k tisku.",
+  "id": "/loona-study-tools/cs/multiplication-tables-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

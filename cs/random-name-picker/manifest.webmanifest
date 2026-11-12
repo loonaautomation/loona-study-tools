@@ -1,0 +1,29 @@
+{
+  "name": "Loona Náhodný výběr jména",
+  "short_name": "Náhodný výběr jména",
+  "description": "Bezplatný náhodný výběr jména pro učitele: vložte seznam třídy a vybírejte žáky férově náhodně, s režimem bez opakování, aby se každý dostal na řadu dříve, než se někdo zopakuje.",
+  "id": "/loona-study-tools/cs/random-name-picker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

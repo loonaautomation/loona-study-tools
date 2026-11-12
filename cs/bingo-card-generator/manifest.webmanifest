@@ -1,0 +1,29 @@
+{
+  "name": "Loona Generátor karet bingo",
+  "short_name": "Generátor karet bingo",
+  "description": "Bezplatný generátor karet bingo: zadejte 24+ slov a vygenerujte jedinečné karty bingo 5x5 k tisku pro celou třídu plus zamíchaný seznam vyvolávání. Slovní zásoba, slova ze seznamu, čísla a další.",
+  "id": "/loona-study-tools/cs/bingo-card-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

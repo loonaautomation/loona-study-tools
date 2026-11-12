@@ -1,0 +1,29 @@
+{
+  "name": "Loona Generátor jmenovek",
+  "short_name": "Generátor jmenovek",
+  "description": "Bezplatný generátor jmenovek: vložte seznam třídy a tiskněte úhledné jmenovky s podtitulem třídy/školy — pro první dny, výlety, rodičovské večery a skupinovou práci.",
+  "id": "/loona-study-tools/cs/name-tags-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

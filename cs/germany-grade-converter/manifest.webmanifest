@@ -1,0 +1,29 @@
+{
+  "name": "Loona Převodník německých známek",
+  "short_name": "Převodník německých známek",
+  "description": "Převeďte zahraniční procentní známky nebo GPA na německou stupnici 1.0–5.0 upraveným bavorským vzorcem, který používají německé univerzity, a německé známky převeďte zpět.",
+  "id": "/loona-study-tools/cs/germany-grade-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

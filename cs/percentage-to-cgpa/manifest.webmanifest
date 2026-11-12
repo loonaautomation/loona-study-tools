@@ -1,0 +1,29 @@
+{
+  "name": "Loona Převodník procent na CGPA (4.0, 5.0)",
+  "short_name": "Převodník procent na CGPA",
+  "description": "Převeďte procenta zpět na CGPA na stupnicích 4.0, 5.0 a 10bodové: % ÷ 9.5 pro Indii, lineární ekvivalenty pro 4.0 a 5.0, s tabulkami.",
+  "id": "/loona-study-tools/cs/percentage-to-cgpa/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

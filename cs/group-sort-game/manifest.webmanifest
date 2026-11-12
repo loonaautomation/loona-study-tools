@@ -1,0 +1,29 @@
+{
+  "name": "Loona Hra Třídění do skupin",
+  "short_name": "Hra Třídění do skupin",
+  "description": "Bezplatná hra Třídění do skupin pro třídy: definujte kategorie a položky, žáci klepají položky do správných skupin a získají okamžité skóre s opravami.",
+  "id": "/loona-study-tools/cs/group-sort-game/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Procvičování podle ročníku a tématu",
+  "short_name": "Procvičování podle ročníku a tématu",
+  "description": "Jeden rejstřík pro všechny stránky procvičování podle ročníku a tématu (Mateřská škola až 8. ročník), průvodce předměty, průvodce zkouškami pákistánských komisí pro 9.–12. třídu a převodníky CGPA na Loona Study Tools.",
+  "id": "/loona-study-tools/cs/grade-topic-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Generátor osmisměrek",
+  "short_name": "Generátor osmisměrek",
+  "description": "Bezplatný generátor osmisměrek: přeměňte svůj seznam slov na osmisměrku k tisku v 8 směrech se samostatným zvýrazněným klíčem odpovědí. Ideální pro procvičování slovní zásoby.",
+  "id": "/loona-study-tools/cs/word-search-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

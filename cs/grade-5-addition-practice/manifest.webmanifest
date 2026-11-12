@@ -1,0 +1,29 @@
+{
+  "name": "Loona Sčítání — 5. ročník",
+  "short_name": "Sčítání — 5. ročník",
+  "description": "Bezplatné procvičování — Sčítání pro 5. ročník: Sčítání velkých čísel a kontrola odhadem. Řešený příklad, 6 cvičných otázek s klíčem odpovědí k tisku, postup, častá chyba a nejlepší tip.",
+  "id": "/loona-study-tools/cs/grade-5-addition-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Generátor kartiček na slovní nástěnku",
+  "short_name": "Generátor kartiček na slovní nástěnku",
+  "description": "Bezplatný generátor kartiček na slovní nástěnku: napište seznam slov a získejte velké, tučné kartičky k tisku ve třech velikostech pro nástěnky a čtenářské koutky třídy.",
+  "id": "/loona-study-tools/cs/word-wall-cards/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

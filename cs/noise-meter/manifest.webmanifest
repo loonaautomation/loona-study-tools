@@ -1,0 +1,29 @@
+{
+  "name": "Loona Měřič hluku ve třídě",
+  "short_name": "Měřič hluku ve třídě",
+  "description": "Bezplatný měřič hluku ve třídě: živý pruh úrovně mikrofonu se zelenou/žlutou/červenou zónou a počítadlem období ticha. Zobrazení relativní úrovně (ne decibelů), analýza v zařízení, nikdy se nenahrává.",
+  "id": "/loona-study-tools/cs/noise-meter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

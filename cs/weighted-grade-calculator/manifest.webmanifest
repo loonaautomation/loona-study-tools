@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kalkulačka vážené známky",
+  "short_name": "Kalkulačka vážené známky",
+  "description": "Bezplatná kalkulačka vážené známky: zadejte váhy a body kategorií (domácí úkoly, kvízy, testy, závěrečná zkouška) a získejte celkové procento z kurzu a písmennou známku. Váhy se automaticky normalizují.",
+  "id": "/loona-study-tools/cs/weighted-grade-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
