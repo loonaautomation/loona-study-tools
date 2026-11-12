@@ -1,0 +1,29 @@
+{
+  "name": "Loona Emner og studieguide i naturfag for 3. trinn",
+  "short_name": "Emner og studieguide i naturfag for 3. trinn",
+  "description": "Naturfagemnene for 3. trinn i undervisningsrekkefølge — Plantedeler og oppgavene deres, Dyregrupper, Tilstandsformer og tilstandsendring og mer — med gratis studieverktøy for hvert emne.",
+  "id": "/loona-study-tools/nb/grade-3-science-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

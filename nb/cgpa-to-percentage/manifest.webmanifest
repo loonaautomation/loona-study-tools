@@ -1,0 +1,29 @@
+{
+  "name": "Loona CGPA til prosent-omregner (4.0, 5.0)",
+  "short_name": "CGPA til prosent-omregner",
+  "description": "Regn CGPA om til prosent på 4.0-, 5.0- og 10-poengsskalaen med én gratis omregner, pluss formelen for hver skala og en full omregningstabell.",
+  "id": "/loona-study-tools/nb/cgpa-to-percentage/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

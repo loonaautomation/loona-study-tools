@@ -1,0 +1,29 @@
+{
+  "name": "Loona Grammatikkquiz",
+  "short_name": "Grammatikkquiz",
+  "description": "Gratis grammatikkquiz i engelsk: 24 spørsmål om tidformer, artikler, preposisjoner, samsvar, betingelser og tegnsetting, med umiddelbar poengsum og en forklaring til hvert svar.",
+  "id": "/loona-study-tools/nb/grammar-quiz/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

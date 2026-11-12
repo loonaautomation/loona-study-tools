@@ -1,0 +1,29 @@
+{
+  "name": "Loona Fartstest for matematikkfakta",
+  "short_name": "Fartstest for matematikkfakta",
+  "description": "Gratis hastighetstest i enkle regnestykker: en 60-sekunders sprint med addisjons-, subtraksjons-, multiplikasjons- og divisjonsfakta med umiddelbar kontroll og sporing av nøyaktighet og seiersrekker.",
+  "id": "/loona-study-tools/nb/math-facts-speed-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

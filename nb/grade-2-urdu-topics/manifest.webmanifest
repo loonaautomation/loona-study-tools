@@ -1,0 +1,29 @@
+{
+  "name": "Loona Emner og studieguide i urdu for 2. trinn",
+  "short_name": "Emner og studieguide i urdu for 2. trinn",
+  "description": "Urduemnene for 2. trinn i undervisningsrekkefølge — Leseflyt, Ism, fail og harf (første titt på grammatikk), Wahid og jama (entall og flertall, grunnleggende) og mer — med gratis studieverktøy for hvert emne.",
+  "id": "/loona-study-tools/nb/grade-2-urdu-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona BISE Gujranwala klasse 9-guide",
+  "short_name": "BISE Gujranwala klasse 9-guide",
+  "description": "BISE Gujranwala klasse 9: fag og studieretninger, hvordan eksamensoppgavene er strukturert, og en gratis forberedelsesplan med studieverktøy. Kontroller oppsettene på nemndens offisielle nettsted.",
+  "id": "/loona-study-tools/nb/bise-gujranwala-class-9-guide/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Emner og studieguide i urdu for barnehagen",
+  "short_name": "Emner og studieguide i urdu for barnehagen",
+  "description": "Urduemnene for barnehage i undervisningsrekkefølge — Urdu-qaidaen, Bokstavlyder (fonetikk på urdu), Enkle ord med tre bokstaver og mer — med gratis studieverktøy for hvert emne.",
+  "id": "/loona-study-tools/nb/kindergarten-urdu-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

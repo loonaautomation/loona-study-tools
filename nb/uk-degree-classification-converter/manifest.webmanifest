@@ -1,0 +1,29 @@
+{
+  "name": "Loona Omregner for britisk gradsklassifisering",
+  "short_name": "Omregner for britisk gradsklassifisering",
+  "description": "Hva en britisk First, 2:1, 2:2 eller Third betyr i prosent og omtrentlige amerikanske GPA-termer — med den ærlige merknaden at ingen offisiell omregning fra britisk til GPA finnes.",
+  "id": "/loona-study-tools/nb/uk-degree-classification-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

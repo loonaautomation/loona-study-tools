@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kodeskrivetest",
+  "short_name": "Kodeskrivetest",
+  "description": "Gratis skrivetest for kode: skriv ekte JavaScript-, Python- og SQL-snutter nøyaktig — parenteser, symboler og innrykk gir poeng — med nøyaktighet, tegn per minutt og ord i minuttet.",
+  "id": "/loona-study-tools/nb/code-typing-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Øving i gangetabeller",
+  "short_name": "Øving i gangetabeller",
+  "description": "Gratis øving på gangetabellen: velg tabeller 2-12, drill tidsstyrte runder med umiddelbar kontroll og gjennomgang av svake tabeller, pluss en utskrivbar 12x12-multiplikasjonstabell.",
+  "id": "/loona-study-tools/nb/multiplication-tables-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

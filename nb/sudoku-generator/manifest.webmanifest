@@ -1,0 +1,29 @@
+{
+  "name": "Loona Sudokugenerator",
+  "short_name": "Sudokugenerator",
+  "description": "Gratis Sudoku-generator: utskrivbare 4x4-, 6x6- og 9x9-Sudoku-brett i tre vanskelighetsgrader, hvert brett verifisert til å ha nøyaktig én løsning, med en egen løsningsside.",
+  "id": "/loona-study-tools/nb/sudoku-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

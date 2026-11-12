@@ -1,0 +1,29 @@
+{
+  "name": "Loona Emner og studieguide i engelsk for 5. trinn",
+  "short_name": "Emner og studieguide i engelsk for 5. trinn",
+  "description": "Engelskemnene for 5. trinn i undervisningsrekkefølge — Modale verb og betingelsessetninger (første titt), Relativsetninger med who, which, that, Apostrofer og mer — med gratis studieverktøy for hvert emne.",
+  "id": "/loona-study-tools/nb/grade-5-english-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

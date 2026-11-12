@@ -1,0 +1,29 @@
+{
+  "name": "Loona Bokstavkarakter til GPA-omregner",
+  "short_name": "Bokstavkarakter til GPA-omregner",
+  "description": "Hvilken GPA er en A, en B+ eller en C−? Den fulle tabellen fra bokstavkarakter til GPA-poeng på 4.0-skalaen, med prosentbånd og en ettklikks-omregner.",
+  "id": "/loona-study-tools/nb/letter-grade-to-gpa/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

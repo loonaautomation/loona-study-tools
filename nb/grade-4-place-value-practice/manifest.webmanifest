@@ -1,0 +1,29 @@
+{
+  "name": "Loona Plassverdiøving for 4. trinn",
+  "short_name": "Plassverdiøving for 4. trinn",
+  "description": "Gratis plassverdiøving for 4. trinn — store tall: titusenere og hundretusenere. Et gjennomarbeidet eksempel, 6 øvingsoppgaver med en utskrivbar fasit, metoden, den vanlige feilen og et topptips.",
+  "id": "/loona-study-tools/nb/grade-4-place-value-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

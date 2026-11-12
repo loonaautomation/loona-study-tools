@@ -1,0 +1,29 @@
+{
+  "name": "Loona Labyrintgenerator",
+  "short_name": "Labyrintgenerator",
+  "description": "Gratis labyrintgenerator: utskrivbare labyrinter i fire vanskelighetsgrader (8x8 til 26x26), generert nye hver gang, med en valgfri rød løsningsvei for kontroll.",
+  "id": "/loona-study-tools/nb/maze-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

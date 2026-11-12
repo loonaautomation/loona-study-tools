@@ -1,0 +1,452 @@
+[
+ {
+  "n": "Flashkortlager",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nb/flashcards/",
+  "s": "Loona Study Tools",
+  "d": "Bygg flashkortbunker, studer med vendekort og blanding, spor hva du kan, og eksporter eller skriv ut kortene dine.",
+  "k": "flashcards maker flashcards bygg flashkortbunker studer med vendekort og blanding spor hva du kan og eksporter eller skriv ut kortene dine",
+  "p": 0,
+  "c": "Tool"
+ },
+ {
+  "n": "Quizlager",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nb/quiz-maker/",
+  "s": "Loona Study Tools",
+  "d": "Lærere bygger quizer med flervalg, sant/usant og kortsvar — elever prøver dem med umiddelbare poeng og en full svargjennomgang.",
+  "k": "quiz maker quiz maker l rere bygger quizer med flervalg sant usant og kortsvar elever pr ver dem med umiddelbare poeng og en full svargjennomgang",
+  "p": 1,
+  "c": "Tool"
+ },
+ {
+  "n": "Practice by Grade & Topic",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nb/grade-topic-practice/",
+  "s": "Loona Study Tools",
+  "d": "196 nye sider: gjennomarbeidede eksempler og øvingsoppgaver for alle trinn og matematikkemner, fagguider for naturfag, engelsk, samfunnsfag og urdu, pakistanske eksamensnemndguider for klasse 9–12, og CGPA-omregnere for alle store karakterskalaer.",
+  "k": "practice by grade topic grade topic practice 196 nye sider gjennomarbeidede eksempler og vingsoppgaver for alle trinn og matematikkemner fagguider for naturfag engelsk samfunnsfag og urdu pakistanske eksamensnemndguider for klasse 9 12 og cgpa omregnere for alle store karakterskalaer",
+  "p": 102,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator for matematikkark",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nb/math-worksheet-generator/",
+  "s": "Loona Study Tools",
+  "d": "Generer utskrivbare matematikkark — addisjon, subtraksjon, multiplikasjon, divisjon, brøker og desimaltall — med en tilhørende fasit.",
+  "k": "math worksheet generator math worksheet generator generer utskrivbare matematikkark addisjon subtraksjon multiplikasjon divisjon br ker og desimaltall med en tilh rende fasit",
+  "p": 2,
+  "c": "Tool"
+ },
+ {
+  "n": "Test av lesehastighet",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nb/reading-speed-test/",
+  "s": "Loona Study Tools",
+  "d": "Les en tidsstyrt tekst, svar på forståelsesspørsmål og få den sanne lesehastigheten din i ord per minutt (WPM).",
+  "k": "reading speed test reading speed test les en tidsstyrt tekst svar pa forstaelsessp rsmal og fa den sanne lesehastigheten din i ord per minutt wpm",
+  "p": 3,
+  "c": "Tool"
+ },
+ {
+  "n": "Studieplanlegger med timeplan",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nb/study-timetable-planner/",
+  "s": "Loona Study Tools",
+  "d": "Skriv inn fagene dine, daglige timer og eksamensdato og få en balansert ukentlig studietimeplan du kan redigere og skrive ut.",
+  "k": "study timetable planner study timetable planner skriv inn fagene dine daglige timer og eksamensdato og fa en balansert ukentlig studietimeplan du kan redigere og skrive ut",
+  "p": 4,
+  "c": "Tool"
+ },
+ {
+  "n": "Øving på gangetabellen",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nb/multiplication-tables-practice/",
+  "s": "Loona Study Tools",
+  "d": "Drill gangetabellen med tidsstyrte øvingsrunder, umiddelbar kontroll og en utskrivbar multiplikasjonstabell opptil 12 × 12.",
+  "k": "multiplication tables practice multiplication tables practice drill gangetabellen med tidsstyrte vingsrunder umiddelbar kontroll og en utskrivbar multiplikasjonstabell opptil 12 12",
+  "p": 106,
+  "c": "Tool"
+ },
+ {
+  "n": "Stavetest",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nb/spelling-test/",
+  "s": "Loona Study Tools",
+  "d": "Datamaskinen leser hvert ord høyt — du skriver stavingen. Umiddelbar poengsum og en gjennomgang av hvert ord du bommet på.",
+  "k": "spelling test spelling test datamaskinen leser hvert ord h yt du skriver stavingen umiddelbar poengsum og en gjennomgang av hvert ord du bommet pa",
+  "p": 5,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator for håndskriftøving",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nb/handwriting-practice-generator/",
+  "s": "Loona Study Tools",
+  "d": "Lag utskrivbare håndskriftøvingsark for bokstaver, tall og dine egne ord, med sporingslinjer og tomme kopilinjer.",
+  "k": "handwriting practice generator handwriting practice generator lag utskrivbare handskrift vingsark for bokstaver tall og dine egne ord med sporingslinjer og tomme kopilinjer",
+  "p": 108,
+  "c": "Tool"
+ },
+ {
+  "n": "Nedtellingsplanlegger til eksamen",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nb/exam-countdown-planner/",
+  "s": "Loona Study Tools",
+  "d": "Skriv inn eksamensdatoen din og fagene dine og få en repetisjonsplan dag for dag som fordeler emner rettferdig over dagene du har igjen.",
+  "k": "exam countdown planner exam countdown planner skriv inn eksamensdatoen din og fagene dine og fa en repetisjonsplan dag for dag som fordeler emner rettferdig over dagene du har igjen",
+  "p": 109,
+  "c": "Tool"
+ },
+ {
+  "n": "Ordletingsgenerator",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nb/word-search-generator/",
+  "s": "Loona Study Tools",
+  "d": "Gjør din egen ordliste om til et utskrivbart ordletingspuslespill, med en egen fasit som viser hvert ords plassering.",
+  "k": "word search generator word search generator gj r din egen ordliste om til et utskrivbart ordletingspuslespill med en egen fasit som viser hvert ords plassering",
+  "p": 110,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator for koblingsark",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nb/matching-worksheet-generator/",
+  "s": "Loona Study Tools",
+  "d": "Lag utskrivbare koblingsark — begreper til venstre, blandede definisjoner til høyre — med en fasit for læreren.",
+  "k": "matching worksheet generator matching worksheet generator lag utskrivbare koblingsark begreper til venstre blandede definisjoner til h yre med en fasit for l reren",
+  "p": 111,
+  "c": "Tool"
+ },
+ {
+  "n": "Tilfeldig navnevelger",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nb/random-name-picker/",
+  "s": "Loona Study Tools",
+  "d": "Lim inn en klasseliste og velg elever rettferdig og tilfeldig, med en modus uten gjentakelse slik at alle får en tur.",
+  "k": "random name picker random name picker lim inn en klasseliste og velg elever rettferdig og tilfeldig med en modus uten gjentakelse slik at alle far en tur",
+  "p": 112,
+  "c": "Tool"
+ },
+ {
+  "n": "Parspill (memory)",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nb/matching-pairs-game/",
+  "s": "Loona Study Tools",
+  "d": "Gjør ethvert par av begrep og definisjon om til et snu-og-match-memoryspill med sporing av trekk og tid.",
+  "k": "matching pairs game matching pairs game gj r ethvert par av begrep og definisjon om til et snu og match memoryspill med sporing av trekk og tid",
+  "p": 113,
+  "c": "Tool"
+ },
+ {
+  "n": "Gruppesorteringsspill",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nb/group-sort-game/",
+  "s": "Loona Study Tools",
+  "d": "Opprett kategorier og elementer; elevene sorterer hvert element i riktig gruppe og får en umiddelbar poengsum.",
+  "k": "group sort game group sort game opprett kategorier og elementer elevene sorterer hvert element i riktig gruppe og far en umiddelbar poengsum",
+  "p": 114,
+  "c": "Tool"
+ },
+ {
+  "n": "Spill: Sett setninger i rekkefølge",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nb/unjumble-game/",
+  "s": "Loona Study Tools",
+  "d": "Setninger blandes ord for ord — elever trykker ordene tilbake i riktig rekkefølge.",
+  "k": "unjumble sentences game unjumble game setninger blandes ord for ord elever trykker ordene tilbake i riktig rekkef lge",
+  "p": 115,
+  "c": "Tool"
+ },
+ {
+  "n": "Anagramspill",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nb/anagram-game/",
+  "s": "Loona Study Tools",
+  "d": "Ord blandes bokstav for bokstav; elever setter dem sammen ved hjelp av ledetråden du oppgir.",
+  "k": "anagram game anagram game ord blandes bokstav for bokstav elever setter dem sammen ved hjelp av ledetraden du oppgir",
+  "p": 116,
+  "c": "Tool"
+ },
+ {
+  "n": "«Stav ordet»-spill",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nb/spell-the-word/",
+  "s": "Loona Study Tools",
+  "d": "Bygg hvert ord ved å trykke på bokstavbrikker i rekkefølge — staveøving med ledetråder og umiddelbare kontroller.",
+  "k": "spell the word game spell the word bygg hvert ord ved a trykke pa bokstavbrikker i rekkef lge stave ving med ledetrader og umiddelbare kontroller",
+  "p": 117,
+  "c": "Tool"
+ },
+ {
+  "n": "Hangman-spill",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nb/hangman-game/",
+  "s": "Loona Study Tools",
+  "d": "Det klassiske bokstavgjettespillet med innebygde ordlister for skolefag, eller din egen ordliste.",
+  "k": "hangman game hangman game det klassiske bokstavgjettespillet med innebygde ordlister for skolefag eller din egen ordliste",
+  "p": 118,
+  "c": "Tool"
+ },
+ {
+  "n": "Kryssordgenerator",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nb/crossword-generator/",
+  "s": "Loona Study Tools",
+  "d": "Skriv inn ord og ledetråder og generer et ekte kryssende kryssord — utskrivbart, med fasit.",
+  "k": "crossword generator crossword generator skriv inn ord og ledetrader og generer et ekte kryssende kryssord utskrivbart med fasit",
+  "p": 119,
+  "c": "Tool"
+ },
+ {
+  "n": "Bingokortgenerator",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nb/bingo-card-generator/",
+  "s": "Loona Study Tools",
+  "d": "Generer unike utskrivbare ordbingokort for hele klassen, pluss en blandet utropsliste.",
+  "k": "bingo card generator bingo card generator generer unike utskrivbare ordbingokort for hele klassen pluss en blandet utropsliste",
+  "p": 120,
+  "c": "Tool"
+ },
+ {
+  "n": "Verktøy for diagrammer med etiketter",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nb/labelled-diagram-maker/",
+  "s": "Loona Study Tools",
+  "d": "Last opp et diagram, fest etiketter på det, skriv ut en merket eller tom versjon, og kjør en etikettquiz.",
+  "k": "labelled diagram maker labelled diagram maker last opp et diagram fest etiketter pa det skriv ut en merket eller tom versjon og kj r en etikettquiz",
+  "p": 121,
+  "c": "Tool"
+ },
+ {
+  "n": "Hundretallstavle",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nb/hundreds-chart/",
+  "s": "Loona Study Tools",
+  "d": "En interaktiv, utskrivbar 1–100-tabell med markering av partall/oddetall og multipler, pluss en øvingsmodus med manglende tall.",
+  "k": "hundreds chart hundreds chart en interaktiv utskrivbar 1 100 tabell med markering av partall oddetall og multipler pluss en vingsmodus med manglende tall",
+  "p": 122,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator for ordveggkort",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nb/word-wall-cards/",
+  "s": "Loona Study Tools",
+  "d": "Gjør ordlister om til store, fete, utskrivbare ordveggkort til klasseromsutstillinger.",
+  "k": "word wall cards generator word wall cards gj r ordlister om til store fete utskrivbare ordveggkort til klasseromsutstillinger",
+  "p": 123,
+  "c": "Tool"
+ },
+ {
+  "n": "Sudoku-generator",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nb/sudoku-generator/",
+  "s": "Loona Study Tools",
+  "d": "Generer utskrivbare Sudoku-brett — 4×4, 6×6 og 9×9 — med unike løsninger og en egen løsningsside.",
+  "k": "sudoku generator sudoku generator generer utskrivbare sudoku brett 4 4 6 6 og 9 9 med unike l sninger og en egen l sningsside",
+  "p": 124,
+  "c": "Tool"
+ },
+ {
+  "n": "Labyrintgenerator",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nb/maze-generator/",
+  "s": "Loona Study Tools",
+  "d": "Generer utskrivbare labyrinter i fire vanskelighetsgrader, med en valgfri løsningsvei.",
+  "k": "maze generator maze generator generer utskrivbare labyrinter i fire vanskelighetsgrader med en valgfri l sningsvei",
+  "p": 125,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator for fargelegging etter tall",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nb/colour-by-number-generator/",
+  "s": "Loona Study Tools",
+  "d": "Generer en utskrivbar mosaikk for fargelegging etter tall med en fargenøkkel og et farget svarbilde.",
+  "k": "colour by number generator colour by number generator generer en utskrivbar mosaikk for fargelegging etter tall med en fargen kkel og et farget svarbilde",
+  "p": 126,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator for utskrivbart papir",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nb/printable-paper-generator/",
+  "s": "Loona Study Tools",
+  "d": "Skriv ut rutepapir, prikkrutenettpapir, isometrisk papir og håndskriftøvingspapir i nøyaktige størrelser.",
+  "k": "printable paper generator printable paper generator skriv ut rutepapir prikkrutenettpapir isometrisk papir og handskrift vingspapir i n yaktige st rrelser",
+  "p": 127,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator for staveark",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nb/spelling-worksheet-generator/",
+  "s": "Loona Study Tools",
+  "d": "Fra én stavliste: et testark, ordblandinger, øving med manglende bokstaver og ABC-rekkefølge — med fasit.",
+  "k": "spelling worksheet generator spelling worksheet generator fra en stavliste et testark ordblandinger ving med manglende bokstaver og abc rekkef lge med fasit",
+  "p": 128,
+  "c": "Tool"
+ },
+ {
+  "n": "Tidtakere for klasserommet og eksamenstidtaker",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nb/classroom-timers/",
+  "s": "Loona Study Tools",
+  "d": "Nedteller med stor visning og fremdriftsring, en eksamenstidtaker som viser sluttid, en visuell linjetidtaker og en stoppeklokke med rundetider.",
+  "k": "classroom timers exam timer classroom timers nedteller med stor visning og fremdriftsring en eksamenstidtaker som viser sluttid en visuell linjetidtaker og en stoppeklokke med rundetider",
+  "p": 129,
+  "c": "Tool"
+ },
+ {
+  "n": "Gruppeinndeler for klasserommet",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nb/classroom-group-maker/",
+  "s": "Loona Study Tools",
+  "d": "Lagre klasselistene dine og del dem inn i rettferdige tilfeldige grupper eller par — balanserte størrelser, bland på nytt med ett klikk.",
+  "k": "classroom group maker classroom group maker lagre klasselistene dine og del dem inn i rettferdige tilfeldige grupper eller par balanserte st rrelser bland pa nytt med ett klikk",
+  "p": 130,
+  "c": "Tool"
+ },
+ {
+  "n": "Verktøy for sitteplasskart",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nb/seating-chart-maker/",
+  "s": "Loona Study Tools",
+  "d": "Plasser elever på et pultrutenett: klikk for å plassere, lås favorittplasser, bland resten, og skriv ut kartet.",
+  "k": "seating chart maker seating chart maker plasser elever pa et pultrutenett klikk for a plassere las favorittplasser bland resten og skriv ut kartet",
+  "p": 131,
+  "c": "Tool"
+ },
+ {
+  "n": "Poengtavle for klasserommet",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nb/classroom-scoreboard/",
+  "s": "Loona Study Tools",
+  "d": "En stor, tydelig lagpoengtavle til klasseromsskjermen — legg til lag, trykk for å legge til eller fjerne poeng.",
+  "k": "classroom scoreboard classroom scoreboard en stor tydelig lagpoengtavle til klasseromsskjermen legg til lag trykk for a legge til eller fjerne poeng",
+  "p": 132,
+  "c": "Tool"
+ },
+ {
+  "n": "Støymåler for klasserommet",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nb/noise-meter/",
+  "s": "Loona Study Tools",
+  "d": "En direkte relativ støynivåmåler som bruker mikrofonen din — grønne, gule og røde soner som hjelper klasser å regulere seg selv.",
+  "k": "classroom noise meter noise meter en direkte relativ st ynivamaler som bruker mikrofonen din gr nne gule og r de soner som hjelper klasser a regulere seg selv",
+  "p": 133,
+  "c": "Tool"
+ },
+ {
+  "n": "Navneskiltgenerator",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nb/name-tags-generator/",
+  "s": "Loona Study Tools",
+  "d": "Gjør en klasseliste om til utskrivbare navneskilt med en undertittellinje — til pulter, turer og introduksjoner i første uke.",
+  "k": "name tags generator name tags generator gj r en klasseliste om til utskrivbare navneskilt med en undertittellinje til pulter turer og introduksjoner i f rste uke",
+  "p": 134,
+  "c": "Tool"
+ },
+ {
+  "n": "Bygger for visuelle dagsplaner",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nb/visual-schedule-builder/",
+  "s": "Loona Study Tools",
+  "d": "Bygg en utskrivbar visuell dagsplan med tider, aktiviteter og bildeikoner — ideell for yngre barn.",
+  "k": "visual schedule builder visual schedule builder bygg en utskrivbar visuell dagsplan med tider aktiviteter og bildeikoner ideell for yngre barn",
+  "p": 135,
+  "c": "Tool"
+ },
+ {
+  "n": "EZ Grader",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nb/ez-grader/",
+  "s": "Loona Study Tools",
+  "d": "Lærerens klassiske glideskala for karaktersetting: skriv inn totalt antall spørsmål og antall feil for å få prosenten og bokstavkarakteren, pluss en full tabell.",
+  "k": "ez grader ez grader l rerens klassiske glideskala for karaktersetting skriv inn totalt antall sp rsmal og antall feil for a fa prosenten og bokstavkarakteren pluss en full tabell",
+  "p": 136,
+  "c": "Tool"
+ },
+ {
+  "n": "Prøveretter",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nb/test-grader/",
+  "s": "Loona Study Tools",
+  "d": "Lim inn en fasit og en elevs svar for å rette en hel prøve øyeblikkelig, spørsmål for spørsmål.",
+  "k": "test grader test grader lim inn en fasit og en elevs svar for a rette en hel pr ve yeblikkelig sp rsmal for sp rsmal",
+  "p": 137,
+  "c": "Tool"
+ },
+ {
+  "n": "Kalkulator for vektet karakter",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nb/weighted-grade-calculator/",
+  "s": "Loona Study Tools",
+  "d": "Kombiner kategoripoeng (lekser, quizer, prøver, avsluttende) etter pensumvektene deres til en fagkarakter.",
+  "k": "weighted grade calculator weighted grade calculator kombiner kategoripoeng lekser quizer pr ver avsluttende etter pensumvektene deres til en fagkarakter",
+  "p": 138,
+  "c": "Tool"
+ },
+ {
+  "n": "Karakterkalkulator for avsluttende eksamen",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nb/final-exam-calculator/",
+  "s": "Loona Study Tools",
+  "d": "Regn ut nøyaktig hvilken poengsum du trenger på den avsluttende eksamenen for å nå målkurskarakteren din — og om det er mulig.",
+  "k": "final exam grade calculator final exam calculator regn ut n yaktig hvilken poengsum du trenger pa den avsluttende eksamenen for a na malkurskarakteren din og om det er mulig",
+  "p": 139,
+  "c": "Tool"
+ },
+ {
+  "n": "Hastighetstest i enkle regnestykker",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nb/math-facts-speed-test/",
+  "s": "Loona Study Tools",
+  "d": "En 60-sekunders regnesprint: så mange riktige +, −, × og ÷-fakta du klarer, med nøyaktighet og seiersrekker.",
+  "k": "math facts speed test math facts speed test en 60 sekunders regnesprint sa mange riktige og fakta du klarer med n yaktighet og seiersrekker",
+  "p": 140,
+  "c": "Tool"
+ },
+ {
+  "n": "Test av talltastatur med 10 taster",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nb/ten-key-test/",
+  "s": "Loona Study Tools",
+  "d": "Hastighetstest for dataregistrering på det numeriske tastaturet: skriv tallsekvenser raskt og nøyaktig, med poeng i taster per minutt.",
+  "k": "10 key number pad test ten key test hastighetstest for dataregistrering pa det numeriske tastaturet skriv tallsekvenser raskt og n yaktig med poeng i taster per minutt",
+  "p": 141,
+  "c": "Tool"
+ },
+ {
+  "n": "Skrivetest for kode",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nb/code-typing-test/",
+  "s": "Loona Study Tools",
+  "d": "Skriv ekte kodebiter med symboler og innrykk — måler kodeskrivingshastighet og symbolnøyaktighet for programmerere.",
+  "k": "code typing test code typing test skriv ekte kodebiter med symboler og innrykk maler kodeskrivingshastighet og symboln yaktighet for programmerere",
+  "p": 142,
+  "c": "Tool"
+ },
+ {
+  "n": "Grammatikkquiz",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nb/grammar-quiz/",
+  "s": "Loona Study Tools",
+  "d": "En grammatikktest i engelsk med 24 spørsmål — tidformer, artikler, preposisjoner, samsvar og tegnsetting — med umiddelbar poengsum og forklaringer.",
+  "k": "grammar quiz grammar quiz en grammatikktest i engelsk med 24 sp rsmal tidformer artikler preposisjoner samsvar og tegnsetting med umiddelbar poengsum og forklaringer",
+  "p": 143,
+  "c": "Tool"
+ },
+ {
+  "n": "Ordforrådsquiz",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nb/vocabulary-quiz/",
+  "s": "Loona Study Tools",
+  "d": "Tjue spørsmål om ords betydning med fire alternativer hver — en rask, ærlig sjekk av det engelske ordforrådsnivået ditt.",
+  "k": "vocabulary quiz vocabulary quiz tjue sp rsmal om ords betydning med fire alternativer hver en rask rlig sjekk av det engelske ordforradsnivaet ditt",
+  "p": 144,
+  "c": "Tool"
+ },
+ {
+  "n": "Interaktivt periodesystem",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nb/periodic-table/",
+  "s": "Loona Study Tools",
+  "d": "Alle 118 grunnstoffer i en fargekodet tabell — klikk på et grunnstoff for å se navnet, atommassen, gruppen, perioden og kategorien.",
+  "k": "interactive periodic table periodic table alle 118 grunnstoffer i en fargekodet tabell klikk pa et grunnstoff for a se navnet atommassen gruppen perioden og kategorien",
+  "p": 145,
+  "c": "Tool"
+ },
+ {
+  "n": "Kalkulator for molar masse",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nb/molar-mass-calculator/",
+  "s": "Loona Study Tools",
+  "d": "Skriv inn en kjemisk formel — parenteser inkludert — og få den molare massen i g/mol med en nedbrytning per grunnstoff.",
+  "k": "molar mass calculator molar mass calculator skriv inn en kjemisk formel parenteser inkludert og fa den molare massen i g mol med en nedbrytning per grunnstoff",
+  "p": 146,
+  "c": "Tool"
+ },
+ {
+  "n": "Balansering av kjemiske ligninger",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nb/chemical-equation-balancer/",
+  "s": "Loona Study Tools",
+  "d": "Skriv inn en ubalansert ligning og få balanserte koeffisienter, verifisert atom for atom.",
+  "k": "chemical equation balancer chemical equation balancer skriv inn en ubalansert ligning og fa balanserte koeffisienter verifisert atom for atom",
+  "p": 147,
+  "c": "Tool"
+ },
+ {
+  "n": "pH-kalkulator",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nb/ph-calculator/",
+  "s": "Loona Study Tools",
+  "d": "Regn om mellom pH, pOH, [H+] og [OH-], og beregn pH i løsninger av sterk syre og sterk base.",
+  "k": "ph calculator ph calculator regn om mellom ph poh h og oh og beregn ph i l sninger av sterk syre og sterk base",
+  "p": 148,
+  "c": "Tool"
+ },
+ {
+  "n": "Vurderingsmatriselager",
+  "u": "https://loonaautomation.github.io/loona-study-tools/nb/rubric-maker/",
+  "s": "Loona Study Tools",
+  "d": "Bygg en utskrivbar vurderingsmatrise: kriterier nedover siden, fire prestasjonsnivåer øverst, poeng beregnet automatisk.",
+  "k": "rubric maker rubric maker bygg en utskrivbar vurderingsmatrise kriterier nedover siden fire prestasjonsnivaer verst poeng beregnet automatisk",
+  "p": 149,
+  "c": "Tool"
+ }
+]

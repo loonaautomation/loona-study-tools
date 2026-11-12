@@ -1,0 +1,29 @@
+{
+  "name": "Loona GPA til prosent på 4.0-skalaen",
+  "short_name": "GPA til prosent på 4.0-skalaen",
+  "description": "Regn en GPA på 4.0-skalaen om til en prosent gjennom standardtabellen for bokstavkarakterer (A = 4.0 = 93–100 %), vist ved siden av det lineære ×25-anslaget.",
+  "id": "/loona-study-tools/nb/gpa-4-scale-to-percentage/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

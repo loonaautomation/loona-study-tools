@@ -1,0 +1,29 @@
+{
+  "name": "Loona Øving etter trinn og emne",
+  "short_name": "Øving etter trinn og emne",
+  "description": "Én indeks for alle øvingssider etter trinn og emne (barnehage til 8. trinn), fagguider, eksamensguider fra pakistanske nemnder for klasser 9–12 og CGPA-omregnere på Loona Study Tools.",
+  "id": "/loona-study-tools/nb/grade-topic-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

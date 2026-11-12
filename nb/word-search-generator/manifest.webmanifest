@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ordletingsgenerator",
+  "short_name": "Ordletingsgenerator",
+  "description": "Gratis ordletingsgenerator: gjør din egen ordliste om til et utskrivbart ordletingsbrett i 8 retninger, med en egen markert fasit. Perfekt for ordforrådsøving.",
+  "id": "/loona-study-tools/nb/word-search-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona India CGPA til prosent",
+  "short_name": "India CGPA til prosent",
+  "description": "Regn indisk CGPA på 10-poengsskalaen om til prosent med CBSE-formelen (× 9.5) og variantene som brukes av indiske universiteter — (CGPA − 0.5) × 10 og × 10 — med en full tabell.",
+  "id": "/loona-study-tools/nb/india-cgpa-to-percentage/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

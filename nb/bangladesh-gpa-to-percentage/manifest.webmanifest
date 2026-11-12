@@ -1,0 +1,29 @@
+{
+  "name": "Loona Bangladesh GPA til prosent",
+  "short_name": "Bangladesh GPA til prosent",
+  "description": "Bangladeshs utdanningsnemnds GPA-tabell for SSC og HSC: A+ 5.00 = 80–100 poeng, med hvert karakterpoeng og poengområde, pluss en omregner fra poeng til GPA.",
+  "id": "/loona-study-tools/nb/bangladesh-gpa-to-percentage/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Koblingsparspill",
+  "short_name": "Koblingsparspill",
+  "description": "Gratis parspill (memory): skriv inn par av begrep = definisjon og spill snu-og-match med sporing av trekk og tid. Flott for ordforråd og repetisjon.",
+  "id": "/loona-study-tools/nb/matching-pairs-game/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Tilfeldig navnevelger",
+  "short_name": "Tilfeldig navnevelger",
+  "description": "Gratis tilfeldig navnevelger for lærere: lim inn en klasseliste og velg elever rettferdig og tilfeldig, med modus uten gjentakelse slik at alle får en tur før noen gjentar.",
+  "id": "/loona-study-tools/nb/random-name-picker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
