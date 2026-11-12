@@ -1,0 +1,29 @@
+{
+  "name": "Loona Temporizadores de Sala de Aula",
+  "short_name": "Temporizadores de Sala de Aula",
+  "description": "Temporizadores de sala de aula gratuitos: uma contagem decrescente de tela grande com anel de progresso e barra visual que encolhe, um temporizador de exame que mostra a hora de fim e o tempo restante, e um cronómetro com voltas.",
+  "id": "/loona-study-tools/pt-br/classroom-timers/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

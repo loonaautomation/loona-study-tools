@@ -1,0 +1,29 @@
+{
+  "name": "Loona Prática de Frações do 7.º Ano",
+  "short_name": "Prática de Frações do 7.º Ano",
+  "description": "Prática gratuita de frações do 7.º ano — multiplicar e dividir frações. Um exemplo resolvido, 6 perguntas de prática com soluções imprimíveis, o método, o erro mais comum e uma dica essencial.",
+  "id": "/loona-study-tools/pt-br/grade-7-fractions-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

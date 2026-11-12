@@ -1,0 +1,29 @@
+{
+  "name": "Loona Jogo de Soletrar a Palavra",
+  "short_name": "Jogo de Soletrar a Palavra",
+  "description": "Jogo de soletrar a palavra gratuito: os alunos constroem cada palavra tocando em peças de letras baralhadas, com a ajuda de uma pista. Prática de ortografia tátil com verificação imediata.",
+  "id": "/loona-study-tools/pt-br/spell-the-word/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

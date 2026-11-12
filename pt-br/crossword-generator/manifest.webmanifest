@@ -1,0 +1,29 @@
+{
+  "name": "Loona Gerador de Palavras Cruzadas",
+  "short_name": "Gerador de Palavras Cruzadas",
+  "description": "Gerador de palavras cruzadas gratuito: digitar palavras e pistas e obter um verdadeiro puzzle de palavras cruzadas com interseções, imprimível com pistas numeradas e uma chave de respostas em separado.",
+  "id": "/loona-study-tools/pt-br/crossword-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

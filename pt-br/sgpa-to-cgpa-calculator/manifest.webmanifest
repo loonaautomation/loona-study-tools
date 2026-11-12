@@ -1,0 +1,29 @@
+{
+  "name": "Loona Calculadora de SGPA para CGPA",
+  "short_name": "Calculadora de SGPA para CGPA",
+  "description": "Combinar os SGPA semestrais num CGPA da forma correta: a média ponderada por créditos, e não uma média simples. Adicionar os semestres com os respetivos créditos.",
+  "id": "/loona-study-tools/pt-br/sgpa-to-cgpa-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

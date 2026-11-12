@@ -1,0 +1,29 @@
+{
+  "name": "Loona Criador de Flashcards",
+  "short_name": "Criador de Flashcards",
+  "description": "Criador de flashcards gratuito: criar baralhos, estudar com cartões que viram, baralhar e acompanhar o que já se sabe e o que ainda não se sabe. Importar/exportar CSV e JSON, imprimir cartões. Sem registro, salvo no dispositivo.",
+  "id": "/loona-study-tools/pt-br/flashcards/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

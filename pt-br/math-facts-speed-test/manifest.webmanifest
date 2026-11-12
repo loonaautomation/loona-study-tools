@@ -1,0 +1,29 @@
+{
+  "name": "Loona Teste de Rapidez de Factos Matemáticos",
+  "short_name": "Teste de Rapidez de Factos Matemáticos",
+  "description": "Teste de rapidez de fatos matemáticos gratuito: um sprint de 60 segundos de fatos de adição, subtração, multiplicação e divisão com verificação imediata, precisão e registro de sequências consecutivas.",
+  "id": "/loona-study-tools/pt-br/math-facts-speed-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

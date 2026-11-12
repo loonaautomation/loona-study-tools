@@ -1,0 +1,29 @@
+{
+  "name": "Loona Guia do 12.º Ano — BISE Rawalpindi",
+  "short_name": "Guia do 12.º Ano — BISE Rawalpindi",
+  "description": "BISE Rawalpindi, 12.º ano: disciplinas e áreas de estudo, como estão estruturadas as provas do conselho e um plano de preparação gratuito com ferramentas de estudo. Confirmar os modelos no site oficial do conselho.",
+  "id": "/loona-study-tools/pt-br/bise-rawalpindi-class-12-guide/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

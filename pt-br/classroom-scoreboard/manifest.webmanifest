@@ -1,0 +1,29 @@
+{
+  "name": "Loona Quadro de Pontuações da Turma",
+  "short_name": "Quadro de Pontuações da Turma",
+  "description": "Quadro de pontuações da turma gratuito: cartões de pontos de equipe grandes e coloridos para o tela da sala de aula, com +1/+5/-1 num só toque, salvos no navegador entre aulas.",
+  "id": "/loona-study-tools/pt-br/classroom-scoreboard/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

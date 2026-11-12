@@ -1,0 +1,29 @@
+{
+  "name": "Loona Jogo de Reordenar Frases",
+  "short_name": "Jogo de Reordenar Frases",
+  "description": "Jogo de reordenar frases gratuito: as frases são baralhadas palavra a palavra e os alunos tocam nas palavras para as repor na ordem correta, com verificação imediata e pontuação final.",
+  "id": "/loona-study-tools/pt-br/unjumble-game/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
