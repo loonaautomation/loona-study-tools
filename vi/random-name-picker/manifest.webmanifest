@@ -1,0 +1,29 @@
+{
+  "name": "Loona Trình chọn tên ngẫu nhiên",
+  "short_name": "Trình chọn tên ngẫu nhiên",
+  "description": "Trình chọn tên ngẫu nhiên miễn phí cho giáo viên: dán một danh sách lớp và chọn học sinh ngẫu nhiên một cách công bằng, với chế độ không lặp lại để mọi người đều có lượt trước khi ai đó lặp lại.",
+  "id": "/loona-study-tools/vi/random-name-picker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

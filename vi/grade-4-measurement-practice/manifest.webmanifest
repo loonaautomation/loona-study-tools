@@ -1,0 +1,29 @@
+{
+  "name": "Loona Luyện tập Đo lường lớp 4",
+  "short_name": "Luyện tập Đo lường lớp 4",
+  "description": "Luyện tập Đo lường lớp 4 miễn phí — đổi đơn vị: km, m, cm, mm. Một ví dụ có lời giải, 6 câu hỏi luyện tập với đáp án in được, phương pháp, lỗi thường gặp và một mẹo hay nhất.",
+  "id": "/loona-study-tools/vi/grade-4-measurement-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

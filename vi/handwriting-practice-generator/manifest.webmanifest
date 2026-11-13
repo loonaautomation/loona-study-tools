@@ -1,0 +1,29 @@
+{
+  "name": "Loona Trình tạo bài luyện viết tay",
+  "short_name": "Trình tạo bài luyện viết tay",
+  "description": "Trình tạo bài luyện viết tay miễn phí: phiếu đồ theo in được cho bảng chữ cái, chữ hoa, chữ thường, số và từ hoặc câu của chính bạn, với đường hướng dẫn bốn dòng kẻ.",
+  "id": "/loona-study-tools/vi/handwriting-practice-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Máy tính điểm có trọng số",
+  "short_name": "Máy tính điểm có trọng số",
+  "description": "Máy tính điểm có trọng số miễn phí: nhập trọng số và điểm từng hạng mục (bài tập về nhà, kiểm tra nhỏ, kiểm tra lớn, cuối kỳ) để nhận phần trăm khóa học tổng thể và điểm chữ cái của bạn. Trọng số tự chuẩn hóa.",
+  "id": "/loona-study-tools/vi/weighted-grade-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

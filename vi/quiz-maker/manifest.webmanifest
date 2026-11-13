@@ -1,0 +1,29 @@
+{
+  "name": "Loona Trình tạo bài kiểm tra",
+  "short_name": "Trình tạo bài kiểm tra",
+  "description": "Trình tạo bài kiểm tra miễn phí cho giáo viên: câu hỏi trắc nghiệm, đúng/sai và trả lời ngắn, chế độ làm bài với điểm và xem lại tức thì, bài kiểm tra in được + đáp án riêng, xuất/nhập JSON.",
+  "id": "/loona-study-tools/vi/quiz-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

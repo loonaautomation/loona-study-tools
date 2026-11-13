@@ -1,0 +1,29 @@
+{
+  "name": "Loona Bảng tuần hoàn tương tác",
+  "short_name": "Bảng tuần hoàn tương tác",
+  "description": "Bảng tuần hoàn tương tác miễn phí: cả 118 nguyên tố mã màu theo phân loại. Nhấp vào bất kỳ nguyên tố nào để xem số nguyên tử, khối lượng, nhóm, chu kỳ và phân loại của nó.",
+  "id": "/loona-study-tools/vi/periodic-table/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

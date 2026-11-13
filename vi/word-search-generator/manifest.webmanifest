@@ -1,0 +1,29 @@
+{
+  "name": "Loona Trình tạo tìm từ",
+  "short_name": "Trình tạo tìm từ",
+  "description": "Trình tạo trò tìm từ miễn phí: biến danh sách từ của chính bạn thành một câu đố tìm từ in được theo 8 hướng, với đáp án được tô sáng riêng. Hoàn hảo cho luyện từ vựng.",
+  "id": "/loona-study-tools/vi/word-search-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

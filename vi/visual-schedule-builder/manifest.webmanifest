@@ -1,0 +1,29 @@
+{
+  "name": "Loona Trình tạo lịch trình trực quan",
+  "short_name": "Trình tạo lịch trình trực quan",
+  "description": "Trình tạo lịch trình trực quan miễn phí: tạo một lịch hình ảnh in được của ngày học với giờ, biểu tượng và hoạt động — lý tưởng cho trẻ nhỏ và hỗ trợ SEN.",
+  "id": "/loona-study-tools/vi/visual-schedule-builder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

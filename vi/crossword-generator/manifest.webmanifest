@@ -1,0 +1,29 @@
+{
+  "name": "Loona Trình tạo ô chữ",
+  "short_name": "Trình tạo ô chữ",
+  "description": "Trình tạo ô chữ miễn phí: nhập từ và gợi ý và nhận một ô chữ giao nhau thực sự, in được với gợi ý đánh số và đáp án riêng.",
+  "id": "/loona-study-tools/vi/crossword-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

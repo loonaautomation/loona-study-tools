@@ -1,0 +1,29 @@
+{
+  "name": "Loona Lớp 6 Dữ liệu và biểu đồ",
+  "short_name": "Lớp 6 Dữ liệu và biểu đồ",
+  "description": "Luyện tập Dữ liệu và biểu đồ lớp 6 miễn phí — giải thích biểu đồ và chọn giá trị trung bình đúng. Một ví dụ có lời giải, 6 câu hỏi luyện tập với đáp án in được, phương pháp, lỗi thường gặp và một mẹo hay nhất.",
+  "id": "/loona-study-tools/vi/grade-6-data-graphs-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

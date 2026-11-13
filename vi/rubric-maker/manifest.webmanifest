@@ -1,0 +1,29 @@
+{
+  "name": "Loona Trình tạo thang đánh giá",
+  "short_name": "Trình tạo thang đánh giá",
+  "description": "Trình tạo thang đánh giá miễn phí: thêm tiêu chí và điểm tối đa, mô tả bốn mức độ thực hiện, và nhận một lưới thang đánh giá in được với điểm theo từng mức được tính tự động.",
+  "id": "/loona-study-tools/vi/rubric-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

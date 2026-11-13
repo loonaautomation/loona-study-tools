@@ -1,0 +1,29 @@
+{
+  "name": "Loona Công cụ đổi phần trăm sang CGPA (4.0, 5.0)",
+  "short_name": "Công cụ đổi phần trăm sang CGPA",
+  "description": "Đổi một phần trăm ngược lại thành CGPA trên các thang 4.0, 5.0 và 10 điểm: % ÷ 9.5 cho Ấn Độ, mức tương đương tuyến tính cho 4.0 và 5.0, với các bảng.",
+  "id": "/loona-study-tools/vi/percentage-to-cgpa/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

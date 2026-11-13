@@ -1,0 +1,29 @@
+{
+  "name": "Loona Đổi CGPA Ấn Độ sang phần trăm",
+  "short_name": "Đổi CGPA Ấn Độ sang phần trăm",
+  "description": "Đổi CGPA 10 điểm của Ấn Độ sang phần trăm bằng công thức CBSE (× 9.5) và các biến thể được các trường đại học Ấn Độ dùng — (CGPA − 0.5) × 10 và × 10 — với bảng đầy đủ.",
+  "id": "/loona-study-tools/vi/india-cgpa-to-percentage/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

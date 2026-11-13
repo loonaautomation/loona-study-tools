@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kiểm tra tốc độ đọc",
+  "short_name": "Kiểm tra tốc độ đọc",
+  "description": "Kiểm tra tốc độ đọc miễn phí: đọc một đoạn văn có giờ (3 lựa chọn, 400-600 từ), trả lời câu hỏi đọc hiểu, và nhận tốc độ đọc của bạn theo WPM cộng một hướng dẫn trung thực về tốc độ đọc tốt theo độ tuổi.",
+  "id": "/loona-study-tools/vi/reading-speed-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

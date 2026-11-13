@@ -1,0 +1,29 @@
+{
+  "name": "Loona Chủ đề Khoa học xã hội lớp 1",
+  "short_name": "Chủ đề Khoa học xã hội lớp 1",
+  "description": "Các chủ đề Khoa học xã hội cho lớp 1 theo thứ tự giảng dạy — Our neighbourhood, People who help us, Transport and more — với các công cụ học tập miễn phí cho mỗi chủ đề.",
+  "id": "/loona-study-tools/vi/grade-1-social-studies-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Chủ đề Khoa học xã hội mẫu giáo",
+  "short_name": "Chủ đề Khoa học xã hội mẫu giáo",
+  "description": "Các chủ đề Khoa học xã hội cho mẫu giáo theo thứ tự giảng dạy — My family and my home, My school and my classroom, Helpers in our neighbourhood and more — với các công cụ học tập miễn phí cho mỗi chủ đề.",
+  "id": "/loona-study-tools/vi/kindergarten-social-studies-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

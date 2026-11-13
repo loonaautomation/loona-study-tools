@@ -1,0 +1,29 @@
+{
+  "name": "Loona Chủ đề Tiếng Anh lớp 3",
+  "short_name": "Chủ đề Tiếng Anh lớp 3",
+  "description": "Các chủ đề Tiếng Anh cho lớp 3 theo thứ tự giảng dạy — Parts of speech, Past and present tense (regular verbs), Commas in lists and speech marks (first look) and more — với các công cụ học tập miễn phí cho mỗi chủ đề.",
+  "id": "/loona-study-tools/vi/grade-3-english-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

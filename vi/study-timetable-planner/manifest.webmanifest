@@ -1,0 +1,29 @@
+{
+  "name": "Loona Trình lập kế hoạch thời khóa biểu học tập",
+  "short_name": "Trình lập kế hoạch thời khóa biểu học tập",
+  "description": "Kế hoạch thời khóa biểu học tập miễn phí: nhập môn học, số giờ mỗi ngày và ngày thi để tạo một thời khóa biểu học tập hằng tuần cân bằng, có thể sửa, in được với luân phiên môn học công bằng.",
+  "id": "/loona-study-tools/vi/study-timetable-planner/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

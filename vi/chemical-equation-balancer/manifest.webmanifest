@@ -1,0 +1,29 @@
+{
+  "name": "Loona Cân bằng phương trình hóa học",
+  "short_name": "Cân bằng phương trình hóa học",
+  "description": "Cân bằng phương trình hóa học miễn phí: nhập một phương trình như C3H8 + O2 -> CO2 + H2O và nhận các hệ số đã cân bằng với xác minh đầy đủ theo từng nguyên tử.",
+  "id": "/loona-study-tools/vi/chemical-equation-balancer/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

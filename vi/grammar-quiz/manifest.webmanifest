@@ -1,0 +1,29 @@
+{
+  "name": "Loona Bài kiểm tra ngữ pháp",
+  "short_name": "Bài kiểm tra ngữ pháp",
+  "description": "Bài kiểm tra ngữ pháp tiếng Anh miễn phí: 24 câu hỏi về thì, mạo từ, giới từ, sự hòa hợp, câu điều kiện và dấu câu, với điểm tức thì và giải thích cho mọi đáp án.",
+  "id": "/loona-study-tools/vi/grammar-quiz/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

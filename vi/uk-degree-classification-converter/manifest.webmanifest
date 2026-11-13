@@ -1,0 +1,29 @@
+{
+  "name": "Loona Công cụ đổi phân loại bằng cấp Anh",
+  "short_name": "Công cụ đổi phân loại bằng cấp Anh",
+  "description": "First, 2:1, 2:2 hoặc Third của Anh nghĩa là gì theo phần trăm và GPA Hoa Kỳ xấp xỉ — với ghi chú trung thực rằng không có quy đổi Anh sang GPA chính thức nào tồn tại.",
+  "id": "/loona-study-tools/vi/uk-degree-classification-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

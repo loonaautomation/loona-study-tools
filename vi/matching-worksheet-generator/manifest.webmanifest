@@ -1,0 +1,29 @@
+{
+  "name": "Loona Trình tạo phiếu bài tập ghép nối",
+  "short_name": "Trình tạo phiếu bài tập ghép nối",
+  "description": "Trình tạo phiếu bài tập ghép nối miễn phí: gõ các cặp thuật ngữ = định nghĩa và nhận một phiếu bài tập ghép nối in được với định nghĩa xáo trộn và đáp án cho giáo viên.",
+  "id": "/loona-study-tools/vi/matching-worksheet-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

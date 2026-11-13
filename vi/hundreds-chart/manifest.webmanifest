@@ -1,0 +1,29 @@
+{
+  "name": "Loona Bảng số hàng trăm",
+  "short_name": "Bảng số hàng trăm",
+  "description": "Bảng số hàng trăm miễn phí: bảng 1-100 tương tác in được với tô sáng chẵn/lẻ và bội số và chế độ luyện tập số còn thiếu cho cảm nhận số.",
+  "id": "/loona-study-tools/vi/hundreds-chart/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

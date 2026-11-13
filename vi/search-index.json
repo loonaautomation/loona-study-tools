@@ -1,0 +1,452 @@
+[
+ {
+  "n": "Trình tạo thẻ ghi nhớ",
+  "u": "https://loonaautomation.github.io/loona-study-tools/vi/flashcards/",
+  "s": "Loona Study Tools",
+  "d": "Xây dựng các bộ thẻ ghi nhớ, học với thẻ lật và xáo trộn, theo dõi những gì bạn đã thuộc, và xuất hoặc in thẻ của bạn.",
+  "k": "flashcards maker flashcards xay dung cac bo the ghi nho hoc voi the lat va xao tron theo doi nhung gi ban a thuoc va xuat hoac in the cua ban",
+  "p": 0,
+  "c": "Tool"
+ },
+ {
+  "n": "Trình tạo bài kiểm tra",
+  "u": "https://loonaautomation.github.io/loona-study-tools/vi/quiz-maker/",
+  "s": "Loona Study Tools",
+  "d": "Giáo viên xây dựng bài kiểm tra với MCQ, đúng/sai và trả lời ngắn — học sinh làm chúng với điểm tức thì và xem xét đáp án đầy đủ.",
+  "k": "quiz maker quiz maker giao vien xay dung bai kiem tra voi mcq ung sai va tra loi ngan hoc sinh lam chung voi iem tuc thi va xem xet ap an ay u",
+  "p": 1,
+  "c": "Tool"
+ },
+ {
+  "n": "Practice by Grade & Topic",
+  "u": "https://loonaautomation.github.io/loona-study-tools/vi/grade-topic-practice/",
+  "s": "Loona Study Tools",
+  "d": "196 trang mới: ví dụ có lời giải và câu hỏi luyện tập cho mọi lớp và chủ đề toán, hướng dẫn môn học cho Khoa học, Tiếng Anh, Khoa học xã hội và Urdu, hướng dẫn kỳ thi hội đồng Pakistan cho Lớp 9–12, và công cụ đổi CGPA cho mọi thang điểm chính.",
+  "k": "practice by grade topic grade topic practice 196 trang moi vi du co loi giai va cau hoi luyen tap cho moi lop va chu e toan huong dan mon hoc cho khoa hoc tieng anh khoa hoc xa hoi va urdu huong dan ky thi hoi ong pakistan cho lop 9 12 va cong cu oi cgpa cho moi thang iem chinh",
+  "p": 102,
+  "c": "Tool"
+ },
+ {
+  "n": "Trình tạo phiếu bài tập toán",
+  "u": "https://loonaautomation.github.io/loona-study-tools/vi/math-worksheet-generator/",
+  "s": "Loona Study Tools",
+  "d": "Tạo phiếu bài tập toán in được — cộng, trừ, nhân, chia, phân số và số thập phân — với đáp án khớp.",
+  "k": "math worksheet generator math worksheet generator tao phieu bai tap toan in uoc cong tru nhan chia phan so va so thap phan voi ap an khop",
+  "p": 2,
+  "c": "Tool"
+ },
+ {
+  "n": "Kiểm tra tốc độ đọc",
+  "u": "https://loonaautomation.github.io/loona-study-tools/vi/reading-speed-test/",
+  "s": "Loona Study Tools",
+  "d": "Đọc một đoạn văn có giờ, trả lời câu hỏi hiểu bài và nhận tốc độ đọc thực của bạn theo từ mỗi phút (WPM).",
+  "k": "reading speed test reading speed test oc mot oan van co gio tra loi cau hoi hieu bai va nhan toc o oc thuc cua ban theo tu moi phut wpm",
+  "p": 3,
+  "c": "Tool"
+ },
+ {
+  "n": "Trình lập kế hoạch thời khóa biểu học tập",
+  "u": "https://loonaautomation.github.io/loona-study-tools/vi/study-timetable-planner/",
+  "s": "Loona Study Tools",
+  "d": "Nhập các môn học, số giờ mỗi ngày và ngày thi của bạn và nhận một thời khóa biểu học tập hằng tuần cân bằng mà bạn có thể sửa và in.",
+  "k": "study timetable planner study timetable planner nhap cac mon hoc so gio moi ngay va ngay thi cua ban va nhan mot thoi khoa bieu hoc tap hang tuan can bang ma ban co the sua va in",
+  "p": 4,
+  "c": "Tool"
+ },
+ {
+  "n": "Luyện bảng cửu chương",
+  "u": "https://loonaautomation.github.io/loona-study-tools/vi/multiplication-tables-practice/",
+  "s": "Loona Study Tools",
+  "d": "Luyện bảng nhân với các vòng luyện tập có giờ, kiểm tra tức thì và bảng nhân in được đến 12 × 12.",
+  "k": "multiplication tables practice multiplication tables practice luyen bang nhan voi cac vong luyen tap co gio kiem tra tuc thi va bang nhan in uoc en 12 12",
+  "p": 106,
+  "c": "Tool"
+ },
+ {
+  "n": "Kiểm tra chính tả",
+  "u": "https://loonaautomation.github.io/loona-study-tools/vi/spelling-test/",
+  "s": "Loona Study Tools",
+  "d": "Máy tính đọc mỗi từ thành tiếng — bạn gõ chính tả. Điểm tức thì và xem xét mọi từ bạn bỏ lỡ.",
+  "k": "spelling test spelling test may tinh oc moi tu thanh tieng ban go chinh ta iem tuc thi va xem xet moi tu ban bo lo",
+  "p": 5,
+  "c": "Tool"
+ },
+ {
+  "n": "Trình tạo bài luyện viết tay",
+  "u": "https://loonaautomation.github.io/loona-study-tools/vi/handwriting-practice-generator/",
+  "s": "Loona Study Tools",
+  "d": "Tạo phiếu luyện viết tay in được cho chữ cái, số và từ của chính bạn, với dòng đồ theo và dòng chép trống.",
+  "k": "handwriting practice generator handwriting practice generator tao phieu luyen viet tay in uoc cho chu cai so va tu cua chinh ban voi dong o theo va dong chep trong",
+  "p": 108,
+  "c": "Tool"
+ },
+ {
+  "n": "Kế hoạch đếm ngược kỳ thi",
+  "u": "https://loonaautomation.github.io/loona-study-tools/vi/exam-countdown-planner/",
+  "s": "Loona Study Tools",
+  "d": "Nhập ngày thi và các môn học của bạn và nhận một kế hoạch ôn tập theo từng ngày, trải đều các chủ đề một cách công bằng qua những ngày bạn còn lại.",
+  "k": "exam countdown planner exam countdown planner nhap ngay thi va cac mon hoc cua ban va nhan mot ke hoach on tap theo tung ngay trai eu cac chu e mot cach cong bang qua nhung ngay ban con lai",
+  "p": 109,
+  "c": "Tool"
+ },
+ {
+  "n": "Trình tạo tìm từ",
+  "u": "https://loonaautomation.github.io/loona-study-tools/vi/word-search-generator/",
+  "s": "Loona Study Tools",
+  "d": "Biến danh sách từ của riêng bạn thành một câu đố tìm từ in được, với một đáp án riêng cho thấy vị trí của mọi từ.",
+  "k": "word search generator word search generator bien danh sach tu cua rieng ban thanh mot cau o tim tu in uoc voi mot ap an rieng cho thay vi tri cua moi tu",
+  "p": 110,
+  "c": "Tool"
+ },
+ {
+  "n": "Trình tạo phiếu bài tập ghép nối",
+  "u": "https://loonaautomation.github.io/loona-study-tools/vi/matching-worksheet-generator/",
+  "s": "Loona Study Tools",
+  "d": "Tạo phiếu bài tập ghép nối in được — thuật ngữ ở bên trái, định nghĩa xáo trộn ở bên phải — với đáp án cho giáo viên.",
+  "k": "matching worksheet generator matching worksheet generator tao phieu bai tap ghep noi in uoc thuat ngu o ben trai inh nghia xao tron o ben phai voi ap an cho giao vien",
+  "p": 111,
+  "c": "Tool"
+ },
+ {
+  "n": "Trình chọn tên ngẫu nhiên",
+  "u": "https://loonaautomation.github.io/loona-study-tools/vi/random-name-picker/",
+  "s": "Loona Study Tools",
+  "d": "Dán một danh sách lớp và chọn học sinh ngẫu nhiên một cách công bằng, với chế độ không lặp lại để mọi người đều có lượt.",
+  "k": "random name picker random name picker dan mot danh sach lop va chon hoc sinh ngau nhien mot cach cong bang voi che o khong lap lai e moi nguoi eu co luot",
+  "p": 112,
+  "c": "Tool"
+ },
+ {
+  "n": "Trò chơi ghép cặp",
+  "u": "https://loonaautomation.github.io/loona-study-tools/vi/matching-pairs-game/",
+  "s": "Loona Study Tools",
+  "d": "Biến bất kỳ cặp thuật ngữ và định nghĩa nào thành một trò chơi trí nhớ lật và nối với theo dõi nước đi và thời gian.",
+  "k": "matching pairs game matching pairs game bien bat ky cap thuat ngu va inh nghia nao thanh mot tro choi tri nho lat va noi voi theo doi nuoc i va thoi gian",
+  "p": 113,
+  "c": "Tool"
+ },
+ {
+  "n": "Trò chơi phân loại theo nhóm",
+  "u": "https://loonaautomation.github.io/loona-study-tools/vi/group-sort-game/",
+  "s": "Loona Study Tools",
+  "d": "Tạo danh mục và mục; học sinh phân loại mọi mục vào đúng nhóm và nhận điểm tức thì.",
+  "k": "group sort game group sort game tao danh muc va muc hoc sinh phan loai moi muc vao ung nhom va nhan iem tuc thi",
+  "p": 114,
+  "c": "Tool"
+ },
+ {
+  "n": "Trò chơi sắp xếp lại câu",
+  "u": "https://loonaautomation.github.io/loona-study-tools/vi/unjumble-game/",
+  "s": "Loona Study Tools",
+  "d": "Câu được xáo trộn theo từng từ — học sinh chạm các từ trở lại thứ tự đúng.",
+  "k": "unjumble sentences game unjumble game cau uoc xao tron theo tung tu hoc sinh cham cac tu tro lai thu tu ung",
+  "p": 115,
+  "c": "Tool"
+ },
+ {
+  "n": "Trò chơi đảo chữ Anagram",
+  "u": "https://loonaautomation.github.io/loona-study-tools/vi/anagram-game/",
+  "s": "Loona Study Tools",
+  "d": "Từ được trộn theo từng chữ cái; học sinh sắp xếp lại chúng dùng gợi ý bạn cung cấp.",
+  "k": "anagram game anagram game tu uoc tron theo tung chu cai hoc sinh sap xep lai chung dung goi y ban cung cap",
+  "p": 116,
+  "c": "Tool"
+ },
+ {
+  "n": "Trò chơi đánh vần từ",
+  "u": "https://loonaautomation.github.io/loona-study-tools/vi/spell-the-word/",
+  "s": "Loona Study Tools",
+  "d": "Xây dựng mỗi từ bằng cách chạm các ô chữ theo thứ tự — luyện chính tả với gợi ý và kiểm tra tức thì.",
+  "k": "spell the word game spell the word xay dung moi tu bang cach cham cac o chu theo thu tu luyen chinh ta voi goi y va kiem tra tuc thi",
+  "p": 117,
+  "c": "Tool"
+ },
+ {
+  "n": "Trò chơi Hangman",
+  "u": "https://loonaautomation.github.io/loona-study-tools/vi/hangman-game/",
+  "s": "Loona Study Tools",
+  "d": "Trò chơi đoán chữ cổ điển với danh sách từ tích hợp cho các môn học ở trường, hoặc danh sách từ của riêng bạn.",
+  "k": "hangman game hangman game tro choi oan chu co ien voi danh sach tu tich hop cho cac mon hoc o truong hoac danh sach tu cua rieng ban",
+  "p": 118,
+  "c": "Tool"
+ },
+ {
+  "n": "Trình tạo ô chữ",
+  "u": "https://loonaautomation.github.io/loona-study-tools/vi/crossword-generator/",
+  "s": "Loona Study Tools",
+  "d": "Nhập từ và gợi ý và tạo một ô chữ giao nhau thực sự — in được, với đáp án.",
+  "k": "crossword generator crossword generator nhap tu va goi y va tao mot o chu giao nhau thuc su in uoc voi ap an",
+  "p": 119,
+  "c": "Tool"
+ },
+ {
+  "n": "Trình tạo thẻ Bingo",
+  "u": "https://loonaautomation.github.io/loona-study-tools/vi/bingo-card-generator/",
+  "s": "Loona Study Tools",
+  "d": "Tạo thẻ bingo từ vựng in được độc nhất cho cả lớp, cộng một danh sách gọi đã xáo trộn.",
+  "k": "bingo card generator bingo card generator tao the bingo tu vung in uoc oc nhat cho ca lop cong mot danh sach goi a xao tron",
+  "p": 120,
+  "c": "Tool"
+ },
+ {
+  "n": "Trình tạo sơ đồ có nhãn",
+  "u": "https://loonaautomation.github.io/loona-study-tools/vi/labelled-diagram-maker/",
+  "s": "Loona Study Tools",
+  "d": "Tải lên một sơ đồ, ghim nhãn lên nó, in một phiên bản có nhãn hoặc trống, và chạy một bài kiểm tra nhãn.",
+  "k": "labelled diagram maker labelled diagram maker tai len mot so o ghim nhan len no in mot phien ban co nhan hoac trong va chay mot bai kiem tra nhan",
+  "p": 121,
+  "c": "Tool"
+ },
+ {
+  "n": "Bảng số hàng trăm",
+  "u": "https://loonaautomation.github.io/loona-study-tools/vi/hundreds-chart/",
+  "s": "Loona Study Tools",
+  "d": "Một bảng 1–100 tương tác, in được, với tô sáng chẵn/lẻ và bội số, cộng chế độ luyện tập số còn thiếu.",
+  "k": "hundreds chart hundreds chart mot bang 1 100 tuong tac in uoc voi to sang chan le va boi so cong che o luyen tap so con thieu",
+  "p": 122,
+  "c": "Tool"
+ },
+ {
+  "n": "Trình tạo thẻ tường từ",
+  "u": "https://loonaautomation.github.io/loona-study-tools/vi/word-wall-cards/",
+  "s": "Loona Study Tools",
+  "d": "Biến danh sách từ thành thẻ tường từ lớn, đậm, in được cho trưng bày lớp học.",
+  "k": "word wall cards generator word wall cards bien danh sach tu thanh the tuong tu lon am in uoc cho trung bay lop hoc",
+  "p": 123,
+  "c": "Tool"
+ },
+ {
+  "n": "Trình tạo Sudoku",
+  "u": "https://loonaautomation.github.io/loona-study-tools/vi/sudoku-generator/",
+  "s": "Loona Study Tools",
+  "d": "Tạo câu đố Sudoku in được — 4×4, 6×6 và 9×9 — với đáp án duy nhất và trang lời giải riêng.",
+  "k": "sudoku generator sudoku generator tao cau o sudoku in uoc 4 4 6 6 va 9 9 voi ap an duy nhat va trang loi giai rieng",
+  "p": 124,
+  "c": "Tool"
+ },
+ {
+  "n": "Trình tạo mê cung",
+  "u": "https://loonaautomation.github.io/loona-study-tools/vi/maze-generator/",
+  "s": "Loona Study Tools",
+  "d": "Tạo mê cung in được ở bốn mức độ khó, với đường lời giải tùy chọn.",
+  "k": "maze generator maze generator tao me cung in uoc o bon muc o kho voi uong loi giai tuy chon",
+  "p": 125,
+  "c": "Tool"
+ },
+ {
+  "n": "Trình tạo tranh tô màu theo số",
+  "u": "https://loonaautomation.github.io/loona-study-tools/vi/colour-by-number-generator/",
+  "s": "Loona Study Tools",
+  "d": "Tạo một tranh khảm tô màu theo số in được với khóa màu và một hình đáp án có màu.",
+  "k": "colour by number generator colour by number generator tao mot tranh kham to mau theo so in uoc voi khoa mau va mot hinh ap an co mau",
+  "p": 126,
+  "c": "Tool"
+ },
+ {
+  "n": "Trình tạo giấy in được",
+  "u": "https://loonaautomation.github.io/loona-study-tools/vi/printable-paper-generator/",
+  "s": "Loona Study Tools",
+  "d": "In giấy kẻ ô, giấy lưới chấm, giấy đẳng cự và giấy luyện viết tay ở kích thước chính xác.",
+  "k": "printable paper generator printable paper generator in giay ke o giay luoi cham giay ang cu va giay luyen viet tay o kich thuoc chinh xac",
+  "p": 127,
+  "c": "Tool"
+ },
+ {
+  "n": "Trình tạo phiếu bài tập chính tả",
+  "u": "https://loonaautomation.github.io/loona-study-tools/vi/spelling-worksheet-generator/",
+  "s": "Loona Study Tools",
+  "d": "Từ một danh sách chính tả: một phiếu kiểm tra, xáo trộn từ, luyện chữ còn thiếu và thứ tự ABC — với đáp án.",
+  "k": "spelling worksheet generator spelling worksheet generator tu mot danh sach chinh ta mot phieu kiem tra xao tron tu luyen chu con thieu va thu tu abc voi ap an",
+  "p": 128,
+  "c": "Tool"
+ },
+ {
+  "n": "Đồng hồ bấm giờ lớp học & đồng hồ thi",
+  "u": "https://loonaautomation.github.io/loona-study-tools/vi/classroom-timers/",
+  "s": "Loona Study Tools",
+  "d": "Đồng hồ đếm ngược hiển thị lớn với vòng tiến độ, đồng hồ thi hiển thị giờ kết thúc, đồng hồ thanh trực quan và đồng hồ bấm giờ có vòng lặp.",
+  "k": "classroom timers exam timer classroom timers ong ho em nguoc hien thi lon voi vong tien o ong ho thi hien thi gio ket thuc ong ho thanh truc quan va ong ho bam gio co vong lap",
+  "p": 129,
+  "c": "Tool"
+ },
+ {
+  "n": "Trình chia nhóm lớp học",
+  "u": "https://loonaautomation.github.io/loona-study-tools/vi/classroom-group-maker/",
+  "s": "Loona Study Tools",
+  "d": "Lưu danh sách lớp của bạn và chia chúng thành các nhóm hoặc cặp ngẫu nhiên công bằng — kích thước cân bằng, xáo trộn lại trong một lần nhấp.",
+  "k": "classroom group maker classroom group maker luu danh sach lop cua ban va chia chung thanh cac nhom hoac cap ngau nhien cong bang kich thuoc can bang xao tron lai trong mot lan nhap",
+  "p": 130,
+  "c": "Tool"
+ },
+ {
+  "n": "Trình tạo sơ đồ chỗ ngồi",
+  "u": "https://loonaautomation.github.io/loona-study-tools/vi/seating-chart-maker/",
+  "s": "Loona Study Tools",
+  "d": "Sắp xếp học sinh trên lưới bàn: nhấp để đặt chỗ, khóa chỗ ngồi yêu thích, xáo trộn phần còn lại, và in sơ đồ.",
+  "k": "seating chart maker seating chart maker sap xep hoc sinh tren luoi ban nhap e at cho khoa cho ngoi yeu thich xao tron phan con lai va in so o",
+  "p": 131,
+  "c": "Tool"
+ },
+ {
+  "n": "Bảng điểm lớp học",
+  "u": "https://loonaautomation.github.io/loona-study-tools/vi/classroom-scoreboard/",
+  "s": "Loona Study Tools",
+  "d": "Một bảng điểm đội lớn, rõ ràng cho màn hình lớp học — thêm đội, chạm để cộng hoặc trừ điểm.",
+  "k": "classroom scoreboard classroom scoreboard mot bang iem oi lon ro rang cho man hinh lop hoc them oi cham e cong hoac tru iem",
+  "p": 132,
+  "c": "Tool"
+ },
+ {
+  "n": "Đồng hồ đo tiếng ồn lớp học",
+  "u": "https://loonaautomation.github.io/loona-study-tools/vi/noise-meter/",
+  "s": "Loona Study Tools",
+  "d": "Một đồng hồ đo mức tiếng ồn tương đối trực tiếp bằng micro của bạn — các vùng xanh lá, hổ phách và đỏ giúp các lớp tự điều chỉnh.",
+  "k": "classroom noise meter noise meter mot ong ho o muc tieng on tuong oi truc tiep bang micro cua ban cac vung xanh la ho phach va o giup cac lop tu ieu chinh",
+  "p": 133,
+  "c": "Tool"
+ },
+ {
+  "n": "Trình tạo thẻ tên",
+  "u": "https://loonaautomation.github.io/loona-study-tools/vi/name-tags-generator/",
+  "s": "Loona Study Tools",
+  "d": "Biến một danh sách lớp thành thẻ tên in được với một dòng phụ đề — cho bàn, chuyến đi và giới thiệu tuần đầu.",
+  "k": "name tags generator name tags generator bien mot danh sach lop thanh the ten in uoc voi mot dong phu e cho ban chuyen i va gioi thieu tuan au",
+  "p": 134,
+  "c": "Tool"
+ },
+ {
+  "n": "Trình tạo lịch trình trực quan",
+  "u": "https://loonaautomation.github.io/loona-study-tools/vi/visual-schedule-builder/",
+  "s": "Loona Study Tools",
+  "d": "Xây dựng một lịch ngày trực quan in được với giờ, hoạt động và biểu tượng hình ảnh — lý tưởng cho trẻ nhỏ.",
+  "k": "visual schedule builder visual schedule builder xay dung mot lich ngay truc quan in uoc voi gio hoat ong va bieu tuong hinh anh ly tuong cho tre nho",
+  "p": 135,
+  "c": "Tool"
+ },
+ {
+  "n": "EZ Grader",
+  "u": "https://loonaautomation.github.io/loona-study-tools/vi/ez-grader/",
+  "s": "Loona Study Tools",
+  "d": "Thang trượt chấm điểm cổ điển của giáo viên: nhập tổng số câu hỏi và số câu sai để nhận phần trăm và điểm chữ cái, cộng một biểu đồ đầy đủ.",
+  "k": "ez grader ez grader thang truot cham iem co ien cua giao vien nhap tong so cau hoi va so cau sai e nhan phan tram va iem chu cai cong mot bieu o ay u",
+  "p": 136,
+  "c": "Tool"
+ },
+ {
+  "n": "Trình chấm bài kiểm tra",
+  "u": "https://loonaautomation.github.io/loona-study-tools/vi/test-grader/",
+  "s": "Loona Study Tools",
+  "d": "Dán một đáp án chuẩn và đáp án của học sinh để chấm cả bài kiểm tra tức thì, theo từng câu hỏi.",
+  "k": "test grader test grader dan mot ap an chuan va ap an cua hoc sinh e cham ca bai kiem tra tuc thi theo tung cau hoi",
+  "p": 137,
+  "c": "Tool"
+ },
+ {
+  "n": "Máy tính điểm có trọng số",
+  "u": "https://loonaautomation.github.io/loona-study-tools/vi/weighted-grade-calculator/",
+  "s": "Loona Study Tools",
+  "d": "Kết hợp điểm từng hạng mục (bài tập về nhà, kiểm tra nhỏ, kiểm tra lớn, cuối kỳ) theo trọng số đề cương của chúng thành điểm khóa học.",
+  "k": "weighted grade calculator weighted grade calculator ket hop iem tung hang muc bai tap ve nha kiem tra nho kiem tra lon cuoi ky theo trong so e cuong cua chung thanh iem khoa hoc",
+  "p": 138,
+  "c": "Tool"
+ },
+ {
+  "n": "Máy tính điểm thi cuối kỳ",
+  "u": "https://loonaautomation.github.io/loona-study-tools/vi/final-exam-calculator/",
+  "s": "Loona Study Tools",
+  "d": "Tính chính xác điểm bạn cần trong kỳ thi cuối kỳ để đạt điểm khóa học mục tiêu — và liệu nó có thể hay không.",
+  "k": "final exam grade calculator final exam calculator tinh chinh xac iem ban can trong ky thi cuoi ky e at iem khoa hoc muc tieu va lieu no co the hay khong",
+  "p": 139,
+  "c": "Tool"
+ },
+ {
+  "n": "Kiểm tra tốc độ tính toán",
+  "u": "https://loonaautomation.github.io/loona-study-tools/vi/math-facts-speed-test/",
+  "s": "Loona Study Tools",
+  "d": "Một chặng chạy nước rút số học 60 giây: càng nhiều phép +, −, × và ÷ đúng càng tốt, với độ chính xác và chuỗi đúng liên tiếp.",
+  "k": "math facts speed test math facts speed test mot chang chay nuoc rut so hoc 60 giay cang nhieu phep va ung cang tot voi o chinh xac va chuoi ung lien tiep",
+  "p": 140,
+  "c": "Tool"
+ },
+ {
+  "n": "Kiểm tra bàn phím số 10 phím",
+  "u": "https://loonaautomation.github.io/loona-study-tools/vi/ten-key-test/",
+  "s": "Loona Study Tools",
+  "d": "Kiểm tra tốc độ nhập dữ liệu cho bàn phím số: gõ các dãy số nhanh và chính xác, chấm theo số phím mỗi phút.",
+  "k": "10 key number pad test ten key test kiem tra toc o nhap du lieu cho ban phim so go cac day so nhanh va chinh xac cham theo so phim moi phut",
+  "p": 141,
+  "c": "Tool"
+ },
+ {
+  "n": "Kiểm tra gõ mã",
+  "u": "https://loonaautomation.github.io/loona-study-tools/vi/code-typing-test/",
+  "s": "Loona Study Tools",
+  "d": "Gõ các đoạn mã thực với ký hiệu và thụt lề — đo tốc độ gõ mã và độ chính xác ký hiệu cho lập trình viên.",
+  "k": "code typing test code typing test go cac oan ma thuc voi ky hieu va thut le o toc o go ma va o chinh xac ky hieu cho lap trinh vien",
+  "p": 142,
+  "c": "Tool"
+ },
+ {
+  "n": "Bài kiểm tra ngữ pháp",
+  "u": "https://loonaautomation.github.io/loona-study-tools/vi/grammar-quiz/",
+  "s": "Loona Study Tools",
+  "d": "Một bài kiểm tra ngữ pháp tiếng Anh gồm 24 câu hỏi — thì, mạo từ, giới từ, sự hòa hợp và dấu câu — với điểm số và giải thích tức thì.",
+  "k": "grammar quiz grammar quiz mot bai kiem tra ngu phap tieng anh gom 24 cau hoi thi mao tu gioi tu su hoa hop va dau cau voi iem so va giai thich tuc thi",
+  "p": 143,
+  "c": "Tool"
+ },
+ {
+  "n": "Kiểm tra từ vựng",
+  "u": "https://loonaautomation.github.io/loona-study-tools/vi/vocabulary-quiz/",
+  "s": "Loona Study Tools",
+  "d": "Hai mươi câu hỏi nghĩa từ với bốn lựa chọn mỗi câu — một kiểm tra nhanh, trung thực về trình độ từ vựng tiếng Anh của bạn.",
+  "k": "vocabulary quiz vocabulary quiz hai muoi cau hoi nghia tu voi bon lua chon moi cau mot kiem tra nhanh trung thuc ve trinh o tu vung tieng anh cua ban",
+  "p": 144,
+  "c": "Tool"
+ },
+ {
+  "n": "Bảng tuần hoàn tương tác",
+  "u": "https://loonaautomation.github.io/loona-study-tools/vi/periodic-table/",
+  "s": "Loona Study Tools",
+  "d": "Cả 118 nguyên tố trong một bảng mã màu — nhấp vào bất kỳ nguyên tố nào để xem tên, khối lượng nguyên tử, nhóm, chu kỳ và phân loại của nó.",
+  "k": "interactive periodic table periodic table ca 118 nguyen to trong mot bang ma mau nhap vao bat ky nguyen to nao e xem ten khoi luong nguyen tu nhom chu ky va phan loai cua no",
+  "p": 145,
+  "c": "Tool"
+ },
+ {
+  "n": "Máy tính khối lượng mol",
+  "u": "https://loonaautomation.github.io/loona-study-tools/vi/molar-mass-calculator/",
+  "s": "Loona Study Tools",
+  "d": "Gõ một công thức hóa học — bao gồm dấu ngoặc — và nhận khối lượng mol của nó theo g/mol với bảng phân tích theo nguyên tố.",
+  "k": "molar mass calculator molar mass calculator go mot cong thuc hoa hoc bao gom dau ngoac va nhan khoi luong mol cua no theo g mol voi bang phan tich theo nguyen to",
+  "p": 146,
+  "c": "Tool"
+ },
+ {
+  "n": "Cân bằng phương trình hóa học",
+  "u": "https://loonaautomation.github.io/loona-study-tools/vi/chemical-equation-balancer/",
+  "s": "Loona Study Tools",
+  "d": "Nhập một phương trình chưa cân bằng và nhận các hệ số đã cân bằng, được kiểm chứng từng nguyên tử.",
+  "k": "chemical equation balancer chemical equation balancer nhap mot phuong trinh chua can bang va nhan cac he so a can bang uoc kiem chung tung nguyen tu",
+  "p": 147,
+  "c": "Tool"
+ },
+ {
+  "n": "Máy tính pH",
+  "u": "https://loonaautomation.github.io/loona-study-tools/vi/ph-calculator/",
+  "s": "Loona Study Tools",
+  "d": "Đổi qua lại giữa pH, pOH, [H+] và [OH-], và tính pH của dung dịch axit mạnh và bazơ mạnh.",
+  "k": "ph calculator ph calculator oi qua lai giua ph poh h va oh va tinh ph cua dung dich axit manh va bazo manh",
+  "p": 148,
+  "c": "Tool"
+ },
+ {
+  "n": "Trình tạo thang đánh giá",
+  "u": "https://loonaautomation.github.io/loona-study-tools/vi/rubric-maker/",
+  "s": "Loona Study Tools",
+  "d": "Xây dựng một thang đánh giá in được: tiêu chí dọc theo cạnh, bốn mức độ thực hiện ngang phía trên, điểm được tính tự động.",
+  "k": "rubric maker rubric maker xay dung mot thang anh gia in uoc tieu chi doc theo canh bon muc o thuc hien ngang phia tren iem uoc tinh tu ong",
+  "p": 149,
+  "c": "Tool"
+ }
+]

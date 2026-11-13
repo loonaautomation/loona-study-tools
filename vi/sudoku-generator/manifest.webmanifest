@@ -1,0 +1,29 @@
+{
+  "name": "Loona Trình tạo Sudoku",
+  "short_name": "Trình tạo Sudoku",
+  "description": "Trình tạo Sudoku miễn phí: câu đố Sudoku 4x4, 6x6 và 9x9 in được ở ba mức độ khó, mọi câu đố được kiểm chứng có đúng một đáp án, với trang lời giải riêng.",
+  "id": "/loona-study-tools/vi/sudoku-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

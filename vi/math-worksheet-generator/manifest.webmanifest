@@ -1,0 +1,29 @@
+{
+  "name": "Loona Trình tạo phiếu bài tập toán",
+  "short_name": "Trình tạo phiếu bài tập toán",
+  "description": "Trình tạo phiếu bài tập toán miễn phí: phiếu bài tập cộng, trừ, nhân, chia, phân số, số thập phân và chia dài với phạm vi số, tùy chọn gộp nhóm và đáp án in được.",
+  "id": "/loona-study-tools/vi/math-worksheet-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

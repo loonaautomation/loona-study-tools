@@ -1,0 +1,29 @@
+{
+  "name": "Loona Đồng hồ đo tiếng ồn lớp học",
+  "short_name": "Đồng hồ đo tiếng ồn lớp học",
+  "description": "Đồng hồ đo tiếng ồn lớp học miễn phí: thanh mức micro trực tiếp với các vùng xanh lá/hổ phách/đỏ và bộ đếm chuỗi yên lặng. Hiển thị mức tương đối (không phải decibel), phân tích trên thiết bị, không bao giờ ghi lại.",
+  "id": "/loona-study-tools/vi/noise-meter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

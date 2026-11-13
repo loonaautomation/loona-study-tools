@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kiểm tra tốc độ tính toán",
+  "short_name": "Kiểm tra tốc độ tính toán",
+  "description": "Kiểm tra tốc độ tính toán miễn phí: một chặng nước rút 60 giây các phép cộng, trừ, nhân và chia với kiểm tra tức thì, độ chính xác và theo dõi chuỗi đúng.",
+  "id": "/loona-study-tools/vi/math-facts-speed-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

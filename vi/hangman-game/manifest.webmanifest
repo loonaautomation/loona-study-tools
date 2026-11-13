@@ -1,0 +1,29 @@
+{
+  "name": "Loona Trò chơi Hangman",
+  "short_name": "Trò chơi Hangman",
+  "description": "Trò chơi hangman miễn phí với danh sách từ trường học tích hợp sẵn (động vật, khoa học, địa lý, trường học) hoặc từ của chính bạn. Sáu lần đoán sai, bàn phím trên màn hình, niềm vui không cần in.",
+  "id": "/loona-study-tools/vi/hangman-game/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

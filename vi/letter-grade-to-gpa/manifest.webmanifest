@@ -1,0 +1,29 @@
+{
+  "name": "Loona Công cụ đổi điểm chữ cái sang GPA",
+  "short_name": "Công cụ đổi điểm chữ cái sang GPA",
+  "description": "A, B+ hoặc C− là GPA bao nhiêu? Bảng đầy đủ điểm chữ cái sang điểm GPA trên thang 4.0, với dải phần trăm và công cụ đổi một lần nhấp.",
+  "id": "/loona-study-tools/vi/letter-grade-to-gpa/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

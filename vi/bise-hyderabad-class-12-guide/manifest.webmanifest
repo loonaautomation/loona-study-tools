@@ -1,0 +1,29 @@
+{
+  "name": "Loona Hướng dẫn BISE Hyderabad Lớp 12",
+  "short_name": "Hướng dẫn BISE Hyderabad Lớp 12",
+  "description": "BISE Hyderabad Lớp 12: các môn học và ban học, cách cấu trúc đề thi của hội đồng thi, và một kế hoạch ôn tập miễn phí với các công cụ học tập. Hãy kiểm chứng cấu trúc trên trang chính thức của hội đồng thi.",
+  "id": "/loona-study-tools/vi/bise-hyderabad-class-12-guide/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

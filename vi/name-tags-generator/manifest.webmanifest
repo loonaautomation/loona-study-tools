@@ -1,0 +1,29 @@
+{
+  "name": "Loona Trình tạo thẻ tên",
+  "short_name": "Trình tạo thẻ tên",
+  "description": "Trình tạo thẻ tên miễn phí: dán một danh sách lớp và in thẻ tên gọn gàng với phụ đề lớp/trường — cho những ngày đầu, chuyến đi, buổi tối phụ huynh và làm việc nhóm.",
+  "id": "/loona-study-tools/vi/name-tags-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

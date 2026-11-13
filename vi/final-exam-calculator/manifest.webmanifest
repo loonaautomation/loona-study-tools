@@ -1,0 +1,29 @@
+{
+  "name": "Loona Máy tính điểm thi cuối kỳ",
+  "short_name": "Máy tính điểm thi cuối kỳ",
+  "description": "Máy tính điểm thi cuối kỳ miễn phí: nhập điểm hiện tại của bạn, trọng số của kỳ thi cuối kỳ và mục tiêu của bạn để thấy chính xác bạn cần bao nhiêu điểm trong kỳ thi cuối kỳ — và liệu nó còn khả thi không.",
+  "id": "/loona-study-tools/vi/final-exam-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Trình tạo thẻ ghi nhớ",
+  "short_name": "Trình tạo thẻ ghi nhớ",
+  "description": "Trình tạo thẻ ghi nhớ miễn phí: tạo bộ thẻ, học với thẻ lật, xáo trộn và theo dõi đã biết/chưa biết. Nhập/xuất CSV &amp; JSON, in thẻ. Không đăng ký, lưu trên thiết bị của bạn.",
+  "id": "/loona-study-tools/vi/flashcards/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

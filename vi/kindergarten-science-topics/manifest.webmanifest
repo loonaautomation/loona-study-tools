@@ -1,0 +1,29 @@
+{
+  "name": "Loona Chủ đề Khoa học mẫu giáo",
+  "short_name": "Chủ đề Khoa học mẫu giáo",
+  "description": "Các chủ đề Khoa học cho mẫu giáo theo thứ tự giảng dạy — Living and non-living things around us, Parts of the body and the five senses, Plants we see and more — với các công cụ học tập miễn phí cho mỗi chủ đề.",
+  "id": "/loona-study-tools/vi/kindergarten-science-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Máy tính khối lượng mol",
+  "short_name": "Máy tính khối lượng mol",
+  "description": "Máy tính khối lượng mol miễn phí: gõ bất kỳ công thức hóa học nào có dấu ngoặc — Ca(OH)2, Al2(SO4)3 — và nhận khối lượng mol theo g/mol với bảng phân tích theo từng nguyên tố.",
+  "id": "/loona-study-tools/vi/molar-mass-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

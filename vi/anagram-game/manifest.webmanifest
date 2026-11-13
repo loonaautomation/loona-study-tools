@@ -1,0 +1,29 @@
+{
+  "name": "Loona Trò chơi đảo chữ Anagram",
+  "short_name": "Trò chơi đảo chữ Anagram",
+  "description": "Trò chơi đảo chữ miễn phí: từ của bạn bị xáo trộn theo từng chữ cái; học sinh dùng gợi ý để sắp xếp lại mỗi từ. Kiểm tra tức thì và điểm cuối cùng.",
+  "id": "/loona-study-tools/vi/anagram-game/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Chủ đề Tiếng Anh lớp 8",
+  "short_name": "Chủ đề Tiếng Anh lớp 8",
+  "description": "Các chủ đề Tiếng Anh cho lớp 8 theo thứ tự giảng dạy — Subjunctive and advanced conditionals (awareness), Style, Literary devices and more — với các công cụ học tập miễn phí cho mỗi chủ đề.",
+  "id": "/loona-study-tools/vi/grade-8-english-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

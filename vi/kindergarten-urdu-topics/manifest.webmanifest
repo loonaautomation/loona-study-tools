@@ -1,0 +1,29 @@
+{
+  "name": "Loona Chủ đề Urdu mẫu giáo",
+  "short_name": "Chủ đề Urdu mẫu giáo",
+  "description": "Các chủ đề Urdu cho mẫu giáo theo thứ tự giảng dạy — The Urdu qaida, Letter sounds (phonics in Urdu), Simple three-letter words and more — với các công cụ học tập miễn phí cho mỗi chủ đề.",
+  "id": "/loona-study-tools/vi/kindergarten-urdu-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

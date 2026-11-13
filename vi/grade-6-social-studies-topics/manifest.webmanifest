@@ -1,0 +1,29 @@
+{
+  "name": "Loona Chủ đề Khoa học xã hội lớp 6",
+  "short_name": "Chủ đề Khoa học xã hội lớp 6",
+  "description": "Các chủ đề Khoa học xã hội cho lớp 6 theo thứ tự giảng dạy — Physical geography, Ancient civilisations, The Muslim world and more — với các công cụ học tập miễn phí cho mỗi chủ đề.",
+  "id": "/loona-study-tools/vi/grade-6-social-studies-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
