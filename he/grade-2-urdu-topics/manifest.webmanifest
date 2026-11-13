@@ -1,0 +1,29 @@
+{
+  "name": "Loona כיתה 2 אורדו נושאים ומדריך לימוד",
+  "short_name": "כיתה 2 אורדו נושאים ו לימוד",
+  "description": "נושאי האורדו לכיתה 2 לפי סדר ההוראה — שטף קריאה, Ism, fail ו-harf (מבט ראשון על דקדוק) וWahid ו-jama (יחיד ורבים, בסיסי) ועוד — עם כלי לימוד בחינם לכל נושא.",
+  "id": "/loona-study-tools/he/grade-2-urdu-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

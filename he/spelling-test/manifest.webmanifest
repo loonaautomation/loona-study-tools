@@ -1,0 +1,29 @@
+{
+  "name": "Loona מבחן איות",
+  "short_name": "מבחן איות",
+  "description": "מבחן איות בחינם: הדפדפן מקריא כל מילה בקול, אתם מקלידים את האיות, ומקבלים ציון מיידי עם סקירה של מילים שהוחמצו. רשימות מובנות לפי גיל ועוד רשימות המילים שלכם.",
+  "id": "/loona-study-tools/he/spelling-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

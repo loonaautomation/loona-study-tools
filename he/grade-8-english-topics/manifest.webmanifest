@@ -1,0 +1,29 @@
+{
+  "name": "Loona כיתה 8 אנגלית נושאים ומדריך לימוד",
+  "short_name": "כיתה 8 אנגלית נושאים ו",
+  "description": "נושאי האנגלית לכיתה 8 לפי סדר ההוראה — סוביונקטיב ותנאים מתקדמים (מודעות), סגנון ואמצעים ספרותיים ועוד — עם כלי לימוד בחינם לכל נושא.",
+  "id": "/loona-study-tools/he/grade-8-english-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

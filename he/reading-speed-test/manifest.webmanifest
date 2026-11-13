@@ -1,0 +1,29 @@
+{
+  "name": "Loona מבחן מהירות קריאה",
+  "short_name": "מבחן מהירות קריאה",
+  "description": "מבחן מהירות קריאה בחינם: קראו קטע מתוזמן (3 אפשרויות, 400-600 מילים), ענו על שאלות הבנה, וקבלו את מהירות הקריאה שלכם ב-WPM ומדריך כן למהירויות קריאה טובות לפי גיל.",
+  "id": "/loona-study-tools/he/reading-speed-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

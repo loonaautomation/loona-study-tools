@@ -1,0 +1,29 @@
+{
+  "name": "Loona גן חובה אנגלית נושאים ו לימוד",
+  "short_name": "גן חובה אנגלית נושאים",
+  "description": "נושאי האנגלית לגן חובה לפי סדר ההוראה — שמות אותיות וצלילים (A–Z), מעקב וכתיבת אותיות ומילים מתחרזות ושירי ילדים ועוד — עם כלי לימוד בחינם לכל נושא.",
+  "id": "/loona-study-tools/he/kindergarten-english-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

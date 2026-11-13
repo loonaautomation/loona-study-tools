@@ -1,0 +1,29 @@
+{
+  "name": "Loona כיתה 7 מדעים נושאים ומדריך לימוד",
+  "short_name": "כיתה 7 מדעים נושאים ו",
+  "description": "נושאי המדעים לכיתה 7 לפי סדר ההוראה — אטומים והטבלה המחזורית (מבט ראשון), תגובות כימיות ומשוואות במילים ומעגלים חשמליים ועוד — עם כלי לימוד בחינם לכל נושא.",
+  "id": "/loona-study-tools/he/grade-7-science-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

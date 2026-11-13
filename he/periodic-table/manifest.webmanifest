@@ -1,0 +1,29 @@
+{
+  "name": "Loona הטבלה המחזורית האינטראקטיבית",
+  "short_name": "הטבלה המחזורית האינטראקטיבית",
+  "description": "טבלה מחזורית אינטראקטיבית בחינם: כל 118 היסודות מקודדים בצבע לפי קטגוריה. לחצו על כל יסוד למספר האטומי, המסה, הקבוצה, המחזור והקטגוריה שלו.",
+  "id": "/loona-study-tools/he/periodic-table/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

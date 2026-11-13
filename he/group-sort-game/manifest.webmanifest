@@ -1,0 +1,29 @@
+{
+  "name": "Loona משחק מיון לקבוצות",
+  "short_name": "משחק מיון לקבוצות",
+  "description": "משחק מיון לקבוצות בחינם לכיתות: הגדירו קטגוריות ופריטים, התלמידים מקישים על פריטים לקבוצות הנכונות ומקבלים ציון מיידי עם תיקונים.",
+  "id": "/loona-study-tools/he/group-sort-game/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

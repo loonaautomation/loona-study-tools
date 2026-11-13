@@ -1,0 +1,29 @@
+{
+  "name": "Loona מחולל סודוקו",
+  "short_name": "מחולל סודוקו",
+  "description": "מחולל סודוקו בחינם: חידות סודוקו 4x4, 6x6 ו-9x9 להדפסה בשלוש רמות קושי, כל חידה מאומתת כבעלת פתרון אחד בדיוק, עם עמוד פתרון נפרד.",
+  "id": "/loona-study-tools/he/sudoku-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

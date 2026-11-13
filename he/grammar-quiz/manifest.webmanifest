@@ -1,0 +1,29 @@
+{
+  "name": "Loona חידון דקדוק",
+  "short_name": "חידון דקדוק",
+  "description": "חידון דקדוק באנגלית בחינם: 24 שאלות על זמנים, מילות יידוע, מילות יחס, התאמה, תנאים ופיסוק, עם ציון מיידי והסבר לכל תשובה.",
+  "id": "/loona-study-tools/he/grammar-quiz/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

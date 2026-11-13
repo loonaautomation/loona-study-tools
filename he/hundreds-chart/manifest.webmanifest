@@ -1,0 +1,29 @@
+{
+  "name": "Loona לוח המאה",
+  "short_name": "לוח המאה",
+  "description": "לוח המאה בחינם: לוח 1-100 אינטראקטיבי להדפסה עם הדגשת זוגי/אי-זוגי וכפולות ומצב תרגול מספרים חסרים לתחושת מספרים.",
+  "id": "/loona-study-tools/he/hundreds-chart/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

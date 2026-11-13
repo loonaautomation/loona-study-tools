@@ -1,0 +1,29 @@
+{
+  "name": "Loona מתכנן ספירה לאחור למבחנים",
+  "short_name": "מתכנן ספירה לאחור למבחנים",
+  "description": "מתכנן ספירה לאחור למבחנים בחינם: הזינו את תאריך הבחינה, המקצועות והמפגשים היומיים כדי לקבל תוכנית חזרה יום-אחר-יום המפזרת מקצועות בצורה הוגנת לפי משקל קושי עד יום הבחינה.",
+  "id": "/loona-study-tools/he/exam-countdown-planner/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

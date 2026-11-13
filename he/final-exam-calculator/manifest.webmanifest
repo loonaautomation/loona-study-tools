@@ -1,0 +1,29 @@
+{
+  "name": "Loona מחשבון ציון בחינה סופית",
+  "short_name": "מחשבון ציון בחינה סופית",
+  "description": "מחשבון בחינה סופית בחינם: הזינו את הציון הנוכחי שלכם, את משקל הבחינה הסופית ואת היעד שלכם כדי לראות בדיוק איזה ציון אתם צריכים בסופית — והאם זה עדיין אפשרי.",
+  "id": "/loona-study-tools/he/final-exam-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

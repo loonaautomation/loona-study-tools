@@ -1,0 +1,29 @@
+{
+  "name": "Loona כיתה 3 לימודי חברה נושאים ו לימוד",
+  "short_name": "כיתה 3 לימודי חברה נושאים",
+  "description": "נושאי לימודי החברה לכיתה 3 לפי סדר ההוראה — יבשות ואוקיינוסים של העולם, פקיסטן ועמים עתיקים ועוד — עם כלי לימוד בחינם לכל נושא.",
+  "id": "/loona-study-tools/he/grade-3-social-studies-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

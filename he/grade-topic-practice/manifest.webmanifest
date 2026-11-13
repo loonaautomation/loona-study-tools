@@ -1,0 +1,29 @@
+{
+  "name": "Loona תרגול by כיתה ו נושא",
+  "short_name": "תרגול by כיתה ו נושא",
+  "description": "אינדקס אחד לכל עמודי התרגול לפי כיתה ונושא (גן חובה עד כיתה 8), מדריכי מקצועות, מדריכי בחינות מועצות פקיסטן לכיתות 9–12 וממירי CGPA באתר Loona Study Tools.",
+  "id": "/loona-study-tools/he/grade-topic-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

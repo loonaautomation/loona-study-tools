@@ -1,0 +1,29 @@
+{
+  "name": "Loona מבחן הקלדת קוד",
+  "short_name": "מבחן הקלדת קוד",
+  "description": "מבחן הקלדת קוד בחינם: הקלידו קטעי JavaScript, Python ו-SQL אמיתיים במדויק — סוגריים, סמלים והזחות מנוקדים — עם דיוק, תווים לדקה ו-WPM.",
+  "id": "/loona-study-tools/he/code-typing-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

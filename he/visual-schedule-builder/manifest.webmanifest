@@ -1,0 +1,29 @@
+{
+  "name": "Loona בונה לוח זמנים חזותי",
+  "short_name": "בונה לוח זמנים חזותי",
+  "description": "בונה לוח זמנים חזותי בחינם: צרו לוח תמונות להדפסה של יום הלימודים עם שעות, סמלים ופעילויות — אידיאלי לילדים צעירים ולתמיכת SEN.",
+  "id": "/loona-study-tools/he/visual-schedule-builder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

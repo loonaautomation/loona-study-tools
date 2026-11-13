@@ -1,0 +1,29 @@
+{
+  "name": "Loona UK Degree Classification ממיר",
+  "short_name": "UK Degree Classification",
+  "description": "מה פירוש First, 2:1, 2:2 או Third בריטיים במונחי אחוזים ו-GPA אמריקאי משוער — עם ההערה הכנה שלא קיימת המרה רשמית מבריטניה ל-GPA.",
+  "id": "/loona-study-tools/he/uk-degree-classification-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

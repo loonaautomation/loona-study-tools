@@ -1,0 +1,29 @@
+{
+  "name": "Loona מחולל צביעה לפי מספרים",
+  "short_name": "מחולל צביעה לפי מספרים",
+  "description": "מחולל צביעה לפי מספרים בחינם: דף עבודה פסיפס ממוספר עם מפתח של שישה צבעים ותמונת תשובה צבועה נפרדת. תמונה חדשה בכל פעם.",
+  "id": "/loona-study-tools/he/colour-by-number-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

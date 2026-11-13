@@ -1,0 +1,29 @@
+{
+  "name": "Loona Bangladesh GPA אל אחוזים",
+  "short_name": "Bangladesh GPA אל אחוזים",
+  "description": "טבלת ה-GPA של מועצת החינוך של בנגלדש ל-SSC ול-HSC: A+ 5.00 = 80–100 נקודות, עם כל נקודת ציון וטווח ציונים, ועוד ממיר ציונים ל-GPA.",
+  "id": "/loona-study-tools/he/bangladesh-gpa-to-percentage/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

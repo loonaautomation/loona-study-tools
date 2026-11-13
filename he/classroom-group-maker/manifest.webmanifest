@@ -1,0 +1,29 @@
+{
+  "name": "Loona יוצר קבוצות לכיתה",
+  "short_name": "יוצר קבוצות לכיתה",
+  "description": "יוצר קבוצות לכיתה בחינם: שמרו רשימות כיתה בדפדפן, ואז חלקו תלמידים לקבוצות אקראיות מאוזנות לפי גודל קבוצה, מספר קבוצות או זוגות. הדפיסו את התוצאה.",
+  "id": "/loona-study-tools/he/classroom-group-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

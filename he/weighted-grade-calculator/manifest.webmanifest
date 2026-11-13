@@ -1,0 +1,29 @@
+{
+  "name": "Loona מחשבון ציון משוקלל",
+  "short_name": "מחשבון ציון משוקלל",
+  "description": "מחשבון ציון משוקלל בחינם: הזינו משקלי קטגוריות וציונים (שיעורי בית, חידונים, מבחנים, סופית) כדי לקבל את אחוז הקורס הכולל וציון האות שלכם. המשקלים מתנרמלים אוטומטית.",
+  "id": "/loona-study-tools/he/weighted-grade-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

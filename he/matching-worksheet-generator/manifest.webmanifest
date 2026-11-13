@@ -1,0 +1,29 @@
+{
+  "name": "Loona מחולל דפי עבודה להתאמה",
+  "short_name": "מחולל דפי עבודה להתאמה",
+  "description": "מחולל דפי עבודה להתאמה בחינם: הקלידו זוגות מונח = הגדרה וקבלו דף עבודה להתאמה להדפסה עם הגדרות מעורבבות ומפתח תשובות למורה.",
+  "id": "/loona-study-tools/he/matching-worksheet-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona כיתה 8 אחוזים תרגול",
+  "short_name": "כיתה 8 אחוזים תרגול",
+  "description": "תרגול אחוזים בחינם לכיתה 8 — אחוזים הפוכים וצמיחה מורכבת. דוגמה פתורה, 6 שאלות תרגול עם מפתח תשובות להדפסה, השיטה, הטעות הנפוצה וטיפ מוביל.",
+  "id": "/loona-study-tools/he/grade-8-percentages-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

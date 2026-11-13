@@ -1,0 +1,29 @@
+{
+  "name": "Loona בודק מבחנים",
+  "short_name": "בודק מבחנים",
+  "description": "בודק מבחנים בחינם: הדביקו את מפתח התשובות ואת התשובות של תלמיד (אותיות או מילים) כדי לקבל ציון מיידי, אחוז, ציון אות ופירוט שאלה־שאלה.",
+  "id": "/loona-study-tools/he/test-grader/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

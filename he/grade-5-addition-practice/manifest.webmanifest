@@ -1,0 +1,29 @@
+{
+  "name": "Loona כיתה 5 חיבור תרגול",
+  "short_name": "כיתה 5 חיבור תרגול",
+  "description": "תרגול חיבור בחינם לכיתה 5 — חיבור מספרים גדולים ובדיקה באומדן. דוגמה פתורה, 6 שאלות תרגול עם מפתח תשובות להדפסה, השיטה, הטעות הנפוצה וטיפ מוביל.",
+  "id": "/loona-study-tools/he/grade-5-addition-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

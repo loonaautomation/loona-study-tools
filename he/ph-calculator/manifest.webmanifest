@@ -1,0 +1,29 @@
+{
+  "name": "Loona מחשבון pH",
+  "short_name": "מחשבון pH",
+  "description": "מחשבון pH בחינם: המירו בין pH, pOH, [H+] ו-[OH-], וחשבו את ה-pH של תמיסות חומצה חזקה ובסיס חזק מתוך הריכוז.",
+  "id": "/loona-study-tools/he/ph-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

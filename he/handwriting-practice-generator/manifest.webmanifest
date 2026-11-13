@@ -1,0 +1,29 @@
+{
+  "name": "Loona מחולל תרגול כתב יד",
+  "short_name": "מחולל תרגול כתב יד",
+  "description": "מחולל תרגול כתב יד בחינם: דפי מעקב להדפסה לאלפבית, אותיות גדולות, אותיות קטנות, מספרים והמילים או המשפטים שלכם, עם קווי הנחיה מרובעים.",
+  "id": "/loona-study-tools/he/handwriting-practice-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

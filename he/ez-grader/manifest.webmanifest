@@ -1,0 +1,29 @@
+{
+  "name": "Loona מחשב ציונים מהיר EZ",
+  "short_name": "מחשב ציונים מהיר EZ",
+  "description": "מחשב ציוני EZ בחינם למורים: הזינו את סך השאלות ואת מספר השגויות כדי לקבל אחוז וציון אות מיד, עם טבלת ציונים מלאה לאורך המבחן הזה.",
+  "id": "/loona-study-tools/he/ez-grader/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
