@@ -1,0 +1,29 @@
+{
+  "name": "Loona 7. osztályos Osztás gyakorlás",
+  "short_name": "7. osztályos Osztás gyakorlás",
+  "description": "Ingyenes 7. osztályos osztás gyakorlás — törtek osztása törtekkel. Kidolgozott példa, 6 gyakorlófeladat nyomtatható megoldókulccsal, a módszer, a gyakori hiba és egy hasznos tipp.",
+  "id": "/loona-study-tools/hu/grade-7-division-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

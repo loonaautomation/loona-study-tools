@@ -1,0 +1,29 @@
+{
+  "name": "Loona Percentage to CGPA Converter (4.0, 5.0",
+  "short_name": "Percentage to CGPA Converter (4.0, 5.0",
+  "description": "Váltsa vissza a százalékot CGPA-ra a 4.0, 5.0 és 10 pontos skálákon: % ÷ 9.5 Indiának, lineáris megfelelők 4.0-ra és 5.0-ra, táblázatokkal.",
+  "id": "/loona-study-tools/hu/percentage-to-cgpa/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

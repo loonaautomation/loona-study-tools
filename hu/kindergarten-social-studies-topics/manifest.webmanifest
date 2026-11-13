@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kindergarten Social Studies Topics and",
+  "short_name": "Kindergarten Social Studies",
+  "description": "A Társadalomismeret témakörei az óvoda számára tanítási sorrendben — A családom és az otthonom, Az iskolám és az osztálytermem, Segítők a környezetünkben és még több — minden témakörhöz ingyenes tanulási eszközökkel.",
+  "id": "/loona-study-tools/hu/kindergarten-social-studies-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

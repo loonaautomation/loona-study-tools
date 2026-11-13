@@ -1,0 +1,29 @@
+{
+  "name": "Loona Szófalkártya-generátor",
+  "short_name": "Szófalkártya-generátor",
+  "description": "Ingyenes szófalkártya-generátor: írjon be egy szólistát, és kapjon nagy, vastag nyomtatható szófalkártyákat három méretben osztálytermi megjelenítésekhez és olvasósarkokhoz.",
+  "id": "/loona-study-tools/hu/word-wall-cards/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Párosító játék",
+  "short_name": "Párosító játék",
+  "description": "Ingyenes párosító memóriajáték: adjon meg fogalom = meghatározás párokat, és játsszon felfordítós-párosítós játékot lépés- és időkövetéssel. Kiváló szókincshez és ismétléshez.",
+  "id": "/loona-study-tools/hu/matching-pairs-game/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

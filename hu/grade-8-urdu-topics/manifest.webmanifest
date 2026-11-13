@@ -1,0 +1,29 @@
+{
+  "name": "Loona Grade 8 Urdu Topics and Study Guide",
+  "short_name": "Grade 8 Urdu Topics and Study",
+  "description": "A Urdu témakörei a 8. osztály számára tanítási sorrendben — Teljes qawaid ismétlés (vizsgafókusz), Hogyan magyarázzuk el a nazmokat és gazalokat a vizsgán, Esszék társadalmi kérdésekről és még több — minden témakörhöz ingyenes tanulási eszközökkel.",
+  "id": "/loona-study-tools/hu/grade-8-urdu-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

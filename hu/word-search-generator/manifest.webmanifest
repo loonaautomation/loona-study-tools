@@ -1,0 +1,29 @@
+{
+  "name": "Loona Szókereső-generátor",
+  "short_name": "Szókereső-generátor",
+  "description": "Ingyenes szókereső-generátor: alakítsa át a saját szólistáját nyomtatható szókereső rejtvényé 8 irányban, külön kiemelt megoldókulccsal. Tökéletes szókincsgyakorláshoz.",
+  "id": "/loona-study-tools/hu/word-search-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

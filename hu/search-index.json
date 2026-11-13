@@ -1,0 +1,452 @@
+[
+ {
+  "n": "Tanulókártya-készítő",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hu/flashcards/",
+  "s": "Loona Study Tools",
+  "d": "Készítsen tanulókártya-csomagokat, tanuljon felfordítható kártyákkal és keveréssel, kövesse nyomon, mit tud, és exportálja vagy nyomtassa ki a kártyáit.",
+  "k": "flashcards maker flashcards készítsen tanulókártya csomagokat tanuljon felfordítható kártyákkal és keveréssel kövesse nyomon mit tud és exportálja vagy nyomtassa ki a kártyáit",
+  "p": 0,
+  "c": "Tool"
+ },
+ {
+  "n": "Kvízkészítő",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hu/quiz-maker/",
+  "s": "Loona Study Tools",
+  "d": "A tanárok feleletválasztós, igaz/hamis és rövid válaszos kvízeket építenek — a diákok azonnali pontszámokkal és teljes válaszáttekintéssel töltik ki őket.",
+  "k": "quiz maker quiz maker a tanárok feleletválasztós igaz hamis és rövid válaszos kvízeket építenek a diákok azonnali pontszámokkal és teljes válaszáttekintéssel töltik ki őket",
+  "p": 1,
+  "c": "Tool"
+ },
+ {
+  "n": "Practice by Grade & Topic",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hu/grade-topic-practice/",
+  "s": "Loona Study Tools",
+  "d": "196 új oldal: kidolgozott példák és gyakorlófeladatok minden osztály és matematikai témakör számára, tantárgyi útmutatók természettudományból, angolból, társadalomismeretből és urduból, pakisztáni vizsgabizottsági útmutatók a 9–12. osztály számára, valamint CGPA-átváltók minden főbb osztályozási skálához.",
+  "k": "practice by grade topic grade topic practice 196 új oldal kidolgozott példák és gyakorlófeladatok minden osztály és matematikai témakör számára tantárgyi útmutatók természettudományból angolból társadalomismeretből és urduból pakisztáni vizsgabizottsági útmutatók a 9 12 osztály számára valamint cgpa átváltók minden főbb osztályozási skálához",
+  "p": 102,
+  "c": "Tool"
+ },
+ {
+  "n": "Matematikafeladatlap-generátor",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hu/math-worksheet-generator/",
+  "s": "Loona Study Tools",
+  "d": "Generáljon nyomtatható matematikai feladatlapokat — összeadás, kivonás, szorzás, osztás, törtek és tizedesek — egyező megoldókulccsal.",
+  "k": "math worksheet generator math worksheet generator generáljon nyomtatható matematikai feladatlapokat összeadás kivonás szorzás osztás törtek és tizedesek egyező megoldókulccsal",
+  "p": 2,
+  "c": "Tool"
+ },
+ {
+  "n": "Olvasássebesség-teszt",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hu/reading-speed-test/",
+  "s": "Loona Study Tools",
+  "d": "Olvasson el egy időzített szövegrészt, válaszoljon a szövegértési kérdésekre, és tudja meg a valódi olvasási sebességét szavak per percben (WPM).",
+  "k": "reading speed test reading speed test olvasson el egy időzített szövegrészt válaszoljon a szövegértési kérdésekre és tudja meg a valódi olvasási sebességét szavak per percben wpm",
+  "p": 3,
+  "c": "Tool"
+ },
+ {
+  "n": "Tanulási órarend-tervező",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hu/study-timetable-planner/",
+  "s": "Loona Study Tools",
+  "d": "Adja meg a tantárgyait, a napi órákat és a vizsga dátumát, és kapjon egy kiegyensúlyozott heti tanulási órarendet, amelyet szerkeszthet és kinyomtathat.",
+  "k": "study timetable planner study timetable planner adja meg a tantárgyait a napi órákat és a vizsga dátumát és kapjon egy kiegyensúlyozott heti tanulási órarendet amelyet szerkeszthet és kinyomtathat",
+  "p": 4,
+  "c": "Tool"
+ },
+ {
+  "n": "Szorzótábla-gyakorlás",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hu/multiplication-tables-practice/",
+  "s": "Loona Study Tools",
+  "d": "Gyakorolja a szorzótáblákat időzített gyakorlókörökkel, azonnali ellenőrzéssel és nyomtatható szorzótáblázattal 12 × 12-ig.",
+  "k": "multiplication tables practice multiplication tables practice gyakorolja a szorzótáblákat időzített gyakorlókörökkel azonnali ellenőrzéssel és nyomtatható szorzótáblázattal 12 12 ig",
+  "p": 106,
+  "c": "Tool"
+ },
+ {
+  "n": "Helyesírási teszt",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hu/spelling-test/",
+  "s": "Loona Study Tools",
+  "d": "A számítógép minden szót hangosan felolvas — Ön begépeli a helyesírást. Azonnali pontszám és minden kihagyott szó áttekintése.",
+  "k": "spelling test spelling test a számítógép minden szót hangosan felolvas ön begépeli a helyesírást azonnali pontszám és minden kihagyott szó áttekintése",
+  "p": 5,
+  "c": "Tool"
+ },
+ {
+  "n": "Kézírásgyakorló-generátor",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hu/handwriting-practice-generator/",
+  "s": "Loona Study Tools",
+  "d": "Hozzon létre nyomtatható kézírás-gyakorló lapokat betűkhöz, számokhoz és saját szavaihoz, másoló sorokkal és üres másoló sorokkal.",
+  "k": "handwriting practice generator handwriting practice generator hozzon létre nyomtatható kézírás gyakorló lapokat betűkhöz számokhoz és saját szavaihoz másoló sorokkal és üres másoló sorokkal",
+  "p": 108,
+  "c": "Tool"
+ },
+ {
+  "n": "Vizsga-visszaszámlálástervező",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hu/exam-countdown-planner/",
+  "s": "Loona Study Tools",
+  "d": "Adja meg a vizsga dátumát és a tantárgyakat, és kapjon napi ismétlési tervet, amely igazságosan osztja el a témaköröket a hátralévő napokra.",
+  "k": "exam countdown planner exam countdown planner adja meg a vizsga dátumát és a tantárgyakat és kapjon napi ismétlési tervet amely igazságosan osztja el a témaköröket a hátralévő napokra",
+  "p": 109,
+  "c": "Tool"
+ },
+ {
+  "n": "Szókereső-generátor",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hu/word-search-generator/",
+  "s": "Loona Study Tools",
+  "d": "Alakítsa a saját szólistáját nyomtatható szókereső feladvánnyá, külön megoldókulccsal, amely minden szó helyét megmutatja.",
+  "k": "word search generator word search generator alakítsa a saját szólistáját nyomtatható szókereső feladvánnyá külön megoldókulccsal amely minden szó helyét megmutatja",
+  "p": 110,
+  "c": "Tool"
+ },
+ {
+  "n": "Párosítófeladatlap-generátor",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hu/matching-worksheet-generator/",
+  "s": "Loona Study Tools",
+  "d": "Hozzon létre nyomtatható párosító feladatlapokat — fogalmak a bal oldalon, összekevert meghatározások a jobb oldalon — tanári megoldókulccsal.",
+  "k": "matching worksheet generator matching worksheet generator hozzon létre nyomtatható párosító feladatlapokat fogalmak a bal oldalon összekevert meghatározások a jobb oldalon tanári megoldókulccsal",
+  "p": 111,
+  "c": "Tool"
+ },
+ {
+  "n": "Véletlen névválasztó",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hu/random-name-picker/",
+  "s": "Loona Study Tools",
+  "d": "Illesszen be egy osztálylistát, és válasszon diákokat igazságosan, véletlenszerűen, ismétlés nélküli móddal, hogy mindenki sorra kerüljön.",
+  "k": "random name picker random name picker illesszen be egy osztálylistát és válasszon diákokat igazságosan véletlenszerűen ismétlés nélküli móddal hogy mindenki sorra kerüljön",
+  "p": 112,
+  "c": "Tool"
+ },
+ {
+  "n": "Párosító játék",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hu/matching-pairs-game/",
+  "s": "Loona Study Tools",
+  "d": "Alakítson bármely kifejezés-meghatározás párt felfordítós-párosítós memóriajátékká lépés- és időkövetéssel.",
+  "k": "matching pairs game matching pairs game alakítson bármely kifejezés meghatározás párt felfordítós párosítós memóriajátékká lépés és időkövetéssel",
+  "p": 113,
+  "c": "Tool"
+ },
+ {
+  "n": "Csoportosító játék",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hu/group-sort-game/",
+  "s": "Loona Study Tools",
+  "d": "Hozzon létre kategóriákat és elemeket; a tanulók minden elemet a megfelelő csoportba rendeznek, és azonnali pontszámot kapnak.",
+  "k": "group sort game group sort game hozzon létre kategóriákat és elemeket a tanulók minden elemet a megfelelő csoportba rendeznek és azonnali pontszámot kapnak",
+  "p": 114,
+  "c": "Tool"
+ },
+ {
+  "n": "Mondatrakó játék",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hu/unjumble-game/",
+  "s": "Loona Study Tools",
+  "d": "A mondatok szavanként keverednek össze — a diákok a szavakra koppintva rakják vissza őket a helyes sorrendbe.",
+  "k": "unjumble sentences game unjumble game a mondatok szavanként keverednek össze a diákok a szavakra koppintva rakják vissza őket a helyes sorrendbe",
+  "p": 115,
+  "c": "Tool"
+ },
+ {
+  "n": "Anagrammajáték",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hu/anagram-game/",
+  "s": "Loona Study Tools",
+  "d": "A szavak betűről betűre keverednek össze; a diákok az Ön által adott nyom segítségével rakják össze őket.",
+  "k": "anagram game anagram game a szavak betűről betűre keverednek össze a diákok az ön által adott nyom segítségével rakják össze őket",
+  "p": 116,
+  "c": "Tool"
+ },
+ {
+  "n": "Betűző játék",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hu/spell-the-word/",
+  "s": "Loona Study Tools",
+  "d": "Építsen fel minden szót a betűlapokra sorrendben koppintva — helyesírás-gyakorlás tippekkel és azonnali ellenőrzéssel.",
+  "k": "spell the word game spell the word építsen fel minden szót a betűlapokra sorrendben koppintva helyesírás gyakorlás tippekkel és azonnali ellenőrzéssel",
+  "p": 117,
+  "c": "Tool"
+ },
+ {
+  "n": "Akasztófajáték",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hu/hangman-game/",
+  "s": "Loona Study Tools",
+  "d": "A klasszikus betűtalálós játék beépített szólistákkal iskolai tantárgyakhoz, vagy a saját szólistájával.",
+  "k": "hangman game hangman game a klasszikus betűtalálós játék beépített szólistákkal iskolai tantárgyakhoz vagy a saját szólistájával",
+  "p": 118,
+  "c": "Tool"
+ },
+ {
+  "n": "Keresztrejtvény-generátor",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hu/crossword-generator/",
+  "s": "Loona Study Tools",
+  "d": "Adjon meg szavakat és tippeket, és generáljon valódi, egymást keresztező keresztrejtvényt — nyomtatható, megoldókulccsal.",
+  "k": "crossword generator crossword generator adjon meg szavakat és tippeket és generáljon valódi egymást keresztező keresztrejtvényt nyomtatható megoldókulccsal",
+  "p": 119,
+  "c": "Tool"
+ },
+ {
+  "n": "Bingókártya-generátor",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hu/bingo-card-generator/",
+  "s": "Loona Study Tools",
+  "d": "Generáljon egyedi nyomtatható szókincsbingó-kártyákat az egész osztálynak, plusz egy kevert hívólistát.",
+  "k": "bingo card generator bingo card generator generáljon egyedi nyomtatható szókincsbingó kártyákat az egész osztálynak plusz egy kevert hívólistát",
+  "p": 120,
+  "c": "Tool"
+ },
+ {
+  "n": "Feliratozottábra-készítő",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hu/labelled-diagram-maker/",
+  "s": "Loona Study Tools",
+  "d": "Töltsön fel egy ábrát, tűzzön rá feliratokat, nyomtasson feliratozott vagy üres változatot, és futtasson egy feliratkvízt.",
+  "k": "labelled diagram maker labelled diagram maker töltsön fel egy ábrát tűzzön rá feliratokat nyomtasson feliratozott vagy üres változatot és futtasson egy feliratkvízt",
+  "p": 121,
+  "c": "Tool"
+ },
+ {
+  "n": "Százas tábla",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hu/hundreds-chart/",
+  "s": "Loona Study Tools",
+  "d": "Interaktív, nyomtatható 1–100-as táblázat páros/páratlan és többszörös kiemeléssel, plusz hiányzó számos gyakorló mód.",
+  "k": "hundreds chart hundreds chart interaktív nyomtatható 1 100 as táblázat páros páratlan és többszörös kiemeléssel plusz hiányzó számos gyakorló mód",
+  "p": 122,
+  "c": "Tool"
+ },
+ {
+  "n": "Szófalkártya-generátor",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hu/word-wall-cards/",
+  "s": "Loona Study Tools",
+  "d": "Alakítsa a szólistákat nagy, félkövér, nyomtatható szófalkártyákká osztálytermi táblákhoz.",
+  "k": "word wall cards generator word wall cards alakítsa a szólistákat nagy félkövér nyomtatható szófalkártyákká osztálytermi táblákhoz",
+  "p": 123,
+  "c": "Tool"
+ },
+ {
+  "n": "Szúdokugenerátor",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hu/sudoku-generator/",
+  "s": "Loona Study Tools",
+  "d": "Generáljon nyomtatható Szúdoku rejtvényeket — 4×4, 6×6 és 9×9 — egyedi megoldásokkal és külön megoldási oldallal.",
+  "k": "sudoku generator sudoku generator generáljon nyomtatható szúdoku rejtvényeket 4 4 6 6 és 9 9 egyedi megoldásokkal és külön megoldási oldallal",
+  "p": 124,
+  "c": "Tool"
+ },
+ {
+  "n": "Labirintusgenerátor",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hu/maze-generator/",
+  "s": "Loona Study Tools",
+  "d": "Generáljon nyomtatható labirintusokat négy nehézségi szinten, választható megoldási útvonallal.",
+  "k": "maze generator maze generator generáljon nyomtatható labirintusokat négy nehézségi szinten választható megoldási útvonallal",
+  "p": 125,
+  "c": "Tool"
+ },
+ {
+  "n": "Számok szerinti színezőgenerátor",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hu/colour-by-number-generator/",
+  "s": "Loona Study Tools",
+  "d": "Generáljon nyomtatható számok szerinti színező mozaikot színkulccsal és színezett válaszképpel.",
+  "k": "colour by number generator colour by number generator generáljon nyomtatható számok szerinti színező mozaikot színkulccsal és színezett válaszképpel",
+  "p": 126,
+  "c": "Tool"
+ },
+ {
+  "n": "Nyomtathatópapír-generátor",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hu/printable-paper-generator/",
+  "s": "Loona Study Tools",
+  "d": "Nyomtasson kockás papírt, pontrácsos papírt, izometrikus papírt és írásgyakorló papírt pontos méretekben.",
+  "k": "printable paper generator printable paper generator nyomtasson kockás papírt pontrácsos papírt izometrikus papírt és írásgyakorló papírt pontos méretekben",
+  "p": 127,
+  "c": "Tool"
+ },
+ {
+  "n": "Helyesírásifeladatlap-generátor",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hu/spelling-worksheet-generator/",
+  "s": "Loona Study Tools",
+  "d": "Egy helyesírási listából: egy tesztlap, szókirakások, hiányzó betűs gyakorlás és ábécérend — megoldókulccsal.",
+  "k": "spelling worksheet generator spelling worksheet generator egy helyesírási listából egy tesztlap szókirakások hiányzó betűs gyakorlás és ábécérend megoldókulccsal",
+  "p": 128,
+  "c": "Tool"
+ },
+ {
+  "n": "Osztályidőzítők és vizsgaidőzítő",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hu/classroom-timers/",
+  "s": "Loona Study Tools",
+  "d": "Nagykijelzős visszaszámláló haladási gyűrűvel, egy befejezési időt mutató vizsgaidőzítő, egy vizuális sávidőzítő és egy köridős stopper.",
+  "k": "classroom timers exam timer classroom timers nagykijelzős visszaszámláló haladási gyűrűvel egy befejezési időt mutató vizsgaidőzítő egy vizuális sávidőzítő és egy köridős stopper",
+  "p": 129,
+  "c": "Tool"
+ },
+ {
+  "n": "Osztálycsoport-készítő",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hu/classroom-group-maker/",
+  "s": "Loona Study Tools",
+  "d": "Mentse el az osztálylistáit, és ossza őket igazságos véletlen csoportokba vagy párokba — kiegyensúlyozott méretek, újrakeverés egy kattintással.",
+  "k": "classroom group maker classroom group maker mentse el az osztálylistáit és ossza őket igazságos véletlen csoportokba vagy párokba kiegyensúlyozott méretek újrakeverés egy kattintással",
+  "p": 130,
+  "c": "Tool"
+ },
+ {
+  "n": "Ülésrendkészítő",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hu/seating-chart-maker/",
+  "s": "Loona Study Tools",
+  "d": "Rendezze el a tanulókat egy asztalrácson: kattintson az elhelyezéshez, rögzítse a kedvenc helyeket, keverje össze a többit, és nyomtassa ki a táblázatot.",
+  "k": "seating chart maker seating chart maker rendezze el a tanulókat egy asztalrácson kattintson az elhelyezéshez rögzítse a kedvenc helyeket keverje össze a többit és nyomtassa ki a táblázatot",
+  "p": 131,
+  "c": "Tool"
+ },
+ {
+  "n": "Osztálypontozótábla",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hu/classroom-scoreboard/",
+  "s": "Loona Study Tools",
+  "d": "Nagy, áttekinthető csapatpontozó tábla az osztálytermi képernyőre — adjon hozzá csapatokat, koppintson a pontok hozzáadásához vagy elvételéhez.",
+  "k": "classroom scoreboard classroom scoreboard nagy áttekinthető csapatpontozó tábla az osztálytermi képernyőre adjon hozzá csapatokat koppintson a pontok hozzáadásához vagy elvételéhez",
+  "p": 132,
+  "c": "Tool"
+ },
+ {
+  "n": "Osztályzajszint-mérő",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hu/noise-meter/",
+  "s": "Loona Study Tools",
+  "d": "Élő, relatív zajszintmérő a mikrofonja segítségével — zöld, sárga és piros zónákkal, hogy az osztályok szabályozhassák önmagukat.",
+  "k": "classroom noise meter noise meter élő relatív zajszintmérő a mikrofonja segítségével zöld sárga és piros zónákkal hogy az osztályok szabályozhassák önmagukat",
+  "p": 133,
+  "c": "Tool"
+ },
+ {
+  "n": "Névkitűző-generátor",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hu/name-tags-generator/",
+  "s": "Loona Study Tools",
+  "d": "Alakítson egy osztálylistát nyomtatható névtáblákká alcímsorral — padokra, kirándulásokra és első heti bemutatkozásokra.",
+  "k": "name tags generator name tags generator alakítson egy osztálylistát nyomtatható névtáblákká alcímsorral padokra kirándulásokra és első heti bemutatkozásokra",
+  "p": 134,
+  "c": "Tool"
+ },
+ {
+  "n": "Vizuális órarend-készítő",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hu/visual-schedule-builder/",
+  "s": "Loona Study Tools",
+  "d": "Készítsen nyomtatható vizuális napi ütemtervet időkkel, tevékenységekkel és képikonokkal — ideális kisebb gyermekeknek.",
+  "k": "visual schedule builder visual schedule builder készítsen nyomtatható vizuális napi ütemtervet időkkel tevékenységekkel és képikonokkal ideális kisebb gyermekeknek",
+  "p": 135,
+  "c": "Tool"
+ },
+ {
+  "n": "EZ osztályozó",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hu/ez-grader/",
+  "s": "Loona Study Tools",
+  "d": "A klasszikus tanári osztályozó csúszóskála: adja meg az összes kérdést és a hibásak számát, hogy megkapja a százalékot és a betűjegyet, plusz egy teljes táblázatot.",
+  "k": "ez grader ez grader a klasszikus tanári osztályozó csúszóskála adja meg az összes kérdést és a hibásak számát hogy megkapja a százalékot és a betűjegyet plusz egy teljes táblázatot",
+  "p": 136,
+  "c": "Tool"
+ },
+ {
+  "n": "Tesztosztályozó",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hu/test-grader/",
+  "s": "Loona Study Tools",
+  "d": "Illesszen be egy megoldókulcsot és egy diák válaszait, hogy egy egész tesztet azonnal, kérdésenként osztályozzon.",
+  "k": "test grader test grader illesszen be egy megoldókulcsot és egy diák válaszait hogy egy egész tesztet azonnal kérdésenként osztályozzon",
+  "p": 137,
+  "c": "Tool"
+ },
+ {
+  "n": "Súlyozott jegyátlag-kalkulátor",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hu/weighted-grade-calculator/",
+  "s": "Loona Study Tools",
+  "d": "Kombinálja a kategóriapontszámokat (házi feladat, kvízek, tesztek, záróvizsga) a tantervi súlyaik szerint egy tantárgyi jeggyé.",
+  "k": "weighted grade calculator weighted grade calculator kombinálja a kategóriapontszámokat házi feladat kvízek tesztek záróvizsga a tantervi súlyaik szerint egy tantárgyi jeggyé",
+  "p": 138,
+  "c": "Tool"
+ },
+ {
+  "n": "Záróvizsgajegy-kalkulátor",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hu/final-exam-calculator/",
+  "s": "Loona Study Tools",
+  "d": "Számítsa ki pontosan, milyen pontszámra van szüksége a záróvizsgán a célzott tantárgyi jegyéhez — és hogy lehetséges-e.",
+  "k": "final exam grade calculator final exam calculator számítsa ki pontosan milyen pontszámra van szüksége a záróvizsgán a célzott tantárgyi jegyéhez és hogy lehetséges e",
+  "p": 139,
+  "c": "Tool"
+ },
+ {
+  "n": "Matematikai gyorsasági teszt",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hu/math-facts-speed-test/",
+  "s": "Loona Study Tools",
+  "d": "60 másodperces számtani sprint: minél több helyes +, −, × és ÷ művelet, pontossággal és sorozatokkal.",
+  "k": "math facts speed test math facts speed test 60 másodperces számtani sprint minél több helyes és művelet pontossággal és sorozatokkal",
+  "p": 140,
+  "c": "Tool"
+ },
+ {
+  "n": "10 billentyűs számbillentyűzet-teszt",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hu/ten-key-test/",
+  "s": "Loona Study Tools",
+  "d": "Adatbeviteli sebességteszt a numerikus billentyűzethez: gépeljen számsorozatokat gyorsan és pontosan, percenkénti billentyűkben értékelve.",
+  "k": "10 key number pad test ten key test adatbeviteli sebességteszt a numerikus billentyűzethez gépeljen számsorozatokat gyorsan és pontosan percenkénti billentyűkben értékelve",
+  "p": 141,
+  "c": "Tool"
+ },
+ {
+  "n": "Kódgépelési teszt",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hu/code-typing-test/",
+  "s": "Loona Study Tools",
+  "d": "Írjon valódi kódrészleteket szimbólumokkal és behúzással — a programozók kódgépelési sebességét és szimbólumpontosságát méri.",
+  "k": "code typing test code typing test írjon valódi kódrészleteket szimbólumokkal és behúzással a programozók kódgépelési sebességét és szimbólumpontosságát méri",
+  "p": 142,
+  "c": "Tool"
+ },
+ {
+  "n": "Nyelvtani kvíz",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hu/grammar-quiz/",
+  "s": "Loona Study Tools",
+  "d": "24 kérdéses angol nyelvtani teszt — igeidők, névelők, elöljárószók, egyeztetés és központozás — azonnali pontszámmal és magyarázatokkal.",
+  "k": "grammar quiz grammar quiz 24 kérdéses angol nyelvtani teszt igeidők névelők elöljárószók egyeztetés és központozás azonnali pontszámmal és magyarázatokkal",
+  "p": 143,
+  "c": "Tool"
+ },
+ {
+  "n": "Szókincskvíz",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hu/vocabulary-quiz/",
+  "s": "Loona Study Tools",
+  "d": "Húsz szójelentés-kérdés, mindegyik négy lehetőséggel — gyors, őszinte ellenőrzése az angol szókincsszintjének.",
+  "k": "vocabulary quiz vocabulary quiz húsz szójelentés kérdés mindegyik négy lehetőséggel gyors őszinte ellenőrzése az angol szókincsszintjének",
+  "p": 144,
+  "c": "Tool"
+ },
+ {
+  "n": "Interaktív periódusos rendszer",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hu/periodic-table/",
+  "s": "Loona Study Tools",
+  "d": "Mind a 118 elem egy színkódolt táblázatban — kattintson bármelyik elemre a nevéhez, atomtömegéhez, csoportjához, periódusához és kategóriájához.",
+  "k": "interactive periodic table periodic table mind a 118 elem egy színkódolt táblázatban kattintson bármelyik elemre a nevéhez atomtömegéhez csoportjához periódusához és kategóriájához",
+  "p": 145,
+  "c": "Tool"
+ },
+ {
+  "n": "Moláristömeg-kalkulátor",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hu/molar-mass-calculator/",
+  "s": "Loona Study Tools",
+  "d": "Írjon be egy kémiai képletet — zárójelekkel együtt —, és kapja meg a moláris tömegét g/mol-ban, elemenkénti lebontással.",
+  "k": "molar mass calculator molar mass calculator írjon be egy kémiai képletet zárójelekkel együtt és kapja meg a moláris tömegét g mol ban elemenkénti lebontással",
+  "p": 146,
+  "c": "Tool"
+ },
+ {
+  "n": "Kémiai egyenletrendező",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hu/chemical-equation-balancer/",
+  "s": "Loona Study Tools",
+  "d": "Adjon meg egy kiegyensúlyozatlan egyenletet, és kapjon kiegyensúlyozott együtthatókat, atomonként ellenőrizve.",
+  "k": "chemical equation balancer chemical equation balancer adjon meg egy kiegyensúlyozatlan egyenletet és kapjon kiegyensúlyozott együtthatókat atomonként ellenőrizve",
+  "p": 147,
+  "c": "Tool"
+ },
+ {
+  "n": "pH-kalkulátor",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hu/ph-calculator/",
+  "s": "Loona Study Tools",
+  "d": "Váltson át a pH, pOH, [H+] és [OH-] között, és számítsa ki az erős sav- és erős bázisoldatok pH-ját.",
+  "k": "ph calculator ph calculator váltson át a ph poh h és oh között és számítsa ki az erős sav és erős bázisoldatok ph ját",
+  "p": 148,
+  "c": "Tool"
+ },
+ {
+  "n": "Rubrikakészítő",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hu/rubric-maker/",
+  "s": "Loona Study Tools",
+  "d": "Készítsen nyomtatható értékelési rubrikát: szempontok az oldal mentén, négy teljesítményszint a tetején, a pontok automatikusan kiszámítva.",
+  "k": "rubric maker rubric maker készítsen nyomtatható értékelési rubrikát szempontok az oldal mentén négy teljesítményszint a tetején a pontok automatikusan kiszámítva",
+  "p": 149,
+  "c": "Tool"
+ }
+]

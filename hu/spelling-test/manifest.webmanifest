@@ -1,0 +1,29 @@
+{
+  "name": "Loona Helyesírási teszt",
+  "short_name": "Helyesírási teszt",
+  "description": "Ingyenes helyesírási teszt: a böngésző hangosan felolvassa minden szót, Ön begépeli a helyesírást, és azonnali pontszámot kap az elmulasztott szavak áttekintésével. Beépített listák életkor szerint plusz saját szólisták.",
+  "id": "/loona-study-tools/hu/spelling-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

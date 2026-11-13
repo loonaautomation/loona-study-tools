@@ -1,0 +1,29 @@
+{
+  "name": "Loona Olvasássebesség-teszt",
+  "short_name": "Olvasássebesség-teszt",
+  "description": "Ingyenes olvasássebesség-teszt: olvasson el egy időzített szöveget (3 választási lehetőség, 400-600 szó), válaszoljon a szövegértési kérdésekre, és kapja meg az olvasási sebességét szó/percben, plusz egy becsületes útmutatót a jó olvasási sebességekhez életkor szerint.",
+  "id": "/loona-study-tools/hu/reading-speed-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

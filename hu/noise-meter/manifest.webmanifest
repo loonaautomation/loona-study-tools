@@ -1,0 +1,29 @@
+{
+  "name": "Loona Osztályzajszint-mérő",
+  "short_name": "Osztályzajszint-mérő",
+  "description": "Ingyenes osztályzajszint-mérő: élő mikrofon szintoszlop zöld/sárga/piros zónákkal és csendsorozat-számlálóval. Relatív szintkijelzés (nem decibel), eszközön elemezve, sosem rögzítve.",
+  "id": "/loona-study-tools/hu/noise-meter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

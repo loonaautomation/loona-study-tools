@@ -1,0 +1,29 @@
+{
+  "name": "Loona 10-Key Test",
+  "short_name": "10-Key Test",
+  "description": "Ingyenes 10 billentyűs számbillentyűzet-teszt: gépeljen számsorozatokat olyan gyorsan és pontosan, ahogy tud; percenkénti billentyűkben értékelve pontossággal — az adatbeviteli készségteszt.",
+  "id": "/loona-study-tools/hu/ten-key-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

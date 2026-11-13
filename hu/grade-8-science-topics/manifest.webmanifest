@@ -1,0 +1,29 @@
+{
+  "name": "Loona Grade 8 Science Topics and Study Guide",
+  "short_name": "Grade 8 Science Topics and",
+  "description": "A Természettudomány témakörei a 8. osztály számára tanítási sorrendben — Atomszerkezet és kötési alapok, Erők és nyomás, Fény és még több — minden témakörhöz ingyenes tanulási eszközökkel.",
+  "id": "/loona-study-tools/hu/grade-8-science-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

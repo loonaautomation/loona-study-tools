@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kvízkészítő",
+  "short_name": "Kvízkészítő",
+  "description": "Ingyenes kvízkészítő tanároknak: feleletválasztós, igaz/hamis és rövid válaszos kérdések, kísérleti mód azonnali pontszámmal és áttekintéssel, nyomtatható kvíz + külön megoldókulcs, JSON export/import.",
+  "id": "/loona-study-tools/hu/quiz-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

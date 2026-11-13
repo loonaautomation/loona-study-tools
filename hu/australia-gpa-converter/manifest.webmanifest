@@ -1,0 +1,29 @@
+{
+  "name": "Loona Australia GPA Converter",
+  "short_name": "Australia GPA Converter",
+  "description": "Váltsa át az ausztrál egyetemi osztályzatokat a 7 pontos skálán (HD = 7) százalékokra és körülbelüli 4.0 skálás GPA-ra, a standard osztályzattáblázattal.",
+  "id": "/loona-study-tools/hu/australia-gpa-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

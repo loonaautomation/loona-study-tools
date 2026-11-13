@@ -1,0 +1,29 @@
+{
+  "name": "Loona Osztályidőzítők",
+  "short_name": "Osztályidőzítők",
+  "description": "Ingyenes osztályidőzítők: nagykijelzős visszaszámláló haladási gyűrűvel és zsugorodó vizuális sávval, egy befejezési időt és hátralévő időt mutató vizsgaidőzítő, és egy köridős stopper.",
+  "id": "/loona-study-tools/hu/classroom-timers/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

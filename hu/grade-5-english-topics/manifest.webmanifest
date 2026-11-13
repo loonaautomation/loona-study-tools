@@ -1,0 +1,29 @@
+{
+  "name": "Loona Grade 5 English Topics and Study Guide",
+  "short_name": "Grade 5 English Topics and",
+  "description": "A Angol témakörei a 5. osztály számára tanítási sorrendben — Módosító igék és feltételes mondatok (első ismerkedés), Vonatkozó mellékmondatok who, which, that kötőszókkal, Aposztrófok és még több — minden témakörhöz ingyenes tanulási eszközökkel.",
+  "id": "/loona-study-tools/hu/grade-5-english-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

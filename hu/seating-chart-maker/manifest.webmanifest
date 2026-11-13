@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ülésrendkészítő",
+  "short_name": "Ülésrendkészítő",
+  "description": "Ingyenes ülésrendkészítő: építsen asztalrácsot, kattintson a tanulók elhelyezéséhez, rögzítse azokat a helyeket, amelyek nem mozdulhatnak, keverje össze mindenki mást, és nyomtassa ki a táblázatot.",
+  "id": "/loona-study-tools/hu/seating-chart-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

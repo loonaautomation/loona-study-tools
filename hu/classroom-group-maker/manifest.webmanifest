@@ -1,0 +1,29 @@
+{
+  "name": "Loona Osztálycsoport-készítő",
+  "short_name": "Osztálycsoport-készítő",
+  "description": "Ingyenes osztálycsoport-készítő: mentse az osztálylistákat a böngészőjébe, majd ossza a tanulókat kiegyensúlyozott véletlen csoportokba csoportméret, csoportok száma vagy párok szerint. Nyomtassa ki az eredményt.",
+  "id": "/loona-study-tools/hu/classroom-group-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

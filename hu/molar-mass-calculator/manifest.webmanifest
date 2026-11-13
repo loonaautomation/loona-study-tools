@@ -1,0 +1,29 @@
+{
+  "name": "Loona Moláristömeg-kalkulátor",
+  "short_name": "Moláristömeg-kalkulátor",
+  "description": "Ingyenes moláristömeg-kalkulátor: írjon be bármely kémiai képletet zárójelekkel — Ca(OH)2, Al2(SO4)3 —, és kapja meg a moláris tömeget g/mol-ban, elemenkénti lebontási táblázattal.",
+  "id": "/loona-study-tools/hu/molar-mass-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

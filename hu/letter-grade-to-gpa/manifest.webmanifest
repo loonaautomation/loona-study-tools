@@ -1,0 +1,29 @@
+{
+  "name": "Loona Betűjegy–GPA átváltó",
+  "short_name": "Betűjegy–GPA átváltó",
+  "description": "Milyen GPA az A, a B+ vagy a C−? A teljes betűjegy–GPA ponttáblázat a 4.0-es skálán, százaléksávokkal és egy kattintásos átváltóval.",
+  "id": "/loona-study-tools/hu/letter-grade-to-gpa/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

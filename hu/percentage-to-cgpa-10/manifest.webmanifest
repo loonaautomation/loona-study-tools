@@ -1,0 +1,29 @@
+{
+  "name": "Loona Percentage to CGPA (India, 10-Point)",
+  "short_name": "Percentage to CGPA",
+  "description": "Váltsa át a százalékot indiai 10 pontos CGPA-ra a CBSE fordított képlettel (% ÷ 9.5) és az egyetemi változatokkal, teljes táblázattal 95%-tól lefelé.",
+  "id": "/loona-study-tools/hu/percentage-to-cgpa-10/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

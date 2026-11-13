@@ -1,0 +1,29 @@
+{
+  "name": "Loona Canada GPA Converter",
+  "short_name": "Canada GPA Converter",
+  "description": "Váltsa át a kanadai százalékos osztályzatokat a 4.0 skálára a széles körben használt ontariói táblázattal (90–100 = A+ = 4.0), plusz megjegyzésekkel arról, hogyan különböznek a kanadai skálák egyetemenként.",
+  "id": "/loona-study-tools/hu/canada-gpa-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
