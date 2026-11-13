@@ -1,0 +1,29 @@
+{
+  "name": "Loona Sprievodca BISE Multan — 11. trieda",
+  "short_name": "Sprievodca BISE Multan — 11. trieda",
+  "description": "BISE Multan — 11. trieda: predmety a odbory, ako sú zostavené skúšobné testy komisie, a bezplatný plán prípravy so študijnými nástrojmi. Štruktúru si overte na oficiálnej stránke komisie.",
+  "id": "/loona-study-tools/sk/bise-multan-class-11-guide/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

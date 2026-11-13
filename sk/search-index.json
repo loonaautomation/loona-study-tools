@@ -1,0 +1,452 @@
+[
+ {
+  "n": "Tvorca kartičiek",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sk/flashcards/",
+  "s": "Loona Study Tools",
+  "d": "Vytvárajte balíčky kartičiek, študujte s otáčacími kartami a miešaním, sledujte, čo viete, a exportujte alebo tlačte svoje karty.",
+  "k": "flashcards maker flashcards vytvarajte balicky karticiek studujte s otacacimi kartami a miesanim sledujte co viete a exportujte alebo tlacte svoje karty",
+  "p": 0,
+  "c": "Tool"
+ },
+ {
+  "n": "Tvorca kvízov",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sk/quiz-maker/",
+  "s": "Loona Study Tools",
+  "d": "Učitelia vytvárajú kvízy s možnosťami, pravda/nepravda a krátkymi odpoveďami — študenti ich skúšajú s okamžitými skóre a úplnou kontrolou odpovedí.",
+  "k": "quiz maker quiz maker ucitelia vytvaraju kvizy s moznostami pravda nepravda a kratkymi odpovedami studenti ich skusaju s okamzitymi skore a uplnou kontrolou odpovedi",
+  "p": 1,
+  "c": "Tool"
+ },
+ {
+  "n": "Practice by Grade & Topic",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sk/grade-topic-practice/",
+  "s": "Loona Study Tools",
+  "d": "196 nových stránok: riešené príklady a cvičné otázky pre každý ročník a tému z matematiky, sprievodcovia predmetmi pre prírodné vedy, angličtinu, spoločenské vedy a urdčinu, sprievodcovia skúškami pakistanských komisií pre 9.–12. triedu a prevodníky CGPA pre každú hlavnú stupnicu hodnotenia.",
+  "k": "practice by grade topic grade topic practice 196 novych stranok riesene priklady a cvicne otazky pre kazdy rocnik a temu z matematiky sprievodcovia predmetmi pre prirodne vedy anglictinu spolocenske vedy a urdcinu sprievodcovia skuskami pakistanskych komisii pre 9 12 triedu a prevodniky cgpa pre kazdu hlavnu stupnicu hodnotenia",
+  "p": 102,
+  "c": "Tool"
+ },
+ {
+  "n": "Generátor pracovných listov z matematiky",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sk/math-worksheet-generator/",
+  "s": "Loona Study Tools",
+  "d": "Generujte pracovné listy z matematiky na tlač — sčítanie, odčítanie, násobenie, delenie, zlomky a desatinné čísla — so zodpovedajúcim kľúčom odpovedí.",
+  "k": "math worksheet generator math worksheet generator generujte pracovne listy z matematiky na tlac scitanie odcitanie nasobenie delenie zlomky a desatinne cisla so zodpovedajucim klucom odpovedi",
+  "p": 2,
+  "c": "Tool"
+ },
+ {
+  "n": "Test rýchlosti čítania",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sk/reading-speed-test/",
+  "s": "Loona Study Tools",
+  "d": "Prečítajte si načasovaný úryvok, odpovedzte na otázky porozumenia a získajte svoju skutočnú rýchlosť čítania v slovách za minútu (WPM).",
+  "k": "reading speed test reading speed test precitajte si nacasovany uryvok odpovedzte na otazky porozumenia a ziskajte svoju skutocnu rychlost citania v slovach za minutu wpm",
+  "p": 3,
+  "c": "Tool"
+ },
+ {
+  "n": "Plánovač študijného rozvrhu",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sk/study-timetable-planner/",
+  "s": "Loona Study Tools",
+  "d": "Zadajte svoje predmety, denné hodiny a dátum skúšky a získajte vyvážený týždenný študijný rozvrh, ktorý môžete upravovať a tlačiť.",
+  "k": "study timetable planner study timetable planner zadajte svoje predmety denne hodiny a datum skusky a ziskajte vyvazeny tyzdenny studijny rozvrh ktory mozete upravovat a tlacit",
+  "p": 4,
+  "c": "Tool"
+ },
+ {
+  "n": "Precvičovanie násobilky",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sk/multiplication-tables-practice/",
+  "s": "Loona Study Tools",
+  "d": "Precvičujte tabuľky násobenia s časovanými cvičeniami, okamžitou kontrolou a tabuľkou násobenia na tlač do 12 × 12.",
+  "k": "multiplication tables practice multiplication tables practice precvicujte tabulky nasobenia s casovanymi cviceniami okamzitou kontrolou a tabulkou nasobenia na tlac do 12 12",
+  "p": 106,
+  "c": "Tool"
+ },
+ {
+  "n": "Test pravopisu",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sk/spelling-test/",
+  "s": "Loona Study Tools",
+  "d": "Počítač číta každé slovo nahlas — vy píšete pravopis. Okamžité skóre a kontrola každého slova, ktoré ste vynechali.",
+  "k": "spelling test spelling test pocitac cita kazde slovo nahlas vy pisete pravopis okamzite skore a kontrola kazdeho slova ktore ste vynechali",
+  "p": 5,
+  "c": "Tool"
+ },
+ {
+  "n": "Generátor cvičení na rukopis",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sk/handwriting-practice-generator/",
+  "s": "Loona Study Tools",
+  "d": "Vytvorte listy na precvičovanie rukopisu na tlač pre písmená, čísla a vaše vlastné slová, s riadkami na obkresľovanie a prázdnymi riadkami na prepisovanie.",
+  "k": "handwriting practice generator handwriting practice generator vytvorte listy na precvicovanie rukopisu na tlac pre pismena cisla a vase vlastne slova s riadkami na obkreslovanie a prazdnymi riadkami na prepisovanie",
+  "p": 108,
+  "c": "Tool"
+ },
+ {
+  "n": "Plánovač odpočtu ku skúške",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sk/exam-countdown-planner/",
+  "s": "Loona Study Tools",
+  "d": "Zadajte dátum skúšky a predmety a získajte plán opakovania deň po dni, ktorý rozkladá témy férovo cez dni, ktoré vám zostávajú.",
+  "k": "exam countdown planner exam countdown planner zadajte datum skusky a predmety a ziskajte plan opakovania den po dni ktory rozklada temy ferovo cez dni ktore vam zostavaju",
+  "p": 109,
+  "c": "Tool"
+ },
+ {
+  "n": "Generátor osemsmeroviek",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sk/word-search-generator/",
+  "s": "Loona Study Tools",
+  "d": "Premeňte svoj vlastný zoznam slov na osemsmerovku na tlač, so samostatným kľúčom odpovedí ukazujúcim umiestnenie každého slova.",
+  "k": "word search generator word search generator premente svoj vlastny zoznam slov na osemsmerovku na tlac so samostatnym klucom odpovedi ukazujucim umiestnenie kazdeho slova",
+  "p": 110,
+  "c": "Tool"
+ },
+ {
+  "n": "Generátor pracovných listov so spájaním",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sk/matching-worksheet-generator/",
+  "s": "Loona Study Tools",
+  "d": "Vytvorte pracovné listy so spájaním na tlač — pojmy vľavo, pomiešané definície vpravo — s kľúčom odpovedí pre učiteľa.",
+  "k": "matching worksheet generator matching worksheet generator vytvorte pracovne listy so spajanim na tlac pojmy vlavo pomiesane definicie vpravo s klucom odpovedi pre ucitela",
+  "p": 111,
+  "c": "Tool"
+ },
+ {
+  "n": "Náhodný výber mena",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sk/random-name-picker/",
+  "s": "Loona Study Tools",
+  "d": "Vložte zoznam triedy a vyberajte študentov spravodlivo náhodne, s režimom bez opakovania, aby každý dostal príležitosť.",
+  "k": "random name picker random name picker vlozte zoznam triedy a vyberajte studentov spravodlivo nahodne s rezimom bez opakovania aby kazdy dostal prilezitost",
+  "p": 112,
+  "c": "Tool"
+ },
+ {
+  "n": "Hra Pexeso",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sk/matching-pairs-game/",
+  "s": "Loona Study Tools",
+  "d": "Premeňte akékoľvek dvojice pojem-a-definícia na pamäťovú hru prevrátiť-a-spárovať so sledovaním ťahov a času.",
+  "k": "matching pairs game matching pairs game premente akekolvek dvojice pojem a definicia na pamatovu hru prevratit a sparovat so sledovanim tahov a casu",
+  "p": 113,
+  "c": "Tool"
+ },
+ {
+  "n": "Hra Triedenie do skupín",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sk/group-sort-game/",
+  "s": "Loona Study Tools",
+  "d": "Vytvorte kategórie a položky; študenti triedia každú položku do správnej skupiny a dostanú okamžité skóre.",
+  "k": "group sort game group sort game vytvorte kategorie a polozky studenti triedia kazdu polozku do spravnej skupiny a dostanu okamzite skore",
+  "p": 114,
+  "c": "Tool"
+ },
+ {
+  "n": "Hra Skladanie viet",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sk/unjumble-game/",
+  "s": "Loona Study Tools",
+  "d": "Vety sa miešajú slovo po slove — študenti ťukajú slová späť do správneho poradia.",
+  "k": "unjumble sentences game unjumble game vety sa miesaju slovo po slove studenti tukaju slova spat do spravneho poradia",
+  "p": 115,
+  "c": "Tool"
+ },
+ {
+  "n": "Hra Presmyčky",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sk/anagram-game/",
+  "s": "Loona Study Tools",
+  "d": "Slová sa miešajú písmeno po písmene; študenti ich rozpletajú pomocou nápovedy, ktorú poskytnete.",
+  "k": "anagram game anagram game slova sa miesaju pismeno po pismene studenti ich rozpletaju pomocou napovedy ktoru poskytnete",
+  "p": 116,
+  "c": "Tool"
+ },
+ {
+  "n": "Hra Hláskuj slovo",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sk/spell-the-word/",
+  "s": "Loona Study Tools",
+  "d": "Vytvárajte každé slovo ťukaním na dlaždice s písmenami v poradí — precvičovanie pravopisu s nápovedami a okamžitými kontrolami.",
+  "k": "spell the word game spell the word vytvarajte kazde slovo tukanim na dlazdice s pismenami v poradi precvicovanie pravopisu s napovedami a okamzitymi kontrolami",
+  "p": 117,
+  "c": "Tool"
+ },
+ {
+  "n": "Hra Šibenica",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sk/hangman-game/",
+  "s": "Loona Study Tools",
+  "d": "Klasická hra hádania písmen so zabudovanými zoznamami slov pre školské predmety alebo váš vlastný zoznam slov.",
+  "k": "hangman game hangman game klasicka hra hadania pismen so zabudovanymi zoznamami slov pre skolske predmety alebo vas vlastny zoznam slov",
+  "p": 118,
+  "c": "Tool"
+ },
+ {
+  "n": "Generátor krížoviek",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sk/crossword-generator/",
+  "s": "Loona Study Tools",
+  "d": "Zadajte slová a nápovedy a vygenerujte skutočnú krížiacu sa krížovku — na tlač, s kľúčom odpovedí.",
+  "k": "crossword generator crossword generator zadajte slova a napovedy a vygenerujte skutocnu kriziacu sa krizovku na tlac s klucom odpovedi",
+  "p": 119,
+  "c": "Tool"
+ },
+ {
+  "n": "Generátor kariet bingo",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sk/bingo-card-generator/",
+  "s": "Loona Study Tools",
+  "d": "Generujte jedinečné karty bingo slovnej zásoby na tlač pre celú triedu, plus pomiešaný zoznam volaní.",
+  "k": "bingo card generator bingo card generator generujte jedinecne karty bingo slovnej zasoby na tlac pre celu triedu plus pomiesany zoznam volani",
+  "p": 120,
+  "c": "Tool"
+ },
+ {
+  "n": "Tvorca popísaných diagramov",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sk/labelled-diagram-maker/",
+  "s": "Loona Study Tools",
+  "d": "Nahrajte diagram, pripnite naň popisy, vytlačte popísanú alebo prázdnu verziu a spustite kvíz popisov.",
+  "k": "labelled diagram maker labelled diagram maker nahrajte diagram pripnite nan popisy vytlacte popisanu alebo prazdnu verziu a spustite kviz popisov",
+  "p": 121,
+  "c": "Tool"
+ },
+ {
+  "n": "Stovková tabuľka",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sk/hundreds-chart/",
+  "s": "Loona Study Tools",
+  "d": "Interaktívna tabuľka 1–100 na tlač so zvýraznením párnych/nepárnych a násobkov, plus režim precvičovania chýbajúcich čísel.",
+  "k": "hundreds chart hundreds chart interaktivna tabulka 1 100 na tlac so zvyraznenim parnych neparnych a nasobkov plus rezim precvicovania chybajucich cisel",
+  "p": 122,
+  "c": "Tool"
+ },
+ {
+  "n": "Generátor kartičiek na slovnú nástenku",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sk/word-wall-cards/",
+  "s": "Loona Study Tools",
+  "d": "Premeňte zoznamy slov na veľké, výrazné nástenné karty slov na tlač pre výstavky v triede.",
+  "k": "word wall cards generator word wall cards premente zoznamy slov na velke vyrazne nastenne karty slov na tlac pre vystavky v triede",
+  "p": 123,
+  "c": "Tool"
+ },
+ {
+  "n": "Generátor sudoku",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sk/sudoku-generator/",
+  "s": "Loona Study Tools",
+  "d": "Generujte hádanky Sudoku na tlač — 4×4, 6×6 a 9×9 — s jedinečnými riešeniami a samostatnou stranou riešenia.",
+  "k": "sudoku generator sudoku generator generujte hadanky sudoku na tlac 4 4 6 6 a 9 9 s jedinecnymi rieseniami a samostatnou stranou riesenia",
+  "p": 124,
+  "c": "Tool"
+ },
+ {
+  "n": "Generátor bludísk",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sk/maze-generator/",
+  "s": "Loona Study Tools",
+  "d": "Generujte bludiská na tlač v štyroch úrovniach náročnosti, s voliteľnou cestou riešenia.",
+  "k": "maze generator maze generator generujte bludiska na tlac v styroch urovniach narocnosti s volitelnou cestou riesenia",
+  "p": 125,
+  "c": "Tool"
+ },
+ {
+  "n": "Generátor omaľovánok podľa čísel",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sk/colour-by-number-generator/",
+  "s": "Loona Study Tools",
+  "d": "Vygenerujte mozaiku omaľovánky podľa čísel na tlač s farebným kľúčom a farebným obrázkom odpovede.",
+  "k": "colour by number generator colour by number generator vygenerujte mozaiku omalovanky podla cisel na tlac s farebnym klucom a farebnym obrazkom odpovede",
+  "p": 126,
+  "c": "Tool"
+ },
+ {
+  "n": "Generátor papiera na tlač",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sk/printable-paper-generator/",
+  "s": "Loona Study Tools",
+  "d": "Tlačte milimetrový papier, bodkovaný mriežkový papier, izometrický papier a papier na precvičovanie rukopisu v presných veľkostiach.",
+  "k": "printable paper generator printable paper generator tlacte milimetrovy papier bodkovany mriezkovy papier izometricky papier a papier na precvicovanie rukopisu v presnych velkostiach",
+  "p": 127,
+  "c": "Tool"
+ },
+ {
+  "n": "Generátor pracovných listov z pravopisu",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sk/spelling-worksheet-generator/",
+  "s": "Loona Study Tools",
+  "d": "Z jedného pravopisného zoznamu: testový list, miešania slov, precvičovanie chýbajúcich písmen a poradie ABC — s kľúčom odpovedí.",
+  "k": "spelling worksheet generator spelling worksheet generator z jedneho pravopisneho zoznamu testovy list miesania slov precvicovanie chybajucich pismen a poradie abc s klucom odpovedi",
+  "p": 128,
+  "c": "Tool"
+ },
+ {
+  "n": "Triedne časovače a časovač skúšok",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sk/classroom-timers/",
+  "s": "Loona Study Tools",
+  "d": "Odpočítavací časovač s veľkým displejom a prstencom pokroku, časovač skúšky zobrazujúci čas konca, vizuálny pruhový časovač a stopky s medzicasmi.",
+  "k": "classroom timers exam timer classroom timers odpocitavaci casovac s velkym displejom a prstencom pokroku casovac skusky zobrazujuci cas konca vizualny pruhovy casovac a stopky s medzicasmi",
+  "p": 129,
+  "c": "Tool"
+ },
+ {
+  "n": "Tvorca skupín pre triedu",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sk/classroom-group-maker/",
+  "s": "Loona Study Tools",
+  "d": "Uložte svoje zoznamy tried a rozdeľte ich do férových náhodných skupín alebo dvojíc — vyvážené veľkosti, premiešanie jedným kliknutím.",
+  "k": "classroom group maker classroom group maker ulozte svoje zoznamy tried a rozdelte ich do ferovych nahodnych skupin alebo dvojic vyvazene velkosti premiesanie jednym kliknutim",
+  "p": 130,
+  "c": "Tool"
+ },
+ {
+  "n": "Tvorca zasedacieho poriadku",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sk/seating-chart-maker/",
+  "s": "Loona Study Tools",
+  "d": "Usporiadajte študentov na mriežke lavíc: kliknite na umiestnenie, uzamknite obľúbené miesta, zvyšok pomiešajte a plán vytlačte.",
+  "k": "seating chart maker seating chart maker usporiadajte studentov na mriezke lavic kliknite na umiestnenie uzamknite oblubene miesta zvysok pomiesajte a plan vytlacte",
+  "p": 131,
+  "c": "Tool"
+ },
+ {
+  "n": "Triedna výsledková tabuľa",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sk/classroom-scoreboard/",
+  "s": "Loona Study Tools",
+  "d": "Veľká, prehľadná výsledková tabuľa tímových bodov na obrazovku triedy — pridajte tímy, ťukajte na pridanie alebo odobratie bodov.",
+  "k": "classroom scoreboard classroom scoreboard velka prehladna vysledkova tabula timovych bodov na obrazovku triedy pridajte timy tukajte na pridanie alebo odobratie bodov",
+  "p": 132,
+  "c": "Tool"
+ },
+ {
+  "n": "Merač hluku v triede",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sk/noise-meter/",
+  "s": "Loona Study Tools",
+  "d": "Živý relatívny merač hladiny hluku pomocou vášho mikrofónu — zelené, jantárové a červené zóny, ktoré pomáhajú triedam samoregulovať sa.",
+  "k": "classroom noise meter noise meter zivy relativny merac hladiny hluku pomocou vasho mikrofonu zelene jantarove a cervene zony ktore pomahaju triedam samoregulovat sa",
+  "p": 133,
+  "c": "Tool"
+ },
+ {
+  "n": "Generátor menoviek",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sk/name-tags-generator/",
+  "s": "Loona Study Tools",
+  "d": "Premeňte zoznam triedy na menovky na tlač s riadkom podtitulku — na lavice, výlety a zoznamovanie v prvom týždni.",
+  "k": "name tags generator name tags generator premente zoznam triedy na menovky na tlac s riadkom podtitulku na lavice vylety a zoznamovanie v prvom tyzdni",
+  "p": 134,
+  "c": "Tool"
+ },
+ {
+  "n": "Tvorca vizuálneho rozvrhu",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sk/visual-schedule-builder/",
+  "s": "Loona Study Tools",
+  "d": "Vytvorte vizuálny denný rozvrh na tlač s časmi, aktivitami a obrázkovými ikonami — ideálne pre mladšie deti.",
+  "k": "visual schedule builder visual schedule builder vytvorte vizualny denny rozvrh na tlac s casmi aktivitami a obrazkovymi ikonami idealne pre mladsie deti",
+  "p": 135,
+  "c": "Tool"
+ },
+ {
+  "n": "EZ Grader",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sk/ez-grader/",
+  "s": "Loona Study Tools",
+  "d": "Klasická učiteľská posuvná stupnica známkovania: zadajte celkový počet otázok a počet nesprávnych, aby ste dostali percento a písmennú známku, plus úplný graf.",
+  "k": "ez grader ez grader klasicka ucitelska posuvna stupnica znamkovania zadajte celkovy pocet otazok a pocet nespravnych aby ste dostali percento a pismennu znamku plus uplny graf",
+  "p": 136,
+  "c": "Tool"
+ },
+ {
+  "n": "Kalkulačka známok z testu",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sk/test-grader/",
+  "s": "Loona Study Tools",
+  "d": "Vložte kľúč odpovedí a odpovede študenta, aby ste opravili celý test okamžite, otázku po otázke.",
+  "k": "test grader test grader vlozte kluc odpovedi a odpovede studenta aby ste opravili cely test okamzite otazku po otazke",
+  "p": 137,
+  "c": "Tool"
+ },
+ {
+  "n": "Kalkulačka váženej známky",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sk/weighted-grade-calculator/",
+  "s": "Loona Study Tools",
+  "d": "Kombinujte skóre kategórií (domáce úlohy, kvízy, testy, záverečná skúška) podľa ich váh v osnovách do známky z kurzu.",
+  "k": "weighted grade calculator weighted grade calculator kombinujte skore kategorii domace ulohy kvizy testy zaverecna skuska podla ich vah v osnovach do znamky z kurzu",
+  "p": 138,
+  "c": "Tool"
+ },
+ {
+  "n": "Kalkulačka známky zo záverečnej skúšky",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sk/final-exam-calculator/",
+  "s": "Loona Study Tools",
+  "d": "Vypracujte presne, aké skóre potrebujete v záverečnej skúške, aby ste dosiahli svoju cieľovú známku kurzu — a či je to možné.",
+  "k": "final exam grade calculator final exam calculator vypracujte presne ake skore potrebujete v zaverecnej skuske aby ste dosiahli svoju cielovu znamku kurzu a ci je to mozne",
+  "p": 139,
+  "c": "Tool"
+ },
+ {
+  "n": "Test rýchlosti počítania",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sk/math-facts-speed-test/",
+  "s": "Loona Study Tools",
+  "d": "60-sekundový aritmetický šprint: čo najviac správnych faktov +, −, × a ÷, s presnosťou a sériami.",
+  "k": "math facts speed test math facts speed test 60 sekundovy aritmeticky sprint co najviac spravnych faktov a s presnostou a seriami",
+  "p": 140,
+  "c": "Tool"
+ },
+ {
+  "n": "Test numerickej klávesnice 10-Key",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sk/ten-key-test/",
+  "s": "Loona Study Tools",
+  "d": "Test rýchlosti zadávania údajov pre numerickú klávesnicu: píšte číselné sekvencie rýchlo a presne, hodnotené v klávesoch za minútu.",
+  "k": "10 key number pad test ten key test test rychlosti zadavania udajov pre numericku klavesnicu piste ciselne sekvencie rychlo a presne hodnotene v klavesoch za minutu",
+  "p": 141,
+  "c": "Tool"
+ },
+ {
+  "n": "Test písania kódu",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sk/code-typing-test/",
+  "s": "Loona Study Tools",
+  "d": "Píšte skutočné úryvky kódu so symbolmi a odsadením — meria rýchlosť písania kódu a presnosť symbolov pre programátorov.",
+  "k": "code typing test code typing test piste skutocne uryvky kodu so symbolmi a odsadenim meria rychlost pisania kodu a presnost symbolov pre programatorov",
+  "p": 142,
+  "c": "Tool"
+ },
+ {
+  "n": "Kvíz z gramatiky",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sk/grammar-quiz/",
+  "s": "Loona Study Tools",
+  "d": "24-otázkový test z anglickej gramatiky — časy, členy, predložky, zhoda a interpunkcia — s okamžitým skóre a vysvetleniami.",
+  "k": "grammar quiz grammar quiz 24 otazkovy test z anglickej gramatiky casy cleny predlozky zhoda a interpunkcia s okamzitym skore a vysvetleniami",
+  "p": 143,
+  "c": "Tool"
+ },
+ {
+  "n": "Kvíz zo slovnej zásoby",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sk/vocabulary-quiz/",
+  "s": "Loona Study Tools",
+  "d": "Dvadsať otázok významu slov so štyrmi možnosťami každá — rýchla, čestná kontrola úrovne vašej anglickej slovnej zásoby.",
+  "k": "vocabulary quiz vocabulary quiz dvadsat otazok vyznamu slov so styrmi moznostami kazda rychla cestna kontrola urovne vasej anglickej slovnej zasoby",
+  "p": 144,
+  "c": "Tool"
+ },
+ {
+  "n": "Interaktívna periodická tabuľka",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sk/periodic-table/",
+  "s": "Loona Study Tools",
+  "d": "Všetkých 118 prvkov vo farebne kódovanej tabuľke — kliknite na ľubovoľný prvok pre jeho názov, atómovú hmotnosť, skupinu, periódu a kategóriu.",
+  "k": "interactive periodic table periodic table vsetkych 118 prvkov vo farebne kodovanej tabulke kliknite na lubovolny prvok pre jeho nazov atomovu hmotnost skupinu periodu a kategoriu",
+  "p": 145,
+  "c": "Tool"
+ },
+ {
+  "n": "Kalkulačka molárnej hmotnosti",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sk/molar-mass-calculator/",
+  "s": "Loona Study Tools",
+  "d": "Napíšte chemický vzorec — vrátane zátvoriek — a získajte jeho molárnu hmotnosť v g/mol s rozpisom podľa prvku.",
+  "k": "molar mass calculator molar mass calculator napiste chemicky vzorec vratane zatvoriek a ziskajte jeho molarnu hmotnost v g mol s rozpisom podla prvku",
+  "p": 146,
+  "c": "Tool"
+ },
+ {
+  "n": "Vyvažovač chemických rovníc",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sk/chemical-equation-balancer/",
+  "s": "Loona Study Tools",
+  "d": "Zadajte nevyváženú rovnicu a získajte vyvážené koeficienty, overené atóm po atóme.",
+  "k": "chemical equation balancer chemical equation balancer zadajte nevyvazenu rovnicu a ziskajte vyvazene koeficienty overene atom po atome",
+  "p": 147,
+  "c": "Tool"
+ },
+ {
+  "n": "Kalkulačka pH",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sk/ph-calculator/",
+  "s": "Loona Study Tools",
+  "d": "Previeďte medzi pH, pOH, [H+] a [OH-] a vypočítajte pH roztokov silných kyselín a silných zásad.",
+  "k": "ph calculator ph calculator previedte medzi ph poh h a oh a vypocitajte ph roztokov silnych kyselin a silnych zasad",
+  "p": 148,
+  "c": "Tool"
+ },
+ {
+  "n": "Tvorca hodnotiacich rubrík",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sk/rubric-maker/",
+  "s": "Loona Study Tools",
+  "d": "Vytvorte rubriku hodnotenia na tlač: kritériá po strane, štyri úrovne výkonu hore, body sa počítajú automaticky.",
+  "k": "rubric maker rubric maker vytvorte rubriku hodnotenia na tlac kriteria po strane styri urovne vykonu hore body sa pocitaju automaticky",
+  "p": 149,
+  "c": "Tool"
+ }
+]

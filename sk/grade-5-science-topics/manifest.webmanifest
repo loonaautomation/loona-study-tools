@@ -1,0 +1,29 @@
+{
+  "name": "Loona Témy z prírodných vied — 5. ročník",
+  "short_name": "Témy z prírodných vied — 5. ročník",
+  "description": "Vedecké témy pre 5. ročník v poradí vyučovania — Fotosyntéza a rozmnožovanie rastlín, Obehový systém a srdce, Zmesi a ich oddeľovanie (filtrovanie, odparovanie) a ďalšie — s bezplatnými študijnými nástrojmi pre každú tému.",
+  "id": "/loona-study-tools/sk/grade-5-science-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

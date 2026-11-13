@@ -1,0 +1,29 @@
+{
+  "name": "Loona Témy z angličtiny — 3. ročník",
+  "short_name": "Témy z angličtiny — 3. ročník",
+  "description": "Témy z angličtiny pre 3. ročník v poradí výučby — Slovné druhy, Minulý a prítomný čas (pravidelné slovesá), Čiarky v zoznamoch a úvodzovky (prvý pohľad) a ďalšie — s bezplatnými študijnými nástrojmi pre každú tému.",
+  "id": "/loona-study-tools/sk/grade-3-english-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

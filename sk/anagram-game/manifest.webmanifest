@@ -1,0 +1,29 @@
+{
+  "name": "Loona Hra Presmyčky",
+  "short_name": "Hra Presmyčky",
+  "description": "Bezplatná hra presmyčky: vaše slová sú pomiešané písmeno po písmene; študenti používajú nápovedu na rozlúštenie každého slova. Okamžité kontroly a konečné skóre.",
+  "id": "/loona-study-tools/sk/anagram-game/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

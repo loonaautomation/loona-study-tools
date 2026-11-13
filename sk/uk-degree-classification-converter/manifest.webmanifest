@@ -1,0 +1,29 @@
+{
+  "name": "Loona Prevodník klasifikácie britských titulov",
+  "short_name": "Klasifikácia britských titulov",
+  "description": "Čo britská prvá, 2:1, 2:2 alebo tretia znamená v percentách a približných pojmoch GPA USA — s čestnou poznámkou, že žiadny oficiálny prevod UK-na-GPA neexistuje.",
+  "id": "/loona-study-tools/sk/uk-degree-classification-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

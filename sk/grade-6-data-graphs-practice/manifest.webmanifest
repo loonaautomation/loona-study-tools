@@ -1,0 +1,29 @@
+{
+  "name": "Loona Údaje a grafy — 6. ročník",
+  "short_name": "Údaje a grafy — 6. ročník",
+  "description": "Bezplatné precvičovanie — Údaje a grafy pre 6. ročník: Čítanie grafov a výber správneho priemeru. Riešený príklad, 6 cvičných otázok s kľúčom odpovedí na tlač, postup, častá chyba a najlepší tip.",
+  "id": "/loona-study-tools/sk/grade-6-data-graphs-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

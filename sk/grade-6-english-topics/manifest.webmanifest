@@ -1,0 +1,29 @@
+{
+  "name": "Loona Témy z angličtiny — 6. ročník",
+  "short_name": "Témy z angličtiny — 6. ročník",
+  "description": "Témy z angličtiny pre 6. ročník v poradí výučby — Činný a trpný rod, Nepriama reč, Zložené vety a spojky a ďalšie — s bezplatnými študijnými nástrojmi pre každú tému.",
+  "id": "/loona-study-tools/sk/grade-6-english-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

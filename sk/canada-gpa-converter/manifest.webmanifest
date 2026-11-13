@@ -1,0 +1,29 @@
+{
+  "name": "Loona Prevodník kanadského GPA",
+  "short_name": "Prevodník kanadského GPA",
+  "description": "Preveďte kanadské percentuálne známky na stupnicu 4.0 pomocou široko používanej tabuľky Ontario (90–100 = A+ = 4.0), plus poznámky o tom, ako sa kanadské stupnice líšia podľa univerzity.",
+  "id": "/loona-study-tools/sk/canada-gpa-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

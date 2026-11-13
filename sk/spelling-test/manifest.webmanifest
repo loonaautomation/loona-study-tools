@@ -1,0 +1,29 @@
+{
+  "name": "Loona Test pravopisu",
+  "short_name": "Test pravopisu",
+  "description": "Bezplatný test pravopisu: prehliadač prečíta každé slovo nahlas, vy napíšete pravopis a získate okamžité skóre s kontrolou nesprávnych slov. Zabudované zoznamy podľa veku plus vaše vlastné zoznamy slov.",
+  "id": "/loona-study-tools/sk/spelling-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

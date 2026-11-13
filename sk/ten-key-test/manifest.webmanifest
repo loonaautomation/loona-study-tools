@@ -1,0 +1,29 @@
+{
+  "name": "Loona Test numerickej klávesnice (10-Key)",
+  "short_name": "Test numerickej klávesnice (10-Key)",
+  "description": "Bezplatný test numerickej klávesnice s 10 klávesmi: píšte sekvencie číslic tak rýchlo a presne, ako viete; hodnotené v klávesoch za minútu s presnosťou — test zručnosti zadávania údajov.",
+  "id": "/loona-study-tools/sk/ten-key-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

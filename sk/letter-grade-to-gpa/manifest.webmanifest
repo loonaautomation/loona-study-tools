@@ -1,0 +1,29 @@
+{
+  "name": "Loona Prevodník písmenných známok na GPA",
+  "short_name": "Prevodník písmenných známok na GPA",
+  "description": "Aké GPA je A, B+ alebo C−? Úplná tabuľka bodov GPA od písmenných známok na stupnici 4.0, s percentuálnymi pásmami a prevodníkom na jedno kliknutie.",
+  "id": "/loona-study-tools/sk/letter-grade-to-gpa/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

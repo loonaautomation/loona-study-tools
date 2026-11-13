@@ -1,0 +1,29 @@
+{
+  "name": "Loona Témy zo spoločenských vied — Materská škola",
+  "short_name": "Témy zo spoločenských vied — Materská škola",
+  "description": "Spoločenské témy pre materskú školu v poradí vyučovania — Moja rodina a môj domov, Moja škola a moja trieda, Pomocníci v našom okolí a ďalšie — s bezplatnými študijnými nástrojmi pre každú tému.",
+  "id": "/loona-study-tools/sk/kindergarten-social-studies-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Test rýchlosti čítania",
+  "short_name": "Test rýchlosti čítania",
+  "description": "Bezplatný test rýchlosti čítania: čítajte časovanú pasáž (3 možnosti, 400-600 slov), odpovedajte na otázky na porozumenie a získajte svoju rýchlosť čítania vo WPM plus čestný návod na dobré rýchlosti čítania podľa veku.",
+  "id": "/loona-study-tools/sk/reading-speed-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

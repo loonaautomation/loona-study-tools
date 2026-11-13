@@ -1,0 +1,29 @@
+{
+  "name": "Loona Hra Pexeso",
+  "short_name": "Hra Pexeso",
+  "description": "Bezplatná pamäťová hra spájania dvojíc: zadajte dvojice pojem = definícia a hrajte otáčanie a spájanie so sledovaním ťahov a času. Skvelé pre slovnú zásobu a opakovanie.",
+  "id": "/loona-study-tools/sk/matching-pairs-game/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

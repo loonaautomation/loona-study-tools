@@ -1,0 +1,29 @@
+{
+  "name": "Loona Témy z urdčiny — 2. ročník",
+  "short_name": "Témy z urdčiny — 2. ročník",
+  "description": "Urdské témy pre 2. ročník v poradí vyučovania — Plynulosť čítania, Ism, fail a harf (prvý pohľad na gramatiku), Wahid a jama (jednotné a množné číslo, základ) a ďalšie — s bezplatnými študijnými nástrojmi pre každú tému.",
+  "id": "/loona-study-tools/sk/grade-2-urdu-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

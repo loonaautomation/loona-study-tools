@@ -1,0 +1,29 @@
+{
+  "name": "Loona Generátor osemsmeroviek",
+  "short_name": "Generátor osemsmeroviek",
+  "description": "Bezplatný generátor osemsmeroviek: premeňte svoj vlastný zoznam slov na hádanku osemsmerovky na tlač v 8 smeroch, so samostatným zvýrazneným kľúčom odpovedí. Dokonalé na precvičovanie slovnej zásoby.",
+  "id": "/loona-study-tools/sk/word-search-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

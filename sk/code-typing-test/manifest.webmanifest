@@ -1,0 +1,29 @@
+{
+  "name": "Loona Test písania kódu",
+  "short_name": "Test písania kódu",
+  "description": "Bezplatný test písania kódu: píšte skutočné úryvky JavaScript, Python a SQL presne — zátvorky, symboly a odsadenie hodnotené — s presnosťou, znakmi za minútu a WPM.",
+  "id": "/loona-study-tools/sk/code-typing-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Tvorca popísaných diagramov",
+  "short_name": "Tvorca popísaných diagramov",
+  "description": "Bezplatný tvorca popísaných diagramov: nahrajte diagram, kliknite na pripnutie očíslovaných popisov, tlačte popísané alebo prázdne verzie a skúšajte študentov z popisov. Obrázok nikdy neopustí vaše zariadenie.",
+  "id": "/loona-study-tools/sk/labelled-diagram-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

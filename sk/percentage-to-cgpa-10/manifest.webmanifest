@@ -1,0 +1,29 @@
+{
+  "name": "Loona Percentá na CGPA (India, 10-bodová stupnica)",
+  "short_name": "Percentá na CGPA (India",
+  "description": "Preveďte percento na indické 10-bodové CGPA pomocou reverzného vzorca CBSE (% ÷ 9.5) a univerzitných variantov, s úplnou tabuľkou od 95% nadol.",
+  "id": "/loona-study-tools/sk/percentage-to-cgpa-10/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

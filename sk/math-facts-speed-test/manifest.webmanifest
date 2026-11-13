@@ -1,0 +1,29 @@
+{
+  "name": "Loona Test rýchlosti počítania",
+  "short_name": "Test rýchlosti počítania",
+  "description": "Bezplatný test rýchlosti matematických faktov: 60-sekundový šprint faktov sčítania, odčítania, násobenia a delenia s okamžitou kontrolou, sledovaním presnosti a sérií.",
+  "id": "/loona-study-tools/sk/math-facts-speed-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

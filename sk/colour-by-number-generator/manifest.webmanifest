@@ -1,0 +1,29 @@
+{
+  "name": "Loona Generátor omaľovánok podľa čísel",
+  "short_name": "Generátor omaľovánok podľa čísel",
+  "description": "Bezplatný generátor omaľovánok podľa čísel: pracovný list s číslovanou mozaikou so šesťfarebným kľúčom a samostatným farebným obrázkom odpovede. Čerstvý obrázok zakaždým.",
+  "id": "/loona-study-tools/sk/colour-by-number-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

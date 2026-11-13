@@ -1,0 +1,29 @@
+{
+  "name": "Loona Generátor papiera na tlač",
+  "short_name": "Generátor papiera na tlač",
+  "description": "Bezplatný generátor papiera na tlač: milimetrový papier, bodková mriežka, izometrický papier, papier na rukopis s 3 riadkami a široké linajky s presnými rozstupmi 8/10/14mm. Tlačte na 100% pre skutočnú veľkosť.",
+  "id": "/loona-study-tools/sk/printable-paper-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
