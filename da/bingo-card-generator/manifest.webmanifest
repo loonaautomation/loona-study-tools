@@ -1,0 +1,29 @@
+{
+  "name": "Loona Bingokortgenerator",
+  "short_name": "Bingokortgenerator",
+  "description": "Gratis bingokortgenerator: indtast 24+ ord og generér unikke 5x5-bingokort til en hel klasse, der kan udskrives, plus en blandet opråbsliste. Ordforråd, synsord, tal og mere.",
+  "id": "/loona-study-tools/da/bingo-card-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

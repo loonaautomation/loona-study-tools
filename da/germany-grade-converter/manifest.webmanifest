@@ -1,0 +1,29 @@
+{
+  "name": "Loona Tyskland karakterkonverter",
+  "short_name": "Tyskland karakterkonverter",
+  "description": "Omregn udenlandske procent- eller GPA-karakterer til den tyske 1.0–5.0-skala med den modificerede bayerske formel, som tyske universiteter bruger, og omregn tyske karakterer tilbage.",
+  "id": "/loona-study-tools/da/germany-grade-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

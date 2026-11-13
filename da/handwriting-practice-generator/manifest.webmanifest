@@ -1,0 +1,29 @@
+{
+  "name": "Loona Håndskriftsøvelsegenerator",
+  "short_name": "Håndskriftsøvelser",
+  "description": "Gratis generator til håndskriftsøvelser: arbejdsark til sporing af alfabetet, store og små bogstaver, tal og dine egne ord eller sætninger, med linjerede firelinjers hjælpelinjer, der kan udskrives.",
+  "id": "/loona-study-tools/da/handwriting-practice-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

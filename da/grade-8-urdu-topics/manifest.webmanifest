@@ -1,0 +1,29 @@
+{
+  "name": "Loona Urduemner og studievejledning for 8. klasse",
+  "short_name": "Urduemner for 8. klasse",
+  "description": "Urduemnerne for 8. klasse i undervisningsrækkefølge — Fuld qawaid-repetition (eksamensfokus), Hvordan man forklarer nazmer og ghazaler til eksamen, Essays om sociale emner og mere — med gratis studieværktøjer til hvert emne.",
+  "id": "/loona-study-tools/da/grade-8-urdu-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

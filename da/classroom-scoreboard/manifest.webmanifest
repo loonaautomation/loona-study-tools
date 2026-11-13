@@ -1,0 +1,29 @@
+{
+  "name": "Loona Pointtavle til klasseværelset",
+  "short_name": "Pointtavle til klassen",
+  "description": "Gratis pointtavle til klasseværelset: store farverige holdpointkort til klassens skærm, +1/+5/-1 med ét tryk, gemt i din browser mellem timerne.",
+  "id": "/loona-study-tools/da/classroom-scoreboard/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

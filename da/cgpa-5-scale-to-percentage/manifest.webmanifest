@@ -1,0 +1,29 @@
+{
+  "name": "Loona CGPA til procent på 5.0-skalaen",
+  "short_name": "CGPA til procent på 5.0",
+  "description": "Omregn CGPA på 5.0-skalaen til procent (CGPA ÷ 5 × 100) med en fuld tabel, og siderne med klassebånd for Nigeria og Bangladesh, hvor bånd betyder mere end procenter.",
+  "id": "/loona-study-tools/da/cgpa-5-scale-to-percentage/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

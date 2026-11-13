@@ -1,0 +1,29 @@
+{
+  "name": "Loona Naturfagsemner og studievejledning for børnehaveklassen",
+  "short_name": "Naturfagsemner for børnehaveklassen",
+  "description": "Naturfagsemnerne for børnehaveklassen i undervisningsrækkefølge — Levende og ikke-levende ting omkring os, Kroppens dele og de fem sanser, Planter vi ser og mere — med gratis studieværktøjer til hvert emne.",
+  "id": "/loona-study-tools/da/kindergarten-science-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

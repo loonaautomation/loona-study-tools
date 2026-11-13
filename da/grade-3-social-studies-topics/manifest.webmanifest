@@ -1,0 +1,29 @@
+{
+  "name": "Loona Samfundsfagsemner og studievejledning for 3. klasse",
+  "short_name": "Samfundsfagsemner for 3. klasse",
+  "description": "Samfundsfagsemnerne for 3. klasse i undervisningsrækkefølge — Verdens kontinenter og oceaner, Pakistan, Oldtidens folk og mere — med gratis studieværktøjer til hvert emne.",
+  "id": "/loona-study-tools/da/grade-3-social-studies-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

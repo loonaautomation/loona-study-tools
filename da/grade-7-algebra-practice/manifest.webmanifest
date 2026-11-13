@@ -1,0 +1,29 @@
+{
+  "name": "Loona Algebraøvelse for 7. klasse",
+  "short_name": "Algebraøvelse for 7. klasse",
+  "description": "Gratis algebraøvelse for 7. klasse — at løse ligninger i ét og to trin. Et gennemregnet eksempel, 6 øvelsesspørgsmål med en facitliste, der kan udskrives, metoden, den typiske fejl og et godt tip.",
+  "id": "/loona-study-tools/da/grade-7-algebra-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

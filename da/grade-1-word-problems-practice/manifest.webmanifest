@@ -1,0 +1,29 @@
+{
+  "name": "Loona Tekstopgaveøvelse for 1. klasse",
+  "short_name": "Tekstopgaveøvelse for 1. klasse",
+  "description": "Gratis tekstopgaveøvelse for 1. klasse — tekstopgaver med addition og subtraktion i ét trin. Et gennemregnet eksempel, 6 øvelsesspørgsmål med en facitliste, der kan udskrives, metoden, den typiske fejl og et godt tip.",
+  "id": "/loona-study-tools/da/grade-1-word-problems-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

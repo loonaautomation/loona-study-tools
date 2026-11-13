@@ -1,0 +1,29 @@
+{
+  "name": "Loona Flashcards-mager",
+  "short_name": "Flashcards-mager",
+  "description": "Gratis flashcards-mager: opret bunker, studér med vendekort, bland og følg kan/kan-ikke. Importér/eksportér CSV & JSON, udskriv kort. Ingen tilmelding, gemt på din enhed.",
+  "id": "/loona-study-tools/da/flashcards/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

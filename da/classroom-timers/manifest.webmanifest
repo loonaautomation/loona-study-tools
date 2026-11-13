@@ -1,0 +1,29 @@
+{
+  "name": "Loona Timere til klasseværelset",
+  "short_name": "Timere til klassen",
+  "description": "Gratis timere til klasseværelset: en nedtælling med stort display, fremdriftsring og krympende visuel bjælke, en eksamenstimer, der viser sluttid og resterende tid, og et stopur med omgange.",
+  "id": "/loona-study-tools/da/classroom-timers/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

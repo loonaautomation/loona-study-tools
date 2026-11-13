@@ -1,0 +1,29 @@
+{
+  "name": "Loona Beregner for afsluttende eksamenskarakter",
+  "short_name": "Beregner for afsluttende eksamen",
+  "description": "Gratis beregner til den afsluttende eksamen: indtast din nuværende karakter, den afsluttende eksamens vægt og dit mål for at se præcis, hvilken score du skal bruge i finalen — og om det stadig er muligt.",
+  "id": "/loona-study-tools/da/final-exam-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

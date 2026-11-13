@@ -1,0 +1,29 @@
+{
+  "name": "Loona Procent til CGPA (Indien, 10-punkt)",
+  "short_name": "Procent til CGPA (Indien",
+  "description": "Omregn procent til indisk CGPA på 10-punktsskalaen med CBSE's omvendte formel (% ÷ 9.5) og universitetsvarianterne, med en fuld tabel fra 95% og ned.",
+  "id": "/loona-study-tools/da/percentage-to-cgpa-10/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

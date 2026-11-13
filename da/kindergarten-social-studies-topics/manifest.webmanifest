@@ -1,0 +1,29 @@
+{
+  "name": "Loona Samfundsfagsemner og studievejledning for børnehaveklassen",
+  "short_name": "Samfundsfagsemner for børnehaveklassen",
+  "description": "Samfundsfagsemnerne for børnehaveklassen i undervisningsrækkefølge — Min familie og mit hjem, Min skole og mit klasseværelse, Hjælpere i vores nabolag og mere — med gratis studieværktøjer til hvert emne.",
+  "id": "/loona-study-tools/da/kindergarten-social-studies-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

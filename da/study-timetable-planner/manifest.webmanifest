@@ -1,0 +1,29 @@
+{
+  "name": "Loona Studieplanlægger",
+  "short_name": "Studieplanlægger",
+  "description": "Gratis studieplanlægger: indtast fag, timer pr. dag og en eksamensdato for at generere en afbalanceret ugentlig studieplan, der kan redigeres og udskrives, med retfærdig fagrotation.",
+  "id": "/loona-study-tools/da/study-timetable-planner/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

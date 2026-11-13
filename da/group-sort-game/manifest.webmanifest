@@ -1,0 +1,29 @@
+{
+  "name": "Loona Gruppesorteringsspil",
+  "short_name": "Gruppesorteringsspil",
+  "description": "Gratis gruppesorteringsspil til klasseværelser: definer kategorier og elementer, eleverne trykker elementerne ind i de rigtige grupper og får en øjeblikkelig score med rettelser.",
+  "id": "/loona-study-tools/da/group-sort-game/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
