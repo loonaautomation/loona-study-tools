@@ -1,0 +1,29 @@
+{
+  "name": "Loona Таблица на стотиците",
+  "short_name": "Таблица на стотиците",
+  "description": "Безплатна таблица на стотиците: интерактивна таблица 1-100 за печат с подчертаване на четни/нечетни и кратни и режим за упражнение с липсващи числа за усет за числата.",
+  "id": "/loona-study-tools/bg/hundreds-chart/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

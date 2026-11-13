@@ -1,0 +1,29 @@
+{
+  "name": "Loona Генератор на баджове с имена",
+  "short_name": "Генератор на баджове с имена",
+  "description": "Безплатен генератор на баджове с имена: поставете списък на класа и отпечатайте спретнати баджове с имена с подзаглавие за класа/училището — за първи дни, екскурзии, родителски срещи и групова работа.",
+  "id": "/loona-study-tools/bg/name-tags-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

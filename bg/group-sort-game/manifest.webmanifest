@@ -1,0 +1,29 @@
+{
+  "name": "Loona Игра за сортиране в групи",
+  "short_name": "Игра за сортиране в групи",
+  "description": "Безплатна игра за сортиране в групи за класни стаи: дефинирайте категории и елементи, учениците докосват елементите в правилните групи и получават незабавен резултат с корекции.",
+  "id": "/loona-study-tools/bg/group-sort-game/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

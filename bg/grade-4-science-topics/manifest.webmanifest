@@ -1,0 +1,29 @@
+{
+  "name": "Loona Grade 4 Science Topics and Study Guide",
+  "short_name": "Grade 4 Science Topics and",
+  "description": "Темите по наука за 4 клас в ред на преподаване — Екосистеми и хранителни вериги, Храносмилателната и дихателната система, Електричество и още — с безплатни учебни инструменти за всяка тема.",
+  "id": "/loona-study-tools/bg/grade-4-science-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

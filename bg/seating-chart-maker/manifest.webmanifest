@@ -1,0 +1,29 @@
+{
+  "name": "Loona Създател на схема за сядане",
+  "short_name": "Създател на схема за сядане",
+  "description": "Безплатен създател на схема за сядане: създайте мрежа от бюра, щракнете, за да поставите учениците, заключете местата, които не трябва да се местят, разбъркайте всички останали и отпечатайте схемата.",
+  "id": "/loona-study-tools/bg/seating-chart-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Генератор за оцветяване по номера",
+  "short_name": "Генератор за оцветяване по",
+  "description": "Безплатен генератор за оцветяване по номера: номериран мозаечен работен лист с ключ от шест цвята и отделна оцветена картина с отговора. Прясна картина всеки път.",
+  "id": "/loona-study-tools/bg/colour-by-number-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

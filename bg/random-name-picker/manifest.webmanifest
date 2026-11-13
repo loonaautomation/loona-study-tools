@@ -1,0 +1,29 @@
+{
+  "name": "Loona Случаен избор на име",
+  "short_name": "Случаен избор на име",
+  "description": "Безплатен случаен избор на име за учители: поставете списък на класа и избирайте ученици справедливо на случаен принцип, с режим без повторение, така че всеки да получи ред, преди някой да се повтори.",
+  "id": "/loona-study-tools/bg/random-name-picker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

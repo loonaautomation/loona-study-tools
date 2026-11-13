@@ -1,0 +1,29 @@
+{
+  "name": "Loona Тест по лексика",
+  "short_name": "Тест по лексика",
+  "description": "Безплатен тест по лексика: 20 английски думи с по четири опции за значение всяка, от обикновени училищни думи до по-богата академична лексика. Незабавен резултат и преглед.",
+  "id": "/loona-study-tools/bg/vocabulary-quiz/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

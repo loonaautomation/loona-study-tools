@@ -1,0 +1,29 @@
+{
+  "name": "Loona Създател на групи в класната стая",
+  "short_name": "Създател на групи в класната",
+  "description": "Безплатен създател на групи в класната стая: запазете списъци на класове в браузъра си, след което разделете учениците в балансирани случайни групи по размер на групата, брой групи или двойки. Отпечатайте резултата.",
+  "id": "/loona-study-tools/bg/classroom-group-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

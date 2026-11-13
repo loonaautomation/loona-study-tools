@@ -1,0 +1,29 @@
+{
+  "name": "Loona Тест за скорост на четене",
+  "short_name": "Тест за скорост на четене",
+  "description": "Безплатен тест за скорост на четене: прочетете пасаж с време (3 избора, 400-600 думи), отговорете на въпроси за разбиране и получете скоростта си на четене в WPM плюс честно ръководство за добри скорости на четене според възрастта.",
+  "id": "/loona-study-tools/bg/reading-speed-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

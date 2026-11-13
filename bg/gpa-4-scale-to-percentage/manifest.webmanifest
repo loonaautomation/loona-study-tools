@@ -1,0 +1,29 @@
+{
+  "name": "Loona GPA to Percentage on the 4.0 Scale",
+  "short_name": "GPA to Percentage on the 4.0",
+  "description": "Преобразувайте GPA по скалата 4.0 в процент чрез стандартната таблица с буквени оценки (A = 4.0 = 93–100%), показана до линейната оценка ×25.",
+  "id": "/loona-study-tools/bg/gpa-4-scale-to-percentage/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

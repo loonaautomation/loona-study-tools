@@ -1,0 +1,29 @@
+{
+  "name": "Loona Планировчик на учебен график",
+  "short_name": "Планировчик на учебен график",
+  "description": "Безплатен планировчик на учебен график: въведете предмети, часове на ден и дата на изпит, за да генерирате балансиран, редактируем седмичен учебен график за печат със справедлива ротация на предметите.",
+  "id": "/loona-study-tools/bg/study-timetable-planner/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

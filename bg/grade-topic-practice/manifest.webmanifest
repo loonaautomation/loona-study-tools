@@ -1,0 +1,29 @@
+{
+  "name": "Loona Упражнения по клас и тема",
+  "short_name": "Упражнения по клас и тема",
+  "description": "Един индекс за всички страници за упражнения по клас и тема (детска градина до 8 клас), ръководства по предмети, ръководства за изпити на пакистанския борд за класове 9–12 и конвертори за CGPA на Loona Study Tools.",
+  "id": "/loona-study-tools/bg/grade-topic-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

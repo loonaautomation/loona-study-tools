@@ -1,0 +1,29 @@
+{
+  "name": "Loona Измервател на шум в класната стая",
+  "short_name": "Измервател на шум в класната",
+  "description": "Безплатен измервател на шум в класната стая: лента за ниво на микрофона на живо със зелени/жълти/червени зони и брояч на сериите тишина. Показване на относително ниво (не децибели), анализирано на устройството, никога не се записва.",
+  "id": "/loona-study-tools/bg/noise-meter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

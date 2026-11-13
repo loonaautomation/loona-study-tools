@@ -1,0 +1,29 @@
+{
+  "name": "Loona Генератор на работни листове по правопис",
+  "short_name": "Генератор на работни листове по",
+  "description": "Безплатен генератор на работни листове по правопис: от един списък с думи получете упражнение за подреждане, работни листове с липсващи гласни, упражнение за азбучен ред и лист за тест по правопис, с ключ с отговори.",
+  "id": "/loona-study-tools/bg/spelling-worksheet-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Генератор на карти за стена с думи",
+  "short_name": "Генератор на карти за стена с",
+  "description": "Безплатен генератор на карти за стена с думи: въведете списък с думи и получете големи, удебелени карти за стена с думи за печат в три размера за изложби в класната стая и кътове за четене.",
+  "id": "/loona-study-tools/bg/word-wall-cards/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

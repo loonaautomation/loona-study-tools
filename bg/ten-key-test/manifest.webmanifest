@@ -1,0 +1,29 @@
+{
+  "name": "Loona 10-Key Test",
+  "short_name": "10-Key Test",
+  "description": "Безплатен тест с цифрова клавиатура с 10 клавиша: въвеждайте поредици от цифри колкото можете по-бързо и по-точно; оценява се в клавиши в минута с точност — тестът за умение за въвеждане на данни.",
+  "id": "/loona-study-tools/bg/ten-key-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

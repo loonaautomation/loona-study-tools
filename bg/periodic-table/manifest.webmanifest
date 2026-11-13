@@ -1,0 +1,29 @@
+{
+  "name": "Loona Интерактивна периодична таблица",
+  "short_name": "Интерактивна периодична таблица",
+  "description": "Безплатна интерактивна периодична таблица: всички 118 елемента с цветово кодиране по категория. Щракнете върху всеки елемент за атомния му номер, маса, група, период и категория.",
+  "id": "/loona-study-tools/bg/periodic-table/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Бърз оценител EZ",
+  "short_name": "Бърз оценител EZ",
+  "description": "Безплатен оценител EZ за учители: въведете общия брой въпроси и броя на грешните, за да получите процент и буквена оценка незабавно, с пълна диаграма за оценяване за тази дължина на теста.",
+  "id": "/loona-study-tools/bg/ez-grader/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Създател на диаграми с надписи",
+  "short_name": "Създател на диаграми с надписи",
+  "description": "Безплатен създател на диаграми с надписи: качете диаграма, щракнете, за да закачите номерирани надписи, отпечатайте версии с надписи или празни и изпитайте учениците върху надписите. Изображението никога не напуска вашето устройство.",
+  "id": "/loona-study-tools/bg/labelled-diagram-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

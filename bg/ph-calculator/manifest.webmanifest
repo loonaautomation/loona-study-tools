@@ -1,0 +1,29 @@
+{
+  "name": "Loona Калкулатор за pH",
+  "short_name": "Калкулатор за pH",
+  "description": "Безплатен калкулатор за pH: преобразувайте между pH, pOH, [H+] и [OH-] и изчислявайте pH на разтвори на силни киселини и силни основи от концентрацията.",
+  "id": "/loona-study-tools/bg/ph-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

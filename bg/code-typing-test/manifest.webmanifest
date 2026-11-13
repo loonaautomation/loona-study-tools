@@ -1,0 +1,29 @@
+{
+  "name": "Loona Тест за писане на код",
+  "short_name": "Тест за писане на код",
+  "description": "Безплатен тест за писане на код: въвеждайте истински фрагменти на JavaScript, Python и SQL точно — скобите, символите и отстъпът се оценяват — с точност, символи в минута и WPM.",
+  "id": "/loona-study-tools/bg/code-typing-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

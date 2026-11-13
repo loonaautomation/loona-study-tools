@@ -1,0 +1,29 @@
+{
+  "name": "Loona Упражнения по таблицата за умножение",
+  "short_name": "Упражнения по таблицата за",
+  "description": "Безплатни упражнения по таблицата за умножение: изберете таблици 2-12, упражнявайте рундове с време с незабавна проверка и преговор на слабите таблици, плюс таблица за умножение 12x12 за печат.",
+  "id": "/loona-study-tools/bg/multiplication-tables-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Grade 2 English Topics and Study Guide",
+  "short_name": "Grade 2 English Topics and",
+  "description": "Темите по английски за 2 клас в ред на преподаване — Дълги гласни и диграфи (sh, ch, th), Думи за зрение комплект 2 и семейства думи, Въпросителни и удивителни знаци и още — с безплатни учебни инструменти за всяка тема.",
+  "id": "/loona-study-tools/bg/grade-2-english-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

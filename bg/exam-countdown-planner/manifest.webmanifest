@@ -1,0 +1,29 @@
+{
+  "name": "Loona Планировчик за обратно броене до изпити",
+  "short_name": "Планировчик за обратно броене",
+  "description": "Безплатен планировчик за обратно броене до изпити: въведете датата на изпита, предметите и дневните сесии, за да получите план за преговор ден по ден, който разпределя предметите справедливо по тегло на трудността до деня на изпита.",
+  "id": "/loona-study-tools/bg/exam-countdown-planner/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Балансиратор на химични уравнения",
+  "short_name": "Балансиратор на химични",
+  "description": "Безплатен инструмент за балансиране на химични уравнения: въведете уравнение като C3H8 + O2 -> CO2 + H2O и получете балансирани коефициенти с пълна проверка атом по атом.",
+  "id": "/loona-study-tools/bg/chemical-equation-balancer/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

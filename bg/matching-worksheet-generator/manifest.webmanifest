@@ -1,0 +1,29 @@
+{
+  "name": "Loona Генератор на работни листове за съчетаване",
+  "short_name": "Генератор на работни листове за",
+  "description": "Безплатен генератор на работни листове за съчетаване: въведете двойки термин = дефиниция и получете работен лист за съчетаване за печат с разбъркани дефиниции и ключ с отговори за учителя.",
+  "id": "/loona-study-tools/bg/matching-worksheet-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

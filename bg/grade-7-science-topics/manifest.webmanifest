@@ -1,0 +1,29 @@
+{
+  "name": "Loona Grade 7 Science Topics and Study Guide",
+  "short_name": "Grade 7 Science Topics and",
+  "description": "Темите по Природни науки за Клас 7 в реда на преподаване — Атоми и периодичната таблица (първи поглед), Химични реакции и словесни уравнения, Електрически вериги и още — с безплатни учебни инструменти за всяка тема.",
+  "id": "/loona-study-tools/bg/grade-7-science-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

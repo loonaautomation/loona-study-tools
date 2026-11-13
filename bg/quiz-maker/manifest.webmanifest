@@ -1,0 +1,29 @@
+{
+  "name": "Loona Създател на тестове",
+  "short_name": "Създател на тестове",
+  "description": "Безплатен създател на тестове за учители: въпроси с избираем отговор, вярно/грешно и с кратък отговор, режим на опит с незабавен резултат и преглед, тест за печат + отделен ключ с отговори, експорт/импорт JSON.",
+  "id": "/loona-study-tools/bg/quiz-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

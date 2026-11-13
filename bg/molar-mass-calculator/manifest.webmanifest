@@ -1,0 +1,29 @@
+{
+  "name": "Loona Калкулатор за моларна маса",
+  "short_name": "Калкулатор за моларна маса",
+  "description": "Безплатен калкулатор за моларна маса: въведете всяка химична формула със скоби — Ca(OH)2, Al2(SO4)3 — и получете моларната маса в g/mol с таблица за разбивка по елементи.",
+  "id": "/loona-study-tools/bg/molar-mass-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Конвертор от буквена оценка към GPA",
+  "short_name": "Конвертор от буквена оценка към",
+  "description": "Какъв GPA е A, B+ или C−? Пълната таблица от буквена оценка към точки GPA по скалата 4.0, с процентни диапазони и конвертор с едно щракване.",
+  "id": "/loona-study-tools/bg/letter-grade-to-gpa/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

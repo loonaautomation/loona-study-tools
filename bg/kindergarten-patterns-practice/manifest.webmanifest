@@ -1,0 +1,29 @@
+{
+  "name": "Loona Упражнения Модели — Детска градина",
+  "short_name": "Упражнения Модели — Детска",
+  "description": "Безплатни упражнения по модели за детска градина — повтарящи се модели с фигури и цветове. Разгледан пример, 6 въпроса за упражнение с ключ с отговори за печат, методът, често срещаната грешка и най-добър съвет.",
+  "id": "/loona-study-tools/bg/kindergarten-patterns-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
