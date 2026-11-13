@@ -1,0 +1,29 @@
+{
+  "name": "Loona Δημιουργός Κουίζ",
+  "short_name": "Δημιουργός Κουίζ",
+  "description": "Δωρεάν δημιουργός κουίζ για δασκάλους: ερωτήσεις πολλαπλής επιλογής, σωστού/λάθους και σύντομης απάντησης, λειτουργία προσπάθειας με άμεση βαθμολογία και ανασκόπηση, εκτυπώσιμο κουίζ + ξεχωριστό κλειδί απαντήσεων, εξαγωγή/εισαγωγή JSON.",
+  "id": "/loona-study-tools/el/quiz-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

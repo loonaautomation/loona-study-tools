@@ -1,0 +1,29 @@
+{
+  "name": "Loona Δημιουργός Ομάδων Τάξης",
+  "short_name": "Δημιουργός Ομάδων Τάξης",
+  "description": "Δωρεάν δημιουργός ομάδων τάξης: αποθηκεύστε λίστες τάξης στο πρόγραμμα περιήγησής σας και μετά χωρίστε μαθητές σε ισορροπημένες τυχαίες ομάδες κατά μέγεθος ομάδας, πλήθος ομάδων ή ζεύγη. Εκτυπώστε το αποτέλεσμα.",
+  "id": "/loona-study-tools/el/classroom-group-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Grade 6 English Topics and Study Guide",
+  "short_name": "Grade 6 English Topics and",
+  "description": "Τα θέματα Αγγλικά για την Τάξη 6 με σειρά διδασκαλίας — Ενεργητική και παθητική φωνή, Πλάγιος λόγος, Σύνθετες προτάσεις και σύνδεσμοι και πολλά άλλα — με δωρεάν εργαλεία μελέτης για κάθε θέμα.",
+  "id": "/loona-study-tools/el/grade-6-english-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

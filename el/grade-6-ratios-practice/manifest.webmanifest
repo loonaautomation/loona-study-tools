@@ -1,0 +1,29 @@
+{
+  "name": "Loona Εξάσκηση Λόγοι και Αναλογίες — Τάξη 6",
+  "short_name": "Εξάσκηση Λόγοι και Αναλογίες — Τάξη 6",
+  "description": "Δωρεάν εξάσκηση λόγοι και αναλογίες για την τάξη 6 — εισαγωγή στους λόγους και απλοποίησή τους. Ένα λυμένο παράδειγμα, 6 ερωτήσεις εξάσκησης με εκτυπώσιμο κλειδί απαντήσεων, η μέθοδος, το συνηθισμένο λάθος και μια κορυφαία συμβουλή.",
+  "id": "/loona-study-tools/el/grade-6-ratios-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

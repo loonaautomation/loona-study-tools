@@ -1,0 +1,29 @@
+{
+  "name": "Loona Παιχνίδι Αναγραμματισμών",
+  "short_name": "Παιχνίδι Αναγραμματισμών",
+  "description": "Δωρεάν παιχνίδι αναγραμματισμών: οι λέξεις σας ανακατεύονται γράμμα προς γράμμα· οι μαθητές χρησιμοποιούν την ένδειξη για να ξεμπερδέψουν κάθε λέξη. Άμεσοι έλεγχοι και τελική βαθμολογία.",
+  "id": "/loona-study-tools/el/anagram-game/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

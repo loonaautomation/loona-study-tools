@@ -1,0 +1,29 @@
+{
+  "name": "Loona India CGPA to Percentage",
+  "short_name": "India CGPA to Percentage",
+  "description": "Μετατρέψτε ινδικό CGPA 10 βαθμών σε ποσοστό με τον τύπο CBSE (× 9.5) και τις παραλλαγές που χρησιμοποιούν τα ινδικά πανεπιστήμια — (CGPA − 0.5) × 10 και × 10 — με πλήρη πίνακα.",
+  "id": "/loona-study-tools/el/india-cgpa-to-percentage/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

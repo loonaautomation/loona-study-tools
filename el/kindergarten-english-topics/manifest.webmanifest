@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kindergarten English Topics and Study",
+  "short_name": "Kindergarten English Topics and",
+  "description": "Τα θέματα Αγγλικών για το νηπιαγωγείο σε σειρά διδασκαλίας — Ονόματα και ήχοι γραμμάτων (A–Z), Ιχνηλάτηση και γραφή γραμμάτων, Ομοιοκατάληκτες λέξεις και παιδικά τραγουδάκια και άλλα — με δωρεάν εργαλεία μελέτης για κάθε θέμα.",
+  "id": "/loona-study-tools/el/kindergarten-english-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Διαδραστικός Περιοδικός Πίνακας",
+  "short_name": "Διαδραστικός Περιοδικός Πίνακας",
+  "description": "Δωρεάν διαδραστικός περιοδικός πίνακας: και τα 118 στοιχεία με χρωματική κωδικοποίηση ανά κατηγορία. Κάντε κλικ σε οποιοδήποτε στοιχείο για τον ατομικό αριθμό, τη μάζα, την ομάδα, την περίοδο και την κατηγορία του.",
+  "id": "/loona-study-tools/el/periodic-table/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Εξισορροπητής Χημικών Εξισώσεων",
+  "short_name": "Εξισορροπητής Χημικών Εξισώσεων",
+  "description": "Δωρεάν εξισορροπητής χημικών εξισώσεων: εισαγάγετε μια εξίσωση όπως C3H8 + O2 -> CO2 + H2O και λάβετε ισοσταθμισμένους συντελεστές με πλήρη έλεγχο άτομο προς άτομο.",
+  "id": "/loona-study-tools/el/chemical-equation-balancer/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

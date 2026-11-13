@@ -1,0 +1,29 @@
+{
+  "name": "Loona Γεννήτρια Sudoku",
+  "short_name": "Γεννήτρια Sudoku",
+  "description": "Δωρεάν γεννήτρια Sudoku: εκτυπώσιμα παζλ Sudoku 4x4, 6x6 και 9x9 σε τρεις δυσκολίες, κάθε παζλ επαληθευμένο ότι έχει ακριβώς μία λύση, με ξεχωριστή σελίδα λύσης.",
+  "id": "/loona-study-tools/el/sudoku-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Τυχαία Επιλογή Ονόματος",
+  "short_name": "Τυχαία Επιλογή Ονόματος",
+  "description": "Δωρεάν τυχαία επιλογή ονόματος για δασκάλους: επικολλήστε μια λίστα τάξης και διαλέξτε μαθητές δίκαια τυχαία, με λειτουργία χωρίς επανάληψη ώστε όλοι να πάρουν σειρά πριν επαναληφθεί οποιοσδήποτε.",
+  "id": "/loona-study-tools/el/random-name-picker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

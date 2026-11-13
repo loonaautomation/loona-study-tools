@@ -1,0 +1,29 @@
+{
+  "name": "Loona Γεννήτρια Λαβυρίνθων",
+  "short_name": "Γεννήτρια Λαβυρίνθων",
+  "description": "Δωρεάν γεννήτρια λαβυρίνθων: εκτυπώσιμοι λαβύρινθοι σε τέσσερα επίπεδα δυσκολίας (8x8 έως 26x26), δημιουργημένοι φρέσκοι κάθε φορά, με προαιρετικό κόκκινο μονοπάτι λύσης για έλεγχο.",
+  "id": "/loona-study-tools/el/maze-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

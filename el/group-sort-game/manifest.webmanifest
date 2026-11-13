@@ -1,0 +1,29 @@
+{
+  "name": "Loona Παιχνίδι Ταξινόμησης σε Ομάδες",
+  "short_name": "Παιχνίδι Ταξινόμησης σε Ομάδες",
+  "description": "Δωρεάν παιχνίδι ταξινόμησης σε ομάδες για τάξεις: ορίστε κατηγορίες και στοιχεία, οι μαθητές πατούν στοιχεία στις σωστές ομάδες και λαμβάνουν άμεση βαθμολογία με διορθώσεις.",
+  "id": "/loona-study-tools/el/group-sort-game/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

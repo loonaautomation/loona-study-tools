@@ -1,0 +1,29 @@
+{
+  "name": "Loona Εξάσκηση Μετρήσεις — Τάξη 2",
+  "short_name": "Εξάσκηση Μετρήσεις — Τάξη 2",
+  "description": "Δωρεάν εξάσκηση μετρήσεις για την τάξη 2 — μέτρηση με εκατοστά και μέτρα. Ένα λυμένο παράδειγμα, 6 ερωτήσεις εξάσκησης με εκτυπώσιμο κλειδί απαντήσεων, η μέθοδος, το συνηθισμένο λάθος και μια κορυφαία συμβουλή.",
+  "id": "/loona-study-tools/el/grade-2-measurement-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

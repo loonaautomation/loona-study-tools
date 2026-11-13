@@ -1,0 +1,29 @@
+{
+  "name": "Loona Γεννήτρια Ετικετών Ονομάτων",
+  "short_name": "Γεννήτρια Ετικετών Ονομάτων",
+  "description": "Δωρεάν γεννήτρια ετικετών ονομάτων: επικολλήστε μια λίστα τάξης και εκτυπώστε τακτοποιημένες ετικέτες ονομάτων με υπότιτλο τάξης/σχολείου — για πρώτες ημέρες, εκδρομές, βραδιές γονέων και ομαδική εργασία.",
+  "id": "/loona-study-tools/el/name-tags-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

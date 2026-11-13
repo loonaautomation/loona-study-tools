@@ -1,0 +1,29 @@
+{
+  "name": "Loona Υπολογιστής SGPA σε CGPA",
+  "short_name": "Υπολογιστής SGPA σε CGPA",
+  "description": "Συνδυάστε τα SGPA εξαμήνων σε ένα CGPA με τον σωστό τρόπο: τον σταθμισμένο μέσο όρο με πιστωτικές μονάδες, όχι έναν απλό μέσο. Προσθέστε τα εξάμηνά σας με τις μονάδες τους.",
+  "id": "/loona-study-tools/el/sgpa-to-cgpa-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Δημιουργός Καρτών Επανάληψης",
+  "short_name": "Δημιουργός Καρτών Επανάληψης",
+  "description": "Δωρεάν δημιουργός καρτών επανάληψης: δημιουργήστε τράπουλες, μελετήστε με κάρτες αναστροφής, ανακάτεμα και παρακολούθηση ξέρω/δεν-ξέρω. Εισαγωγή/εξαγωγή CSV &amp; JSON, εκτύπωση καρτών. Χωρίς εγγραφή, αποθηκευμένες στη συσκευή σας.",
+  "id": "/loona-study-tools/el/flashcards/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

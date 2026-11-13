@@ -1,0 +1,29 @@
+{
+  "name": "Loona CGPA to Percentage on the 5.0 Scale",
+  "short_name": "CGPA to Percentage on the 5.0",
+  "description": "Μετατρέψτε CGPA κλίμακας 5.0 σε ποσοστό (CGPA ÷ 5 × 100) με πλήρη πίνακα και τις σελίδες ζωνών κατηγοριών για τη Νιγηρία και το Μπανγκλαντές όπου οι ζώνες έχουν μεγαλύτερη σημασία από τα ποσοστά.",
+  "id": "/loona-study-tools/el/cgpa-5-scale-to-percentage/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Εξάσκηση Άλγεβρα — Τάξη 7",
+  "short_name": "Εξάσκηση Άλγεβρα — Τάξη 7",
+  "description": "Δωρεάν εξάσκηση άλγεβρα για την τάξη 7 — επίλυση εξισώσεων ενός και δύο βημάτων. Ένα λυμένο παράδειγμα, 6 ερωτήσεις εξάσκησης με εκτυπώσιμο κλειδί απαντήσεων, η μέθοδος, το συνηθισμένο λάθος και μια κορυφαία συμβουλή.",
+  "id": "/loona-study-tools/el/grade-7-algebra-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

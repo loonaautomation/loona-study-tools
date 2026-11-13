@@ -1,0 +1,29 @@
+{
+  "name": "Loona Παιχνίδι Αντιστοίχισης Ζευγών",
+  "short_name": "Παιχνίδι Αντιστοίχισης Ζευγών",
+  "description": "Δωρεάν παιχνίδι μνήμης αντιστοίχισης ζευγών: εισαγάγετε ζεύγη όρος = ορισμός και παίξτε αναστροφή-και-ταιρίασμα με παρακολούθηση κινήσεων και χρόνου. Εξαιρετικό για λεξιλόγιο και επανάληψη.",
+  "id": "/loona-study-tools/el/matching-pairs-game/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Δημιουργός Διαγράμματος Θέσεων",
+  "short_name": "Δημιουργός Διαγράμματος Θέσεων",
+  "description": "Δωρεάν δημιουργός διαγράμματος θέσεων: χτίστε ένα πλέγμα θρανίων, κάντε κλικ για να τοποθετήσετε μαθητές, κλειδώστε θέσεις που δεν πρέπει να κινηθούν, ανακατέψτε όλους τους άλλους και εκτυπώστε το διάγραμμα.",
+  "id": "/loona-study-tools/el/seating-chart-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

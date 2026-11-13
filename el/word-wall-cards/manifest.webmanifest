@@ -1,0 +1,29 @@
+{
+  "name": "Loona Γεννήτρια Καρτών Τοίχου Λέξεων",
+  "short_name": "Γεννήτρια Καρτών Τοίχου Λέξεων",
+  "description": "Δωρεάν γεννήτρια καρτών τοίχου λέξεων: πληκτρολογήστε μια λίστα λέξεων και λάβετε μεγάλες, έντονες εκτυπώσιμες κάρτες τοίχου λέξεων σε τρία μεγέθη για προβολές τάξης και γωνιές ανάγνωσης.",
+  "id": "/loona-study-tools/el/word-wall-cards/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

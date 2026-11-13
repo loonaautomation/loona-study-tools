@@ -1,0 +1,29 @@
+{
+  "name": "Loona Κουίζ Λεξιλογίου",
+  "short_name": "Κουίζ Λεξιλογίου",
+  "description": "Δωρεάν κουίζ λεξιλογίου: 20 αγγλικές λέξεις με τέσσερις επιλογές σημασίας η καθεμία, από συνηθισμένες σχολικές λέξεις έως πλουσιότερο ακαδημαϊκό λεξιλόγιο. Άμεση βαθμολογία και ανασκόπηση.",
+  "id": "/loona-study-tools/el/vocabulary-quiz/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

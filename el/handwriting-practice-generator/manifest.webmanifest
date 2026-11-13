@@ -1,0 +1,29 @@
+{
+  "name": "Loona Γεννήτρια Εξάσκησης Γραφής",
+  "short_name": "Γεννήτρια Εξάσκησης Γραφής",
+  "description": "Δωρεάν γεννήτρια εξάσκησης γραφής: εκτυπώσιμα φύλλα ιχνηλάτησης για το αλφάβητο, κεφαλαία, μικρά, αριθμούς και τις δικές σας λέξεις ή προτάσεις, με οδηγούς τεσσάρων γραμμών με ρίγες.",
+  "id": "/loona-study-tools/el/handwriting-practice-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

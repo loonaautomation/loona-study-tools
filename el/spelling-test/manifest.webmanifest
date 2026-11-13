@@ -1,0 +1,29 @@
+{
+  "name": "Loona Τεστ Ορθογραφίας",
+  "short_name": "Τεστ Ορθογραφίας",
+  "description": "Δωρεάν τεστ ορθογραφίας: το πρόγραμμα περιήγησης διαβάζει κάθε λέξη φωναχτά, εσείς πληκτρολογείτε την ορθογραφία και λαμβάνετε άμεση βαθμολογία με ανασκόπηση των λέξεων που χάθηκαν. Ενσωματωμένες λίστες ανά ηλικία συν τις δικές σας λίστες λέξεων.",
+  "id": "/loona-study-tools/el/spelling-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
