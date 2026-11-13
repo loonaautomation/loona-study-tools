@@ -1,0 +1,29 @@
+{
+  "name": "Loona Lukunopeustesti",
+  "short_name": "Lukunopeustesti",
+  "description": "Ilmainen lukunopeustesti: lue ajastettu tekstikatkelma (3 vaihtoehtoa, 400-600 sanaa), vastaa ymmärtämiskysymyksiin ja saat lukunopeutesi WPM:nä sekä rehellisen oppaan hyviin lukunopeuksiin iän mukaan.",
+  "id": "/loona-study-tools/fi/reading-speed-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

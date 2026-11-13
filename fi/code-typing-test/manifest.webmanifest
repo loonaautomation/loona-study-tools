@@ -1,0 +1,29 @@
+{
+  "name": "Loona Koodin kirjoitustesti",
+  "short_name": "Koodin kirjoitustesti",
+  "description": "Ilmainen koodin kirjoitustesti: kirjoita aitoja JavaScript-, Python- ja SQL-katkelmia täsmällisesti — sulkeet, symbolit ja sisennys pisteytetään — tarkkuudella, merkeillä minuutissa ja WPM:llä.",
+  "id": "/loona-study-tools/fi/code-typing-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

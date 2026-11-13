@@ -1,0 +1,29 @@
+{
+  "name": "Loona Visuaalisen aikataulun rakentaja",
+  "short_name": "Visuaalisen aikataulun rakentaja",
+  "description": "Ilmainen visuaalisen aikataulun rakentaja: luo tulostettava kuva-aikataulu koulupäivästä ajoilla, kuvakkeilla ja toiminnoilla — ihanteellinen pienille lapsille ja erityistukeen.",
+  "id": "/loona-study-tools/fi/visual-schedule-builder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Harjoittele luokan ja aiheen mukaan",
+  "short_name": "Harjoittele luokan ja aiheen",
+  "description": "Yksi hakemisto kaikille luokka- ja aiheharjoitussivuille (esiopetuksesta 8. luokkaan), aineoppaille, Pakistanin lautakuntien koeoppaille luokille 9–12 ja CGPA-muuntimille Loona Study Toolsissa.",
+  "id": "/loona-study-tools/fi/grade-topic-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

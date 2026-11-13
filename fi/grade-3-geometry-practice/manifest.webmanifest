@@ -1,0 +1,29 @@
+{
+  "name": "Loona Geometria -harjoitukset – 3. luokka",
+  "short_name": "Geometria -harjoitukset – 3.",
+  "description": "Ilmaiset 3. luokan geometriaharjoitukset — nelikulmiot ja niiden ominaisuudet. Ratkaistu esimerkki, 6 harjoituskysymystä tulostettavine vastausavaimineen, menetelmä, yleisin virhe ja paras vinkki.",
+  "id": "/loona-study-tools/fi/grade-3-geometry-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

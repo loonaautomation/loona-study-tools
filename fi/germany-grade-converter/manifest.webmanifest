@@ -1,0 +1,29 @@
+{
+  "name": "Loona Germany Grade Converter",
+  "short_name": "Germany Grade Converter",
+  "description": "Muunna ulkomaiset prosentti- tai GPA-arvosanat Saksan 1.0–5.0-asteikolle Saksan yliopistojen käyttämällä muunnetulla baijerilaisella kaavalla ja muunna saksalaiset arvosanat takaisin.",
+  "id": "/loona-study-tools/fi/germany-grade-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

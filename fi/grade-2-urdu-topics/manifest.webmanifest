@@ -1,0 +1,29 @@
+{
+  "name": "Loona Grade 2 Urdu Topics and Study Guide",
+  "short_name": "Grade 2 Urdu Topics and Study",
+  "description": "Urdun aiheet 2. luokalle opetusjärjestyksessä — Lukemisen sujuvuus, Ism, fail ja harf (ensimmäinen katsaus kielioppiin), Wahid ja jama (yksikkö ja monikko, perusteet) ja paljon muuta — sekä ilmaiset opiskelutyökalut jokaiseen aiheeseen.",
+  "id": "/loona-study-tools/fi/grade-2-urdu-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

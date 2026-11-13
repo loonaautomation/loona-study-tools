@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kokonaisluvut -harjoitukset – 8. luokka",
+  "short_name": "Kokonaisluvut -harjoitukset – 8. luokka",
+  "description": "Ilmaiset 8. luokan kokonaisluvutharjoitukset — kokonaislukujen kertominen ja jakaminen (kertaus). Ratkaistu esimerkki, 6 harjoituskysymystä tulostettavine vastausavaimineen, menetelmä, yleisin virhe ja paras vinkki.",
+  "id": "/loona-study-tools/fi/grade-8-integers-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

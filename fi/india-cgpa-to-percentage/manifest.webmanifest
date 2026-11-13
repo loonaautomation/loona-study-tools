@@ -1,0 +1,29 @@
+{
+  "name": "Loona India CGPA to Percentage",
+  "short_name": "India CGPA to Percentage",
+  "description": "Muunna Intian 10 pisteen CGPA prosenteiksi CBSE-kaavalla (× 9.5) ja Intian yliopistojen käyttämillä muunnelmilla — (CGPA − 0.5) × 10 ja × 10 — täydellisellä taulukolla.",
+  "id": "/loona-study-tools/fi/india-cgpa-to-percentage/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,452 @@
+[
+ {
+  "n": "Muistikorttigeneraattori",
+  "u": "https://loonaautomation.github.io/loona-study-tools/fi/flashcards/",
+  "s": "Loona Study Tools",
+  "d": "Rakenna muistikorttipakkoja, opiskele kääntökorteilla ja sekoituksella, seuraa osaamistasi ja vie tai tulosta korttisi.",
+  "k": "flashcards maker flashcards rakenna muistikorttipakkoja opiskele kääntökorteilla ja sekoituksella seuraa osaamistasi ja vie tai tulosta korttisi",
+  "p": 0,
+  "c": "Tool"
+ },
+ {
+  "n": "Tietovisageneraattori",
+  "u": "https://loonaautomation.github.io/loona-study-tools/fi/quiz-maker/",
+  "s": "Loona Study Tools",
+  "d": "Opettajat rakentavat visoja monivalinnoilla, tosi/epätosi-kysymyksillä ja lyhyillä vastauksilla — oppilaat yrittävät niitä välittömillä pisteillä ja täydellä vastausten katsauksella.",
+  "k": "quiz maker quiz maker opettajat rakentavat visoja monivalinnoilla tosi epätosi kysymyksillä ja lyhyillä vastauksilla oppilaat yrittävät niitä välittömillä pisteillä ja täydellä vastausten katsauksella",
+  "p": 1,
+  "c": "Tool"
+ },
+ {
+  "n": "Practice by Grade & Topic",
+  "u": "https://loonaautomation.github.io/loona-study-tools/fi/grade-topic-practice/",
+  "s": "Loona Study Tools",
+  "d": "196 uutta sivua: ratkaistuja esimerkkejä ja harjoituskysymyksiä jokaiselle luokalle ja matematiikan aiheelle, aineoppaat luonnontieteeseen, englantiin, yhteiskuntaoppiin ja urduun, Pakistanin lautakuntien koeoppaat luokille 9–12 sekä CGPA-muuntimet kaikille tärkeimmille arvosana-asteikoille.",
+  "k": "practice by grade topic grade topic practice 196 uutta sivua ratkaistuja esimerkkejä ja harjoituskysymyksiä jokaiselle luokalle ja matematiikan aiheelle aineoppaat luonnontieteeseen englantiin yhteiskuntaoppiin ja urduun pakistanin lautakuntien koeoppaat luokille 9 12 sekä cgpa muuntimet kaikille tärkeimmille arvosana asteikoille",
+  "p": 102,
+  "c": "Tool"
+ },
+ {
+  "n": "Matematiikan tehtävägeneraattori",
+  "u": "https://loonaautomation.github.io/loona-study-tools/fi/math-worksheet-generator/",
+  "s": "Loona Study Tools",
+  "d": "Luo tulostettavia matematiikan tehtäväpapereita — yhteen-, vähennys-, kerto-, jako-, murtoluku- ja desimaalitehtäviä — vastaavalla vastausavaimella.",
+  "k": "math worksheet generator math worksheet generator luo tulostettavia matematiikan tehtäväpapereita yhteen vähennys kerto jako murtoluku ja desimaalitehtäviä vastaavalla vastausavaimella",
+  "p": 2,
+  "c": "Tool"
+ },
+ {
+  "n": "Lukunopeustesti",
+  "u": "https://loonaautomation.github.io/loona-study-tools/fi/reading-speed-test/",
+  "s": "Loona Study Tools",
+  "d": "Lue ajoitettu katkelma, vastaa ymmärryskysymyksiin ja saat todellisen lukunopeutesi sanoina minuutissa (WPM).",
+  "k": "reading speed test reading speed test lue ajoitettu katkelma vastaa ymmärryskysymyksiin ja saat todellisen lukunopeutesi sanoina minuutissa wpm",
+  "p": 3,
+  "c": "Tool"
+ },
+ {
+  "n": "Opiskeluaikataulun suunnittelija",
+  "u": "https://loonaautomation.github.io/loona-study-tools/fi/study-timetable-planner/",
+  "s": "Loona Study Tools",
+  "d": "Syötä aineesi, päivittäiset tuntisi ja koepäiväsi ja saat tasapainoisen viikoittaisen opiskeluaikataulun, jota voit muokata ja tulostaa.",
+  "k": "study timetable planner study timetable planner syötä aineesi päivittäiset tuntisi ja koepäiväsi ja saat tasapainoisen viikoittaisen opiskeluaikataulun jota voit muokata ja tulostaa",
+  "p": 4,
+  "c": "Tool"
+ },
+ {
+  "n": "Kertotauluharjoitukset",
+  "u": "https://loonaautomation.github.io/loona-study-tools/fi/multiplication-tables-practice/",
+  "s": "Loona Study Tools",
+  "d": "Harjoittele kertotauluja ajastetuilla harjoituskierroksilla, välittömällä tarkistuksella ja tulostettavalla kertotaulukolla 12 × 12 asti.",
+  "k": "multiplication tables practice multiplication tables practice harjoittele kertotauluja ajastetuilla harjoituskierroksilla välittömällä tarkistuksella ja tulostettavalla kertotaulukolla 12 12 asti",
+  "p": 106,
+  "c": "Tool"
+ },
+ {
+  "n": "Oikeinkirjoitustesti",
+  "u": "https://loonaautomation.github.io/loona-study-tools/fi/spelling-test/",
+  "s": "Loona Study Tools",
+  "d": "Tietokone lukee jokaisen sanan ääneen — sinä kirjoitat oikeinkirjoituksen. Välitön pistemäärä ja katsaus jokaiseen ohi menneeseen sanaan.",
+  "k": "spelling test spelling test tietokone lukee jokaisen sanan ääneen sinä kirjoitat oikeinkirjoituksen välitön pistemäärä ja katsaus jokaiseen ohi menneeseen sanaan",
+  "p": 5,
+  "c": "Tool"
+ },
+ {
+  "n": "Käsialaharjoitusgeneraattori",
+  "u": "https://loonaautomation.github.io/loona-study-tools/fi/handwriting-practice-generator/",
+  "s": "Loona Study Tools",
+  "d": "Luo tulostettavia käsialaharjoitusarkkeja kirjaimille, numeroille ja omille sanoillesi, jäljennysviivoilla ja tyhjillä kopioriveillä.",
+  "k": "handwriting practice generator handwriting practice generator luo tulostettavia käsialaharjoitusarkkeja kirjaimille numeroille ja omille sanoillesi jäljennysviivoilla ja tyhjillä kopioriveillä",
+  "p": 108,
+  "c": "Tool"
+ },
+ {
+  "n": "Kokeen lähtölaskennan suunnittelija",
+  "u": "https://loonaautomation.github.io/loona-study-tools/fi/exam-countdown-planner/",
+  "s": "Loona Study Tools",
+  "d": "Syötä koepäiväsi ja aineesi ja saat päivä päivältä etenevän kertaussuunnitelman, joka jakaa aiheet reilusti jäljellä oleville päivillesi.",
+  "k": "exam countdown planner exam countdown planner syötä koepäiväsi ja aineesi ja saat päivä päivältä etenevän kertaussuunnitelman joka jakaa aiheet reilusti jäljellä oleville päivillesi",
+  "p": 109,
+  "c": "Tool"
+ },
+ {
+  "n": "Sanahaun generaattori",
+  "u": "https://loonaautomation.github.io/loona-study-tools/fi/word-search-generator/",
+  "s": "Loona Study Tools",
+  "d": "Muuta oma sanalistasi tulostettavaksi sanahakutehtäväksi erillisellä vastausavaimella, joka näyttää jokaisen sanan sijainnin.",
+  "k": "word search generator word search generator muuta oma sanalistasi tulostettavaksi sanahakutehtäväksi erillisellä vastausavaimella joka näyttää jokaisen sanan sijainnin",
+  "p": 110,
+  "c": "Tool"
+ },
+ {
+  "n": "Yhdistämistehtävien generaattori",
+  "u": "https://loonaautomation.github.io/loona-study-tools/fi/matching-worksheet-generator/",
+  "s": "Loona Study Tools",
+  "d": "Luo tulostettavia yhdistämistehtäviä — käsitteet vasemmalla, sekoitetut määritelmät oikealla — opettajan vastausavaimella.",
+  "k": "matching worksheet generator matching worksheet generator luo tulostettavia yhdistämistehtäviä käsitteet vasemmalla sekoitetut määritelmät oikealla opettajan vastausavaimella",
+  "p": 111,
+  "c": "Tool"
+ },
+ {
+  "n": "Satunnainen nimivalitsin",
+  "u": "https://loonaautomation.github.io/loona-study-tools/fi/random-name-picker/",
+  "s": "Loona Study Tools",
+  "d": "Liitä luokkalista ja valitse oppilaita reilusti satunnaisesti toistottomassa tilassa, jotta jokainen saa vuoron.",
+  "k": "random name picker random name picker liitä luokkalista ja valitse oppilaita reilusti satunnaisesti toistottomassa tilassa jotta jokainen saa vuoron",
+  "p": 112,
+  "c": "Tool"
+ },
+ {
+  "n": "Parinmuodostuspeli",
+  "u": "https://loonaautomation.github.io/loona-study-tools/fi/matching-pairs-game/",
+  "s": "Loona Study Tools",
+  "d": "Muuta mitkä tahansa termi-määritelmäparit kääntö- ja yhdistämismuistipeliksi siirtojen ja ajan seurannalla.",
+  "k": "matching pairs game matching pairs game muuta mitkä tahansa termi määritelmäparit kääntö ja yhdistämismuistipeliksi siirtojen ja ajan seurannalla",
+  "p": 113,
+  "c": "Tool"
+ },
+ {
+  "n": "Ryhmien lajittelupeli",
+  "u": "https://loonaautomation.github.io/loona-study-tools/fi/group-sort-game/",
+  "s": "Loona Study Tools",
+  "d": "Luo kategorioita ja kohteita; oppilaat lajittelevat jokaisen kohteen oikeaan ryhmään ja saavat välittömän pistemäärän.",
+  "k": "group sort game group sort game luo kategorioita ja kohteita oppilaat lajittelevat jokaisen kohteen oikeaan ryhmään ja saavat välittömän pistemäärän",
+  "p": 114,
+  "c": "Tool"
+ },
+ {
+  "n": "Lauseiden järjestelypeli",
+  "u": "https://loonaautomation.github.io/loona-study-tools/fi/unjumble-game/",
+  "s": "Loona Study Tools",
+  "d": "Lauseet sekoitetaan sana sanalta — oppilaat napauttavat sanat takaisin oikeaan järjestykseen.",
+  "k": "unjumble sentences game unjumble game lauseet sekoitetaan sana sanalta oppilaat napauttavat sanat takaisin oikeaan järjestykseen",
+  "p": 115,
+  "c": "Tool"
+ },
+ {
+  "n": "Anagrammipeli",
+  "u": "https://loonaautomation.github.io/loona-study-tools/fi/anagram-game/",
+  "s": "Loona Study Tools",
+  "d": "Sanat sekoitetaan kirjain kirjaimelta; oppilaat järjestävät ne antamasi vihjeen avulla.",
+  "k": "anagram game anagram game sanat sekoitetaan kirjain kirjaimelta oppilaat järjestävät ne antamasi vihjeen avulla",
+  "p": 116,
+  "c": "Tool"
+ },
+ {
+  "n": "Tavaa sana -peli",
+  "u": "https://loonaautomation.github.io/loona-study-tools/fi/spell-the-word/",
+  "s": "Loona Study Tools",
+  "d": "Rakenna jokainen sana napauttamalla kirjainlaattoja järjestyksessä — oikeinkirjoitusharjoitusta vihjeillä ja välittömillä tarkistuksilla.",
+  "k": "spell the word game spell the word rakenna jokainen sana napauttamalla kirjainlaattoja järjestyksessä oikeinkirjoitusharjoitusta vihjeillä ja välittömillä tarkistuksilla",
+  "p": 117,
+  "c": "Tool"
+ },
+ {
+  "n": "Hirsipuupeli",
+  "u": "https://loonaautomation.github.io/loona-study-tools/fi/hangman-game/",
+  "s": "Loona Study Tools",
+  "d": "Klassinen kirjainten arvauspeli sisäänrakennetuilla sanalistoilla kouluaineisiin tai omalla sanalistallasi.",
+  "k": "hangman game hangman game klassinen kirjainten arvauspeli sisäänrakennetuilla sanalistoilla kouluaineisiin tai omalla sanalistallasi",
+  "p": 118,
+  "c": "Tool"
+ },
+ {
+  "n": "Ristikkogeneraattori",
+  "u": "https://loonaautomation.github.io/loona-study-tools/fi/crossword-generator/",
+  "s": "Loona Study Tools",
+  "d": "Syötä sanat ja vihjeet ja luo aito risteävä sanaristikko — tulostettava, vastausavaimella.",
+  "k": "crossword generator crossword generator syötä sanat ja vihjeet ja luo aito risteävä sanaristikko tulostettava vastausavaimella",
+  "p": 119,
+  "c": "Tool"
+ },
+ {
+  "n": "Bingokorttigeneraattori",
+  "u": "https://loonaautomation.github.io/loona-study-tools/fi/bingo-card-generator/",
+  "s": "Loona Study Tools",
+  "d": "Luo yksilöllisiä tulostettavia sanastobingokortteja koko luokalle sekä sekoitettu huutolista.",
+  "k": "bingo card generator bingo card generator luo yksilöllisiä tulostettavia sanastobingokortteja koko luokalle sekä sekoitettu huutolista",
+  "p": 120,
+  "c": "Tool"
+ },
+ {
+  "n": "Nimettyjen kaavioiden tekijä",
+  "u": "https://loonaautomation.github.io/loona-study-tools/fi/labelled-diagram-maker/",
+  "s": "Loona Study Tools",
+  "d": "Lataa kaavio, kiinnitä siihen nimiä, tulosta nimetty tai tyhjä versio ja pidä nimivisa.",
+  "k": "labelled diagram maker labelled diagram maker lataa kaavio kiinnitä siihen nimiä tulosta nimetty tai tyhjä versio ja pidä nimivisa",
+  "p": 121,
+  "c": "Tool"
+ },
+ {
+  "n": "Satataulu",
+  "u": "https://loonaautomation.github.io/loona-study-tools/fi/hundreds-chart/",
+  "s": "Loona Study Tools",
+  "d": "Vuorovaikutteinen, tulostettava 1–100-taulukko parillisten/parittomien ja kerrannaisten korostuksilla sekä puuttuvien lukujen harjoitustila.",
+  "k": "hundreds chart hundreds chart vuorovaikutteinen tulostettava 1 100 taulukko parillisten parittomien ja kerrannaisten korostuksilla sekä puuttuvien lukujen harjoitustila",
+  "p": 122,
+  "c": "Tool"
+ },
+ {
+  "n": "Sanaseinäkorttien generaattori",
+  "u": "https://loonaautomation.github.io/loona-study-tools/fi/word-wall-cards/",
+  "s": "Loona Study Tools",
+  "d": "Muuta sanalistat suuriksi, lihavoiduiksi, tulostettaviksi sanaseinäkorteiksi luokkahuoneen näytteille.",
+  "k": "word wall cards generator word wall cards muuta sanalistat suuriksi lihavoiduiksi tulostettaviksi sanaseinäkorteiksi luokkahuoneen näytteille",
+  "p": 123,
+  "c": "Tool"
+ },
+ {
+  "n": "Sudokugeneraattori",
+  "u": "https://loonaautomation.github.io/loona-study-tools/fi/sudoku-generator/",
+  "s": "Loona Study Tools",
+  "d": "Luo tulostettavia Sudoku-tehtäviä — 4×4, 6×6 ja 9×9 — yksilöllisillä ratkaisuilla ja erillisellä ratkaisusivulla.",
+  "k": "sudoku generator sudoku generator luo tulostettavia sudoku tehtäviä 4 4 6 6 ja 9 9 yksilöllisillä ratkaisuilla ja erillisellä ratkaisusivulla",
+  "p": 124,
+  "c": "Tool"
+ },
+ {
+  "n": "Sokkelogeneraattori",
+  "u": "https://loonaautomation.github.io/loona-study-tools/fi/maze-generator/",
+  "s": "Loona Study Tools",
+  "d": "Luo tulostettavia sokkeloita neljällä vaikeustasolla, valinnaisella ratkaisupolulla.",
+  "k": "maze generator maze generator luo tulostettavia sokkeloita neljällä vaikeustasolla valinnaisella ratkaisupolulla",
+  "p": 125,
+  "c": "Tool"
+ },
+ {
+  "n": "Väritä numeron mukaan -generaattori",
+  "u": "https://loonaautomation.github.io/loona-study-tools/fi/colour-by-number-generator/",
+  "s": "Loona Study Tools",
+  "d": "Luo tulostettava väritä numeron mukaan -mosaiikki väriavaimella ja värillisellä vastauskuvalla.",
+  "k": "colour by number generator colour by number generator luo tulostettava väritä numeron mukaan mosaiikki väriavaimella ja värillisellä vastauskuvalla",
+  "p": 126,
+  "c": "Tool"
+ },
+ {
+  "n": "Tulostettavan paperin generaattori",
+  "u": "https://loonaautomation.github.io/loona-study-tools/fi/printable-paper-generator/",
+  "s": "Loona Study Tools",
+  "d": "Tulosta ruutupaperia, pisteruudukkopaperia, isometrista paperia ja käsialaharjoituspaperia tarkkoina kokoina.",
+  "k": "printable paper generator printable paper generator tulosta ruutupaperia pisteruudukkopaperia isometrista paperia ja käsialaharjoituspaperia tarkkoina kokoina",
+  "p": 127,
+  "c": "Tool"
+ },
+ {
+  "n": "Oikeinkirjoitustehtävien generaattori",
+  "u": "https://loonaautomation.github.io/loona-study-tools/fi/spelling-worksheet-generator/",
+  "s": "Loona Study Tools",
+  "d": "Yhdestä oikeinkirjoituslistasta: testiarkki, sanojen sekoituksia, puuttuvien kirjainten harjoitusta ja aakkosjärjestys — vastausavaimella.",
+  "k": "spelling worksheet generator spelling worksheet generator yhdestä oikeinkirjoituslistasta testiarkki sanojen sekoituksia puuttuvien kirjainten harjoitusta ja aakkosjärjestys vastausavaimella",
+  "p": 128,
+  "c": "Tool"
+ },
+ {
+  "n": "Luokan ajastimet ja koeajastin",
+  "u": "https://loonaautomation.github.io/loona-study-tools/fi/classroom-timers/",
+  "s": "Loona Study Tools",
+  "d": "Suurinäyttöinen lähtölaskenta-ajastin edistymisrenkaalla, koeajastin, joka näyttää päättymisajan, visuaalinen palkkiajastin ja sekuntikello kierroksilla.",
+  "k": "classroom timers exam timer classroom timers suurinäyttöinen lähtölaskenta ajastin edistymisrenkaalla koeajastin joka näyttää päättymisajan visuaalinen palkkiajastin ja sekuntikello kierroksilla",
+  "p": 129,
+  "c": "Tool"
+ },
+ {
+  "n": "Luokan ryhmägeneraattori",
+  "u": "https://loonaautomation.github.io/loona-study-tools/fi/classroom-group-maker/",
+  "s": "Loona Study Tools",
+  "d": "Tallenna luokkalistasi ja jaa ne reiluihin satunnaisryhmiin tai pareihin — tasapainoiset koot, sekoita uudelleen yhdellä napsautuksella.",
+  "k": "classroom group maker classroom group maker tallenna luokkalistasi ja jaa ne reiluihin satunnaisryhmiin tai pareihin tasapainoiset koot sekoita uudelleen yhdellä napsautuksella",
+  "p": 130,
+  "c": "Tool"
+ },
+ {
+  "n": "Istumajärjestyksen tekijä",
+  "u": "https://loonaautomation.github.io/loona-study-tools/fi/seating-chart-maker/",
+  "s": "Loona Study Tools",
+  "d": "Järjestä oppilaat pulpettiruudukkoon: napsauta sijoittaaksesi, lukitse suosikkipaikat, sekoita loput ja tulosta kaavio.",
+  "k": "seating chart maker seating chart maker järjestä oppilaat pulpettiruudukkoon napsauta sijoittaaksesi lukitse suosikkipaikat sekoita loput ja tulosta kaavio",
+  "p": 131,
+  "c": "Tool"
+ },
+ {
+  "n": "Luokan tulostaulu",
+  "u": "https://loonaautomation.github.io/loona-study-tools/fi/classroom-scoreboard/",
+  "s": "Loona Study Tools",
+  "d": "Suuri, selkeä tiimipisteiden tulostaulu luokan näytölle — lisää tiimejä ja lisää tai poista pisteitä napauttamalla.",
+  "k": "classroom scoreboard classroom scoreboard suuri selkeä tiimipisteiden tulostaulu luokan näytölle lisää tiimejä ja lisää tai poista pisteitä napauttamalla",
+  "p": 132,
+  "c": "Tool"
+ },
+ {
+  "n": "Luokan melutason mittari",
+  "u": "https://loonaautomation.github.io/loona-study-tools/fi/noise-meter/",
+  "s": "Loona Study Tools",
+  "d": "Reaaliaikainen suhteellinen melutasomittari mikrofoniasi käyttäen — vihreät, keltaiset ja punaiset vyöhykkeet auttavat luokkia säätelemään itseään.",
+  "k": "classroom noise meter noise meter reaaliaikainen suhteellinen melutasomittari mikrofoniasi käyttäen vihreät keltaiset ja punaiset vyöhykkeet auttavat luokkia säätelemään itseään",
+  "p": 133,
+  "c": "Tool"
+ },
+ {
+  "n": "Nimilappugeneraattori",
+  "u": "https://loonaautomation.github.io/loona-study-tools/fi/name-tags-generator/",
+  "s": "Loona Study Tools",
+  "d": "Muuta luokkalista tulostettaviksi nimilapuiksi alaotsikkorivillä — pöydille, retkille ja ensimmäisen viikon esittelyihin.",
+  "k": "name tags generator name tags generator muuta luokkalista tulostettaviksi nimilapuiksi alaotsikkorivillä pöydille retkille ja ensimmäisen viikon esittelyihin",
+  "p": 134,
+  "c": "Tool"
+ },
+ {
+  "n": "Visuaalisen aikataulun rakentaja",
+  "u": "https://loonaautomation.github.io/loona-study-tools/fi/visual-schedule-builder/",
+  "s": "Loona Study Tools",
+  "d": "Rakenna tulostettava visuaalinen päiväaikataulu ajoilla, toiminnoilla ja kuvakuvakkeilla — ihanteellinen nuoremmille lapsille.",
+  "k": "visual schedule builder visual schedule builder rakenna tulostettava visuaalinen päiväaikataulu ajoilla toiminnoilla ja kuvakuvakkeilla ihanteellinen nuoremmille lapsille",
+  "p": 135,
+  "c": "Tool"
+ },
+ {
+  "n": "EZ-arvioija",
+  "u": "https://loonaautomation.github.io/loona-study-tools/fi/ez-grader/",
+  "s": "Loona Study Tools",
+  "d": "Klassinen opettajan arvioinnin liukuasteikko: syötä kysymysten kokonaismäärä ja väärien määrä saadaksesi prosentin ja kirjainarvosanan sekä täyden taulukon.",
+  "k": "ez grader ez grader klassinen opettajan arvioinnin liukuasteikko syötä kysymysten kokonaismäärä ja väärien määrä saadaksesi prosentin ja kirjainarvosanan sekä täyden taulukon",
+  "p": 136,
+  "c": "Tool"
+ },
+ {
+  "n": "Kokeen arvioija",
+  "u": "https://loonaautomation.github.io/loona-study-tools/fi/test-grader/",
+  "s": "Loona Study Tools",
+  "d": "Liitä vastausavain ja oppilaan vastaukset arvioidaksesi koko kokeen välittömästi, kysymys kysymykseltä.",
+  "k": "test grader test grader liitä vastausavain ja oppilaan vastaukset arvioidaksesi koko kokeen välittömästi kysymys kysymykseltä",
+  "p": 137,
+  "c": "Tool"
+ },
+ {
+  "n": "Painotetun arvosanan laskuri",
+  "u": "https://loonaautomation.github.io/loona-study-tools/fi/weighted-grade-calculator/",
+  "s": "Loona Study Tools",
+  "d": "Yhdistä kategoriapisteet (kotitehtävät, pienet kokeet, kokeet, loppukoe) niiden opetussuunnitelman painoilla kurssin arvosanaksi.",
+  "k": "weighted grade calculator weighted grade calculator yhdistä kategoriapisteet kotitehtävät pienet kokeet kokeet loppukoe niiden opetussuunnitelman painoilla kurssin arvosanaksi",
+  "p": 138,
+  "c": "Tool"
+ },
+ {
+  "n": "Loppukokeen arvosanalaskuri",
+  "u": "https://loonaautomation.github.io/loona-study-tools/fi/final-exam-calculator/",
+  "s": "Loona Study Tools",
+  "d": "Laske tarkalleen, minkä pistemäärän tarvitset loppukokeessa saavuttaaksesi tavoitekurssiarvosanasi — ja onko se mahdollista.",
+  "k": "final exam grade calculator final exam calculator laske tarkalleen minkä pistemäärän tarvitset loppukokeessa saavuttaaksesi tavoitekurssiarvosanasi ja onko se mahdollista",
+  "p": 139,
+  "c": "Tool"
+ },
+ {
+  "n": "Matematiikan perustaitojen nopeustesti",
+  "u": "https://loonaautomation.github.io/loona-study-tools/fi/math-facts-speed-test/",
+  "s": "Loona Study Tools",
+  "d": "60 sekunnin laskusprintti: niin monta oikeaa +, −, × ja ÷ -laskua kuin ehdit, tarkkuudella ja putkilla.",
+  "k": "math facts speed test math facts speed test 60 sekunnin laskusprintti niin monta oikeaa ja laskua kuin ehdit tarkkuudella ja putkilla",
+  "p": 140,
+  "c": "Tool"
+ },
+ {
+  "n": "10 näppäimen numeronäppäimistötesti",
+  "u": "https://loonaautomation.github.io/loona-study-tools/fi/ten-key-test/",
+  "s": "Loona Study Tools",
+  "d": "Tiedonsyötön nopeustesti numeronäppäimistölle: kirjoita numerosarjoja nopeasti ja tarkasti, pisteytetään näppäiminä minuutissa.",
+  "k": "10 key number pad test ten key test tiedonsyötön nopeustesti numeronäppäimistölle kirjoita numerosarjoja nopeasti ja tarkasti pisteytetään näppäiminä minuutissa",
+  "p": 141,
+  "c": "Tool"
+ },
+ {
+  "n": "Koodin kirjoitustesti",
+  "u": "https://loonaautomation.github.io/loona-study-tools/fi/code-typing-test/",
+  "s": "Loona Study Tools",
+  "d": "Kirjoita oikeita koodikatkelmia symboleilla ja sisennyksillä — mittaa koodin kirjoitusnopeutta ja symbolien tarkkuutta ohjelmoijille.",
+  "k": "code typing test code typing test kirjoita oikeita koodikatkelmia symboleilla ja sisennyksillä mittaa koodin kirjoitusnopeutta ja symbolien tarkkuutta ohjelmoijille",
+  "p": 142,
+  "c": "Tool"
+ },
+ {
+  "n": "Kielioppivisa",
+  "u": "https://loonaautomation.github.io/loona-study-tools/fi/grammar-quiz/",
+  "s": "Loona Study Tools",
+  "d": "24 kysymyksen englannin kielioppitesti — aikamuodot, artikkelit, prepositiot, kongruenssi ja välimerkit — välittömällä pistemäärällä ja selityksillä.",
+  "k": "grammar quiz grammar quiz 24 kysymyksen englannin kielioppitesti aikamuodot artikkelit prepositiot kongruenssi ja välimerkit välittömällä pistemäärällä ja selityksillä",
+  "p": 143,
+  "c": "Tool"
+ },
+ {
+  "n": "Sanastovisa",
+  "u": "https://loonaautomation.github.io/loona-study-tools/fi/vocabulary-quiz/",
+  "s": "Loona Study Tools",
+  "d": "Kaksikymmentä sanamerkityskysymystä, joissa jokaisessa neljä vaihtoehtoa — nopea, rehellinen tarkistus englannin sanastotasostasi.",
+  "k": "vocabulary quiz vocabulary quiz kaksikymmentä sanamerkityskysymystä joissa jokaisessa neljä vaihtoehtoa nopea rehellinen tarkistus englannin sanastotasostasi",
+  "p": 144,
+  "c": "Tool"
+ },
+ {
+  "n": "Vuorovaikutteinen jaksollinen järjestelmä",
+  "u": "https://loonaautomation.github.io/loona-study-tools/fi/periodic-table/",
+  "s": "Loona Study Tools",
+  "d": "Kaikki 118 alkuainetta värikoodatussa taulukossa — napsauta mitä tahansa alkuainetta nähdäksesi sen nimen, atomimassan, ryhmän, jakson ja luokan.",
+  "k": "interactive periodic table periodic table kaikki 118 alkuainetta värikoodatussa taulukossa napsauta mitä tahansa alkuainetta nähdäksesi sen nimen atomimassan ryhmän jakson ja luokan",
+  "p": 145,
+  "c": "Tool"
+ },
+ {
+  "n": "Moolimassalaskuri",
+  "u": "https://loonaautomation.github.io/loona-study-tools/fi/molar-mass-calculator/",
+  "s": "Loona Study Tools",
+  "d": "Kirjoita kemiallinen kaava — sulkeet mukaan lukien — ja saat sen moolimassan g/mol alkuainekohtaisella erittelyllä.",
+  "k": "molar mass calculator molar mass calculator kirjoita kemiallinen kaava sulkeet mukaan lukien ja saat sen moolimassan g mol alkuainekohtaisella erittelyllä",
+  "p": 146,
+  "c": "Tool"
+ },
+ {
+  "n": "Kemiallisten yhtälöiden tasapainottaja",
+  "u": "https://loonaautomation.github.io/loona-study-tools/fi/chemical-equation-balancer/",
+  "s": "Loona Study Tools",
+  "d": "Syötä tasapainottamaton yhtälö ja saat tasapainotetut kertoimet, varmistettuina atomi atomilta.",
+  "k": "chemical equation balancer chemical equation balancer syötä tasapainottamaton yhtälö ja saat tasapainotetut kertoimet varmistettuina atomi atomilta",
+  "p": 147,
+  "c": "Tool"
+ },
+ {
+  "n": "pH-laskuri",
+  "u": "https://loonaautomation.github.io/loona-study-tools/fi/ph-calculator/",
+  "s": "Loona Study Tools",
+  "d": "Muunna yksiköiden pH, pOH, [H+] ja [OH-] välillä ja laske vahvojen happo- ja emäsliuosten pH.",
+  "k": "ph calculator ph calculator muunna yksiköiden ph poh h ja oh välillä ja laske vahvojen happo ja emäsliuosten ph",
+  "p": 148,
+  "c": "Tool"
+ },
+ {
+  "n": "Arviointimatriisin tekijä",
+  "u": "https://loonaautomation.github.io/loona-study-tools/fi/rubric-maker/",
+  "s": "Loona Study Tools",
+  "d": "Rakenna tulostettava arviointimatriisi: kriteerit sivulla, neljä suoritustasoa ylhäällä, pisteet lasketaan automaattisesti.",
+  "k": "rubric maker rubric maker rakenna tulostettava arviointimatriisi kriteerit sivulla neljä suoritustasoa ylhäällä pisteet lasketaan automaattisesti",
+  "p": 149,
+  "c": "Tool"
+ }
+]

@@ -1,0 +1,29 @@
+{
+  "name": "Loona BISE Gujranwala Class 9 Guide",
+  "short_name": "BISE Gujranwala Class 9 Guide",
+  "description": "BISE Gujranwala Luokka 9: aineet ja opintolinjat, miten lautakunnan kokeet on rakennettu, sekä ilmainen valmistautumissuunnitelma opiskelutyökaluineen. Varmista koemallit lautakunnan viralliselta sivustolta.",
+  "id": "/loona-study-tools/fi/bise-gujranwala-class-9-guide/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

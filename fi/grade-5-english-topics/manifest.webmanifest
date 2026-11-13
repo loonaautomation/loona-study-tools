@@ -1,0 +1,29 @@
+{
+  "name": "Loona Grade 5 English Topics and Study Guide",
+  "short_name": "Grade 5 English Topics and",
+  "description": "Englanti-aiheet 5. luokalle opetusjärjestyksessä — Modaaliverbit ja ehtolauseet (ensimmäinen katsaus), Relatiivilauseet sanoilla who, which, that, Heittomerkit ja paljon muuta — sekä ilmaiset opiskelutyökalut jokaiseen aiheeseen.",
+  "id": "/loona-study-tools/fi/grade-5-english-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

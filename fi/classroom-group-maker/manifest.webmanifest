@@ -1,0 +1,29 @@
+{
+  "name": "Loona Luokan ryhmägeneraattori",
+  "short_name": "Luokan ryhmägeneraattori",
+  "description": "Ilmainen luokan ryhmägeneraattori: tallenna luokkalistat selaimeesi ja jaa sitten oppilaat tasapainotettuihin satunnaisryhmiin ryhmäkoon, ryhmämäärän tai parien mukaan. Tulosta tulos.",
+  "id": "/loona-study-tools/fi/classroom-group-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

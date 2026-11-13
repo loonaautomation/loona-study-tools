@@ -1,0 +1,29 @@
+{
+  "name": "Loona Sanastovisa",
+  "short_name": "Sanastovisa",
+  "description": "Ilmainen sanastovisa: 20 englannin sanaa, joilla kullakin on neljä merkitysvaihtoehtoa, yleisistä koulusanoista rikkaampaan akateemiseen sanastoon. Välitön pistemäärä ja tarkistus.",
+  "id": "/loona-study-tools/fi/vocabulary-quiz/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

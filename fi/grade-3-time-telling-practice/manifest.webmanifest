@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kellonajat -harjoitukset – 3. luokka",
+  "short_name": "Kellonajat -harjoitukset – 3.",
+  "description": "Ilmaiset 3. luokan kellonajatharjoitukset — kulunut aika ja a.m./p.m.. Ratkaistu esimerkki, 6 harjoituskysymystä tulostettavine vastausavaimineen, menetelmä, yleisin virhe ja paras vinkki.",
+  "id": "/loona-study-tools/fi/grade-3-time-telling-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

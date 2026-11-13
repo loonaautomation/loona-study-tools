@@ -1,0 +1,29 @@
+{
+  "name": "Loona Mittaaminen -harjoitukset – 4. luokka",
+  "short_name": "Mittaaminen -harjoitukset – 4.",
+  "description": "Ilmaiset 4. luokan mittaaminenharjoitukset — yksiköiden muuntaminen: km, m, cm, mm. Ratkaistu esimerkki, 6 harjoituskysymystä tulostettavine vastausavaimineen, menetelmä, yleisin virhe ja paras vinkki.",
+  "id": "/loona-study-tools/fi/grade-4-measurement-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

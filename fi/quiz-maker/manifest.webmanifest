@@ -1,0 +1,29 @@
+{
+  "name": "Loona Tietovisageneraattori",
+  "short_name": "Tietovisageneraattori",
+  "description": "Ilmainen tietovisageneraattori opettajille: monivalinta-, tosi/epätosi- ja lyhyen vastauksen kysymykset, yritystila välittömällä pistemäärällä ja tarkistuksella, tulostettava visailu + erillinen vastausavain, JSON-vienti/tuonti.",
+  "id": "/loona-study-tools/fi/quiz-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
