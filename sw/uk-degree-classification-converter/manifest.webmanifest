@@ -1,0 +1,29 @@
+{
+  "name": "Loona UK Degree Classification Converter",
+  "short_name": "UK Degree Classification",
+  "description": "First, 2:1, 2:2 au Third ya UK inamaanisha nini kwa asilimia na masharti ya takriban ya GPA ya Marekani — kwa kumbuka la uaminifu kwamba hakuna ubadilishaji rasmi wa UK-hadi-GPA uliopo.",
+  "id": "/loona-study-tools/sw/uk-degree-classification-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

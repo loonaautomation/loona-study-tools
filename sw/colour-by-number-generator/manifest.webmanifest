@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kizalishaji Rangi kwa Nambari",
+  "short_name": "Kizalishaji Rangi kwa Nambari",
+  "description": "Kizalishaji rangi kwa nambari cha bure: karatasi ya mazoezi ya mosaiki yenye nambari yenye ufunguo wa rangi sita na picha tofauti ya jibu yenye rangi. Picha mpya kila wakati.",
+  "id": "/loona-study-tools/sw/colour-by-number-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Mazoezi ya Desimali Darasa la 5",
+  "short_name": "Mazoezi ya Desimali Darasa la 5",
+  "description": "Mazoezi ya bure ya desimali darasa la 5 — kupanga na kuzungusha desimali. Mfano uliotatuliwa, maswali 6 ya mazoezi yenye ufunguo wa majibu unaoweza kuchapishwa, mbinu, kosa la kawaida na kidokezo bora.",
+  "id": "/loona-study-tools/sw/grade-5-decimals-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

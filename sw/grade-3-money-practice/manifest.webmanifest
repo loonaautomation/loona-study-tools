@@ -1,0 +1,29 @@
+{
+  "name": "Loona Mazoezi ya Pesa Darasa la 3",
+  "short_name": "Mazoezi ya Pesa Darasa la 3",
+  "description": "Mazoezi ya bure ya pesa darasa la 3 — matatizo ya maneno ya pesa: jumla, bei za kitengo, ununuzi bora. Mfano uliotatuliwa, maswali 6 ya mazoezi yenye ufunguo wa majibu unaoweza kuchapishwa, mbinu, kosa la kawaida na kidokezo bora.",
+  "id": "/loona-study-tools/sw/grade-3-money-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

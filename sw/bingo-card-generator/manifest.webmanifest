@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kizalishaji Kadi za Bingo",
+  "short_name": "Kizalishaji Kadi za Bingo",
+  "description": "Kizalishaji kadi za bingo cha bure: weka maneno 24+ na uzalishe kadi za kipekee za bingo za 5x5 zinazochapishika kwa darasa zima pamoja na orodha ya mwito iliyochanganywa. Msamiati, maneno ya kuona, nambari na zaidi.",
+  "id": "/loona-study-tools/sw/bingo-card-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

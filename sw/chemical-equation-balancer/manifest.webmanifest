@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kisawazishaji Mlinganyo wa Kikemia",
+  "short_name": "Kisawazishaji Mlinganyo wa",
+  "description": "Kisawazishaji milinganyo ya kikemia cha bure: weka mlinganyo kama C3H8 + O2 -> CO2 + H2O na upate vigawe vilivyosawazishwa kwa uhakiki kamili wa atomi kwa atomi.",
+  "id": "/loona-study-tools/sw/chemical-equation-balancer/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

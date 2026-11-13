@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kizalishaji Karatasi za Mazoezi ya Hisabati",
+  "short_name": "Kizalishaji Karatasi ya Hisabati",
+  "description": "Kizalishaji karatasi za mazoezi ya hisabati cha bure: karatasi za mazoezi za kujumlisha, kutoa, kuzidisha, kugawanya, sehemu, desimali na ugawanyaji mrefu zenye masafa ya nambari, chaguo za kupanga upya na ufunguo wa majibu unaochapishika.",
+  "id": "/loona-study-tools/sw/math-worksheet-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kizalishaji Lebo za Majina",
+  "short_name": "Kizalishaji Lebo za Majina",
+  "description": "Kizalishaji lebo za majina cha bure: bandika orodha ya darasa na uchapishe lebo nadhifu za majina zenye kichwa kidogo cha darasa/shule — kwa siku za kwanza, safari, jioni za wazazi na kazi za vikundi.",
+  "id": "/loona-study-tools/sw/name-tags-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

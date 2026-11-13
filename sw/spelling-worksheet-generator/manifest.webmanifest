@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kizalishaji Karatasi za Mazoezi ya Tahajia",
+  "short_name": "Kizalishaji Karatasi ya Tahajia",
+  "description": "Kizalishaji karatasi za mazoezi ya tahajia cha bure: kutoka orodha moja ya maneno pata mazoezi ya kutenganisha, karatasi za mazoezi za vokali zinazokosekana, mazoezi ya mpangilio wa ABC na karatasi ya jaribio la tahajia, yenye ufunguo wa majibu.",
+  "id": "/loona-study-tools/sw/spelling-worksheet-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

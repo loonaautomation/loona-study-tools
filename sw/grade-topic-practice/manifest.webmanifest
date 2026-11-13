@@ -1,0 +1,29 @@
+{
+  "name": "Loona Mazoezi kwa Darasa na Mada",
+  "short_name": "Mazoezi kwa Darasa na Mada",
+  "description": "Faharasa moja kwa kurasa zote za mazoezi ya darasa-na-mada (Chekechea hadi Darasa la 8), miongozo ya masomo, miongozo ya mitihani ya bodi ya Pakistan kwa Madarasa 9–12 na vibadilishaji CGPA kwenye Loona Study Tools.",
+  "id": "/loona-study-tools/sw/grade-topic-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

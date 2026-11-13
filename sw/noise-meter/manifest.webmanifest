@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kipima Kelele cha Darasa",
+  "short_name": "Kipima Kelele cha Darasa",
+  "description": "Kipima kelele cha darasa cha bure: upau wa kiwango cha maikrofoni wa moja kwa moja wenye kanda za kijani/ambar/kundu na kihesabu cha mfululizo wa utulivu. Onyesho la kiwango kinacholingana (si desibeli), lililochanganuliwa kwenye kifaa, halirekodiwi kamwe.",
+  "id": "/loona-study-tools/sw/noise-meter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

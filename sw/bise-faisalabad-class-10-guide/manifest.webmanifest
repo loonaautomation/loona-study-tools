@@ -1,0 +1,29 @@
+{
+  "name": "Loona BISE Faisalabad Class 10 Guide",
+  "short_name": "BISE Faisalabad Class 10 Guide",
+  "description": "BISE Faisalabad Darasa la 10: masomo na mikondo, jinsi karatasi za bodi zilivyopangwa, na mpango wa maandalizi wa bure wenye zana za masomo. Hakiki mpangilio kwenye tovuti rasmi ya bodi.",
+  "id": "/loona-study-tools/sw/bise-faisalabad-class-10-guide/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Mazoezi ya Desimali Darasa la 8",
+  "short_name": "Mazoezi ya Desimali Darasa la 8",
+  "description": "Mazoezi ya bure ya desimali darasa la 8 — desimali zinazojirudia na nambari za uwiano. Mfano uliotatuliwa, maswali 6 ya mazoezi yenye ufunguo wa majibu unaoweza kuchapishwa, mbinu, kosa la kawaida na kidokezo bora.",
+  "id": "/loona-study-tools/sw/grade-8-decimals-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

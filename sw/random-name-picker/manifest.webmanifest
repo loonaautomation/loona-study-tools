@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kichagua Jina Bila Mpangilio",
+  "short_name": "Kichagua Jina Bila Mpangilio",
+  "description": "Kichagua jina bila mpangilio cha bure kwa walimu: bandika orodha ya darasa na uchague wanafunzi kwa haki bila mpangilio, kwa hali ya kutorudia ili kila mtu apate zamu kabla ya yeyote kurudia.",
+  "id": "/loona-study-tools/sw/random-name-picker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

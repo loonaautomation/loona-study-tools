@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kipangaji Hesabu ya Kurudi Nyuma ya Mtihani",
+  "short_name": "Kipangaji Hesabu ya Kurudi",
+  "description": "Kipangaji hesabu ya kurudi nyuma ya mtihani cha bure: weka tarehe yako ya mtihani, masomo na vipindi vya kila siku ili kupata mpango wa mapitio wa siku hadi siku unaosambaza masomo kwa haki kwa uzito wa ugumu hadi siku ya mtihani.",
+  "id": "/loona-study-tools/sw/exam-countdown-planner/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

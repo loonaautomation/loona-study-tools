@@ -1,0 +1,29 @@
+{
+  "name": "Loona Chati ya Mamia",
+  "short_name": "Chati ya Mamia",
+  "description": "Chati ya mamia ya bure: chati shirikishi ya 1-100 inayochapishika yenye uakisi wa shufwa/witiri na vizidisho na hali ya mazoezi ya nambari zinazokosekana kwa hisia ya nambari.",
+  "id": "/loona-study-tools/sw/hundreds-chart/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

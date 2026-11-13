@@ -1,0 +1,29 @@
+{
+  "name": "Loona Mazoezi ya Jedwali za Kuzidisha",
+  "short_name": "Mazoezi ya Jedwali za Kuzidisha",
+  "description": "Mazoezi ya bure ya majedwali ya kuzidisha: chagua majedwali 2-12, fanya mazoezi ya mizunguko yenye muda kwa ukaguzi wa papo hapo na mapitio ya majedwali dhaifu, pamoja na chati ya kuzidisha ya 12x12 inayochapishika.",
+  "id": "/loona-study-tools/sw/multiplication-tables-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

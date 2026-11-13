@@ -1,0 +1,29 @@
+{
+  "name": "Loona Mchezo wa Kupanga Vikundi",
+  "short_name": "Mchezo wa Kupanga Vikundi",
+  "description": "Mchezo wa bure wa kupanga vikundi kwa madarasa: fafanua kategoria na vitu, wanafunzi hugusa vitu katika vikundi sahihi na kupata alama za papo hapo zenye masahihisho.",
+  "id": "/loona-study-tools/sw/group-sort-game/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

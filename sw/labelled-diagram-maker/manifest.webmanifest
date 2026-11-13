@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kitengeneza Michoro yenye Lebo",
+  "short_name": "Kitengeneza Michoro yenye Lebo",
+  "description": "Kitengeneza michoro yenye lebo cha bure: pakia mchoro, bofya ili kubandika lebo zenye nambari, chapisha matoleo yenye lebo au tupu, na wajaribu wanafunzi kuhusu lebo. Picha haiondoki kamwe kwenye kifaa chako.",
+  "id": "/loona-study-tools/sw/labelled-diagram-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

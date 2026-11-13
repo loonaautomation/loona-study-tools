@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kitengeneza Jaribio",
+  "short_name": "Kitengeneza Jaribio",
+  "description": "Kitengeneza jaribio cha bure kwa walimu: maswali ya chaguo nyingi, kweli/si kweli na majibu mafupi, hali ya kujaribu yenye alama za papo hapo na mapitio, jaribio linalochapishika + ufunguo tofauti wa majibu, utumaji/uletaaji wa JSON.",
+  "id": "/loona-study-tools/sw/quiz-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kizalishaji Labirinthi",
+  "short_name": "Kizalishaji Labirinthi",
+  "description": "Kizalishaji labirinthi cha bure: malabirinthi yanayochapishika katika viwango vinne vya ugumu (8x8 hadi 26x26), huzalishwa upya kila wakati, yenye njia nyekundu ya hiari ya suluhisho kwa ukaguzi.",
+  "id": "/loona-study-tools/sw/maze-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

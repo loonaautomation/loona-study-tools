@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kizalishaji Sudoku",
+  "short_name": "Kizalishaji Sudoku",
+  "description": "Kizalishaji Sudoku cha bure: mafumbo ya Sudoku ya 4x4, 6x6 na 9x9 yanayochapishika katika ugumu wa aina tatu, kila fumbo limethibitishwa kuwa na suluhisho moja hasa, lenye ukurasa tofauti wa suluhisho.",
+  "id": "/loona-study-tools/sw/sudoku-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

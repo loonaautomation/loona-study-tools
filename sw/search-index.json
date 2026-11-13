@@ -1,0 +1,452 @@
+[
+ {
+  "n": "Kitengeneza Kadi za Kujifunzia",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sw/flashcards/",
+  "s": "Loona Study Tools",
+  "d": "Jenga seti za kadi za kujifunzia, soma kwa kadi za kugeuza na kuchanganya, fuatilia unachojua, na usafirishe au uchapishe kadi zako.",
+  "k": "flashcards maker flashcards jenga seti za kadi za kujifunzia soma kwa kadi za kugeuza na kuchanganya fuatilia unachojua na usafirishe au uchapishe kadi zako",
+  "p": 0,
+  "c": "Tool"
+ },
+ {
+  "n": "Kitengeneza Jaribio",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sw/quiz-maker/",
+  "s": "Loona Study Tools",
+  "d": "Walimu hujenga majaribio yenye MCQ, kweli/si kweli na majibu mafupi — wanafunzi huyajaribu kwa alama za papo hapo na mapitio kamili ya majibu.",
+  "k": "quiz maker quiz maker walimu hujenga majaribio yenye mcq kweli si kweli na majibu mafupi wanafunzi huyajaribu kwa alama za papo hapo na mapitio kamili ya majibu",
+  "p": 1,
+  "c": "Tool"
+ },
+ {
+  "n": "Practice by Grade & Topic",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sw/grade-topic-practice/",
+  "s": "Loona Study Tools",
+  "d": "Kurasa 196 mpya: mifano iliyotatuliwa na maswali ya mazoezi kwa kila darasa na mada ya hisabati, miongozo ya masomo ya Sayansi, Kiingereza, Masomo ya Kijamii na Kiurdu, miongozo ya mitihani ya bodi za Pakistan kwa Madarasa ya 9–12, na vibadilishaji vya CGPA kwa kila kipimo kikuu cha upangaji daraja.",
+  "k": "practice by grade topic grade topic practice kurasa 196 mpya mifano iliyotatuliwa na maswali ya mazoezi kwa kila darasa na mada ya hisabati miongozo ya masomo ya sayansi kiingereza masomo ya kijamii na kiurdu miongozo ya mitihani ya bodi za pakistan kwa madarasa ya 9 12 na vibadilishaji vya cgpa kwa kila kipimo kikuu cha upangaji daraja",
+  "p": 102,
+  "c": "Tool"
+ },
+ {
+  "n": "Kizalishaji Karatasi za Mazoezi ya Hisabati",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sw/math-worksheet-generator/",
+  "s": "Loona Study Tools",
+  "d": "Zalisha karatasi za mazoezi ya hisabati zinazochapishika — kujumlisha, kutoa, kuzidisha, kugawanya, sehemu na desimali — zenye ufunguo wa majibu unaolingana.",
+  "k": "math worksheet generator math worksheet generator zalisha karatasi za mazoezi ya hisabati zinazochapishika kujumlisha kutoa kuzidisha kugawanya sehemu na desimali zenye ufunguo wa majibu unaolingana",
+  "p": 2,
+  "c": "Tool"
+ },
+ {
+  "n": "Jaribio la Kasi ya Kusoma",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sw/reading-speed-test/",
+  "s": "Loona Study Tools",
+  "d": "Soma kifungu chenye muda, jibu maswali ya ufahamu na upate kasi yako halisi ya kusoma kwa maneno kwa dakika (WPM).",
+  "k": "reading speed test reading speed test soma kifungu chenye muda jibu maswali ya ufahamu na upate kasi yako halisi ya kusoma kwa maneno kwa dakika wpm",
+  "p": 3,
+  "c": "Tool"
+ },
+ {
+  "n": "Kipangaji Ratiba ya Masomo",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sw/study-timetable-planner/",
+  "s": "Loona Study Tools",
+  "d": "Weka masomo yako, saa za kila siku na tarehe ya mtihani na upate ratiba ya masomo ya kila wiki yenye uwiano unayoweza kuhariri na kuchapisha.",
+  "k": "study timetable planner study timetable planner weka masomo yako saa za kila siku na tarehe ya mtihani na upate ratiba ya masomo ya kila wiki yenye uwiano unayoweza kuhariri na kuchapisha",
+  "p": 4,
+  "c": "Tool"
+ },
+ {
+  "n": "Mazoezi ya Jedwali za Kuzidisha",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sw/multiplication-tables-practice/",
+  "s": "Loona Study Tools",
+  "d": "Fanya mazoezi ya majedwali ya kuzidisha kwa mizunguko ya mazoezi yenye muda, ukaguzi wa papo hapo na chati ya kuzidisha inayochapishika hadi 12 × 12.",
+  "k": "multiplication tables practice multiplication tables practice fanya mazoezi ya majedwali ya kuzidisha kwa mizunguko ya mazoezi yenye muda ukaguzi wa papo hapo na chati ya kuzidisha inayochapishika hadi 12 12",
+  "p": 106,
+  "c": "Tool"
+ },
+ {
+  "n": "Jaribio la Tahajia",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sw/spelling-test/",
+  "s": "Loona Study Tools",
+  "d": "Kompyuta husoma kila neno kwa sauti — unaandika tahajia. Alama za papo hapo na mapitio ya kila neno ulilokosa.",
+  "k": "spelling test spelling test kompyuta husoma kila neno kwa sauti unaandika tahajia alama za papo hapo na mapitio ya kila neno ulilokosa",
+  "p": 5,
+  "c": "Tool"
+ },
+ {
+  "n": "Kizalishaji Mazoezi ya Mwandiko",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sw/handwriting-practice-generator/",
+  "s": "Loona Study Tools",
+  "d": "Tengeneza karatasi za mazoezi ya mwandiko zinazochapishika kwa herufi, nambari na maneno yako mwenyewe, zenye mistari ya kufuatilia na mistari tupu ya kunakili.",
+  "k": "handwriting practice generator handwriting practice generator tengeneza karatasi za mazoezi ya mwandiko zinazochapishika kwa herufi nambari na maneno yako mwenyewe zenye mistari ya kufuatilia na mistari tupu ya kunakili",
+  "p": 108,
+  "c": "Tool"
+ },
+ {
+  "n": "Kipangaji Hesabu ya Kurudi Nyuma ya Mtihani",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sw/exam-countdown-planner/",
+  "s": "Loona Study Tools",
+  "d": "Weka tarehe yako ya mtihani na masomo na upate mpango wa mapitio wa siku hadi siku unaosambaza mada kwa haki katika siku ulizobaki nazo.",
+  "k": "exam countdown planner exam countdown planner weka tarehe yako ya mtihani na masomo na upate mpango wa mapitio wa siku hadi siku unaosambaza mada kwa haki katika siku ulizobaki nazo",
+  "p": 109,
+  "c": "Tool"
+ },
+ {
+  "n": "Kizalishaji Tafuta Neno",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sw/word-search-generator/",
+  "s": "Loona Study Tools",
+  "d": "Geuza orodha yako ya maneno kuwa fumbo la tafuta neno linalochapishika, lenye ufunguo tofauti wa majibu unaoonyesha mahali pa kila neno.",
+  "k": "word search generator word search generator geuza orodha yako ya maneno kuwa fumbo la tafuta neno linalochapishika lenye ufunguo tofauti wa majibu unaoonyesha mahali pa kila neno",
+  "p": 110,
+  "c": "Tool"
+ },
+ {
+  "n": "Kizalishaji Karatasi za Mazoezi ya Kulinganisha",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sw/matching-worksheet-generator/",
+  "s": "Loona Study Tools",
+  "d": "Tengeneza karatasi za mazoezi ya kulinganisha zinazochapishika — istilahi kushoto, fasili zilizochanganywa kulia — zenye ufunguo wa majibu wa mwalimu.",
+  "k": "matching worksheet generator matching worksheet generator tengeneza karatasi za mazoezi ya kulinganisha zinazochapishika istilahi kushoto fasili zilizochanganywa kulia zenye ufunguo wa majibu wa mwalimu",
+  "p": 111,
+  "c": "Tool"
+ },
+ {
+  "n": "Kichagua Jina Bila Mpangilio",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sw/random-name-picker/",
+  "s": "Loona Study Tools",
+  "d": "Bandika orodha ya darasa na uchague wanafunzi kwa haki bila mpangilio, kwa hali ya kutorudia ili kila mtu apate zamu.",
+  "k": "random name picker random name picker bandika orodha ya darasa na uchague wanafunzi kwa haki bila mpangilio kwa hali ya kutorudia ili kila mtu apate zamu",
+  "p": 112,
+  "c": "Tool"
+ },
+ {
+  "n": "Mchezo wa Jozi Zinazolingana",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sw/matching-pairs-game/",
+  "s": "Loona Study Tools",
+  "d": "Geuza jozi zozote za istilahi-na-fasili kuwa mchezo wa kumbukumbu wa pindua-na-linganisha wenye hatua na ufuatiliaji wa muda.",
+  "k": "matching pairs game matching pairs game geuza jozi zozote za istilahi na fasili kuwa mchezo wa kumbukumbu wa pindua na linganisha wenye hatua na ufuatiliaji wa muda",
+  "p": 113,
+  "c": "Tool"
+ },
+ {
+  "n": "Mchezo wa Kupanga Vikundi",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sw/group-sort-game/",
+  "s": "Loona Study Tools",
+  "d": "Tengeneza kategoria na vitu; wanafunzi hupanga kila kitu katika kundi sahihi na kupata alama za papo hapo.",
+  "k": "group sort game group sort game tengeneza kategoria na vitu wanafunzi hupanga kila kitu katika kundi sahihi na kupata alama za papo hapo",
+  "p": 114,
+  "c": "Tool"
+ },
+ {
+  "n": "Mchezo wa Kupanga Upya Sentensi",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sw/unjumble-game/",
+  "s": "Loona Study Tools",
+  "d": "Sentensi huchanganywa neno kwa neno — wanafunzi hugusa maneno kurudi katika mpangilio sahihi.",
+  "k": "unjumble sentences game unjumble game sentensi huchanganywa neno kwa neno wanafunzi hugusa maneno kurudi katika mpangilio sahihi",
+  "p": 115,
+  "c": "Tool"
+ },
+ {
+  "n": "Mchezo wa Anagramu",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sw/anagram-game/",
+  "s": "Loona Study Tools",
+  "d": "Maneno huchanganywa herufi kwa herufi; wanafunzi huyapanga upya kwa kutumia kidokezo unachotoa.",
+  "k": "anagram game anagram game maneno huchanganywa herufi kwa herufi wanafunzi huyapanga upya kwa kutumia kidokezo unachotoa",
+  "p": 116,
+  "c": "Tool"
+ },
+ {
+  "n": "Mchezo wa Kutahajia Neno",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sw/spell-the-word/",
+  "s": "Loona Study Tools",
+  "d": "Jenga kila neno kwa kugusa vigae vya herufi kwa mpangilio — mazoezi ya tahajia yenye vidokezo na uhakiki wa papo hapo.",
+  "k": "spell the word game spell the word jenga kila neno kwa kugusa vigae vya herufi kwa mpangilio mazoezi ya tahajia yenye vidokezo na uhakiki wa papo hapo",
+  "p": 117,
+  "c": "Tool"
+ },
+ {
+  "n": "Mchezo wa Hangman",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sw/hangman-game/",
+  "s": "Loona Study Tools",
+  "d": "Mchezo wa kale wa kukisia herufi wenye orodha za maneno zilizojengwa ndani kwa masomo ya shule, au orodha yako ya maneno.",
+  "k": "hangman game hangman game mchezo wa kale wa kukisia herufi wenye orodha za maneno zilizojengwa ndani kwa masomo ya shule au orodha yako ya maneno",
+  "p": 118,
+  "c": "Tool"
+ },
+ {
+  "n": "Kizalishaji Msalaba wa Maneno",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sw/crossword-generator/",
+  "s": "Loona Study Tools",
+  "d": "Weka maneno na vidokezo na uzalishe fumbo halisi la msalaba wa maneno linalokatizana — linalochapishika, lenye ufunguo wa majibu.",
+  "k": "crossword generator crossword generator weka maneno na vidokezo na uzalishe fumbo halisi la msalaba wa maneno linalokatizana linalochapishika lenye ufunguo wa majibu",
+  "p": 119,
+  "c": "Tool"
+ },
+ {
+  "n": "Kizalishaji Kadi za Bingo",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sw/bingo-card-generator/",
+  "s": "Loona Study Tools",
+  "d": "Zalisha kadi za kipekee za bingo za msamiati zinazochapishika kwa darasa zima, pamoja na orodha ya mwito iliyochanganywa.",
+  "k": "bingo card generator bingo card generator zalisha kadi za kipekee za bingo za msamiati zinazochapishika kwa darasa zima pamoja na orodha ya mwito iliyochanganywa",
+  "p": 120,
+  "c": "Tool"
+ },
+ {
+  "n": "Kitengeneza Michoro yenye Lebo",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sw/labelled-diagram-maker/",
+  "s": "Loona Study Tools",
+  "d": "Pakia mchoro, bandika lebo juu yake, chapisha toleo lenye lebo au tupu, na uendeshe jaribio la lebo.",
+  "k": "labelled diagram maker labelled diagram maker pakia mchoro bandika lebo juu yake chapisha toleo lenye lebo au tupu na uendeshe jaribio la lebo",
+  "p": 121,
+  "c": "Tool"
+ },
+ {
+  "n": "Chati ya Mamia",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sw/hundreds-chart/",
+  "s": "Loona Study Tools",
+  "d": "Chati shirikishi ya 1–100 inayoweza kuchapishwa yenye uangazaji wa shufwa/witiri na vizidisho, pamoja na hali ya mazoezi ya nambari zinazokosekana.",
+  "k": "hundreds chart hundreds chart chati shirikishi ya 1 100 inayoweza kuchapishwa yenye uangazaji wa shufwa witiri na vizidisho pamoja na hali ya mazoezi ya nambari zinazokosekana",
+  "p": 122,
+  "c": "Tool"
+ },
+ {
+  "n": "Kizalishaji Kadi za Ukuta wa Maneno",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sw/word-wall-cards/",
+  "s": "Loona Study Tools",
+  "d": "Geuza orodha za maneno kuwa kadi kubwa, nzito, zinazochapishika za ukuta wa maneno kwa maonyesho ya darasani.",
+  "k": "word wall cards generator word wall cards geuza orodha za maneno kuwa kadi kubwa nzito zinazochapishika za ukuta wa maneno kwa maonyesho ya darasani",
+  "p": 123,
+  "c": "Tool"
+ },
+ {
+  "n": "Kizalishaji Sudoku",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sw/sudoku-generator/",
+  "s": "Loona Study Tools",
+  "d": "Zalisha mafumbo ya Sudoku yanayochapishika — 4×4, 6×6 na 9×9 — yenye suluhisho za kipekee na ukurasa tofauti wa suluhisho.",
+  "k": "sudoku generator sudoku generator zalisha mafumbo ya sudoku yanayochapishika 4 4 6 6 na 9 9 yenye suluhisho za kipekee na ukurasa tofauti wa suluhisho",
+  "p": 124,
+  "c": "Tool"
+ },
+ {
+  "n": "Kizalishaji Labirinthi",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sw/maze-generator/",
+  "s": "Loona Study Tools",
+  "d": "Zalisha malabirinthi yanayochapishika katika viwango vinne vya ugumu, yenye njia ya hiari ya suluhisho.",
+  "k": "maze generator maze generator zalisha malabirinthi yanayochapishika katika viwango vinne vya ugumu yenye njia ya hiari ya suluhisho",
+  "p": 125,
+  "c": "Tool"
+ },
+ {
+  "n": "Kizalishaji Rangi kwa Nambari",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sw/colour-by-number-generator/",
+  "s": "Loona Study Tools",
+  "d": "Zalisha mosaiki ya rangi-kwa-nambari inayochapishika yenye ufunguo wa rangi na picha ya jibu yenye rangi.",
+  "k": "colour by number generator colour by number generator zalisha mosaiki ya rangi kwa nambari inayochapishika yenye ufunguo wa rangi na picha ya jibu yenye rangi",
+  "p": 126,
+  "c": "Tool"
+ },
+ {
+  "n": "Kizalishaji Karatasi ya Kuchapisha",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sw/printable-paper-generator/",
+  "s": "Loona Study Tools",
+  "d": "Chapisha karatasi ya grafu, karatasi ya gridi ya nukta, karatasi ya isometriki na karatasi ya mazoezi ya mwandiko kwa ukubwa kamili.",
+  "k": "printable paper generator printable paper generator chapisha karatasi ya grafu karatasi ya gridi ya nukta karatasi ya isometriki na karatasi ya mazoezi ya mwandiko kwa ukubwa kamili",
+  "p": 127,
+  "c": "Tool"
+ },
+ {
+  "n": "Kizalishaji Karatasi za Mazoezi ya Tahajia",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sw/spelling-worksheet-generator/",
+  "s": "Loona Study Tools",
+  "d": "Kutoka orodha moja ya tahajia: karatasi ya jaribio, uchanganyaji wa maneno, mazoezi ya herufi zinazokosekana na mpangilio wa ABC — yenye ufunguo wa majibu.",
+  "k": "spelling worksheet generator spelling worksheet generator kutoka orodha moja ya tahajia karatasi ya jaribio uchanganyaji wa maneno mazoezi ya herufi zinazokosekana na mpangilio wa abc yenye ufunguo wa majibu",
+  "p": 128,
+  "c": "Tool"
+ },
+ {
+  "n": "Vipima Muda vya Darasa na Kipima Muda cha Mtihani",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sw/classroom-timers/",
+  "s": "Loona Study Tools",
+  "d": "Kipima kikubwa cha onyesho cha hesabu ya kurudi nyuma chenye pete ya maendeleo, kipima cha mtihani kinachoonyesha muda wa mwisho, kipima cha upau wa kuona na kipima cha kusimama chenye mizunguko.",
+  "k": "classroom timers exam timer classroom timers kipima kikubwa cha onyesho cha hesabu ya kurudi nyuma chenye pete ya maendeleo kipima cha mtihani kinachoonyesha muda wa mwisho kipima cha upau wa kuona na kipima cha kusimama chenye mizunguko",
+  "p": 129,
+  "c": "Tool"
+ },
+ {
+  "n": "Kitengeneza Vikundi vya Darasa",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sw/classroom-group-maker/",
+  "s": "Loona Study Tools",
+  "d": "Hifadhi orodha zako za darasa na uzigawanye kuwa vikundi vya nasibu vya haki au jozi — ukubwa wenye uwiano, changanya upya kwa kubofya mara moja.",
+  "k": "classroom group maker classroom group maker hifadhi orodha zako za darasa na uzigawanye kuwa vikundi vya nasibu vya haki au jozi ukubwa wenye uwiano changanya upya kwa kubofya mara moja",
+  "p": 130,
+  "c": "Tool"
+ },
+ {
+  "n": "Kitengeneza Chati ya Kuketi",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sw/seating-chart-maker/",
+  "s": "Loona Study Tools",
+  "d": "Panga wanafunzi kwenye gridi ya madawati: bofya ili kuweka, funga viti unavyopenda, changanya vilivyobaki, na uchapishe chati.",
+  "k": "seating chart maker seating chart maker panga wanafunzi kwenye gridi ya madawati bofya ili kuweka funga viti unavyopenda changanya vilivyobaki na uchapishe chati",
+  "p": 131,
+  "c": "Tool"
+ },
+ {
+  "n": "Ubao wa Alama za Darasa",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sw/classroom-scoreboard/",
+  "s": "Loona Study Tools",
+  "d": "Ubao mkubwa na wazi wa alama za timu kwa skrini ya darasa — ongeza timu, gusa ili kuongeza au kuondoa pointi.",
+  "k": "classroom scoreboard classroom scoreboard ubao mkubwa na wazi wa alama za timu kwa skrini ya darasa ongeza timu gusa ili kuongeza au kuondoa pointi",
+  "p": 132,
+  "c": "Tool"
+ },
+ {
+  "n": "Kipima Kelele cha Darasa",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sw/noise-meter/",
+  "s": "Loona Study Tools",
+  "d": "Kipima kiwango cha kelele cha moja kwa moja kinachotumia kipaza sauti chako — kanda za kijani, kaharabu na nyekundu kusaidia madarasa kujidhibiti.",
+  "k": "classroom noise meter noise meter kipima kiwango cha kelele cha moja kwa moja kinachotumia kipaza sauti chako kanda za kijani kaharabu na nyekundu kusaidia madarasa kujidhibiti",
+  "p": 133,
+  "c": "Tool"
+ },
+ {
+  "n": "Kizalishaji Lebo za Majina",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sw/name-tags-generator/",
+  "s": "Loona Study Tools",
+  "d": "Geuza orodha ya darasa kuwa lebo za majina zinazochapishika zenye mstari wa kichwa kidogo — kwa madawati, safari na utangulizi wa wiki ya kwanza.",
+  "k": "name tags generator name tags generator geuza orodha ya darasa kuwa lebo za majina zinazochapishika zenye mstari wa kichwa kidogo kwa madawati safari na utangulizi wa wiki ya kwanza",
+  "p": 134,
+  "c": "Tool"
+ },
+ {
+  "n": "Kitengeneza Ratiba ya Picha",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sw/visual-schedule-builder/",
+  "s": "Loona Study Tools",
+  "d": "Jenga ratiba ya siku ya kuona inayoweza kuchapishwa yenye nyakati, shughuli na aikoni za picha — bora kwa watoto wadogo.",
+  "k": "visual schedule builder visual schedule builder jenga ratiba ya siku ya kuona inayoweza kuchapishwa yenye nyakati shughuli na aikoni za picha bora kwa watoto wadogo",
+  "p": 135,
+  "c": "Tool"
+ },
+ {
+  "n": "Kikadiria EZ",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sw/ez-grader/",
+  "s": "Loona Study Tools",
+  "d": "Kipimo cha kale cha kuteleza cha ukadiriaji cha mwalimu: weka jumla ya maswali na idadi ya yaliyokosewa ili kupata asilimia na daraja la herufi, pamoja na chati kamili.",
+  "k": "ez grader ez grader kipimo cha kale cha kuteleza cha ukadiriaji cha mwalimu weka jumla ya maswali na idadi ya yaliyokosewa ili kupata asilimia na daraja la herufi pamoja na chati kamili",
+  "p": 136,
+  "c": "Tool"
+ },
+ {
+  "n": "Kikadiria Mtihani",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sw/test-grader/",
+  "s": "Loona Study Tools",
+  "d": "Bandika ufunguo wa majibu na majibu ya mwanafunzi ili kukadiria jaribio zima papo hapo, swali kwa swali.",
+  "k": "test grader test grader bandika ufunguo wa majibu na majibu ya mwanafunzi ili kukadiria jaribio zima papo hapo swali kwa swali",
+  "p": 137,
+  "c": "Tool"
+ },
+ {
+  "n": "Kikokotoo cha Daraja la Uzito",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sw/weighted-grade-calculator/",
+  "s": "Loona Study Tools",
+  "d": "Unganisha alama za kategoria (kazi ya nyumbani, majaribio madogo, mitihani, mtihani wa mwisho) kwa uzito wake wa silabasi kuwa daraja la kozi.",
+  "k": "weighted grade calculator weighted grade calculator unganisha alama za kategoria kazi ya nyumbani majaribio madogo mitihani mtihani wa mwisho kwa uzito wake wa silabasi kuwa daraja la kozi",
+  "p": 138,
+  "c": "Tool"
+ },
+ {
+  "n": "Kikokotoo cha Daraja la Mtihani wa Mwisho",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sw/final-exam-calculator/",
+  "s": "Loona Study Tools",
+  "d": "Kokotoa hasa alama unayohitaji katika mtihani wa fainali ili kufikia daraja lako lengwa la kozi — na kama inawezekana.",
+  "k": "final exam grade calculator final exam calculator kokotoa hasa alama unayohitaji katika mtihani wa fainali ili kufikia daraja lako lengwa la kozi na kama inawezekana",
+  "p": 139,
+  "c": "Tool"
+ },
+ {
+  "n": "Jaribio la Kasi ya Ukweli wa Hisabati",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sw/math-facts-speed-test/",
+  "s": "Loona Study Tools",
+  "d": "Mbio za hesabu za sekunde 60: ukweli mwingi sahihi wa +, −, × na ÷ kadiri uwezavyo, pamoja na usahihi na mifululizo ya ushindi.",
+  "k": "math facts speed test math facts speed test mbio za hesabu za sekunde 60 ukweli mwingi sahihi wa na kadiri uwezavyo pamoja na usahihi na mifululizo ya ushindi",
+  "p": 140,
+  "c": "Tool"
+ },
+ {
+  "n": "Jaribio la Padi ya Nambari ya Vifungo 10",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sw/ten-key-test/",
+  "s": "Loona Study Tools",
+  "d": "Jaribio la kasi ya kuingiza data kwa kibodi cha nambari: andika mfuatano wa nambari kwa haraka na usahihi, ukikadiriwa kwa vitufe kwa dakika.",
+  "k": "10 key number pad test ten key test jaribio la kasi ya kuingiza data kwa kibodi cha nambari andika mfuatano wa nambari kwa haraka na usahihi ukikadiriwa kwa vitufe kwa dakika",
+  "p": 141,
+  "c": "Tool"
+ },
+ {
+  "n": "Jaribio la Kuchapa Msimbo",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sw/code-typing-test/",
+  "s": "Loona Study Tools",
+  "d": "Andika vijisehemu halisi vya msimbo vyenye alama na ujongezaji — hupima kasi ya kuchapa msimbo na usahihi wa alama kwa watengeneza programu.",
+  "k": "code typing test code typing test andika vijisehemu halisi vya msimbo vyenye alama na ujongezaji hupima kasi ya kuchapa msimbo na usahihi wa alama kwa watengeneza programu",
+  "p": 142,
+  "c": "Tool"
+ },
+ {
+  "n": "Jaribio la Sarufi",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sw/grammar-quiz/",
+  "s": "Loona Study Tools",
+  "d": "Jaribio la sarufi ya Kiingereza la maswali 24 — nyakati, viwakilishi, vihusishi, upatanishi na uakifishaji — lenye alama za papo hapo na maelezo.",
+  "k": "grammar quiz grammar quiz jaribio la sarufi ya kiingereza la maswali 24 nyakati viwakilishi vihusishi upatanishi na uakifishaji lenye alama za papo hapo na maelezo",
+  "p": 143,
+  "c": "Tool"
+ },
+ {
+  "n": "Jaribio la Msamiati",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sw/vocabulary-quiz/",
+  "s": "Loona Study Tools",
+  "d": "Maswali ishirini ya maana ya maneno yenye chaguo nne kila moja — ukaguzi wa haraka, wa uaminifu wa kiwango chako cha msamiati wa Kiingereza.",
+  "k": "vocabulary quiz vocabulary quiz maswali ishirini ya maana ya maneno yenye chaguo nne kila moja ukaguzi wa haraka wa uaminifu wa kiwango chako cha msamiati wa kiingereza",
+  "p": 144,
+  "c": "Tool"
+ },
+ {
+  "n": "Jedwali la Vipindi Shirikishi",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sw/periodic-table/",
+  "s": "Loona Study Tools",
+  "d": "Elementi zote 118 katika jedwali lenye rangi — bofya elementi yoyote kwa jina lake, uzito wa atomiki, kundi, kipindi na kategoria.",
+  "k": "interactive periodic table periodic table elementi zote 118 katika jedwali lenye rangi bofya elementi yoyote kwa jina lake uzito wa atomiki kundi kipindi na kategoria",
+  "p": 145,
+  "c": "Tool"
+ },
+ {
+  "n": "Kikokotoo cha Masi ya Moli",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sw/molar-mass-calculator/",
+  "s": "Loona Study Tools",
+  "d": "Andika fomula ya kikemia — mabano yamejumuishwa — na upate masi yake ya moli kwa g/mol yenye mgawanyiko wa kila elementi.",
+  "k": "molar mass calculator molar mass calculator andika fomula ya kikemia mabano yamejumuishwa na upate masi yake ya moli kwa g mol yenye mgawanyiko wa kila elementi",
+  "p": 146,
+  "c": "Tool"
+ },
+ {
+  "n": "Kisawazishaji Mlinganyo wa Kikemia",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sw/chemical-equation-balancer/",
+  "s": "Loona Study Tools",
+  "d": "Weka mlinganyo usiosawazika na upate vigawe vilivyosawazishwa, vilivyothibitishwa atomi kwa atomi.",
+  "k": "chemical equation balancer chemical equation balancer weka mlinganyo usiosawazika na upate vigawe vilivyosawazishwa vilivyothibitishwa atomi kwa atomi",
+  "p": 147,
+  "c": "Tool"
+ },
+ {
+  "n": "Kikokotoo cha pH",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sw/ph-calculator/",
+  "s": "Loona Study Tools",
+  "d": "Badilisha kati ya pH, pOH, [H+] na [OH-], na kokotoa pH ya myeyusho ya asidi kali na besi kali.",
+  "k": "ph calculator ph calculator badilisha kati ya ph poh h na oh na kokotoa ph ya myeyusho ya asidi kali na besi kali",
+  "p": 148,
+  "c": "Tool"
+ },
+ {
+  "n": "Kitengeneza Rubriki",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sw/rubric-maker/",
+  "s": "Loona Study Tools",
+  "d": "Jenga rubriki ya upangaji daraja inayoweza kuchapishwa: vigezo chini upande, viwango vinne vya utendaji kuvuka juu, pointi zikikokotolewa kiotomatiki.",
+  "k": "rubric maker rubric maker jenga rubriki ya upangaji daraja inayoweza kuchapishwa vigezo chini upande viwango vinne vya utendaji kuvuka juu pointi zikikokotolewa kiotomatiki",
+  "p": 149,
+  "c": "Tool"
+ }
+]

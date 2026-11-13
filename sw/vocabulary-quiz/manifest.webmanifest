@@ -1,0 +1,29 @@
+{
+  "name": "Loona Jaribio la Msamiati",
+  "short_name": "Jaribio la Msamiati",
+  "description": "Jaribio la bure la msamiati: maneno 20 ya Kiingereza yenye chaguo nne za maana kila moja, kutoka maneno ya kawaida ya shule hadi msamiati tajiri zaidi wa kitaaluma. Alama za papo hapo na mapitio.",
+  "id": "/loona-study-tools/sw/vocabulary-quiz/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

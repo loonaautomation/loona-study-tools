@@ -1,0 +1,29 @@
+{
+  "name": "Loona Mazoezi ya Kutoa Darasa la 1",
+  "short_name": "Mazoezi ya Kutoa Darasa la 1",
+  "description": "Mazoezi ya bure ya kutoa darasa la 1 — kutoa ndani ya 20 kwa kutumia vifungo vya nambari. Mfano uliotatuliwa, maswali 6 ya mazoezi yenye ufunguo wa majibu unaoweza kuchapishwa, mbinu, kosa la kawaida na kidokezo bora.",
+  "id": "/loona-study-tools/sw/grade-1-subtraction-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

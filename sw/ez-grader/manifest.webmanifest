@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kikadiria EZ",
+  "short_name": "Kikadiria EZ",
+  "description": "Kikadiria EZ cha bure kwa walimu: weka jumla ya maswali na idadi ya yaliyokosewa ili kupata asilimia na daraja la herufi papo hapo, kwa chati kamili ya ukadiriaji kwa urefu huo wa jaribio.",
+  "id": "/loona-study-tools/sw/ez-grader/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

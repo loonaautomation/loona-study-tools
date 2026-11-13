@@ -1,0 +1,29 @@
+{
+  "name": "Loona Grade 5 Social Studies Topics and Study",
+  "short_name": "Grade 5 Social Studies Topics",
+  "description": "Mada za Masomo ya Kijamii za darasa la 5 kwa mpangilio wa kufundisha — Jiografia ya dunia, Mazingira, Wapelelezi na zama za ugunduzi na zaidi — pamoja na zana za masomo za bure kwa kila mada.",
+  "id": "/loona-study-tools/sw/grade-5-social-studies-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

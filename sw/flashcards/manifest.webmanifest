@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kitengeneza Kadi za Kujifunzia",
+  "short_name": "Kitengeneza Kadi za Kujifunzia",
+  "description": "Kitengeneza kadi za kujifunzia cha bure: tengeneza mafungu, jifunze kwa kadi za kupindua, changanya na ufuatiliaji wa najua/sijui. Leta/tuma CSV na JSON, chapisha kadi. Hakuna kujisajili, huhifadhiwa kwenye kifaa chako.",
+  "id": "/loona-study-tools/sw/flashcards/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

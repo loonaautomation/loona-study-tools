@@ -1,0 +1,29 @@
+{
+  "name": "Loona Mchezo wa Jozi Zinazolingana",
+  "short_name": "Mchezo wa Jozi Zinazolingana",
+  "description": "Mchezo wa bure wa kumbukumbu wa jozi zinazolingana: weka jozi za istilahi = fasili na ucheze pindua-na-linganisha kwa ufuatiliaji wa hatua na muda. Nzuri kwa msamiati na mapitio.",
+  "id": "/loona-study-tools/sw/matching-pairs-game/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

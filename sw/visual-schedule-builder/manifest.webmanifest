@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kitengeneza Ratiba ya Picha",
+  "short_name": "Kitengeneza Ratiba ya Picha",
+  "description": "Kitengeneza ratiba ya picha cha bure: tengeneza ratiba ya picha inayochapishika ya siku ya shule yenye nyakati, aikoni na shughuli — bora kwa watoto wadogo na msaada wa SEN.",
+  "id": "/loona-study-tools/sw/visual-schedule-builder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
