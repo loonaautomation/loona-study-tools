@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kalkulator pH vrijednosti",
+  "short_name": "Kalkulator pH vrijednosti",
+  "description": "Besplatan kalkulator pH vrijednosti: pretvarajte između pH, pOH, [H+] i [OH-] te izračunajte pH otopina jakih kiselina i jakih baza iz koncentracije.",
+  "id": "/loona-study-tools/hr/ph-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Razredna ploča s rezultatima",
+  "short_name": "Razredna ploča s rezultatima",
+  "description": "Besplatna razredna ploča s rezultatima: velike šarene kartice s bodovima timova za razredni zaslon, +1/+5/-1 jednim dodirom, spremljeno u vašem pregledniku između satova.",
+  "id": "/loona-study-tools/hr/classroom-scoreboard/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Generator radnih listova iz matematike",
+  "short_name": "Generator radnih listova iz matematike",
+  "description": "Besplatan generator radnih listova iz matematike: radni listovi zbrajanja, oduzimanja, množenja, dijeljenja, razlomaka, decimalnih brojeva i dugog dijeljenja s rasponom brojeva, mogućnostima prijenosa i ključem odgovora za ispis.",
+  "id": "/loona-study-tools/hr/math-worksheet-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

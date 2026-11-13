@@ -1,0 +1,29 @@
+{
+  "name": "Loona Teme iz engleskog (2. razred)",
+  "short_name": "Teme iz engleskog (2. razred)",
+  "description": "Teme engleskog jezika za 2. razred redoslijedom poučavanja — dugi samoglasnici i digrafi (sh, ch, th), skup čestih riječi 2 i obitelji riječi, upitnici i uskličnici i još toga — s besplatnim alatima za učenje za svaku temu.",
+  "id": "/loona-study-tools/hr/grade-2-english-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

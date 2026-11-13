@@ -1,0 +1,29 @@
+{
+  "name": "Loona Generator papira za ispis",
+  "short_name": "Generator papira za ispis",
+  "description": "Besplatan generator papira za ispis: milimetarski papir, mreža točaka, izometrijski papir, papir za rukopis s 3 crte i široke linije s točnim razmakom 8/10/14mm. Ispisujte na 100% za pravu veličinu.",
+  "id": "/loona-study-tools/hr/printable-paper-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

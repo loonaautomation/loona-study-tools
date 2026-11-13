@@ -1,0 +1,29 @@
+{
+  "name": "Loona Mjerač buke u razredu",
+  "short_name": "Mjerač buke u razredu",
+  "description": "Besplatan mjerač buke u razredu: traka razine mikrofona uživo sa zelenom/jantarnom/crvenom zonom i brojačem nizova tišine. Prikaz relativne razine (ne decibeli), analizirano na uređaju, nikada snimano.",
+  "id": "/loona-study-tools/hr/noise-meter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

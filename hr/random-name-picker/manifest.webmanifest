@@ -1,0 +1,29 @@
+{
+  "name": "Loona Alat za nasumičan odabir imena",
+  "short_name": "Alat za nasumičan odabir imena",
+  "description": "Besplatan alat za nasumičan odabir imena za učitelje: zalijepite popis razreda i pošteno nasumično birajte učenike, s načinom bez ponavljanja kako bi svi došli na red prije nego što se itko ponovi.",
+  "id": "/loona-study-tools/hr/random-name-picker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

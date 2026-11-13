@@ -1,0 +1,29 @@
+{
+  "name": "Loona Igra razvrstavanja u skupine",
+  "short_name": "Igra razvrstavanja u skupine",
+  "description": "Besplatna igra razvrstavanja u skupine za razrede: definirajte kategorije i stavke, učenici stavke dodiruju u prave skupine i dobivaju trenutni rezultat s ispravcima.",
+  "id": "/loona-study-tools/hr/group-sort-game/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

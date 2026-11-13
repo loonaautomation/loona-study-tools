@@ -1,0 +1,29 @@
+{
+  "name": "Loona Vježba po razredu i temi",
+  "short_name": "Vježba po razredu i temi",
+  "description": "Jedan indeks za sve stranice vježbi po razredima i temama (od vrtića do 8. razreda), vodiče po predmetima, vodiče za ispite pakistanskih odbora za 9.–12. razred i pretvarače CGPA na Loona Study Tools.",
+  "id": "/loona-study-tools/hr/grade-topic-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

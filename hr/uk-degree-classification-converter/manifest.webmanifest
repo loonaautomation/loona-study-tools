@@ -1,0 +1,29 @@
+{
+  "name": "Loona Pretvarač klasifikacije britanskih diploma",
+  "short_name": "Klasifikacija britanskih diploma",
+  "description": "Što britanski First, 2:1, 2:2 ili Third znače u postocima i približnim američkim GPA pojmovima — uz poštenu napomenu da ne postoji službena pretvorba iz britanskog sustava u GPA.",
+  "id": "/loona-study-tools/hr/uk-degree-classification-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

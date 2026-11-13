@@ -1,0 +1,29 @@
+{
+  "name": "Loona Izrađivač rubrika za ocjenjivanje",
+  "short_name": "Izrađivač rubrika za ocjenjivanje",
+  "description": "Besplatan izrađivač rubrika: dodajte kriterije i najveći broj bodova, opišite četiri razine izvedbe i dobijte mrežu rubrike za ispis s bodovima po razini izračunanima automatski.",
+  "id": "/loona-study-tools/hr/rubric-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Test pravopisa",
+  "short_name": "Test pravopisa",
+  "description": "Besplatan test pravopisa: preglednik svaku riječ čita naglas, vi upisujete pravopis i dobivate trenutni rezultat s pregledom promašenih riječi. Ugrađeni popisi prema dobi plus vlastiti popisi riječi.",
+  "id": "/loona-study-tools/hr/spelling-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

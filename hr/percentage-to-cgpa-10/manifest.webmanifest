@@ -1,0 +1,29 @@
+{
+  "name": "Loona Postotak u CGPA (Indija, ljestvica od 10 bodova)",
+  "short_name": "Postotak u CGPA (Indija",
+  "description": "Pretvorite postotak u indijski CGPA od 10 bodova CBSE obrnutom formulom (% ÷ 9.5) i sveučilišnim inačicama, s cijelom tablicom od 95% naniže.",
+  "id": "/loona-study-tools/hr/percentage-to-cgpa-10/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

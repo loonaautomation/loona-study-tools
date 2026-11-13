@@ -1,0 +1,29 @@
+{
+  "name": "Loona Pretvarač postotka u CGPA (4.0, 5.0",
+  "short_name": "Pretvarač postotka u CGPA",
+  "description": "Pretvorite postotak natrag u CGPA na ljestvicama 4.0, 5.0 i 10 bodova: % ÷ 9.5 za Indiju, linearni ekvivalenti za 4.0 i 5.0, s tablicama.",
+  "id": "/loona-study-tools/hr/percentage-to-cgpa/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

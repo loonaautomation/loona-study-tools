@@ -1,0 +1,29 @@
+{
+  "name": "Loona Teme iz društvenih znanosti (7. razred)",
+  "short_name": "Teme iz društvenih znanosti (7. razred)",
+  "description": "Teme društvenih znanosti za 7. razred redoslijedom poučavanja — Srednjovjekovni svijet, Mogulsko Carstvo i povijest Južne Azije, Klimatske promjene i još toga — s besplatnim alatima za učenje za svaku temu.",
+  "id": "/loona-study-tools/hr/grade-7-social-studies-topics/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

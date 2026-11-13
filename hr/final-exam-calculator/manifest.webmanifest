@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kalkulator ocjene završnog ispita",
+  "short_name": "Kalkulator ocjene završnog ispita",
+  "description": "Besplatan kalkulator završnog ispita: unesite trenutačnu ocjenu, težinu završnog ispita i svoj cilj da vidite točno koji vam rezultat na završnom treba — i je li još moguć.",
+  "id": "/loona-study-tools/hr/final-exam-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

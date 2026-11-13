@@ -1,0 +1,29 @@
+{
+  "name": "Loona Generator kartica za zid riječi",
+  "short_name": "Generator kartica za zid riječi",
+  "description": "Besplatan generator kartica za zid riječi: upišite popis riječi i dobijte velike, podebljane kartice za zid riječi za ispis u tri veličine za razredne izložbe i kutke za čitanje.",
+  "id": "/loona-study-tools/hr/word-wall-cards/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

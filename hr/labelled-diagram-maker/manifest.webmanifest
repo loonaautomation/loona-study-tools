@@ -1,0 +1,29 @@
+{
+  "name": "Loona Izrađivač označenih dijagrama",
+  "short_name": "Izrađivač označenih dijagrama",
+  "description": "Besplatan izrađivač označenih dijagrama: prenesite dijagram, kliknite za postavljanje numeriranih oznaka, ispišite označene ili prazne inačice i provjerite učenike na oznakama. Slika nikada ne napušta vaš uređaj.",
+  "id": "/loona-study-tools/hr/labelled-diagram-maker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

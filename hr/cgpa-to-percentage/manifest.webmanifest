@@ -1,0 +1,29 @@
+{
+  "name": "Loona Pretvarač CGPA u postotak (4.0, 5.0",
+  "short_name": "Pretvarač CGPA u postotak",
+  "description": "Pretvorite CGPA u postotak na ljestvicama 4.0, 5.0 i 10 bodova jednim besplatnim pretvaračem, uz formulu za svaku ljestvicu i cijelu tablicu pretvorbe.",
+  "id": "/loona-study-tools/hr/cgpa-to-percentage/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

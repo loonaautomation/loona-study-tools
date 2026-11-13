@@ -1,0 +1,29 @@
+{
+  "name": "Loona Vježba s novcem (4. razred)",
+  "short_name": "Vježba s novcem (4. razred)",
+  "description": "Besplatna vježba za 4. razred — decimalni brojevi u novcu: rupije i paise, računi i proračuni. Riješeni primjer, 6 zadataka za vježbu s ključem odgovora za ispis, metoda, česta pogreška i najbolji savjet.",
+  "id": "/loona-study-tools/hr/grade-4-money-practice/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,452 @@
+[
+ {
+  "n": "Izrađivač kartica za učenje",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hr/flashcards/",
+  "s": "Loona Study Tools",
+  "d": "Izrađujte komplete kartica za učenje, učite s karticama koje se okreću i miješanjem, pratite što znate te izvezite ili ispišite svoje kartice.",
+  "k": "flashcards maker flashcards izra ujte komplete kartica za ucenje ucite s karticama koje se okrecu i mijesanjem pratite sto znate te izvezite ili ispisite svoje kartice",
+  "p": 0,
+  "c": "Tool"
+ },
+ {
+  "n": "Izrađivač kvizova",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hr/quiz-maker/",
+  "s": "Loona Study Tools",
+  "d": "Učitelji izrađuju kvizove s pitanjima višestrukog izbora, točno/netočno i kratkim odgovorima — učenici ih rješavaju uz trenutne rezultate i potpuni pregled odgovora.",
+  "k": "quiz maker quiz maker ucitelji izra uju kvizove s pitanjima visestrukog izbora tocno netocno i kratkim odgovorima ucenici ih rjesavaju uz trenutne rezultate i potpuni pregled odgovora",
+  "p": 1,
+  "c": "Tool"
+ },
+ {
+  "n": "Practice by Grade & Topic",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hr/grade-topic-practice/",
+  "s": "Loona Study Tools",
+  "d": "196 novih stranica: riješeni primjeri i pitanja za vježbu za svaki razred i matematičku temu, vodiči za predmete Znanost, Engleski, Društvene znanosti i Urdu, vodiči za ispite pakistanskih odbora za razrede 9–12 i pretvarači CGPA za svaku važniju ljestvicu ocjenjivanja.",
+  "k": "practice by grade topic grade topic practice 196 novih stranica rijeseni primjeri i pitanja za vjezbu za svaki razred i matematicku temu vodici za predmete znanost engleski drustvene znanosti i urdu vodici za ispite pakistanskih odbora za razrede 9 12 i pretvaraci cgpa za svaku vazniju ljestvicu ocjenjivanja",
+  "p": 102,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator radnih listova iz matematike",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hr/math-worksheet-generator/",
+  "s": "Loona Study Tools",
+  "d": "Generirajte radne listove iz matematike za ispis — zbrajanje, oduzimanje, množenje, dijeljenje, razlomke i decimalne brojeve — s odgovarajućim ključem odgovora.",
+  "k": "math worksheet generator math worksheet generator generirajte radne listove iz matematike za ispis zbrajanje oduzimanje mnozenje dijeljenje razlomke i decimalne brojeve s odgovarajucim kljucem odgovora",
+  "p": 2,
+  "c": "Tool"
+ },
+ {
+  "n": "Test brzine čitanja",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hr/reading-speed-test/",
+  "s": "Loona Study Tools",
+  "d": "Pročitajte vremenski mjereni odlomak, odgovorite na pitanja razumijevanja i dobijte svoju pravu brzinu čitanja u riječima po minuti (WPM).",
+  "k": "reading speed test reading speed test procitajte vremenski mjereni odlomak odgovorite na pitanja razumijevanja i dobijte svoju pravu brzinu citanja u rijecima po minuti wpm",
+  "p": 3,
+  "c": "Tool"
+ },
+ {
+  "n": "Planer rasporeda učenja",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hr/study-timetable-planner/",
+  "s": "Loona Study Tools",
+  "d": "Unesite svoje predmete, dnevne sate i datum ispita i dobijte uravnotežen tjedni raspored učenja koji možete urediti i ispisati.",
+  "k": "study timetable planner study timetable planner unesite svoje predmete dnevne sate i datum ispita i dobijte uravnotezen tjedni raspored ucenja koji mozete urediti i ispisati",
+  "p": 4,
+  "c": "Tool"
+ },
+ {
+  "n": "Vježbanje tablice množenja",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hr/multiplication-tables-practice/",
+  "s": "Loona Study Tools",
+  "d": "Vježbajte tablice množenja vremenski mjerenim krugovima vježbe, trenutnom provjerom i tablicom množenja za ispis do 12 × 12.",
+  "k": "multiplication tables practice multiplication tables practice vjezbajte tablice mnozenja vremenski mjerenim krugovima vjezbe trenutnom provjerom i tablicom mnozenja za ispis do 12 12",
+  "p": 106,
+  "c": "Tool"
+ },
+ {
+  "n": "Test pravopisa",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hr/spelling-test/",
+  "s": "Loona Study Tools",
+  "d": "Računalo čita svaku riječ naglas — vi upisujete pravopis. Trenutni rezultat i pregled svake riječi koju ste promašili.",
+  "k": "spelling test spelling test racunalo cita svaku rijec naglas vi upisujete pravopis trenutni rezultat i pregled svake rijeci koju ste promasili",
+  "p": 5,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator vježbi rukopisa",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hr/handwriting-practice-generator/",
+  "s": "Loona Study Tools",
+  "d": "Izradite listove za vježbanje rukopisa za ispis za slova, brojeve i vlastite riječi, s crtama za precrtavanje i praznim crtama za prepisivanje.",
+  "k": "handwriting practice generator handwriting practice generator izradite listove za vjezbanje rukopisa za ispis za slova brojeve i vlastite rijeci s crtama za precrtavanje i praznim crtama za prepisivanje",
+  "p": 108,
+  "c": "Tool"
+ },
+ {
+  "n": "Planer odbrojavanja do ispita",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hr/exam-countdown-planner/",
+  "s": "Loona Study Tools",
+  "d": "Unesite datum ispita i predmete i dobijte plan ponavljanja iz dana u dan koji teme pošteno raspoređuje kroz dane koji su vam preostali.",
+  "k": "exam countdown planner exam countdown planner unesite datum ispita i predmete i dobijte plan ponavljanja iz dana u dan koji teme posteno raspore uje kroz dane koji su vam preostali",
+  "p": 109,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator osmosmjerki",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hr/word-search-generator/",
+  "s": "Loona Study Tools",
+  "d": "Pretvorite vlastiti popis riječi u osmosmjerku za ispis, s zasebnim ključem odgovora koji prikazuje položaj svake riječi.",
+  "k": "word search generator word search generator pretvorite vlastiti popis rijeci u osmosmjerku za ispis s zasebnim kljucem odgovora koji prikazuje polozaj svake rijeci",
+  "p": 110,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator radnih listova za povezivanje",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hr/matching-worksheet-generator/",
+  "s": "Loona Study Tools",
+  "d": "Izradite radne listove za povezivanje za ispis — pojmove s lijeve strane, izmiješane definicije s desne — s ključem odgovora za učitelja.",
+  "k": "matching worksheet generator matching worksheet generator izradite radne listove za povezivanje za ispis pojmove s lijeve strane izmijesane definicije s desne s kljucem odgovora za ucitelja",
+  "p": 111,
+  "c": "Tool"
+ },
+ {
+  "n": "Alat za nasumičan odabir imena",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hr/random-name-picker/",
+  "s": "Loona Study Tools",
+  "d": "Zalijepite popis razreda i birajte učenike pošteno nasumično, s načinom bez ponavljanja da svatko dođe na red.",
+  "k": "random name picker random name picker zalijepite popis razreda i birajte ucenike posteno nasumicno s nacinom bez ponavljanja da svatko do e na red",
+  "p": 112,
+  "c": "Tool"
+ },
+ {
+  "n": "Igra povezivanja parova",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hr/matching-pairs-game/",
+  "s": "Loona Study Tools",
+  "d": "Pretvorite bilo koje parove pojma i definicije u igru pamćenja okretanja i uparivanja s praćenjem poteza i vremena.",
+  "k": "matching pairs game matching pairs game pretvorite bilo koje parove pojma i definicije u igru pamcenja okretanja i uparivanja s pracenjem poteza i vremena",
+  "p": 113,
+  "c": "Tool"
+ },
+ {
+  "n": "Igra razvrstavanja u skupine",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hr/group-sort-game/",
+  "s": "Loona Study Tools",
+  "d": "Izradite kategorije i stavke; učenici razvrstavaju svaku stavku u pravu skupinu i dobivaju trenutni rezultat.",
+  "k": "group sort game group sort game izradite kategorije i stavke ucenici razvrstavaju svaku stavku u pravu skupinu i dobivaju trenutni rezultat",
+  "p": 114,
+  "c": "Tool"
+ },
+ {
+  "n": "Igra sastavljanja rečenica",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hr/unjumble-game/",
+  "s": "Loona Study Tools",
+  "d": "Rečenice se miješaju riječ po riječ — učenici dodiruju riječi natrag u ispravan redoslijed.",
+  "k": "unjumble sentences game unjumble game recenice se mijesaju rijec po rijec ucenici dodiruju rijeci natrag u ispravan redoslijed",
+  "p": 115,
+  "c": "Tool"
+ },
+ {
+  "n": "Igra anagrama",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hr/anagram-game/",
+  "s": "Loona Study Tools",
+  "d": "Riječi se miješaju slovo po slovo; učenici ih sastavljaju pomoću traga koji pružite.",
+  "k": "anagram game anagram game rijeci se mijesaju slovo po slovo ucenici ih sastavljaju pomocu traga koji pruzite",
+  "p": 116,
+  "c": "Tool"
+ },
+ {
+  "n": "Igra slovkanja riječi",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hr/spell-the-word/",
+  "s": "Loona Study Tools",
+  "d": "Izgradite svaku riječ dodirivanjem pločica sa slovima redom — vježba pravopisa s tragovima i trenutnim provjerama.",
+  "k": "spell the word game spell the word izgradite svaku rijec dodirivanjem plocica sa slovima redom vjezba pravopisa s tragovima i trenutnim provjerama",
+  "p": 117,
+  "c": "Tool"
+ },
+ {
+  "n": "Igra vješala",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hr/hangman-game/",
+  "s": "Loona Study Tools",
+  "d": "Klasična igra pogađanja slova s ugrađenim popisima riječi za školske predmete ili vašim vlastitim popisom riječi.",
+  "k": "hangman game hangman game klasicna igra poga anja slova s ugra enim popisima rijeci za skolske predmete ili vasim vlastitim popisom rijeci",
+  "p": 118,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator križaljki",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hr/crossword-generator/",
+  "s": "Loona Study Tools",
+  "d": "Unesite riječi i tragove i generirajte pravu ukriženu križaljku — za ispis, s ključem odgovora.",
+  "k": "crossword generator crossword generator unesite rijeci i tragove i generirajte pravu ukrizenu krizaljku za ispis s kljucem odgovora",
+  "p": 119,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator bingo kartica",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hr/bingo-card-generator/",
+  "s": "Loona Study Tools",
+  "d": "Generirajte jedinstvene bingo kartice rječnika za ispis za cijeli razred, plus pomiješani popis za prozivanje.",
+  "k": "bingo card generator bingo card generator generirajte jedinstvene bingo kartice rjecnika za ispis za cijeli razred plus pomijesani popis za prozivanje",
+  "p": 120,
+  "c": "Tool"
+ },
+ {
+  "n": "Izrađivač označenih dijagrama",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hr/labelled-diagram-maker/",
+  "s": "Loona Study Tools",
+  "d": "Prenesite dijagram, prikvačite oznake na njega, ispišite označenu ili praznu verziju i pokrenite kviz oznaka.",
+  "k": "labelled diagram maker labelled diagram maker prenesite dijagram prikvacite oznake na njega ispisite oznacenu ili praznu verziju i pokrenite kviz oznaka",
+  "p": 121,
+  "c": "Tool"
+ },
+ {
+  "n": "Stotna tablica",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hr/hundreds-chart/",
+  "s": "Loona Study Tools",
+  "d": "Interaktivna tablica 1–100 za ispis s isticanjem parnih/neparnih brojeva i višekratnika te načinom vježbanja s brojevima koji nedostaju.",
+  "k": "hundreds chart hundreds chart interaktivna tablica 1 100 za ispis s isticanjem parnih neparnih brojeva i visekratnika te nacinom vjezbanja s brojevima koji nedostaju",
+  "p": 122,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator kartica za zid riječi",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hr/word-wall-cards/",
+  "s": "Loona Study Tools",
+  "d": "Pretvorite popise riječi u velike, podebljane kartice za zid riječi za razredne izložbe za ispis.",
+  "k": "word wall cards generator word wall cards pretvorite popise rijeci u velike podebljane kartice za zid rijeci za razredne izlozbe za ispis",
+  "p": 123,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator sudokua",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hr/sudoku-generator/",
+  "s": "Loona Study Tools",
+  "d": "Generirajte Sudoku zagonetke za ispis — 4×4, 6×6 i 9×9 — s jedinstvenim rješenjima i zasebnom stranicom rješenja.",
+  "k": "sudoku generator sudoku generator generirajte sudoku zagonetke za ispis 4 4 6 6 i 9 9 s jedinstvenim rjesenjima i zasebnom stranicom rjesenja",
+  "p": 124,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator labirinata",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hr/maze-generator/",
+  "s": "Loona Study Tools",
+  "d": "Generirajte labirinte za ispis na četiri razine težine, s neobaveznim putom rješenja.",
+  "k": "maze generator maze generator generirajte labirinte za ispis na cetiri razine tezine s neobaveznim putom rjesenja",
+  "p": 125,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator bojanja prema brojevima",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hr/colour-by-number-generator/",
+  "s": "Loona Study Tools",
+  "d": "Generirajte mozaik bojanja prema brojevima za ispis s ključem boja i obojenom slikom odgovora.",
+  "k": "colour by number generator colour by number generator generirajte mozaik bojanja prema brojevima za ispis s kljucem boja i obojenom slikom odgovora",
+  "p": 126,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator papira za ispis",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hr/printable-paper-generator/",
+  "s": "Loona Study Tools",
+  "d": "Ispisujte graf papir, papir s točkastom mrežom, izometrijski papir i papir za vježbu rukopisa u točnim veličinama.",
+  "k": "printable paper generator printable paper generator ispisujte graf papir papir s tockastom mrezom izometrijski papir i papir za vjezbu rukopisa u tocnim velicinama",
+  "p": 127,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator radnih listova za pravopis",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hr/spelling-worksheet-generator/",
+  "s": "Loona Study Tools",
+  "d": "Iz jednog popisa za pravopis: list za test, miješanja riječi, vježba nedostajućih slova i abecedni red — s ključem odgovora.",
+  "k": "spelling worksheet generator spelling worksheet generator iz jednog popisa za pravopis list za test mijesanja rijeci vjezba nedostajucih slova i abecedni red s kljucem odgovora",
+  "p": 128,
+  "c": "Tool"
+ },
+ {
+  "n": "Razredni mjerači vremena i mjerač za ispit",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hr/classroom-timers/",
+  "s": "Loona Study Tools",
+  "d": "Mjerač odbrojavanja s velikim prikazom i prstenom napretka, ispitni mjerač koji prikazuje vrijeme završetka, vizualni mjerač s trakom i štoperica s krugovima.",
+  "k": "classroom timers exam timer classroom timers mjerac odbrojavanja s velikim prikazom i prstenom napretka ispitni mjerac koji prikazuje vrijeme zavrsetka vizualni mjerac s trakom i stoperica s krugovima",
+  "p": 129,
+  "c": "Tool"
+ },
+ {
+  "n": "Izrađivač razrednih skupina",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hr/classroom-group-maker/",
+  "s": "Loona Study Tools",
+  "d": "Spremite svoje popise razreda i podijelite ih u pravedne nasumične skupine ili parove — uravnotežene veličine, novo miješanje jednim klikom.",
+  "k": "classroom group maker classroom group maker spremite svoje popise razreda i podijelite ih u pravedne nasumicne skupine ili parove uravnotezene velicine novo mijesanje jednim klikom",
+  "p": 130,
+  "c": "Tool"
+ },
+ {
+  "n": "Izrađivač plana sjedenja",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hr/seating-chart-maker/",
+  "s": "Loona Study Tools",
+  "d": "Rasporedite učenike na mrežu klupa: kliknite za postavljanje, zaključajte omiljena mjesta, nasumično promiješajte ostala i ispišite plan.",
+  "k": "seating chart maker seating chart maker rasporedite ucenike na mrezu klupa kliknite za postavljanje zakljucajte omiljena mjesta nasumicno promijesajte ostala i ispisite plan",
+  "p": 131,
+  "c": "Tool"
+ },
+ {
+  "n": "Razredna ploča s rezultatima",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hr/classroom-scoreboard/",
+  "s": "Loona Study Tools",
+  "d": "Velika, pregledna ploča s bodovima ekipa za razredni zaslon — dodajte ekipe, dodirnite za dodavanje ili uklanjanje bodova.",
+  "k": "classroom scoreboard classroom scoreboard velika pregledna ploca s bodovima ekipa za razredni zaslon dodajte ekipe dodirnite za dodavanje ili uklanjanje bodova",
+  "p": 132,
+  "c": "Tool"
+ },
+ {
+  "n": "Mjerač buke u razredu",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hr/noise-meter/",
+  "s": "Loona Study Tools",
+  "d": "Mjerač relativne razine buke uživo pomoću vašeg mikrofona — zelena, jantarna i crvena zona pomažu razredima da se sami reguliraju.",
+  "k": "classroom noise meter noise meter mjerac relativne razine buke uzivo pomocu vaseg mikrofona zelena jantarna i crvena zona pomazu razredima da se sami reguliraju",
+  "p": 133,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator oznaka s imenima",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hr/name-tags-generator/",
+  "s": "Loona Study Tools",
+  "d": "Pretvorite popis razreda u imenice za ispis s retkom podnaslova — za klupe, izlete i upoznavanja u prvom tjednu.",
+  "k": "name tags generator name tags generator pretvorite popis razreda u imenice za ispis s retkom podnaslova za klupe izlete i upoznavanja u prvom tjednu",
+  "p": 134,
+  "c": "Tool"
+ },
+ {
+  "n": "Izrađivač vizualnog rasporeda",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hr/visual-schedule-builder/",
+  "s": "Loona Study Tools",
+  "d": "Izradite vizualni dnevni raspored za ispis s vremenima, aktivnostima i slikovnim ikonama — idealan za mlađu djecu.",
+  "k": "visual schedule builder visual schedule builder izradite vizualni dnevni raspored za ispis s vremenima aktivnostima i slikovnim ikonama idealan za mla u djecu",
+  "p": 135,
+  "c": "Tool"
+ },
+ {
+  "n": "EZ Grader",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hr/ez-grader/",
+  "s": "Loona Study Tools",
+  "d": "Klasična učiteljeva klizna ljestvica ocjenjivanja: unesite ukupan broj pitanja i broj netočnih da biste dobili postotak i slovnu ocjenu, plus cijeli grafikon.",
+  "k": "ez grader ez grader klasicna uciteljeva klizna ljestvica ocjenjivanja unesite ukupan broj pitanja i broj netocnih da biste dobili postotak i slovnu ocjenu plus cijeli grafikon",
+  "p": 136,
+  "c": "Tool"
+ },
+ {
+  "n": "Kalkulator ocjena iz testa",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hr/test-grader/",
+  "s": "Loona Study Tools",
+  "d": "Zalijepite ključ odgovora i učenikove odgovore da cijeli test ocijenite odmah, pitanje po pitanje.",
+  "k": "test grader test grader zalijepite kljuc odgovora i ucenikove odgovore da cijeli test ocijenite odmah pitanje po pitanje",
+  "p": 137,
+  "c": "Tool"
+ },
+ {
+  "n": "Kalkulator ponderirane ocjene",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hr/weighted-grade-calculator/",
+  "s": "Loona Study Tools",
+  "d": "Spojite rezultate kategorija (zadaća, kvizovi, testovi, završni) prema njihovim ponderima iz plana u ocjenu kolegija.",
+  "k": "weighted grade calculator weighted grade calculator spojite rezultate kategorija zadaca kvizovi testovi zavrsni prema njihovim ponderima iz plana u ocjenu kolegija",
+  "p": 138,
+  "c": "Tool"
+ },
+ {
+  "n": "Kalkulator ocjene završnog ispita",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hr/final-exam-calculator/",
+  "s": "Loona Study Tools",
+  "d": "Izračunajte točno koji vam rezultat treba na završnom ispitu da dosegnete ciljnu ocjenu predmeta — i je li to moguće.",
+  "k": "final exam grade calculator final exam calculator izracunajte tocno koji vam rezultat treba na zavrsnom ispitu da dosegnete ciljnu ocjenu predmeta i je li to moguce",
+  "p": 139,
+  "c": "Tool"
+ },
+ {
+  "n": "Test brzine računanja",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hr/math-facts-speed-test/",
+  "s": "Loona Study Tools",
+  "d": "Aritmetički sprint od 60 sekundi: što više točnih zadataka +, −, × i ÷, uz točnost i nizove.",
+  "k": "math facts speed test math facts speed test aritmeticki sprint od 60 sekundi sto vise tocnih zadataka i uz tocnost i nizove",
+  "p": 140,
+  "c": "Tool"
+ },
+ {
+  "n": "Test numeričke tipkovnice (10-Key)",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hr/ten-key-test/",
+  "s": "Loona Study Tools",
+  "d": "Test brzine unosa podataka za numeričku tipkovnicu: brzo i točno upisujte nizove brojeva, ocijenjeno u tipkama po minuti.",
+  "k": "10 key number pad test ten key test test brzine unosa podataka za numericku tipkovnicu brzo i tocno upisujte nizove brojeva ocijenjeno u tipkama po minuti",
+  "p": 141,
+  "c": "Tool"
+ },
+ {
+  "n": "Test tipkanja koda",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hr/code-typing-test/",
+  "s": "Loona Study Tools",
+  "d": "Tipkajte prave isječke kôda sa simbolima i uvlačenjem — mjeri brzinu tipkanja kôda i točnost simbola za programere.",
+  "k": "code typing test code typing test tipkajte prave isjecke koda sa simbolima i uvlacenjem mjeri brzinu tipkanja koda i tocnost simbola za programere",
+  "p": 142,
+  "c": "Tool"
+ },
+ {
+  "n": "Kviz iz gramatike",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hr/grammar-quiz/",
+  "s": "Loona Study Tools",
+  "d": "Test iz engleske gramatike s 24 pitanja — vremena, članovi, prijedlozi, slaganje i interpunkcija — s trenutnim rezultatom i objašnjenjima.",
+  "k": "grammar quiz grammar quiz test iz engleske gramatike s 24 pitanja vremena clanovi prijedlozi slaganje i interpunkcija s trenutnim rezultatom i objasnjenjima",
+  "p": 143,
+  "c": "Tool"
+ },
+ {
+  "n": "Kviz iz rječnika",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hr/vocabulary-quiz/",
+  "s": "Loona Study Tools",
+  "d": "Dvadeset pitanja o značenju riječi s po četiri mogućnosti — brza, poštena provjera razine vašeg engleskog rječnika.",
+  "k": "vocabulary quiz vocabulary quiz dvadeset pitanja o znacenju rijeci s po cetiri mogucnosti brza postena provjera razine vaseg engleskog rjecnika",
+  "p": 144,
+  "c": "Tool"
+ },
+ {
+  "n": "Interaktivni periodni sustav elemenata",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hr/periodic-table/",
+  "s": "Loona Study Tools",
+  "d": "Svih 118 elemenata u tablici označenoj bojama — kliknite bilo koji element za njegov naziv, atomsku masu, skupinu, periodu i kategoriju.",
+  "k": "interactive periodic table periodic table svih 118 elemenata u tablici oznacenoj bojama kliknite bilo koji element za njegov naziv atomsku masu skupinu periodu i kategoriju",
+  "p": 145,
+  "c": "Tool"
+ },
+ {
+  "n": "Kalkulator molarne mase",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hr/molar-mass-calculator/",
+  "s": "Loona Study Tools",
+  "d": "Upišite kemijsku formulu — uključujući zagrade — i dobijte njezinu molarnu masu u g/mol s raščlambom po elementima.",
+  "k": "molar mass calculator molar mass calculator upisite kemijsku formulu ukljucujuci zagrade i dobijte njezinu molarnu masu u g mol s rasclambom po elementima",
+  "p": 146,
+  "c": "Tool"
+ },
+ {
+  "n": "Alat za izjednačavanje kemijskih jednadžbi",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hr/chemical-equation-balancer/",
+  "s": "Loona Study Tools",
+  "d": "Unesite neizjednačenu jednadžbu i dobijte izjednačene koeficijente, provjerene atom po atom.",
+  "k": "chemical equation balancer chemical equation balancer unesite neizjednacenu jednadzbu i dobijte izjednacene koeficijente provjerene atom po atom",
+  "p": 147,
+  "c": "Tool"
+ },
+ {
+  "n": "Kalkulator pH vrijednosti",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hr/ph-calculator/",
+  "s": "Loona Study Tools",
+  "d": "Pretvarajte između pH, pOH, [H+] i [OH-] te izračunajte pH otopina jakih kiselina i jakih baza.",
+  "k": "ph calculator ph calculator pretvarajte izme u ph poh h i oh te izracunajte ph otopina jakih kiselina i jakih baza",
+  "p": 148,
+  "c": "Tool"
+ },
+ {
+  "n": "Izrađivač rubrika za ocjenjivanje",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hr/rubric-maker/",
+  "s": "Loona Study Tools",
+  "d": "Izradite rubriku za ocjenjivanje za ispis: kriteriji niz stranu, četiri razine izvedbe pri vrhu, bodovi se računaju automatski.",
+  "k": "rubric maker rubric maker izradite rubriku za ocjenjivanje za ispis kriteriji niz stranu cetiri razine izvedbe pri vrhu bodovi se racunaju automatski",
+  "p": 149,
+  "c": "Tool"
+ }
+]

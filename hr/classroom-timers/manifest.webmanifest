@@ -1,0 +1,29 @@
+{
+  "name": "Loona Razredni mjerači vremena",
+  "short_name": "Razredni mjerači vremena",
+  "description": "Besplatni razredni mjerači vremena: odbrojavanje s velikim prikazom, prstenom napretka i vizualnom trakom koja se smanjuje, ispitni mjerač koji prikazuje vrijeme završetka i preostalo vrijeme te štoperica s krugovima.",
+  "id": "/loona-study-tools/hr/classroom-timers/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

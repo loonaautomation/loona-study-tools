@@ -1,0 +1,29 @@
+{
+  "name": "Loona Pakistan — CGPA u postotak",
+  "short_name": "Pakistan — CGPA u postotak",
+  "description": "Tablica ocjena HEC-a za semestralni sustav koju koriste pakistanska sveučilišta: slovne ocjene, GPA bodovi i postotni pojasevi, s pretvaračem za ljestvicu 4.0.",
+  "id": "/loona-study-tools/hr/pakistan-cgpa-to-percentage/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

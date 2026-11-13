@@ -1,0 +1,29 @@
+{
+  "name": "Loona Pretvarač kanadskog GPA",
+  "short_name": "Pretvarač kanadskog GPA",
+  "description": "Pretvorite kanadske postotne ocjene na ljestvicu 4.0 široko korištenom ontarijskom tablicom (90–100 = A+ = 4.0), uz napomene o tome kako se kanadske ljestvice razlikuju po sveučilištima.",
+  "id": "/loona-study-tools/hr/canada-gpa-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona GPA u postotak na ljestvici 4.0",
+  "short_name": "GPA u postotak na ljestvici 4.0",
+  "description": "Pretvorite GPA na ljestvici 4.0 u postotak standardnom tablicom slovnih ocjena (A = 4.0 = 93–100%), prikazanom uz linearnu procjenu ×25.",
+  "id": "/loona-study-tools/hr/gpa-4-scale-to-percentage/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

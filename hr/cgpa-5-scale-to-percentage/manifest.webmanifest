@@ -1,0 +1,29 @@
+{
+  "name": "Loona CGPA u postotak na ljestvici 5.0",
+  "short_name": "CGPA u postotak na ljestvici 5.0",
+  "description": "Pretvorite CGPA na ljestvici 5.0 u postotak (CGPA ÷ 5 × 100) s cijelom tablicom i stranicama s razrednim rasponima za Nigeriju i Bangladeš, gdje su rasponi važniji od postotaka.",
+  "id": "/loona-study-tools/hr/cgpa-5-scale-to-percentage/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

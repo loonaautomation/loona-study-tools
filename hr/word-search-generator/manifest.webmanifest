@@ -1,0 +1,29 @@
+{
+  "name": "Loona Generator osmosmjerki",
+  "short_name": "Generator osmosmjerki",
+  "description": "Besplatan generator osmosmjerki: pretvorite vlastiti popis riječi u osmosmjerku za ispis u 8 smjerova, s posebnim istaknutim ključem odgovora. Savršeno za vježbu rječnika.",
+  "id": "/loona-study-tools/hr/word-search-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
