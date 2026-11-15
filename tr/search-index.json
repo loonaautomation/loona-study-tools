@@ -399,5 +399,14 @@
   "d": "Yazdırılabilir bir notlandırma rubriği oluşturun: ölçütler kenarda, dört performans düzeyi üstte, puanlar otomatik hesaplanır.",
   "k": "rubric maker yazdirilabilir bir notlandirma rubrigi olusturun olcutler kenarda dort performans duzeyi ustte puanlar otomatik hesaplanir",
   "c": "Tool"
+ },
+ {
+  "n": "Çevrimiçi Çalar Saat",
+  "u": "https://loonaautomation.github.io/loona-study-tools/tr/alarm-clock/",
+  "s": "Loona Study Tools",
+  "d": "Büyük bir canlı saat ekranının yanında etiketli, dört sesli ve ertelemeli birden fazla alarm kurun — ücretsiz, kayıt yok, bu sekmeden çalar.",
+  "k": "online alarm clock cevrimici calar saat buyuk ekran birden fazla alarm erteleme dort ses kayit yok bu sekmeden calar",
+  "p": 151,
+  "c": "Tool"
  }
 ]
