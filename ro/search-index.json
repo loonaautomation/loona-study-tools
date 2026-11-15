@@ -467,4 +467,14 @@
   "p": 151,
   "c": "Tool"
  }
-,{"n":"Cuvântul Zilei","u":"https://loonaautomation.github.io/loona-study-tools/ro/word-of-the-day/","s":"Loona Study Tools","d":"Învață un cuvânt nou în engleză în fiecare zi — cu înțelesul în urdu, pronunția și o propoziție exemplu în engleză și urdu. Răsfoiește cuvintele anterioare și caută în întreaga bancă de cuvinte. Gratuit, fără înregistrare.","k":"cuvântul zilei învață un cuvânt nou în engleză fiecare zi cu înțelesul urdu pronunția și o propoziție exemplu răsfoiește cuvintele anterioare caută întreaga bancă de cuvinte gratuit fără înregistrare word of the day daily english meaning vocabulary","p":0,"c":"Tool"}]
+,{"n":"Cuvântul Zilei","u":"https://loonaautomation.github.io/loona-study-tools/ro/word-of-the-day/","s":"Loona Study Tools","d":"Învață un cuvânt nou în engleză în fiecare zi — cu înțelesul în urdu, pronunția și o propoziție exemplu în engleză și urdu. Răsfoiește cuvintele anterioare și caută în întreaga bancă de cuvinte. Gratuit, fără înregistrare.","k":"cuvântul zilei învață un cuvânt nou în engleză fiecare zi cu înțelesul urdu pronunția și o propoziție exemplu răsfoiește cuvintele anterioare caută întreaga bancă de cuvinte gratuit fără înregistrare word of the day daily english meaning vocabulary","p":0,"c":"Tool"},
+ {
+  "n": "Creator de carnete de note",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ro/report-card-maker/",
+  "s": "Loona Study Tools",
+  "d": "Creați carnete de note pentru elevi, gata de tipărit, în câteva minute: introduceți notele pe materii și obțineți totalurile, procentul general și calificativul calculate automat, cu locul în clasă, prezența și observațiile profesorului.",
+  "k": "report card maker report card maker creați carnete de note pentru elevi gata de tipărit în câteva minute introduceți notele pe materii și obțineți totalurile procentul general și calificativul calculate automat cu locul în clasă prezența și observațiile profesorului",
+  "p": 150,
+  "c": "Tool"
+ }
+]
