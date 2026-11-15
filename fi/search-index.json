@@ -457,5 +457,14 @@
   "k": "exam date sheet maker exam date sheet maker syötä koulusi luokkasi ja kokeen nimi lisää aineet päivämäärineen aikoineen ja huoneineen ja tulosta siisti a4koepäivätaulukko jonka viikonpäivät täyttyvät automaattisesti",
   "p": 150,
   "c": "Tool"
+ },
+ {
+  "n": "Verkkoherätyskello",
+  "u": "https://loonaautomation.github.io/loona-study-tools/fi/alarm-clock/",
+  "s": "Loona Study Tools",
+  "d": "Aseta useita herätyksiä nimikkeillä, neljällä äänellä ja torkulla suuren reaaliaikaisen kellonäytön viereen — ilmaiseksi, ei rekisteröitymistä, soi tästä välilehdestä.",
+  "k": "online alarm clock verkkoherätyskello suuri näyttö useita herätyksiä torkku neljä ääntä ei rekisteröitymistä soi tästä välilehdestä",
+  "p": 151,
+  "c": "Tool"
  }
 ]
