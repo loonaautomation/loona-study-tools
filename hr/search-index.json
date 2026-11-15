@@ -457,5 +457,14 @@
   "k": "izrađivač rasporeda ispita izrađivač rasporeda ispita besplatni izrađivač rasporeda ispita unesite školu razred i naziv ispita dodajte predmete s datumima vremenima i učionicama te ispišite pregledan raspored ispita formata a4 dani u tjednu popunjavaju se automatski",
   "p": 150,
   "c": "Tool"
+ },
+ {
+  "n": "Online budilica",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hr/alarm-clock/",
+  "s": "Loona Study Tools",
+  "d": "Postavljajte više alarma s oznakama, četiri zvuka i odgodom uz veliki sat uživo — besplatno, bez registracije, zvoni iz ove kartice.",
+  "k": "online budilica online alarm clock postavljajte više alarma s oznakama četiri zvuka i odgodom uz veliki sat uživo besplatno bez registracije zvoni iz ove kartice wake up alarm snooze alarm",
+  "p": 151,
+  "c": "Tool"
  }
 ]
