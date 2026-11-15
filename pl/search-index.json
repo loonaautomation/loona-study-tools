@@ -467,4 +467,14 @@
   "p": 150,
   "c": "Tool"
  }
-,{"n":"Słowo Dnia","u":"https://loonaautomation.github.io/loona-study-tools/pl/word-of-the-day/","s":"Loona Study Tools","d":"Ucz się jednego nowego angielskiego słowa każdego dnia — ze znaczeniem w urdu, wymową i zdaniem przykładowym po angielsku i w urdu. Przeglądaj poprzednie słowa i przeszukuj cały bank słów. Za darmo, bez rejestracji.","k":"słowo dnia ucz się jednego nowego angielskiego słowa każdego ze znaczeniem w urdu wymową i zdaniem przykładowym po angielsku przeglądaj poprzednie przeszukuj cały bank słów za darmo bez rejestracji word of the day daily english meaning vocabulary","p":0,"c":"Tool"}]
+,{"n":"Słowo Dnia","u":"https://loonaautomation.github.io/loona-study-tools/pl/word-of-the-day/","s":"Loona Study Tools","d":"Ucz się jednego nowego angielskiego słowa każdego dnia — ze znaczeniem w urdu, wymową i zdaniem przykładowym po angielsku i w urdu. Przeglądaj poprzednie słowa i przeszukuj cały bank słów. Za darmo, bez rejestracji.","k":"słowo dnia ucz się jednego nowego angielskiego słowa każdego ze znaczeniem w urdu wymową i zdaniem przykładowym po angielsku przeglądaj poprzednie przeszukuj cały bank słów za darmo bez rejestracji word of the day daily english meaning vocabulary","p":0,"c":"Tool"},
+ {
+  "n": "Kreator świadectw szkolnych",
+  "u": "https://loonaautomation.github.io/loona-study-tools/pl/report-card-maker/",
+  "s": "Loona Study Tools",
+  "d": "Twórz świadectwa szkolne do druku w kilka minut: wpisz oceny z poszczególnych przedmiotów i otrzymaj sumy, procent całkowity i ocenę obliczone automatycznie, wraz z miejscem w klasie, frekwencją i uwagami nauczyciela.",
+  "k": "report card maker report card maker twórz świadectwa szkolne do druku w kilka minut wpisz oceny z poszczególnych przedmiotów i otrzymaj sumy procent całkowity i ocenę obliczone automatycznie wraz z miejscem w klasie frekwencją i uwagami nauczyciela",
+  "p": 150,
+  "c": "Tool"
+ }
+]
