@@ -1,0 +1,29 @@
+{
+  "name": "Loona Онлайн-будильник",
+  "short_name": "Онлайн-будильник",
+  "description": "Безкоштовний онлайн-будильник із великим дисплеєм, кількома будильниками, повтором і чотирма звуками. Без реєстрації.",
+  "id": "/loona-study-tools/uk/alarm-clock/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
