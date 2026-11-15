@@ -448,5 +448,14 @@
   "k": "rubric maker rubric maker zbuduj rubryke oceniania do druku kryteria wzd uz boku cztery poziomy osiagniec u gory punkty obliczane automatycznie",
   "p": 149,
   "c": "Tool"
+ },
+ {
+  "n": "Budzik online",
+  "u": "https://loonaautomation.github.io/loona-study-tools/pl/alarm-clock/",
+  "s": "Loona Study Tools",
+  "d": "Ustawiaj wiele alarmów z etykietami, czterema dźwiękami i drzemką obok dużego zegara na żywo — za darmo, bez rejestracji, dzwoni z tej karty.",
+  "k": "budzik online online alarm clock ustawiaj wiele alarmów z etykietami czterema dźwiękami i drzemką obok dużego zegara na żywo za darmo bez rejestracji dzwoni z tej karty wake up alarm snooze alarm",
+  "p": 151,
+  "c": "Tool"
  }
 ]
