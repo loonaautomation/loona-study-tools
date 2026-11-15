@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kizalishaji cha Rejista ya Mahudhurio",
+  "short_name": "Rejista ya Mahudhurio",
+  "description": "Kizalishaji cha rejista ya mahudhurio cha bure: weka orodha ya darasa lako mara moja na uchapishe rejista nadhifu ya mahudhurio ya kila mwezi kwa mwezi wowote - siku sahihi, herufi za siku za wiki, Jumapili zikiwa na kivuli, tayari kwa kuweka alama za P, A na L.",
+  "id": "/loona-study-tools/sw/attendance-register-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
