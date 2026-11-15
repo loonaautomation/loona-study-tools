@@ -448,5 +448,14 @@
   "k": "rubric maker rubric maker izradite rubriku za ocjenjivanje za ispis kriteriji niz stranu cetiri razine izvedbe pri vrhu bodovi se racunaju automatski",
   "p": 149,
   "c": "Tool"
+ },
+ {
+  "n": "Izrađivač rasporeda ispita",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hr/exam-date-sheet-maker/",
+  "s": "Loona Study Tools",
+  "d": "Besplatni izrađivač rasporeda ispita: unesite školu, razred i naziv ispita, dodajte predmete s datumima, vremenima i učionicama te ispišite pregledan raspored ispita formata A4. Dani u tjednu popunjavaju se automatski.",
+  "k": "izrađivač rasporeda ispita izrađivač rasporeda ispita besplatni izrađivač rasporeda ispita unesite školu razred i naziv ispita dodajte predmete s datumima vremenima i učionicama te ispišite pregledan raspored ispita formata a4 dani u tjednu popunjavaju se automatski",
+  "p": 150,
+  "c": "Tool"
  }
 ]
