@@ -448,5 +448,14 @@
   "k": "rubric maker rubric maker vytvorte hodnotici rubriku k tisku kriteria po strane ctyri urovne vykonu nahore body pocitane automaticky",
   "p": 149,
   "c": "Tool"
+ },
+ {
+  "n": "Tvůrce rozvrhu zkoušek",
+  "u": "https://loonaautomation.github.io/loona-study-tools/cs/exam-date-sheet-maker/",
+  "s": "Loona Study Tools",
+  "d": "Bezplatný tvůrce rozvrhu zkoušek: zadejte školu, třídu a název zkoušky, přidejte předměty s daty, časy a učebnami a vytiskněte přehledný rozvrh zkoušek ve formátu A4. Dny v týdnu se vyplní automaticky.",
+  "k": "tvůrce rozvrhu zkoušek tvůrce rozvrhu zkoušek bezplatný tvůrce rozvrhu zkoušek zadejte školu třídu a název zkoušky přidejte předměty s daty časy a učebnami a vytiskněte přehledný rozvrh zkoušek ve formátu a4 dny v týdnu se vyplní automaticky",
+  "p": 150,
+  "c": "Tool"
  }
 ]
