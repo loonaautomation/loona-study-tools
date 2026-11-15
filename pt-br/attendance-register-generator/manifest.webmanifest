@@ -1,0 +1,29 @@
+{
+  "name": "Loona Gerador de lista de presença",
+  "short_name": "Lista de presença",
+  "description": "Gerador gratuito de lista de presença: digite a lista da sua turma uma única vez e imprima uma lista de presença mensal organizada para qualquer mês, com o número certo de dias, as letras dos dias da semana e os domingos sombreados, pronta para marcar P, F e J.",
+  "id": "/loona-study-tools/pt-br/attendance-register-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
