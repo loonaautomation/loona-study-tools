@@ -1,0 +1,29 @@
+{
+  "name": "Loona Generatore di registro delle presenze",
+  "short_name": "Registro presenze",
+  "description": "Generatore gratuito di registri delle presenze: inserisci una sola volta l'elenco della tua classe e stampa un registro mensile delle presenze ordinato per qualsiasi mese, con il numero giusto di giorni, le lettere dei giorni della settimana e le domeniche ombreggiate, pronto per segnare P, A e L.",
+  "id": "/loona-study-tools/it/attendance-register-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
