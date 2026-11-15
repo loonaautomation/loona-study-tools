@@ -1,0 +1,29 @@
+{
+  "name": "Loona 考勤登記表生成器",
+  "short_name": "考勤登記表",
+  "description": "免費考勤登記表生成器:只需輸入一次班級名單,即可為任何月份列印整潔的月度考勤登記表——天數準確,帶有星期字母,週日以灰色標示,可直接用 P、A 和 L 標記。",
+  "id": "/loona-study-tools/zh-hant/attendance-register-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
