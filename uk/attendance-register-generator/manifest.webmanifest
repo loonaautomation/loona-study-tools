@@ -1,0 +1,29 @@
+{
+  "name": "Loona Генератор журналу відвідування",
+  "short_name": "Журнал відвідування",
+  "description": "Безкоштовний генератор журналу відвідування: один раз введіть список класу та друкуйте охайний щомісячний журнал відвідування на будь-який місяць — правильна кількість днів, літери днів тижня, неділі затемнені, готовий до позначок P, A та L.",
+  "id": "/loona-study-tools/uk/attendance-register-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
