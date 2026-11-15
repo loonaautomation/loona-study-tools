@@ -466,5 +466,14 @@
   "k": "online budík online alarm clock nastavujte viac budíkov s popismi štyrmi zvukmi a odloženým budením vedľa veľkých živých hodín zadarmo bez registrácie zvoní z tejto karty wake up alarm snooze alarm",
   "p": 151,
   "c": "Tool"
+ },
+ {
+  "n": "Tvorca vysvedčení",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sk/report-card-maker/",
+  "s": "Loona Study Tools",
+  "d": "Vytvárajte vysvedčenia žiakov na tlač v priebehu niekoľkých minút: zadajte známky podľa predmetov a získajte súčty, celkové percento a známku vypočítané automaticky, spolu s poradím v triede, dochádzkou a poznámkami učiteľa.",
+  "k": "report card maker report card maker vytvárajte vysvedčenia žiakov na tlač v priebehu niekoľkých minút zadajte známky podľa predmetov a získajte súčty celkové percento a známku vypočítané automaticky spolu s poradím v triede dochádzkou a poznámkami učiteľa",
+  "p": 150,
+  "c": "Tool"
  }
 ]
