@@ -1,0 +1,29 @@
+{
+  "name": "Loona Generator rejestru obecności",
+  "short_name": "Rejestr obecności",
+  "description": "Darmowy generator rejestru obecności: wpisz listę klasy raz i drukuj schludny miesięczny rejestr obecności na dowolny miesiąc - z prawidłową liczbą dni, literami dni tygodnia i zacienionymi niedzielami, gotowy do zaznaczania O, N i U.",
+  "id": "/loona-study-tools/pl/attendance-register-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
