@@ -1,0 +1,29 @@
+{
+  "name": "Loona Générateur de registre d'appel",
+  "short_name": "Registre d'appel",
+  "description": "Générateur gratuit de registre d'appel : saisissez votre liste de classe une seule fois et imprimez un registre d'appel mensuel soigné pour n'importe quel mois, avec le bon nombre de jours, les lettres des jours de la semaine et les dimanches grisés, prêt pour les marques P, A et L.",
+  "id": "/loona-study-tools/fr/attendance-register-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
