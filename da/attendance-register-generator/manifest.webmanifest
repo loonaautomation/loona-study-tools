@@ -1,0 +1,29 @@
+{
+  "name": "Loona Fremmøderegister-generator",
+  "short_name": "Fremmøderegister",
+  "description": "Gratis fremmøderegister-generator: indtast klasselisten én gang, og print et pænt månedligt fremmøderegister for en hvilken som helst måned - med korrekt antal dage, ugedagsbogstaver og skraverede søndage, klar til markering med M, F og O.",
+  "id": "/loona-study-tools/da/attendance-register-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
