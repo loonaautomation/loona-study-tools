@@ -1,0 +1,29 @@
+{
+  "name": "Loona Jam Penggera Dalam Talian",
+  "short_name": "Jam Penggera",
+  "description": "Jam penggera dalam talian percuma dengan paparan besar, berbilang penggera, fungsi tunda dan empat bunyi. Tanpa pendaftaran.",
+  "id": "/loona-study-tools/ms/alarm-clock/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
