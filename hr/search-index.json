@@ -466,5 +466,14 @@
   "k": "online budilica online alarm clock postavljajte više alarma s oznakama četiri zvuka i odgodom uz veliki sat uživo besplatno bez registracije zvoni iz ove kartice wake up alarm snooze alarm",
   "p": 151,
   "c": "Tool"
+ },
+ {
+  "n": "Izrađivač svjedodžbi",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hr/report-card-maker/",
+  "s": "Loona Study Tools",
+  "d": "Izrađujte svjedodžbe učenika za ispis u nekoliko minuta: unesite ocjene po predmetima i dobijte zbrojeve, ukupni postotak i ocjenu izračunate automatski, zajedno s mjestom u razredu, prisutnošću i napomenama učitelja.",
+  "k": "report card maker report card maker izrađujte svjedodžbe učenika za ispis u nekoliko minuta unesite ocjene po predmetima i dobijte zbrojeve ukupni postotak i ocjenu izračunate automatski zajedno s mjestom u razredu prisutnošću i napomenama učitelja",
+  "p": 150,
+  "c": "Tool"
  }
 ]
