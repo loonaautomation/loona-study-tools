@@ -457,5 +457,14 @@
   "k": "exam date sheet maker exam date sheet maker adja meg az iskolát az osztályt és a vizsga nevét adja hozzá a tantárgyakat dátumokkal időpontokkal és termekkel majd nyomtasson ki egy áttekinthető a4es vizsgaidőpontlapot amelyen a hét napjai automatikusan kitöltődnek",
   "p": 150,
   "c": "Tool"
+ },
+ {
+  "n": "Online ébresztőóra",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hu/alarm-clock/",
+  "s": "Loona Study Tools",
+  "d": "Állítson be több, címkés ébresztést négy hanggal és szundival egy nagy élő órakijelző mellett — ingyen, regisztráció nélkül, erről a lapról szól.",
+  "k": "online alarm clock online ébresztőóra nagy kijelző több ébresztés szundi négy hang regisztráció nélkül erről a lapról szól",
+  "p": 151,
+  "c": "Tool"
  }
 ]
