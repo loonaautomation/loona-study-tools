@@ -1,0 +1,29 @@
+{
+  "name": "Loona Generátor registra dochádzky",
+  "short_name": "Register dochádzky",
+  "description": "Bezplatný generátor registra dochádzky: zadajte zoznam triedy raz a tlačte prehľadný mesačný register dochádzky na ľubovoľný mesiac - so správnym počtom dní, písmenami dní v týždni a tieňovanými nedeľami, pripravený na značenie P, N a O.",
+  "id": "/loona-study-tools/sk/attendance-register-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
