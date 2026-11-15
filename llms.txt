@@ -26,6 +26,7 @@
 - [Hangman Game](https://loonaautomation.github.io/loona-study-tools/hangman-game/): The classic letter-guessing game with built-in word lists for school subjects, or your own word list.
 - [Crossword Generator](https://loonaautomation.github.io/loona-study-tools/crossword-generator/): Enter words and clues and generate a real intersecting crossword puzzle — printable, with an answer key.
 - [Bingo Card Generator](https://loonaautomation.github.io/loona-study-tools/bingo-card-generator/): Generate unique printable vocabulary bingo cards for the whole class, plus a shuffled call list.
+- [Attendance Register Generator](https://loonaautomation.github.io/loona-study-tools/attendance-register-generator/): Free printable monthly attendance register generator for teachers: paste your class list, pick a month, and print an A4 landscape register with weekday letters, Sunday shading and space for P/A/L marking.
 - [Labelled Diagram Maker](https://loonaautomation.github.io/loona-study-tools/labelled-diagram-maker/): Upload a diagram, pin labels onto it, print a labelled or blank version, and run a label quiz.
 - [Hundreds Chart](https://loonaautomation.github.io/loona-study-tools/hundreds-chart/): An interactive, printable 1–100 chart with even/odd and multiples highlighting, plus a missing-numbers practice mode.
 - [Word Wall Cards Generator](https://loonaautomation.github.io/loona-study-tools/word-wall-cards/): Turn word lists into big, bold, printable word wall cards for classroom displays.
