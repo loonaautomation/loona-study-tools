@@ -417,5 +417,14 @@
   "k": "exam date sheet maker exam date sheet maker okulunuzu sınıfınızı ve sınav adını girin tarih saat ve salon bilgileriyle dersleri ekleyin ve haftanın günleri otomatik doldurulmuş temiz bir a4 sınav tarih çizelgesi yazdırın",
   "p": 150,
   "c": "Tool"
+ },
+ {
+  "n": "Karne Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-study-tools/tr/report-card-maker/",
+  "s": "Loona Study Tools",
+  "d": "Dakikalar içinde yazdırılabilir öğrenci karneleri hazırlayın: notları ders ders girin; toplamlar, genel yüzde ve not otomatik hesaplanır; sınıf sırası, devam durumu ve öğretmen görüşü de eklenir.",
+  "k": "report card maker report card maker dakikalar içinde yazdırılabilir öğrenci karneleri hazırlayın notları ders ders girin toplamlar genel yüzde ve not otomatik hesaplanır sınıf sırası devam durumu ve öğretmen görüşü de eklenir",
+  "p": 150,
+  "c": "Tool"
  }
 ]
