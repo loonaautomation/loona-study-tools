@@ -466,5 +466,14 @@
   "k": "online alarm clock saa ya kengele ya mtandaoni onyesho kubwa kengele nyingi kuahirisha sauti nne hakuna kujisajili hulia kutoka kwenye kichupo hiki",
   "p": 151,
   "c": "Tool"
+ },
+ {
+  "n": "Kitengeneza Kadi za Ripoti",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sw/report-card-maker/",
+  "s": "Loona Study Tools",
+  "d": "Tengeneza kadi za ripoti za wanafunzi zinazochapishika kwa dakika chache: ingiza alama kwa kila somo na upate jumla, asilimia ya jumla na daraja vilivyohesabiwa kiotomatiki, pamoja na nafasi darasani, mahudhurio na maoni ya mwalimu.",
+  "k": "report card maker report card maker tengeneza kadi za ripoti za wanafunzi zinazochapishika kwa dakika chache ingiza alama kwa kila somo na upate jumla asilimia ya jumla na daraja vilivyohesabiwa kiotomatiki pamoja na nafasi darasani mahudhurio na maoni ya mwalimu",
+  "p": 150,
+  "c": "Tool"
  }
 ]
