@@ -457,5 +457,14 @@
   "k": "budzik online online alarm clock ustawiaj wiele alarmów z etykietami czterema dźwiękami i drzemką obok dużego zegara na żywo za darmo bez rejestracji dzwoni z tej karty wake up alarm snooze alarm",
   "p": 151,
   "c": "Tool"
+ },
+ {
+  "n": "Kreator harmonogramu egzaminów",
+  "u": "https://loonaautomation.github.io/loona-study-tools/pl/exam-date-sheet-maker/",
+  "s": "Loona Study Tools",
+  "d": "Darmowy kreator harmonogramu egzaminów: wpisz szkołę, klasę i nazwę egzaminu, dodaj przedmioty z datami, godzinami i salami, a następnie wydrukuj przejrzysty harmonogram egzaminów w formacie A4. Dni tygodnia uzupełniają się automatycznie.",
+  "k": "kreator harmonogramu egzaminów kreator harmonogramu egzaminów darmowy kreator harmonogramu egzaminów wpisz szkołę klasę i nazwę egzaminu dodaj przedmioty z datami godzinami i salami a następnie wydrukuj przejrzysty harmonogram egzaminów w formacie a4 dni tygodnia uzupełniają się automatycznie",
+  "p": 150,
+  "c": "Tool"
  }
 ]
