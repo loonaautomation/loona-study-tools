@@ -1,0 +1,29 @@
+{
+  "name": "Loona Генератор на дневник за присъствия",
+  "short_name": "Дневник за присъствия",
+  "description": "Безплатен генератор на дневник за присъствия: въведете списъка на класа веднъж и отпечатвайте подреден месечен дневник за присъствия за всеки месец - с точен брой дни, букви на дните от седмицата и защриховани недели, готов за отбелязване с П, О и От.",
+  "id": "/loona-study-tools/bg/attendance-register-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
