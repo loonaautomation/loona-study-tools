@@ -1,0 +1,29 @@
+{
+  "name": "Loona منشئ سجل الحضور",
+  "short_name": "سجل الحضور",
+  "description": "منشئ سجل حضور مجاني: أدخل قائمة فصلك مرة واحدة واطبع سجل حضور شهريًا أنيقًا لأي شهر - بعدد الأيام الصحيح وأحرف أيام الأسبوع وأيام الأحد مظللة، جاهز للتعليم بـ P وA وL.",
+  "id": "/loona-study-tools/ar/attendance-register-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
