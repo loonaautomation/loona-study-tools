@@ -33,6 +33,7 @@
 - [Printable Paper Generator](https://loonaautomation.github.io/loona-study-tools/printable-paper-generator/): Print graph paper, dot grid paper, isometric paper and handwriting practice paper at exact sizes.
 - [Spelling Worksheet Generator](https://loonaautomation.github.io/loona-study-tools/spelling-worksheet-generator/): From one spelling list: a test sheet, word scrambles, missing-letter practice and ABC order — with an answer key.
 - [Classroom Timers & Exam Timer](https://loonaautomation.github.io/loona-study-tools/classroom-timers/): Big-display countdown timer with progress ring, an exam timer showing end time, a visual bar timer and a stopwatch with laps.
+- [Online Alarm Clock](https://loonaautomation.github.io/loona-study-tools/alarm-clock/): Free online alarm clock with a big live display, multiple labelled alarms, four sounds and snooze — rings from the open tab, no sign-up.
 - [Classroom Group Maker](https://loonaautomation.github.io/loona-study-tools/classroom-group-maker/): Save your class lists and split them into fair random groups or pairs — balanced sizes, reshuffle in one click.
 - [Seating Chart Maker](https://loonaautomation.github.io/loona-study-tools/seating-chart-maker/): Arrange students on a desk grid: click to place, lock favourite seats, shuffle the rest, and print the chart.
 - [Classroom Scoreboard](https://loonaautomation.github.io/loona-study-tools/classroom-scoreboard/): A big, clear team-points scoreboard for the classroom screen — add teams, tap to add or remove points.
