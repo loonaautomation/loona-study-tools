@@ -457,5 +457,14 @@
   "k": "tvorca rozvrhu skúšok tvorca rozvrhu skúšok bezplatný tvorca rozvrhu skúšok zadajte školu triedu a názov skúšky pridajte predmety s dátumami časmi a miestnosťami a vytlačte prehľadný rozvrh skúšok vo formáte a4 dni v týždni sa vyplnia automaticky",
   "p": 150,
   "c": "Tool"
+ },
+ {
+  "n": "Online budík",
+  "u": "https://loonaautomation.github.io/loona-study-tools/sk/alarm-clock/",
+  "s": "Loona Study Tools",
+  "d": "Nastavujte viac budíkov s popismi, štyrmi zvukmi a odloženým budením vedľa veľkých živých hodín — zadarmo, bez registrácie, zvoní z tejto karty.",
+  "k": "online budík online alarm clock nastavujte viac budíkov s popismi štyrmi zvukmi a odloženým budením vedľa veľkých živých hodín zadarmo bez registrácie zvoní z tejto karty wake up alarm snooze alarm",
+  "p": 151,
+  "c": "Tool"
  }
 ]
