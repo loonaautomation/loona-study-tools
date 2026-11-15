@@ -1,0 +1,29 @@
+{
+  "name": "Loona উপস্থিতি রেজিস্টার তৈরি",
+  "short_name": "উপস্থিতি রেজিস্টার",
+  "description": "বিনামূল্যে উপস্থিতি রেজিস্টার জেনারেটর: আপনার শ্রেণির তালিকা একবার লিখুন এবং যেকোনো মাসের জন্য পরিপাটি মাসিক উপস্থিতি রেজিস্টার ছাপুন - সঠিক দিনের সংখ্যা, সপ্তাহের দিনের অক্ষর, রবিবার ছায়াযুক্ত, হাতে P, A ও L বসানোর জন্য প্রস্তুত।",
+  "id": "/loona-study-tools/bn/attendance-register-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
