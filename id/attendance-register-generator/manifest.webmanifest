@@ -1,0 +1,29 @@
+{
+  "name": "Loona Generator Daftar Hadir",
+  "short_name": "Daftar Hadir",
+  "description": "Generator daftar hadir gratis: masukkan daftar kelas Anda sekali saja dan cetak daftar hadir bulanan yang rapi untuk bulan apa pun, dengan jumlah hari yang benar, huruf hari dalam seminggu, dan hari Minggu yang diarsir, siap untuk ditandai H, A, dan I.",
+  "id": "/loona-study-tools/id/attendance-register-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
