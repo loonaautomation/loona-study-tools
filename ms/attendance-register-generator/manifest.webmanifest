@@ -1,0 +1,29 @@
+{
+  "name": "Loona Penjana Daftar Kehadiran",
+  "short_name": "Daftar Kehadiran",
+  "description": "Penjana daftar kehadiran percuma: masukkan senarai kelas anda sekali sahaja dan cetak daftar kehadiran bulanan yang kemas untuk mana-mana bulan, dengan bilangan hari yang betul, huruf hari dalam minggu, dan hari Ahad yang dilorek, sedia untuk ditanda H, TH dan C.",
+  "id": "/loona-study-tools/ms/attendance-register-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
