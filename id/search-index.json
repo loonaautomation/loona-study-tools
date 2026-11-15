@@ -449,5 +449,22 @@
   "p": 149,
   "c": "Tool"
  },
-{"n": "Jam Alarm Online", "u": "https://loonaautomation.github.io/loona-study-tools/id/alarm-clock/", "s": "Loona Study Tools", "d": "Atur banyak alarm dengan label, empat bunyi, dan fitur tunda, di samping tampilan jam langsung yang besar — gratis, tanpa daftar, berbunyi dari tab ini.", "k": "online alarm clock jam alarm online atur banyak alarm dengan label empat bunyi dan fitur tunda di samping tampilan jam langsung yang besar gratis tanpa daftar berbunyi dari tab ini", "p": 151, "c": "Tool"}
+ {
+  "n": "Jam Alarm Online",
+  "u": "https://loonaautomation.github.io/loona-study-tools/id/alarm-clock/",
+  "s": "Loona Study Tools",
+  "d": "Atur banyak alarm dengan label, empat bunyi, dan fitur tunda, di samping tampilan jam langsung yang besar — gratis, tanpa daftar, berbunyi dari tab ini.",
+  "k": "online alarm clock jam alarm online atur banyak alarm dengan label empat bunyi dan fitur tunda di samping tampilan jam langsung yang besar gratis tanpa daftar berbunyi dari tab ini",
+  "p": 151,
+  "c": "Tool"
+ },
+ {
+  "n": "Pembuat Lembar Tanggal Ujian",
+  "u": "https://loonaautomation.github.io/loona-study-tools/id/exam-date-sheet-maker/",
+  "s": "Loona Study Tools",
+  "d": "Masukkan sekolah, kelas, dan nama ujian Anda, tambahkan mata pelajaran beserta tanggal, waktu, dan ruangan, lalu cetak lembar tanggal ujian A4 yang rapi dengan hari dalam seminggu yang terisi otomatis.",
+  "k": "exam date sheet maker exam date sheet maker masukkan sekolah kelas dan nama ujian anda tambahkan mata pelajaran beserta tanggal waktu dan ruangan lalu cetak lembar tanggal ujian a4 yang rapi dengan hari dalam seminggu yang terisi otomatis",
+  "p": 150,
+  "c": "Tool"
+ }
 ]
