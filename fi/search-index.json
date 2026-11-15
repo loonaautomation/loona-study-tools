@@ -467,4 +467,14 @@
   "p": 151,
   "c": "Tool"
  }
-,{"n":"Päivän sana","u":"https://loonaautomation.github.io/loona-study-tools/fi/word-of-the-day/","s":"Loona Study Tools","d":"Opettele joka päivä yksi uusi englannin sana — sen merkitys urduksi, ääntäminen ja esimerkkilause englanniksi ja urduksi. Selaa aiempia sanoja ja hae koko sanapankista. Ilmainen, ei rekisteröitymistä.","k":"päivän sana opettele joka päivä yksi uusi englannin sen merkitys urduksi ääntäminen ja esimerkkilause englanniksi selaa aiempia sanoja hae koko sanapankista ilmainen ei rekisteröitymistä word of the day daily english urdu meaning vocabulary","p":0,"c":"Tool"}]
+,{"n":"Päivän sana","u":"https://loonaautomation.github.io/loona-study-tools/fi/word-of-the-day/","s":"Loona Study Tools","d":"Opettele joka päivä yksi uusi englannin sana — sen merkitys urduksi, ääntäminen ja esimerkkilause englanniksi ja urduksi. Selaa aiempia sanoja ja hae koko sanapankista. Ilmainen, ei rekisteröitymistä.","k":"päivän sana opettele joka päivä yksi uusi englannin sen merkitys urduksi ääntäminen ja esimerkkilause englanniksi selaa aiempia sanoja hae koko sanapankista ilmainen ei rekisteröitymistä word of the day daily english urdu meaning vocabulary","p":0,"c":"Tool"},
+ {
+  "n": "Todistusgeneraattori",
+  "u": "https://loonaautomation.github.io/loona-study-tools/fi/report-card-maker/",
+  "s": "Loona Study Tools",
+  "d": "Tee tulostettavia oppilastodistuksia muutamassa minuutissa: syötä pisteet aineittain, niin saat summat, kokonaisprosentin ja arvosanan laskettuna automaattisesti, sijoituksen luokassa, läsnäolon ja opettajan kommenttien kera.",
+  "k": "report card maker report card maker tee tulostettavia oppilastodistuksia muutamassa minuutissa syötä pisteet aineittain niin saat summat kokonaisprosentin ja arvosanan laskettuna automaattisesti sijoituksen luokassa läsnäolon ja opettajan kommenttien kera",
+  "p": 150,
+  "c": "Tool"
+ }
+]
