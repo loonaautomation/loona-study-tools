@@ -449,5 +449,22 @@
   "p": 149,
   "c": "Tool"
  },
-{"n": "Jam Penggera Dalam Talian", "u": "https://loonaautomation.github.io/loona-study-tools/ms/alarm-clock/", "s": "Loona Study Tools", "d": "Tetapkan berbilang penggera dengan label, empat bunyi dan fungsi tunda, di samping paparan jam langsung yang besar — percuma, tanpa pendaftaran, berbunyi dari tab ini.", "k": "online alarm clock jam penggera dalam talian tetapkan berbilang penggera dengan label empat bunyi dan fungsi tunda di samping paparan jam langsung yang besar percuma tanpa pendaftaran berbunyi dari tab ini", "p": 151, "c": "Tool"}
+ {
+  "n": "Jam Penggera Dalam Talian",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ms/alarm-clock/",
+  "s": "Loona Study Tools",
+  "d": "Tetapkan berbilang penggera dengan label, empat bunyi dan fungsi tunda, di samping paparan jam langsung yang besar — percuma, tanpa pendaftaran, berbunyi dari tab ini.",
+  "k": "online alarm clock jam penggera dalam talian tetapkan berbilang penggera dengan label empat bunyi dan fungsi tunda di samping paparan jam langsung yang besar percuma tanpa pendaftaran berbunyi dari tab ini",
+  "p": 151,
+  "c": "Tool"
+ },
+ {
+  "n": "Pembuat Helaian Tarikh Peperiksaan",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ms/exam-date-sheet-maker/",
+  "s": "Loona Study Tools",
+  "d": "Masukkan nama sekolah, kelas dan nama peperiksaan anda, tambah subjek berserta tarikh, masa dan bilik, dan cetak helaian tarikh peperiksaan A4 yang kemas dengan hari dalam minggu yang diisi secara automatik.",
+  "k": "exam date sheet maker exam date sheet maker masukkan nama sekolah kelas dan nama peperiksaan anda tambah subjek berserta tarikh masa dan bilik dan cetak helaian tarikh peperiksaan a4 yang kemas dengan hari dalam minggu yang diisi secara automatik",
+  "p": 150,
+  "c": "Tool"
+ }
 ]
