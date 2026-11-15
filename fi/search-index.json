@@ -448,5 +448,14 @@
   "k": "rubric maker rubric maker rakenna tulostettava arviointimatriisi kriteerit sivulla neljä suoritustasoa ylhäällä pisteet lasketaan automaattisesti",
   "p": 149,
   "c": "Tool"
+ },
+ {
+  "n": "Koepäivätaulukon tekijä",
+  "u": "https://loonaautomation.github.io/loona-study-tools/fi/exam-date-sheet-maker/",
+  "s": "Loona Study Tools",
+  "d": "Syötä koulusi, luokkasi ja kokeen nimi, lisää aineet päivämäärineen, aikoineen ja huoneineen ja tulosta siisti A4-koepäivätaulukko, jonka viikonpäivät täyttyvät automaattisesti.",
+  "k": "exam date sheet maker exam date sheet maker syötä koulusi luokkasi ja kokeen nimi lisää aineet päivämäärineen aikoineen ja huoneineen ja tulosta siisti a4koepäivätaulukko jonka viikonpäivät täyttyvät automaattisesti",
+  "p": 150,
+  "c": "Tool"
  }
 ]
