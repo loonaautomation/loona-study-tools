@@ -1,0 +1,29 @@
+{
+  "name": "Loona Trình tạo sổ điểm danh",
+  "short_name": "Sổ điểm danh",
+  "description": "Trình tạo sổ điểm danh miễn phí: nhập danh sách lớp một lần và in sổ điểm danh hàng tháng gọn gàng cho bất kỳ tháng nào - đúng số ngày, chữ cái thứ trong tuần, Chủ nhật được tô bóng, sẵn sàng để đánh dấu P, A và L.",
+  "id": "/loona-study-tools/vi/attendance-register-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
