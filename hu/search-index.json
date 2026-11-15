@@ -448,5 +448,14 @@
   "k": "rubric maker rubric maker készítsen nyomtatható értékelési rubrikát szempontok az oldal mentén négy teljesítményszint a tetején a pontok automatikusan kiszámítva",
   "p": 149,
   "c": "Tool"
+ },
+ {
+  "n": "Vizsgabeosztás-készítő",
+  "u": "https://loonaautomation.github.io/loona-study-tools/hu/exam-date-sheet-maker/",
+  "s": "Loona Study Tools",
+  "d": "Adja meg az iskolát, az osztályt és a vizsga nevét, adja hozzá a tantárgyakat dátumokkal, időpontokkal és termekkel, majd nyomtasson ki egy áttekinthető A4-es vizsgaidőpont-lapot, amelyen a hét napjai automatikusan kitöltődnek.",
+  "k": "exam date sheet maker exam date sheet maker adja meg az iskolát az osztályt és a vizsga nevét adja hozzá a tantárgyakat dátumokkal időpontokkal és termekkel majd nyomtasson ki egy áttekinthető a4es vizsgaidőpontlapot amelyen a hét napjai automatikusan kitöltődnek",
+  "p": 150,
+  "c": "Tool"
  }
 ]
