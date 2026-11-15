@@ -457,5 +457,14 @@
   "k": "exam date sheet maker exam date sheet maker introduceți școala clasa și numele examenului adăugați materiile cu date ore și săli și tipăriți o fișă curată cu datele examenelor în format a4 cu zilele săptămânii completate automat",
   "p": 150,
   "c": "Tool"
+ },
+ {
+  "n": "Ceas deșteptător online",
+  "u": "https://loonaautomation.github.io/loona-study-tools/ro/alarm-clock/",
+  "s": "Loona Study Tools",
+  "d": "Setați alarme multiple cu etichete, patru sunete și amânare, lângă un afișaj mare cu ceas live — gratuit, fără înregistrare, sună din această filă.",
+  "k": "online alarm clock ceas desteptator online afisaj mare alarme multiple amanare patru sunete fara inregistrare suna din aceasta fila",
+  "p": 151,
+  "c": "Tool"
  }
 ]
