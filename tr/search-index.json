@@ -408,5 +408,14 @@
   "k": "online alarm clock cevrimici calar saat buyuk ekran birden fazla alarm erteleme dort ses kayit yok bu sekmeden calar",
   "p": 151,
   "c": "Tool"
+ },
+ {
+  "n": "Sınav Tarih Çizelgesi Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-study-tools/tr/exam-date-sheet-maker/",
+  "s": "Loona Study Tools",
+  "d": "Okulunuzu, sınıfınızı ve sınav adını girin, tarih, saat ve salon bilgileriyle dersleri ekleyin ve haftanın günleri otomatik doldurulmuş, temiz bir A4 sınav tarih çizelgesi yazdırın.",
+  "k": "exam date sheet maker exam date sheet maker okulunuzu sınıfınızı ve sınav adını girin tarih saat ve salon bilgileriyle dersleri ekleyin ve haftanın günleri otomatik doldurulmuş temiz bir a4 sınav tarih çizelgesi yazdırın",
+  "p": 150,
+  "c": "Tool"
  }
 ]
