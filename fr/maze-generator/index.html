@@ -200,7 +200,7 @@ body.print-cards .screenonly{display:none!important}body.print-cards #printCards
 <a href="../terms.html">Conditions d’utilisation</a>
 <a href="mailto:loonaautomation@gmail.com">loonaautomation@gmail.com</a></div>
 </div><div class="copyright">&copy; 2026 Loona Automation - Loona Study Tools. Outils d’étude en ligne gratuits qui fonctionnent à 100 % dans votre navigateur.</div></footer>
-<script>/*loona-pwa*/(function(){if('serviceWorker' in navigator){window.addEventListener('load',function(){navigator.serviceWorker.register('../../sw.js').catch(function(){});});}var D=null;function S(){return window.matchMedia('(affichage-mode: standalone)').matches||window.navigator.standalone===true;}function B(m){if(S()||document.getElementById('loona-install-btn'))return;var b=document.createElement('button');b.id='loona-install-btn';b.type='button';b.textContent=String.fromCodePoint(0x1F4F2)+' Installer l’application';b.setAttribute('style','position:fixed;correct:16px;bas:16px;z-index:2147483000;background:#062e2un;couleur:#fff;border:1px solide #c9un227;border-rayon:999px;padding:11px 18px;font:600 14px/1.2 system-ui,-pomme-system,sans-serif;boîte-shadow:0 6px 18px rgba(0,0,0,.35);cursor:pointer');b.addEventListener('click',function(){if(m==='p'&&D){D.prompt();D.userChoice.then(function(){D=null;b.remove();});}else{alert('Installez cette application : touchez le bouton Partager, puis choisissez « Ajouter à l’écran d’accueil ».');}});document.body.appendChild(b);}window.addEventListener('beforeinstallprompt',function(e){e.preventDefault();D=e;B('p');});window.addEventListener('appinstalled',function(){var b=document.getElementById('loona-install-btn');if(b)b.remove();});if(/iphone|ipad|ipod/i.test(navigator.userAgent)&&!S()){window.addEventListener('load',function(){B('i');});}})();</script>
+<script>/*loona-pwa*/(function(){if('serviceWorker' in navigator){window.addEventListener('load',function(){navigator.serviceWorker.register('../../sw.js').catch(function(){});});}var D=null;function S(){return window.matchMedia('(display-mode: standalone)').matches||window.navigator.standalone===true;}function B(m){if(S()||document.getElementById('loona-install-btn'))return;var b=document.createElement('button');b.id='loona-install-btn';b.type='button';b.textContent=String.fromCodePoint(0x1F4F2)+' Installer l’application';b.setAttribute('style','position:fixed;right:16px;bottom:16px;z-index:2147483000;background:#062e2a;color:#fff;border:1px solid #c9a227;border-radius:999px;padding:11px 18px;font:600 14px/1.2 system-ui,-apple-system,sans-serif;box-shadow:0 6px 18px rgba(0,0,0,.35);cursor:pointer');b.addEventListener('click',function(){if(m==='p'&&D){D.prompt();D.userChoice.then(function(){D=null;b.remove();});}else{alert('Installez cette application : touchez le bouton Partager, puis choisissez « Ajouter à l’écran d’accueil ».');}});document.body.appendChild(b);}window.addEventListener('beforeinstallprompt',function(e){e.preventDefault();D=e;B('p');});window.addEventListener('appinstalled',function(){var b=document.getElementById('loona-install-btn');if(b)b.remove();});if(/iphone|ipad|ipod/i.test(navigator.userAgent)&&!S()){window.addEventListener('load',function(){B('i');});}})();</script>
 </body>
 </html>
 
@@ -226,14 +226,14 @@ function solveMaze(maze){
   var path=[];var cur=[cols-1,rows-1];while(cur){path.unshift(cur);cur=prev[cur[0]+","+cur[1]];}
   return path;}
 function mazeSVG(maze, path){
-  var cs=24,W=maze.cols*cs,H=maze.rows*cs;var out='<svg width="'+W+'" hauteur="'+H+'" viewBox="0 0 '+W+' '+H+'" xmlns="http://www.w3.org/2000/svg" style="background:#fff;max-largeur:100%">';
+  var cs=24,W=maze.cols*cs,H=maze.rows*cs;var out='<svg width="'+W+'" height="'+H+'" viewBox="0 0 '+W+' '+H+'" xmlns="http://www.w3.org/2000/svg" style="background:#fff;max-width:100%">';
   if(path){out+='<polyline fill="none" stroke="#d9534f" stroke-width="5" stroke-linejoin="round" points="'+path.map(function(p){return (p[0]*cs+cs/2)+","+(p[1]*cs+cs/2);}).join(" ")+'"/>';}
   for(var r=0;r<maze.rows;r++)for(var c=0;c<maze.cols;c++){var cell=maze.cells[r][c];var x=c*cs,y=r*cs;
-    if(cell.walls[0])out+='<line x1="'+x+'" y1="'+y+'" x2="'+(x+cs)+'" y2="'+y+'" stroke="#062e2un" stroke-largeur="3"/>';
-    if(cell.walls[1])out+='<line x1="'+(x+cs)+'" y1="'+y+'" x2="'+(x+cs)+'" y2="'+(y+cs)+'" stroke="#062e2un" stroke-largeur="3"/>';
-    if(cell.walls[2])out+='<line x1="'+x+'" y1="'+(y+cs)+'" x2="'+(x+cs)+'" y2="'+(y+cs)+'" stroke="#062e2un" stroke-largeur="3"/>';
-    if(cell.walls[3])out+='<line x1="'+x+'" y1="'+y+'" x2="'+x+'" y2="'+(y+cs)+'" stroke="#062e2un" stroke-largeur="3"/>';}
-  out+='<circle cx="'+(cs/2)+'" cy="'+(cs/2)+'" r="6" remplir="#2e9e5b"/><cercle cx="'+(W-cs/2)+'" cy="'+(H-cs/2)+'" r="6" remplir="#b3261e"/></svg>';
+    if(cell.walls[0])out+='<line x1="'+x+'" y1="'+y+'" x2="'+(x+cs)+'" y2="'+y+'" stroke="#062e2a" stroke-width="3"/>';
+    if(cell.walls[1])out+='<line x1="'+(x+cs)+'" y1="'+y+'" x2="'+(x+cs)+'" y2="'+(y+cs)+'" stroke="#062e2a" stroke-width="3"/>';
+    if(cell.walls[2])out+='<line x1="'+x+'" y1="'+(y+cs)+'" x2="'+(x+cs)+'" y2="'+(y+cs)+'" stroke="#062e2a" stroke-width="3"/>';
+    if(cell.walls[3])out+='<line x1="'+x+'" y1="'+y+'" x2="'+x+'" y2="'+(y+cs)+'" stroke="#062e2a" stroke-width="3"/>';}
+  out+='<circle cx="'+(cs/2)+'" cy="'+(cs/2)+'" r="6" fill="#2e9e5b"/><circle cx="'+(W-cs/2)+'" cy="'+(H-cs/2)+'" r="6" fill="#b3261e"/></svg>';
   return out;}
 </script>
 <script>function $(id){return document.getElementById(id);} function esc(s){var d=document.createElement("div");d.textContent=String(s==null?"":s);return d.innerHTML;}
