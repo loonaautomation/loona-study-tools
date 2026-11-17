@@ -210,8 +210,8 @@ table.rc-marks tr.rc-totalrow td{font-weight:700;background:#faf8ef}
 <div class="field"><label for="rcRoll">Oppilaan numero</label><input type="text" id="rcRoll" placeholder="esim. 14"></div>
 </div>
 <h3 class="rc-subhead">Aineet ja pisteet</h3>
-<table class="rc-subjects"><thead><tr><th>Aine</th><th>Enimmäispisteet</th><th>Saadut pisteet</th><th>%</th><th>Poista</th></tr></thead><tbody id="rcAinesBody"></tbody></table>
-<div class="row"><button class="btn ghost small" id="rcAddAine" type="button">+ Lisää aine</button><span class="status" id="rcStatus"></span></div>
+<table class="rc-subjects"><thead><tr><th>Aine</th><th>Enimmäispisteet</th><th>Saadut pisteet</th><th>%</th><th>Poista</th></tr></thead><tbody id="rcSubjectsBody"></tbody></table>
+<div class="row"><button class="btn ghost small" id="rcAddSubject" type="button">+ Lisää aine</button><span class="status" id="rcStatus"></span></div>
 <h3 class="rc-subhead">Arviointiasteikko</h3>
 <p class="rc-note">Arvosanat lasketaan kokonaisprosentin perusteella näiden rajojen avulla. Muuta mitä tahansa lukua niin, että se vastaa oman koulusi asteikkoa — arvosana päivittyy heti.</p>
 <div class="rc-gradeinputs">
@@ -227,12 +227,12 @@ table.rc-marks tr.rc-totalrow td{font-weight:700;background:#faf8ef}
 <div>Saadut pisteet yhteensä<b id="rcResObtained">0</b></div>
 <div>Enimmäispisteet yhteensä<b id="rcResMaximum">0</b></div>
 <div>Kokonaisprosentti<b id="rcResPercentage">0.00%</b></div>
-<div>Arvosana<b id="rcResArvosana">—</b></div>
+<div>Arvosana<b id="rcResGrade">—</b></div>
 </div>
 <div class="row">
 <div class="field"><label for="rcPosition">Sijoitus luokassa (valinnainen)</label><input type="text" id="rcPosition" placeholder="esim. 3. 32 oppilaasta"></div>
 <div class="field"><label for="rcAttPresent">Läsnäolopäivät (valinnainen)</label><input type="number" id="rcAttPresent" min="0" step="1" placeholder="esim. 54"></div>
-<div class="field"><label for="rcAttYhteensä">Koulupäivät yhteensä (valinnainen)</label><input type="number" id="rcAttYhteensä" min="0" step="1" placeholder="esim. 60"></div>
+<div class="field"><label for="rcAttTotal">Koulupäivät yhteensä (valinnainen)</label><input type="number" id="rcAttTotal" min="0" step="1" placeholder="esim. 60"></div>
 </div>
 <h3 class="rc-subhead">Opettajan kommentit</h3>
 <p class="rc-note">Pikakommentit — napauta yhtä käyttääksesi sitä ja muokkaa sitä sitten vapaasti:</p>
@@ -272,13 +272,13 @@ table.rc-marks tr.rc-totalrow td{font-weight:700;background:#faf8ef}
 <div><b>Oppilasnro:</b> <span id="pvRoll">—</span></div>
 <div><b>Koe / lukukausi:</b> <span id="pvExam">—</span></div>
 <div id="pvPositionBox" style="display:none"><b>Sijoitus luokassa:</b> <span id="pvPosition"></span></div>
-<div id="pvLäsnäoloBox" style="display:none"><b>Läsnäolo:</b> <span id="pvLäsnäolo"></span></div>
+<div id="pvAttendanceBox" style="display:none"><b>Läsnäolo:</b> <span id="pvAttendance"></span></div>
 </div>
 <table class="rc-marks"><thead><tr><th>Aine</th><th class="num">Enimmäispisteet</th><th class="num">Saadut pisteet</th><th class="num">%</th></tr></thead><tbody id="pvBody"></tbody>
-<tfoot><tr class="rc-totalrow"><td>Yhteensä</td><td class="num" id="pvYhteensäMax">0</td><td class="num" id="pvYhteensäObt">0</td><td class="num" id="pvYhteensäPct">0.00%</td></tr></tfoot></table>
+<tfoot><tr class="rc-totalrow"><td>Yhteensä</td><td class="num" id="pvTotalMax">0</td><td class="num" id="pvTotalObt">0</td><td class="num" id="pvTotalPct">0.00%</td></tr></tfoot></table>
 <div class="rc-summary">
 <div>Kokonaisprosentti<b id="pvPercentage">0.00%</b></div>
-<div>Arvosana<b id="pvArvosana">—</b></div>
+<div>Arvosana<b id="pvGrade">—</b></div>
 <div id="pvAttSummaryBox" style="display:none">Läsnäolo<b id="pvAttSummary"></b></div>
 </div>
 <div class="rc-remarks" id="pvRemarksBox" style="display:none"><b>Opettajan kommentit:</b> <span id="pvRemarks"></span></div>

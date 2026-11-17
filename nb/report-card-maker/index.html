@@ -210,8 +210,8 @@ table.rc-marks tr.rc-totalrow td{font-weight:700;background:#faf8ef}
 <div class="field"><label for="rcRoll">Elevnummer</label><input type="text" id="rcRoll" placeholder="f.eks. 14"></div>
 </div>
 <h3 class="rc-subhead">Fag og poeng</h3>
-<table class="rc-subjects"><thead><tr><th>Fag</th><th>Maks poeng</th><th>Oppnådde poeng</th><th>%</th><th>Fjern</th></tr></thead><tbody id="rcFagsBody"></tbody></table>
-<div class="row"><button class="btn ghost small" id="rcAddFag" type="button">+ Legg til fag</button><span class="status" id="rcStatus"></span></div>
+<table class="rc-subjects"><thead><tr><th>Fag</th><th>Maks poeng</th><th>Oppnådde poeng</th><th>%</th><th>Fjern</th></tr></thead><tbody id="rcSubjectsBody"></tbody></table>
+<div class="row"><button class="btn ghost small" id="rcAddSubject" type="button">+ Legg til fag</button><span class="status" id="rcStatus"></span></div>
 <h3 class="rc-subhead">Karakterskala</h3>
 <p class="rc-note">Karakterer beregnes ut fra den samlede prosenten ved hjelp av disse grensene. Endre et hvilket som helst tall slik at det passer til skolens egen skala — karakteren oppdateres umiddelbart.</p>
 <div class="rc-gradeinputs">
@@ -227,12 +227,12 @@ table.rc-marks tr.rc-totalrow td{font-weight:700;background:#faf8ef}
 <div>Totaltt oppnådde poeng<b id="rcResObtained">0</b></div>
 <div>Totaltt maks poeng<b id="rcResMaximum">0</b></div>
 <div>Samlet prosent<b id="rcResPercentage">0.00%</b></div>
-<div>Karakter<b id="rcResKarakter">—</b></div>
+<div>Karakter<b id="rcResGrade">—</b></div>
 </div>
 <div class="row">
 <div class="field"><label for="rcPosition">Plassering i klassen (valgfritt)</label><input type="text" id="rcPosition" placeholder="f.eks. 3. av 32"></div>
 <div class="field"><label for="rcAttPresent">Dager til stede (valgfritt)</label><input type="number" id="rcAttPresent" min="0" step="1" placeholder="f.eks. 54"></div>
-<div class="field"><label for="rcAttTotalt">Totalte skoledager (valgfritt)</label><input type="number" id="rcAttTotalt" min="0" step="1" placeholder="f.eks. 60"></div>
+<div class="field"><label for="rcAttTotal">Totalte skoledager (valgfritt)</label><input type="number" id="rcAttTotal" min="0" step="1" placeholder="f.eks. 60"></div>
 </div>
 <h3 class="rc-subhead">Lærerens kommentarer</h3>
 <p class="rc-note">Hurtigkommentarer — trykk på én for å bruke den, og rediger deretter fritt:</p>
@@ -272,13 +272,13 @@ table.rc-marks tr.rc-totalrow td{font-weight:700;background:#faf8ef}
 <div><b>Elevnummer:</b> <span id="pvRoll">—</span></div>
 <div><b>Prøve / Termin:</b> <span id="pvExam">—</span></div>
 <div id="pvPositionBox" style="display:none"><b>Plassering i klassen:</b> <span id="pvPosition"></span></div>
-<div id="pvFremmøteBox" style="display:none"><b>Fremmøte:</b> <span id="pvFremmøte"></span></div>
+<div id="pvAttendanceBox" style="display:none"><b>Fremmøte:</b> <span id="pvAttendance"></span></div>
 </div>
 <table class="rc-marks"><thead><tr><th>Fag</th><th class="num">Maks poeng</th><th class="num">Oppnådde poeng</th><th class="num">%</th></tr></thead><tbody id="pvBody"></tbody>
-<tfoot><tr class="rc-totalrow"><td>Totalt</td><td class="num" id="pvTotaltMax">0</td><td class="num" id="pvTotaltObt">0</td><td class="num" id="pvTotaltPct">0.00%</td></tr></tfoot></table>
+<tfoot><tr class="rc-totalrow"><td>Totalt</td><td class="num" id="pvTotalMax">0</td><td class="num" id="pvTotalObt">0</td><td class="num" id="pvTotalPct">0.00%</td></tr></tfoot></table>
 <div class="rc-summary">
 <div>Samlet prosent<b id="pvPercentage">0.00%</b></div>
-<div>Karakter<b id="pvKarakter">—</b></div>
+<div>Karakter<b id="pvGrade">—</b></div>
 <div id="pvAttSummaryBox" style="display:none">Fremmøte<b id="pvAttSummary"></b></div>
 </div>
 <div class="rc-remarks" id="pvRemarksBox" style="display:none"><b>Lærerens kommentarer:</b> <span id="pvRemarks"></span></div>

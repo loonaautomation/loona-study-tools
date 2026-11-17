@@ -210,8 +210,8 @@ table.rc-marks tr.rc-totalrow td{font-weight:700;background:#faf8ef}
 <div class="field"><label for="rcRoll">Okul numarası</label><input type="text" id="rcRoll" placeholder="örn. 14"></div>
 </div>
 <h3 class="rc-subhead">Dersler ve Notlar</h3>
-<table class="rc-subjects"><thead><tr><th>Ders</th><th>Toplam Puan</th><th>Alınan Puan</th><th>%</th><th>Kaldır</th></tr></thead><tbody id="rcDerssBody"></tbody></table>
-<div class="row"><button class="btn ghost small" id="rcAddDers" type="button">+ Ders ekle</button><span class="status" id="rcStatus"></span></div>
+<table class="rc-subjects"><thead><tr><th>Ders</th><th>Toplam Puan</th><th>Alınan Puan</th><th>%</th><th>Kaldır</th></tr></thead><tbody id="rcSubjectsBody"></tbody></table>
+<div class="row"><button class="btn ghost small" id="rcAddSubject" type="button">+ Ders ekle</button><span class="status" id="rcStatus"></span></div>
 <h3 class="rc-subhead">Not Ölçeği</h3>
 <p class="rc-note">Notlar, bu eşik değerler kullanılarak genel yüzdeden hesaplanır. Herhangi bir sayıyı okulunuzun kendi ölçeğine uyacak şekilde değiştirin — not anında güncellenir.</p>
 <div class="rc-gradeinputs">
@@ -227,12 +227,12 @@ table.rc-marks tr.rc-totalrow td{font-weight:700;background:#faf8ef}
 <div>Alınan toplam puan<b id="rcResObtained">0</b></div>
 <div>Toplam azami puan<b id="rcResMaximum">0</b></div>
 <div>Genel yüzde<b id="rcResPercentage">0.00%</b></div>
-<div>Not<b id="rcResNot">—</b></div>
+<div>Not<b id="rcResGrade">—</b></div>
 </div>
 <div class="row">
 <div class="field"><label for="rcPosition">Sınıf sırası (isteğe bağlı)</label><input type="text" id="rcPosition" placeholder="örn. 32 öğrenciden 3."></div>
 <div class="field"><label for="rcAttPresent">Geldiği gün sayısı (isteğe bağlı)</label><input type="number" id="rcAttPresent" min="0" step="1" placeholder="örn. 54"></div>
-<div class="field"><label for="rcAttToplam">Toplam okul günü (isteğe bağlı)</label><input type="number" id="rcAttToplam" min="0" step="1" placeholder="örn. 60"></div>
+<div class="field"><label for="rcAttTotal">Toplam okul günü (isteğe bağlı)</label><input type="number" id="rcAttTotal" min="0" step="1" placeholder="örn. 60"></div>
 </div>
 <h3 class="rc-subhead">Öğretmen görüşü</h3>
 <p class="rc-note">Hazır görüşler — kullanmak için birine dokunun, sonra dilediğiniz gibi düzenleyin:</p>
@@ -272,13 +272,13 @@ table.rc-marks tr.rc-totalrow td{font-weight:700;background:#faf8ef}
 <div><b>Okul No.:</b> <span id="pvRoll">—</span></div>
 <div><b>Sınav / Dönem:</b> <span id="pvExam">—</span></div>
 <div id="pvPositionBox" style="display:none"><b>Sınıf Sırası:</b> <span id="pvPosition"></span></div>
-<div id="pvDevam DurumuBox" style="display:none"><b>Devam Durumu:</b> <span id="pvDevam Durumu"></span></div>
+<div id="pvAttendanceBox" style="display:none"><b>Devam Durumu:</b> <span id="pvAttendance"></span></div>
 </div>
 <table class="rc-marks"><thead><tr><th>Ders</th><th class="num">Toplam Puan</th><th class="num">Alınan Puan</th><th class="num">%</th></tr></thead><tbody id="pvBody"></tbody>
-<tfoot><tr class="rc-totalrow"><td>Toplam</td><td class="num" id="pvToplamMax">0</td><td class="num" id="pvToplamObt">0</td><td class="num" id="pvToplamPct">0.00%</td></tr></tfoot></table>
+<tfoot><tr class="rc-totalrow"><td>Toplam</td><td class="num" id="pvTotalMax">0</td><td class="num" id="pvTotalObt">0</td><td class="num" id="pvTotalPct">0.00%</td></tr></tfoot></table>
 <div class="rc-summary">
 <div>Genel Yüzde<b id="pvPercentage">0.00%</b></div>
-<div>Not<b id="pvNot">—</b></div>
+<div>Not<b id="pvGrade">—</b></div>
 <div id="pvAttSummaryBox" style="display:none">Devam Durumu<b id="pvAttSummary"></b></div>
 </div>
 <div class="rc-remarks" id="pvRemarksBox" style="display:none"><b>Öğretmen Görüşü:</b> <span id="pvRemarks"></span></div>

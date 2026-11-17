@@ -210,8 +210,8 @@ table.rc-marks tr.rc-totalrow td{font-weight:700;background:#faf8ef}
 <div class="field"><label for="rcRoll">学号</label><input type="text" id="rcRoll" placeholder="例如 14"></div>
 </div>
 <h3 class="rc-subhead">科目与分数</h3>
-<table class="rc-subjects"><thead><tr><th>科目</th><th>满分</th><th>得分</th><th>%</th><th>删除</th></tr></thead><tbody id="rc科目sBody"></tbody></table>
-<div class="row"><button class="btn ghost small" id="rcAdd科目" type="button">+ 添加科目</button><span class="status" id="rcStatus"></span></div>
+<table class="rc-subjects"><thead><tr><th>科目</th><th>满分</th><th>得分</th><th>%</th><th>删除</th></tr></thead><tbody id="rcSubjectsBody"></tbody></table>
+<div class="row"><button class="btn ghost small" id="rcAddSubject" type="button">+ 添加科目</button><span class="status" id="rcStatus"></span></div>
 <h3 class="rc-subhead">等级标准</h3>
 <p class="rc-note">等级是根据总百分比使用这些临界值计算得出的。更改任何数字即可与您学校自己的标准相匹配 — 等级会立即更新。</p>
 <div class="rc-gradeinputs">
@@ -227,12 +227,12 @@ table.rc-marks tr.rc-totalrow td{font-weight:700;background:#faf8ef}
 <div>得分总计<b id="rcResObtained">0</b></div>
 <div>满分总计<b id="rcResMaximum">0</b></div>
 <div>总百分比<b id="rcResPercentage">0.00%</b></div>
-<div>等级<b id="rcRes等级">—</b></div>
+<div>等级<b id="rcResGrade">—</b></div>
 </div>
 <div class="row">
 <div class="field"><label for="rcPosition">班级名次（可选）</label><input type="text" id="rcPosition" placeholder="例如 32 人中第 3 名"></div>
 <div class="field"><label for="rcAttPresent">出勤天数（可选）</label><input type="number" id="rcAttPresent" min="0" step="1" placeholder="例如 54"></div>
-<div class="field"><label for="rcAtt总计">总上学天数（可选）</label><input type="number" id="rcAtt总计" min="0" step="1" placeholder="例如 60"></div>
+<div class="field"><label for="rcAttTotal">总上学天数（可选）</label><input type="number" id="rcAttTotal" min="0" step="1" placeholder="例如 60"></div>
 </div>
 <h3 class="rc-subhead">教师评语</h3>
 <p class="rc-note">快捷评语 — 点击一条即可使用，然后可自由编辑：</p>
@@ -272,13 +272,13 @@ table.rc-marks tr.rc-totalrow td{font-weight:700;background:#faf8ef}
 <div><b>学号:</b> <span id="pvRoll">—</span></div>
 <div><b>考试 / 学期:</b> <span id="pvExam">—</span></div>
 <div id="pvPositionBox" style="display:none"><b>班级名次:</b> <span id="pvPosition"></span></div>
-<div id="pv出勤Box" style="display:none"><b>出勤:</b> <span id="pv出勤"></span></div>
+<div id="pvAttendanceBox" style="display:none"><b>出勤:</b> <span id="pvAttendance"></span></div>
 </div>
 <table class="rc-marks"><thead><tr><th>科目</th><th class="num">满分</th><th class="num">得分</th><th class="num">%</th></tr></thead><tbody id="pvBody"></tbody>
-<tfoot><tr class="rc-totalrow"><td>总计</td><td class="num" id="pv总计Max">0</td><td class="num" id="pv总计Obt">0</td><td class="num" id="pv总计Pct">0.00%</td></tr></tfoot></table>
+<tfoot><tr class="rc-totalrow"><td>总计</td><td class="num" id="pvTotalMax">0</td><td class="num" id="pvTotalObt">0</td><td class="num" id="pvTotalPct">0.00%</td></tr></tfoot></table>
 <div class="rc-summary">
 <div>总百分比<b id="pvPercentage">0.00%</b></div>
-<div>等级<b id="pv等级">—</b></div>
+<div>等级<b id="pvGrade">—</b></div>
 <div id="pvAttSummaryBox" style="display:none">出勤<b id="pvAttSummary"></b></div>
 </div>
 <div class="rc-remarks" id="pvRemarksBox" style="display:none"><b>教师评语:</b> <span id="pvRemarks"></span></div>

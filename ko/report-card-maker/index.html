@@ -210,8 +210,8 @@ table.rc-marks tr.rc-totalrow td{font-weight:700;background:#faf8ef}
 <div class="field"><label for="rcRoll">번호</label><input type="text" id="rcRoll" placeholder="예: 14"></div>
 </div>
 <h3 class="rc-subhead">과목과 점수</h3>
-<table class="rc-subjects"><thead><tr><th>과목</th><th>만점</th><th>취득 점수</th><th>%</th><th>삭제</th></tr></thead><tbody id="rc과목sBody"></tbody></table>
-<div class="row"><button class="btn ghost small" id="rcAdd과목" type="button">+ 과목 추가</button><span class="status" id="rcStatus"></span></div>
+<table class="rc-subjects"><thead><tr><th>과목</th><th>만점</th><th>취득 점수</th><th>%</th><th>삭제</th></tr></thead><tbody id="rcSubjectsBody"></tbody></table>
+<div class="row"><button class="btn ghost small" id="rcAddSubject" type="button">+ 과목 추가</button><span class="status" id="rcStatus"></span></div>
 <h3 class="rc-subhead">등급 척도</h3>
 <p class="rc-note">등급은 이 기준값을 사용해 전체 백분율로 산출됩니다. 숫자를 바꾸면 학교의 자체 척도에 맞출 수 있으며, 등급은 즉시 업데이트됩니다.</p>
 <div class="rc-gradeinputs">
@@ -227,12 +227,12 @@ table.rc-marks tr.rc-totalrow td{font-weight:700;background:#faf8ef}
 <div>취득 점수 합계<b id="rcResObtained">0</b></div>
 <div>만점 합계<b id="rcResMaximum">0</b></div>
 <div>전체 백분율<b id="rcResPercentage">0.00%</b></div>
-<div>등급<b id="rcRes등급">—</b></div>
+<div>등급<b id="rcResGrade">—</b></div>
 </div>
 <div class="row">
 <div class="field"><label for="rcPosition">학급 순위 (선택 사항)</label><input type="text" id="rcPosition" placeholder="예: 32명 중 3등"></div>
 <div class="field"><label for="rcAttPresent">출석 일수 (선택 사항)</label><input type="number" id="rcAttPresent" min="0" step="1" placeholder="예: 54"></div>
-<div class="field"><label for="rcAtt합계">전체 수업 일수 (선택 사항)</label><input type="number" id="rcAtt합계" min="0" step="1" placeholder="예: 60"></div>
+<div class="field"><label for="rcAttTotal">전체 수업 일수 (선택 사항)</label><input type="number" id="rcAttTotal" min="0" step="1" placeholder="예: 60"></div>
 </div>
 <h3 class="rc-subhead">교사 소견</h3>
 <p class="rc-note">빠른 선택 소견 — 하나를 눌러 사용한 뒤 자유롭게 편집하세요:</p>
@@ -272,13 +272,13 @@ table.rc-marks tr.rc-totalrow td{font-weight:700;background:#faf8ef}
 <div><b>번호:</b> <span id="pvRoll">—</span></div>
 <div><b>시험 / 학기:</b> <span id="pvExam">—</span></div>
 <div id="pvPositionBox" style="display:none"><b>학급 순위:</b> <span id="pvPosition"></span></div>
-<div id="pv출석Box" style="display:none"><b>출석:</b> <span id="pv출석"></span></div>
+<div id="pvAttendanceBox" style="display:none"><b>출석:</b> <span id="pvAttendance"></span></div>
 </div>
 <table class="rc-marks"><thead><tr><th>과목</th><th class="num">만점</th><th class="num">취득 점수</th><th class="num">%</th></tr></thead><tbody id="pvBody"></tbody>
-<tfoot><tr class="rc-totalrow"><td>합계</td><td class="num" id="pv합계Max">0</td><td class="num" id="pv합계Obt">0</td><td class="num" id="pv합계Pct">0.00%</td></tr></tfoot></table>
+<tfoot><tr class="rc-totalrow"><td>합계</td><td class="num" id="pvTotalMax">0</td><td class="num" id="pvTotalObt">0</td><td class="num" id="pvTotalPct">0.00%</td></tr></tfoot></table>
 <div class="rc-summary">
 <div>전체 백분율<b id="pvPercentage">0.00%</b></div>
-<div>등급<b id="pv등급">—</b></div>
+<div>등급<b id="pvGrade">—</b></div>
 <div id="pvAttSummaryBox" style="display:none">출석<b id="pvAttSummary"></b></div>
 </div>
 <div class="rc-remarks" id="pvRemarksBox" style="display:none"><b>교사 소견:</b> <span id="pvRemarks"></span></div>

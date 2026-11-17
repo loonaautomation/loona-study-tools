@@ -210,8 +210,8 @@ table.rc-marks tr.rc-totalrow td{font-weight:700;background:#faf8ef}
 <div class="field"><label for="rcRoll">เลขที่</label><input type="text" id="rcRoll" placeholder="เช่น 14"></div>
 </div>
 <h3 class="rc-subhead">วิชาและคะแนน</h3>
-<table class="rc-subjects"><thead><tr><th>วิชา</th><th>คะแนนเต็ม</th><th>คะแนนที่ได้</th><th>%</th><th>ลบ</th></tr></thead><tbody id="rcวิชาsBody"></tbody></table>
-<div class="row"><button class="btn ghost small" id="rcAddวิชา" type="button">+ เพิ่มวิชา</button><span class="status" id="rcStatus"></span></div>
+<table class="rc-subjects"><thead><tr><th>วิชา</th><th>คะแนนเต็ม</th><th>คะแนนที่ได้</th><th>%</th><th>ลบ</th></tr></thead><tbody id="rcSubjectsBody"></tbody></table>
+<div class="row"><button class="btn ghost small" id="rcAddSubject" type="button">+ เพิ่มวิชา</button><span class="status" id="rcStatus"></span></div>
 <h3 class="rc-subhead">เกณฑ์การตัดเกรด</h3>
 <p class="rc-note">เกรดคำนวณจากเปอร์เซ็นต์รวมโดยใช้เกณฑ์เหล่านี้ เปลี่ยนตัวเลขใด ๆ ให้ตรงกับเกณฑ์ของโรงเรียนของคุณเอง — เกรดจะอัปเดตทันที</p>
 <div class="rc-gradeinputs">
@@ -227,12 +227,12 @@ table.rc-marks tr.rc-totalrow td{font-weight:700;background:#faf8ef}
 <div>คะแนนที่ได้รวมทั้งหมด<b id="rcResObtained">0</b></div>
 <div>คะแนนเต็มรวมทั้งหมด<b id="rcResMaximum">0</b></div>
 <div>เปอร์เซ็นต์รวม<b id="rcResPercentage">0.00%</b></div>
-<div>เกรด<b id="rcResเกรด">—</b></div>
+<div>เกรด<b id="rcResGrade">—</b></div>
 </div>
 <div class="row">
 <div class="field"><label for="rcPosition">ลำดับในชั้นเรียน (ไม่บังคับ)</label><input type="text" id="rcPosition" placeholder="เช่น อันดับ 3 จาก 32 คน"></div>
 <div class="field"><label for="rcAttPresent">จำนวนวันที่มาเรียน (ไม่บังคับ)</label><input type="number" id="rcAttPresent" min="0" step="1" placeholder="เช่น 54"></div>
-<div class="field"><label for="rcAttรวม">จำนวนวันเรียนทั้งหมด (ไม่บังคับ)</label><input type="number" id="rcAttรวม" min="0" step="1" placeholder="เช่น 60"></div>
+<div class="field"><label for="rcAttTotal">จำนวนวันเรียนทั้งหมด (ไม่บังคับ)</label><input type="number" id="rcAttTotal" min="0" step="1" placeholder="เช่น 60"></div>
 </div>
 <h3 class="rc-subhead">ความเห็นของครู</h3>
 <p class="rc-note">ความเห็นสำเร็จรูป — แตะเลือกหนึ่งรายการเพื่อใช้ จากนั้นแก้ไขได้อย่างอิสระ:</p>
@@ -272,13 +272,13 @@ table.rc-marks tr.rc-totalrow td{font-weight:700;background:#faf8ef}
 <div><b>เลขที่:</b> <span id="pvRoll">—</span></div>
 <div><b>การสอบ / ภาคเรียน:</b> <span id="pvExam">—</span></div>
 <div id="pvPositionBox" style="display:none"><b>ลำดับในชั้นเรียน:</b> <span id="pvPosition"></span></div>
-<div id="pvการเข้าเรียนBox" style="display:none"><b>การเข้าเรียน:</b> <span id="pvการเข้าเรียน"></span></div>
+<div id="pvAttendanceBox" style="display:none"><b>การเข้าเรียน:</b> <span id="pvAttendance"></span></div>
 </div>
 <table class="rc-marks"><thead><tr><th>วิชา</th><th class="num">คะแนนเต็ม</th><th class="num">คะแนนที่ได้</th><th class="num">%</th></tr></thead><tbody id="pvBody"></tbody>
-<tfoot><tr class="rc-totalrow"><td>รวม</td><td class="num" id="pvรวมMax">0</td><td class="num" id="pvรวมObt">0</td><td class="num" id="pvรวมPct">0.00%</td></tr></tfoot></table>
+<tfoot><tr class="rc-totalrow"><td>รวม</td><td class="num" id="pvTotalMax">0</td><td class="num" id="pvTotalObt">0</td><td class="num" id="pvTotalPct">0.00%</td></tr></tfoot></table>
 <div class="rc-summary">
 <div>เปอร์เซ็นต์รวม<b id="pvPercentage">0.00%</b></div>
-<div>เกรด<b id="pvเกรด">—</b></div>
+<div>เกรด<b id="pvGrade">—</b></div>
 <div id="pvAttSummaryBox" style="display:none">การเข้าเรียน<b id="pvAttSummary"></b></div>
 </div>
 <div class="rc-remarks" id="pvRemarksBox" style="display:none"><b>ความเห็นของครู:</b> <span id="pvRemarks"></span></div>

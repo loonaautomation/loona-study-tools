@@ -210,8 +210,8 @@ table.rc-marks tr.rc-totalrow td{font-weight:700;background:#faf8ef}
 <div class="field"><label for="rcRoll">Elevnummer</label><input type="text" id="rcRoll" placeholder="f.eks. 14"></div>
 </div>
 <h3 class="rc-subhead">Fag og point</h3>
-<table class="rc-subjects"><thead><tr><th>Fag</th><th>Point i alt</th><th>Opnåede point</th><th>%</th><th>Fjern</th></tr></thead><tbody id="rcFagsBody"></tbody></table>
-<div class="row"><button class="btn ghost small" id="rcAddFag" type="button">+ Tilføj fag</button><span class="status" id="rcStatus"></span></div>
+<table class="rc-subjects"><thead><tr><th>Fag</th><th>Point i alt</th><th>Opnåede point</th><th>%</th><th>Fjern</th></tr></thead><tbody id="rcSubjectsBody"></tbody></table>
+<div class="row"><button class="btn ghost small" id="rcAddSubject" type="button">+ Tilføj fag</button><span class="status" id="rcStatus"></span></div>
 <h3 class="rc-subhead">Karakterskala</h3>
 <p class="rc-note">Karaktererne regnes ud fra den samlede procent ved hjælp af disse grænser. Ret et hvilket som helst tal, så det passer til din egen skoles skala — karakteren opdateres med det samme.</p>
 <div class="rc-gradeinputs">
@@ -227,12 +227,12 @@ table.rc-marks tr.rc-totalrow td{font-weight:700;background:#faf8ef}
 <div>Opnåede point i alt<b id="rcResObtained">0</b></div>
 <div>Maks. point i alt<b id="rcResMaximum">0</b></div>
 <div>Samlet procent<b id="rcResPercentage">0.00%</b></div>
-<div>Karakter<b id="rcResKarakter">—</b></div>
+<div>Karakter<b id="rcResGrade">—</b></div>
 </div>
 <div class="row">
 <div class="field"><label for="rcPosition">Placering i klassen (valgfri)</label><input type="text" id="rcPosition" placeholder="f.eks. nr. 3 af 32"></div>
 <div class="field"><label for="rcAttPresent">Fremmødedage (valgfri)</label><input type="number" id="rcAttPresent" min="0" step="1" placeholder="f.eks. 54"></div>
-<div class="field"><label for="rcAttI alt">Skoldage i alt (valgfri)</label><input type="number" id="rcAttI alt" min="0" step="1" placeholder="f.eks. 60"></div>
+<div class="field"><label for="rcAttTotal">Skoldage i alt (valgfri)</label><input type="number" id="rcAttTotal" min="0" step="1" placeholder="f.eks. 60"></div>
 </div>
 <h3 class="rc-subhead">Lærerens bemærkninger</h3>
 <p class="rc-note">Hurtige bemærkninger — tryk på en for at bruge den, og ret den derefter frit:</p>
@@ -272,13 +272,13 @@ table.rc-marks tr.rc-totalrow td{font-weight:700;background:#faf8ef}
 <div><b>Elevnr.:</b> <span id="pvRoll">—</span></div>
 <div><b>Prøve / termin:</b> <span id="pvExam">—</span></div>
 <div id="pvPositionBox" style="display:none"><b>Placering i klassen:</b> <span id="pvPosition"></span></div>
-<div id="pvFremmødeBox" style="display:none"><b>Fremmøde:</b> <span id="pvFremmøde"></span></div>
+<div id="pvAttendanceBox" style="display:none"><b>Fremmøde:</b> <span id="pvAttendance"></span></div>
 </div>
 <table class="rc-marks"><thead><tr><th>Fag</th><th class="num">Point i alt</th><th class="num">Opnåede point</th><th class="num">%</th></tr></thead><tbody id="pvBody"></tbody>
-<tfoot><tr class="rc-totalrow"><td>I alt</td><td class="num" id="pvI altMax">0</td><td class="num" id="pvI altObt">0</td><td class="num" id="pvI altPct">0.00%</td></tr></tfoot></table>
+<tfoot><tr class="rc-totalrow"><td>I alt</td><td class="num" id="pvTotalMax">0</td><td class="num" id="pvTotalObt">0</td><td class="num" id="pvTotalPct">0.00%</td></tr></tfoot></table>
 <div class="rc-summary">
 <div>Samlet procent<b id="pvPercentage">0.00%</b></div>
-<div>Karakter<b id="pvKarakter">—</b></div>
+<div>Karakter<b id="pvGrade">—</b></div>
 <div id="pvAttSummaryBox" style="display:none">Fremmøde<b id="pvAttSummary"></b></div>
 </div>
 <div class="rc-remarks" id="pvRemarksBox" style="display:none"><b>Lærerens bemærkninger:</b> <span id="pvRemarks"></span></div>

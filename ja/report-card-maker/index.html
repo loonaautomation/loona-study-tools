@@ -210,8 +210,8 @@ table.rc-marks tr.rc-totalrow td{font-weight:700;background:#faf8ef}
 <div class="field"><label for="rcRoll">出席番号</label><input type="text" id="rcRoll" placeholder="例：14"></div>
 </div>
 <h3 class="rc-subhead">教科と点数</h3>
-<table class="rc-subjects"><thead><tr><th>教科</th><th>満点</th><th>得点</th><th>%</th><th>削除</th></tr></thead><tbody id="rc教科sBody"></tbody></table>
-<div class="row"><button class="btn ghost small" id="rcAdd教科" type="button">+ 教科を追加</button><span class="status" id="rcStatus"></span></div>
+<table class="rc-subjects"><thead><tr><th>教科</th><th>満点</th><th>得点</th><th>%</th><th>削除</th></tr></thead><tbody id="rcSubjectsBody"></tbody></table>
+<div class="row"><button class="btn ghost small" id="rcAddSubject" type="button">+ 教科を追加</button><span class="status" id="rcStatus"></span></div>
 <h3 class="rc-subhead">評定尺度</h3>
 <p class="rc-note">評定は、これらの基準を使って全体のパーセンテージから算出されます。数字を変更すればあなたの学校の尺度に合わせられ、評定はすぐに更新されます。</p>
 <div class="rc-gradeinputs">
@@ -227,12 +227,12 @@ table.rc-marks tr.rc-totalrow td{font-weight:700;background:#faf8ef}
 <div>得点の合計<b id="rcResObtained">0</b></div>
 <div>満点の合計<b id="rcResMaximum">0</b></div>
 <div>全体のパーセンテージ<b id="rcResPercentage">0.00%</b></div>
-<div>評定<b id="rcRes評定">—</b></div>
+<div>評定<b id="rcResGrade">—</b></div>
 </div>
 <div class="row">
 <div class="field"><label for="rcPosition">クラス順位（任意）</label><input type="text" id="rcPosition" placeholder="例：32人中3位"></div>
 <div class="field"><label for="rcAttPresent">出席日数（任意）</label><input type="number" id="rcAttPresent" min="0" step="1" placeholder="例：54"></div>
-<div class="field"><label for="rcAtt合計">総授業日数（任意）</label><input type="number" id="rcAtt合計" min="0" step="1" placeholder="例：60"></div>
+<div class="field"><label for="rcAttTotal">総授業日数（任意）</label><input type="number" id="rcAttTotal" min="0" step="1" placeholder="例：60"></div>
 </div>
 <h3 class="rc-subhead">担任の所見</h3>
 <p class="rc-note">定型の所見 — タップして使い、その後は自由に編集できます：</p>
@@ -272,13 +272,13 @@ table.rc-marks tr.rc-totalrow td{font-weight:700;background:#faf8ef}
 <div><b>出席番号:</b> <span id="pvRoll">—</span></div>
 <div><b>試験 / 学期:</b> <span id="pvExam">—</span></div>
 <div id="pvPositionBox" style="display:none"><b>クラス順位:</b> <span id="pvPosition"></span></div>
-<div id="pv出席状況Box" style="display:none"><b>出席状況:</b> <span id="pv出席状況"></span></div>
+<div id="pvAttendanceBox" style="display:none"><b>出席状況:</b> <span id="pvAttendance"></span></div>
 </div>
 <table class="rc-marks"><thead><tr><th>教科</th><th class="num">満点</th><th class="num">得点</th><th class="num">%</th></tr></thead><tbody id="pvBody"></tbody>
-<tfoot><tr class="rc-totalrow"><td>合計</td><td class="num" id="pv合計Max">0</td><td class="num" id="pv合計Obt">0</td><td class="num" id="pv合計Pct">0.00%</td></tr></tfoot></table>
+<tfoot><tr class="rc-totalrow"><td>合計</td><td class="num" id="pvTotalMax">0</td><td class="num" id="pvTotalObt">0</td><td class="num" id="pvTotalPct">0.00%</td></tr></tfoot></table>
 <div class="rc-summary">
 <div>全体のパーセンテージ<b id="pvPercentage">0.00%</b></div>
-<div>評定<b id="pv評定">—</b></div>
+<div>評定<b id="pvGrade">—</b></div>
 <div id="pvAttSummaryBox" style="display:none">出席状況<b id="pvAttSummary"></b></div>
 </div>
 <div class="rc-remarks" id="pvRemarksBox" style="display:none"><b>担任の所見:</b> <span id="pvRemarks"></span></div>

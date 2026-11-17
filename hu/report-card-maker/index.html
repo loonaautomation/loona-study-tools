@@ -210,8 +210,8 @@ table.rc-marks tr.rc-totalrow td{font-weight:700;background:#faf8ef}
 <div class="field"><label for="rcRoll">Naplószám</label><input type="text" id="rcRoll" placeholder="pl. 14"></div>
 </div>
 <h3 class="rc-subhead">Tantárgyak és pontok</h3>
-<table class="rc-subjects"><thead><tr><th>Tantárgy</th><th>Összes pontszám</th><th>Elért pontszám</th><th>%</th><th>Törlés</th></tr></thead><tbody id="rcTantárgysBody"></tbody></table>
-<div class="row"><button class="btn ghost small" id="rcAddTantárgy" type="button">+ Tantárgy hozzáadása</button><span class="status" id="rcStatus"></span></div>
+<table class="rc-subjects"><thead><tr><th>Tantárgy</th><th>Összes pontszám</th><th>Elért pontszám</th><th>%</th><th>Törlés</th></tr></thead><tbody id="rcSubjectsBody"></tbody></table>
+<div class="row"><button class="btn ghost small" id="rcAddSubject" type="button">+ Tantárgy hozzáadása</button><span class="status" id="rcStatus"></span></div>
 <h3 class="rc-subhead">Értékelési skála</h3>
 <p class="rc-note">Az osztályzatokat az összesített százalék alapján, ezekkel a határértékekkel számítja ki a rendszer. Módosítson bármelyik számot, hogy megfeleljen az Ön iskolájának saját skálájának — az osztályzat azonnal frissül.</p>
 <div class="rc-gradeinputs">
@@ -227,12 +227,12 @@ table.rc-marks tr.rc-totalrow td{font-weight:700;background:#faf8ef}
 <div>Elért pontok összesen<b id="rcResObtained">0</b></div>
 <div>Maximális pontok összesen<b id="rcResMaximum">0</b></div>
 <div>Összesített százalék<b id="rcResPercentage">0.00%</b></div>
-<div>Osztályzat<b id="rcResOsztályzat">—</b></div>
+<div>Osztályzat<b id="rcResGrade">—</b></div>
 </div>
 <div class="row">
 <div class="field"><label for="rcPosition">Helyezés az osztályban (nem kötelező)</label><input type="text" id="rcPosition" placeholder="pl. 3. a 32-ből"></div>
 <div class="field"><label for="rcAttPresent">Jelen lévő napok (nem kötelező)</label><input type="number" id="rcAttPresent" min="0" step="1" placeholder="pl. 54"></div>
-<div class="field"><label for="rcAttÖsszesen">Összes tanítási nap (nem kötelező)</label><input type="number" id="rcAttÖsszesen" min="0" step="1" placeholder="pl. 60"></div>
+<div class="field"><label for="rcAttTotal">Összes tanítási nap (nem kötelező)</label><input type="number" id="rcAttTotal" min="0" step="1" placeholder="pl. 60"></div>
 </div>
 <h3 class="rc-subhead">Tanári megjegyzések</h3>
 <p class="rc-note">Gyors megjegyzések — koppintson egyre a használatához, majd szerkessze szabadon:</p>
@@ -272,13 +272,13 @@ table.rc-marks tr.rc-totalrow td{font-weight:700;background:#faf8ef}
 <div><b>Naplószám:</b> <span id="pvRoll">—</span></div>
 <div><b>Vizsga / félév:</b> <span id="pvExam">—</span></div>
 <div id="pvPositionBox" style="display:none"><b>Helyezés az osztályban:</b> <span id="pvPosition"></span></div>
-<div id="pvJelenlétBox" style="display:none"><b>Jelenlét:</b> <span id="pvJelenlét"></span></div>
+<div id="pvAttendanceBox" style="display:none"><b>Jelenlét:</b> <span id="pvAttendance"></span></div>
 </div>
 <table class="rc-marks"><thead><tr><th>Tantárgy</th><th class="num">Összes pontszám</th><th class="num">Elért pontszám</th><th class="num">%</th></tr></thead><tbody id="pvBody"></tbody>
-<tfoot><tr class="rc-totalrow"><td>Összesen</td><td class="num" id="pvÖsszesenMax">0</td><td class="num" id="pvÖsszesenObt">0</td><td class="num" id="pvÖsszesenPct">0.00%</td></tr></tfoot></table>
+<tfoot><tr class="rc-totalrow"><td>Összesen</td><td class="num" id="pvTotalMax">0</td><td class="num" id="pvTotalObt">0</td><td class="num" id="pvTotalPct">0.00%</td></tr></tfoot></table>
 <div class="rc-summary">
 <div>Összesített százalék<b id="pvPercentage">0.00%</b></div>
-<div>Osztályzat<b id="pvOsztályzat">—</b></div>
+<div>Osztályzat<b id="pvGrade">—</b></div>
 <div id="pvAttSummaryBox" style="display:none">Jelenlét<b id="pvAttSummary"></b></div>
 </div>
 <div class="rc-remarks" id="pvRemarksBox" style="display:none"><b>Tanári megjegyzések:</b> <span id="pvRemarks"></span></div>

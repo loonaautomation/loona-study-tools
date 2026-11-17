@@ -210,8 +210,8 @@ table.rc-marks tr.rc-totalrow td{font-weight:700;background:#faf8ef}
 <div class="field"><label for="rcRoll">Số thứ tự</label><input type="text" id="rcRoll" placeholder="ví dụ: 14"></div>
 </div>
 <h3 class="rc-subhead">Môn học và điểm số</h3>
-<table class="rc-subjects"><thead><tr><th>Môn học</th><th>Điểm tối đa</th><th>Điểm đạt được</th><th>%</th><th>Xóa</th></tr></thead><tbody id="rcMôn họcsBody"></tbody></table>
-<div class="row"><button class="btn ghost small" id="rcAddMôn học" type="button">+ Thêm môn học</button><span class="status" id="rcStatus"></span></div>
+<table class="rc-subjects"><thead><tr><th>Môn học</th><th>Điểm tối đa</th><th>Điểm đạt được</th><th>%</th><th>Xóa</th></tr></thead><tbody id="rcSubjectsBody"></tbody></table>
+<div class="row"><button class="btn ghost small" id="rcAddSubject" type="button">+ Thêm môn học</button><span class="status" id="rcStatus"></span></div>
 <h3 class="rc-subhead">Thang xếp loại</h3>
 <p class="rc-note">Xếp loại được tính từ phần trăm tổng thể bằng cách sử dụng các ngưỡng này. Thay đổi bất kỳ con số nào để phù hợp với thang điểm riêng của trường bạn — xếp loại sẽ cập nhật ngay lập tức.</p>
 <div class="rc-gradeinputs">
@@ -227,12 +227,12 @@ table.rc-marks tr.rc-totalrow td{font-weight:700;background:#faf8ef}
 <div>Tổng điểm đạt được<b id="rcResObtained">0</b></div>
 <div>Tổng điểm tối đa<b id="rcResMaximum">0</b></div>
 <div>Phần trăm tổng thể<b id="rcResPercentage">0.00%</b></div>
-<div>Xếp loại<b id="rcResXếp loại">—</b></div>
+<div>Xếp loại<b id="rcResGrade">—</b></div>
 </div>
 <div class="row">
 <div class="field"><label for="rcPosition">Thứ hạng trong lớp (không bắt buộc)</label><input type="text" id="rcPosition" placeholder="ví dụ: hạng 3 trên 32"></div>
 <div class="field"><label for="rcAttPresent">Số ngày có mặt (không bắt buộc)</label><input type="number" id="rcAttPresent" min="0" step="1" placeholder="ví dụ: 54"></div>
-<div class="field"><label for="rcAttTổng cộng">Tổng số ngày học (không bắt buộc)</label><input type="number" id="rcAttTổng cộng" min="0" step="1" placeholder="ví dụ: 60"></div>
+<div class="field"><label for="rcAttTotal">Tổng số ngày học (không bắt buộc)</label><input type="number" id="rcAttTotal" min="0" step="1" placeholder="ví dụ: 60"></div>
 </div>
 <h3 class="rc-subhead">Nhận xét của giáo viên</h3>
 <p class="rc-note">Nhận xét chọn nhanh — nhấn vào một nhận xét để sử dụng, sau đó chỉnh sửa tự do:</p>
@@ -272,13 +272,13 @@ table.rc-marks tr.rc-totalrow td{font-weight:700;background:#faf8ef}
 <div><b>Số thứ tự:</b> <span id="pvRoll">—</span></div>
 <div><b>Kỳ thi / Học kỳ:</b> <span id="pvExam">—</span></div>
 <div id="pvPositionBox" style="display:none"><b>Thứ hạng trong lớp:</b> <span id="pvPosition"></span></div>
-<div id="pvChuyên cầnBox" style="display:none"><b>Chuyên cần:</b> <span id="pvChuyên cần"></span></div>
+<div id="pvAttendanceBox" style="display:none"><b>Chuyên cần:</b> <span id="pvAttendance"></span></div>
 </div>
 <table class="rc-marks"><thead><tr><th>Môn học</th><th class="num">Điểm tối đa</th><th class="num">Điểm đạt được</th><th class="num">%</th></tr></thead><tbody id="pvBody"></tbody>
-<tfoot><tr class="rc-totalrow"><td>Tổng cộng</td><td class="num" id="pvTổng cộngMax">0</td><td class="num" id="pvTổng cộngObt">0</td><td class="num" id="pvTổng cộngPct">0.00%</td></tr></tfoot></table>
+<tfoot><tr class="rc-totalrow"><td>Tổng cộng</td><td class="num" id="pvTotalMax">0</td><td class="num" id="pvTotalObt">0</td><td class="num" id="pvTotalPct">0.00%</td></tr></tfoot></table>
 <div class="rc-summary">
 <div>Phần trăm tổng thể<b id="pvPercentage">0.00%</b></div>
-<div>Xếp loại<b id="pvXếp loại">—</b></div>
+<div>Xếp loại<b id="pvGrade">—</b></div>
 <div id="pvAttSummaryBox" style="display:none">Chuyên cần<b id="pvAttSummary"></b></div>
 </div>
 <div class="rc-remarks" id="pvRemarksBox" style="display:none"><b>Nhận xét của giáo viên:</b> <span id="pvRemarks"></span></div>

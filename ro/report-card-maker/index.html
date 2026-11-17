@@ -210,8 +210,8 @@ table.rc-marks tr.rc-totalrow td{font-weight:700;background:#faf8ef}
 <div class="field"><label for="rcRoll">Numărul din catalog</label><input type="text" id="rcRoll" placeholder="de ex. 14"></div>
 </div>
 <h3 class="rc-subhead">Materii și note</h3>
-<table class="rc-subjects"><thead><tr><th>Materie</th><th>Punctaj total</th><th>Punctaj obținut</th><th>%</th><th>Elimină</th></tr></thead><tbody id="rcMateriesBody"></tbody></table>
-<div class="row"><button class="btn ghost small" id="rcAddMaterie" type="button">+ Adaugă materie</button><span class="status" id="rcStatus"></span></div>
+<table class="rc-subjects"><thead><tr><th>Materie</th><th>Punctaj total</th><th>Punctaj obținut</th><th>%</th><th>Elimină</th></tr></thead><tbody id="rcSubjectsBody"></tbody></table>
+<div class="row"><button class="btn ghost small" id="rcAddSubject" type="button">+ Adaugă materie</button><span class="status" id="rcStatus"></span></div>
 <h3 class="rc-subhead">Scala de notare</h3>
 <p class="rc-note">Calificativele sunt calculate din procentul general folosind aceste praguri. Modificați orice număr pentru a se potrivi scalei proprii a școlii dumneavoastră — calificativul se actualizează instantaneu.</p>
 <div class="rc-gradeinputs">
@@ -227,7 +227,7 @@ table.rc-marks tr.rc-totalrow td{font-weight:700;background:#faf8ef}
 <div>Punctaj total obținut<b id="rcResObtained">0</b></div>
 <div>Punctaj maxim total<b id="rcResMaximum">0</b></div>
 <div>Procent general<b id="rcResPercentage">0.00%</b></div>
-<div>Calificativ<b id="rcResCalificativ">—</b></div>
+<div>Calificativ<b id="rcResGrade">—</b></div>
 </div>
 <div class="row">
 <div class="field"><label for="rcPosition">Locul în clasă (opțional)</label><input type="text" id="rcPosition" placeholder="de ex. locul 3 din 32"></div>
@@ -272,13 +272,13 @@ table.rc-marks tr.rc-totalrow td{font-weight:700;background:#faf8ef}
 <div><b>Nr. catalog:</b> <span id="pvRoll">—</span></div>
 <div><b>Examen / trimestru:</b> <span id="pvExam">—</span></div>
 <div id="pvPositionBox" style="display:none"><b>Locul în clasă:</b> <span id="pvPosition"></span></div>
-<div id="pvPrezențăBox" style="display:none"><b>Prezență:</b> <span id="pvPrezență"></span></div>
+<div id="pvAttendanceBox" style="display:none"><b>Prezență:</b> <span id="pvAttendance"></span></div>
 </div>
 <table class="rc-marks"><thead><tr><th>Materie</th><th class="num">Punctaj total</th><th class="num">Punctaj obținut</th><th class="num">%</th></tr></thead><tbody id="pvBody"></tbody>
 <tfoot><tr class="rc-totalrow"><td>Total</td><td class="num" id="pvTotalMax">0</td><td class="num" id="pvTotalObt">0</td><td class="num" id="pvTotalPct">0.00%</td></tr></tfoot></table>
 <div class="rc-summary">
 <div>Procent general<b id="pvPercentage">0.00%</b></div>
-<div>Calificativ<b id="pvCalificativ">—</b></div>
+<div>Calificativ<b id="pvGrade">—</b></div>
 <div id="pvAttSummaryBox" style="display:none">Prezență<b id="pvAttSummary"></b></div>
 </div>
 <div class="rc-remarks" id="pvRemarksBox" style="display:none"><b>Observațiile profesorului:</b> <span id="pvRemarks"></span></div>

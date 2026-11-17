@@ -210,8 +210,8 @@ table.rc-marks tr.rc-totalrow td{font-weight:700;background:#faf8ef}
 <div class="field"><label for="rcRoll">Nummer i klasslistan</label><input type="text" id="rcRoll" placeholder="t.ex. 14"></div>
 </div>
 <h3 class="rc-subhead">Ämnen och poäng</h3>
-<table class="rc-subjects"><thead><tr><th>Ämne</th><th>Maxpoäng</th><th>Erhållna poäng</th><th>%</th><th>Ta bort</th></tr></thead><tbody id="rcÄmnesBody"></tbody></table>
-<div class="row"><button class="btn ghost small" id="rcAddÄmne" type="button">+ Lägg till ämne</button><span class="status" id="rcStatus"></span></div>
+<table class="rc-subjects"><thead><tr><th>Ämne</th><th>Maxpoäng</th><th>Erhållna poäng</th><th>%</th><th>Ta bort</th></tr></thead><tbody id="rcSubjectsBody"></tbody></table>
+<div class="row"><button class="btn ghost small" id="rcAddSubject" type="button">+ Lägg till ämne</button><span class="status" id="rcStatus"></span></div>
 <h3 class="rc-subhead">Betygsskala</h3>
 <p class="rc-note">Betygen räknas ut från den sammanlagda procenten med hjälp av dessa gränser. Ändra valfri siffra så att den stämmer med din egen skolas skala — betyget uppdateras direkt.</p>
 <div class="rc-gradeinputs">
@@ -227,12 +227,12 @@ table.rc-marks tr.rc-totalrow td{font-weight:700;background:#faf8ef}
 <div>Erhållna poäng totalt<b id="rcResObtained">0</b></div>
 <div>Maxpoäng totalt<b id="rcResMaximum">0</b></div>
 <div>Sammanlagd procent<b id="rcResPercentage">0.00%</b></div>
-<div>Betyg<b id="rcResBetyg">—</b></div>
+<div>Betyg<b id="rcResGrade">—</b></div>
 </div>
 <div class="row">
 <div class="field"><label for="rcPosition">Placering i klassen (valfritt)</label><input type="text" id="rcPosition" placeholder="t.ex. 3:a av 32"></div>
 <div class="field"><label for="rcAttPresent">Närvarodagar (valfritt)</label><input type="number" id="rcAttPresent" min="0" step="1" placeholder="t.ex. 54"></div>
-<div class="field"><label for="rcAttTotalt">Totaltt antal skoldagar (valfritt)</label><input type="number" id="rcAttTotalt" min="0" step="1" placeholder="t.ex. 60"></div>
+<div class="field"><label for="rcAttTotal">Totaltt antal skoldagar (valfritt)</label><input type="number" id="rcAttTotal" min="0" step="1" placeholder="t.ex. 60"></div>
 </div>
 <h3 class="rc-subhead">Lärarens omdöme</h3>
 <p class="rc-note">Färdiga omdömen — tryck på ett för att använda det och ändra det sedan fritt:</p>
@@ -272,13 +272,13 @@ table.rc-marks tr.rc-totalrow td{font-weight:700;background:#faf8ef}
 <div><b>Nr i klasslistan:</b> <span id="pvRoll">—</span></div>
 <div><b>Prov / termin:</b> <span id="pvExam">—</span></div>
 <div id="pvPositionBox" style="display:none"><b>Placering i klassen:</b> <span id="pvPosition"></span></div>
-<div id="pvNärvaroBox" style="display:none"><b>Närvaro:</b> <span id="pvNärvaro"></span></div>
+<div id="pvAttendanceBox" style="display:none"><b>Närvaro:</b> <span id="pvAttendance"></span></div>
 </div>
 <table class="rc-marks"><thead><tr><th>Ämne</th><th class="num">Maxpoäng</th><th class="num">Erhållna poäng</th><th class="num">%</th></tr></thead><tbody id="pvBody"></tbody>
-<tfoot><tr class="rc-totalrow"><td>Totalt</td><td class="num" id="pvTotaltMax">0</td><td class="num" id="pvTotaltObt">0</td><td class="num" id="pvTotaltPct">0.00%</td></tr></tfoot></table>
+<tfoot><tr class="rc-totalrow"><td>Totalt</td><td class="num" id="pvTotalMax">0</td><td class="num" id="pvTotalObt">0</td><td class="num" id="pvTotalPct">0.00%</td></tr></tfoot></table>
 <div class="rc-summary">
 <div>Sammanlagd procent<b id="pvPercentage">0.00%</b></div>
-<div>Betyg<b id="pvBetyg">—</b></div>
+<div>Betyg<b id="pvGrade">—</b></div>
 <div id="pvAttSummaryBox" style="display:none">Närvaro<b id="pvAttSummary"></b></div>
 </div>
 <div class="rc-remarks" id="pvRemarksBox" style="display:none"><b>Lärarens omdöme:</b> <span id="pvRemarks"></span></div>
