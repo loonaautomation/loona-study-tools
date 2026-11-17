@@ -242,7 +242,7 @@ function buildTimetable(subjects, days, hoursPerDay){
 function $(id){return document.getElementById(id);}
 function esc(s){var d=document.createElement("div");d.textContent=String(s);return d.innerHTML;}
 var DAYS=["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"];
-var dc=$("dayChecks");DAYS.forEach(function(d,i){var l=document.createElement("label");l.className="check";l.innerHTML='<input type="checkbox" value="'+d+'"'+(i<6?" skontrolované":"")+'> '+d.slice(0,3);dc.appendChild(l);});
+var dc=$("dayChecks");DAYS.forEach(function(d,i){var l=document.createElement("label");l.className="check";l.innerHTML='<input type="checkbox" value="'+d+'"'+(i<6?" checked":"")+'> '+d.slice(0,3);dc.appendChild(l);});
 function subjRow(name,hours){var div=document.createElement("div");div.className="row";div.innerHTML='<div class="field"><label>Predmet</label><input type="text" class="sbName" value="'+(name||"")+'" placeholder="napr. Matematika"></div><div class="field"><label>Hodín týždenne</label><input type="number" class="sbHours" value="'+(hours||2)+'" min="0.5" step="0.5"></div><div class="field" style="flex:0"><label>&nbsp;</label><button class="btn ghost small sbDel" type="button">Odstrániť</button></div>';div.querySelector(".sbDel").onclick=function(){div.remove();};$("subjRows").appendChild(div);}
 [["Mathematics",4],["English",3],["Science",3],["Urdu",2],["Spoločenské vedy",2]].forEach(function(x){subjRow(x[0],x[1]);});
 $("bAddSubj").onclick=function(){subjRow("",2);};
