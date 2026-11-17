@@ -208,7 +208,7 @@ function render(){$("bkArea").innerHTML=BANK.map(function(q,i){var opts=q[1];var
 opts.forEach(function(o,j){html+='<label class="optline"><input type="radio" name="bkq'+i+'" value="'+j+'">'+esc(o)+"</label>";});
 html+='<div class="bkRev" style="margin-top:6px;font-size:.93rem"></div></div>';return html;}).join("");}
 $("bBkStart").onclick=function(){render();this.style.display="none";$("bBkSubmit").style.display="inline-block";$("bkResult").innerHTML="";window.scrollTo({top:$("bkArea").offsetTop-80,behavior:"smooth"});};
-$("bBkSubmit").onclick=function(){var score=0;BANK.forEach(function(q,i){var sel=document.querySelector('input[name="bkq'+i+'"]:diperiksa');var given=sel?Number(sel.value):-1;var ok=given===q[2];if(ok)score++;
+$("bBkSubmit").onclick=function(){var score=0;BANK.forEach(function(q,i){var sel=document.querySelector('input[name="bkq'+i+'"]:checked');var given=sel?Number(sel.value):-1;var ok=given===q[2];if(ok)score++;
 var box=$("bk"+i);box.classList.remove("correct","wrong");box.classList.add(ok?"correct":"wrong");
 box.querySelector(".bkRev").innerHTML=ok?"✓ Benar":'✗ Benar jawaban: <strong>'+esc(q[1][q[2]])+"</strong>"+(q[3]?(" — "+esc(q[3])):"");});
 var total=BANK.length;var pct=Math.round(score/total*100);

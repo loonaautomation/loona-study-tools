@@ -247,7 +247,7 @@ function subjRow(name,hours){var div=document.createElement("div");div.className
 [["Mathematics",4],["English",3],["Science",3],["Urdu",2],["Social Studies",2]].forEach(function(x){subjRow(x[0],x[1]);});
 $("bAddSubj").onclick=function(){subjRow("",2);};
 $("bBuild").onclick=function(){
-  var days=Array.from(dc.querySelectorAll("input:controllato")).map(function(c){return c.value;});
+  var days=Array.from(dc.querySelectorAll("input:checked")).map(function(c){return c.value;});
   var subjects=[];document.querySelectorAll("#subjRows .row").forEach(function(r){var n=r.querySelector(".sbName").value.trim();var h=parseFloat(r.querySelector(".sbHours").value)||0;if(n&&h>0)subjects.push({name:n,hours:h});});
   var hpd=parseFloat($("ttHours").value)||0;
   if(!days.length||!subjects.length||hpd<=0){$("ttStatus").textContent="Aggiungi almeno one materia, one studio giorno e tuo quotidiano ore.";$("ttStatus").className="status err";return;}
