@@ -51,6 +51,7 @@
 - [10-Key Number Pad Test](https://loonaautomation.github.io/loona-study-tools/ten-key-test/): Data-entry speed test for the numeric keypad: type number sequences fast and accurately, scored in keys per minute.
 - [Code Typing Test](https://loonaautomation.github.io/loona-study-tools/code-typing-test/): Type real code snippets with symbols and indentation — measures code-typing speed and symbol accuracy for programmers.
 - [Grammar Quiz](https://loonaautomation.github.io/loona-study-tools/grammar-quiz/): A 24-question English grammar test — tenses, articles, prepositions, agreement and punctuation — with instant score and explanations.
+- [Verb Conjugation Trainer](https://loonaautomation.github.io/loona-study-tools/verb-conjugation-trainer/): Timed fill-in drills for Spanish, French, German, Italian and Portuguese verb conjugations, with instant checking and streaks.
 - [Vocabulary Quiz](https://loonaautomation.github.io/loona-study-tools/vocabulary-quiz/): Twenty word-meaning questions with four options each — a quick, honest check of your English vocabulary level.
 - [Interactive Periodic Table](https://loonaautomation.github.io/loona-study-tools/periodic-table/): All 118 elements in a colour-coded table — click any element for its name, atomic mass, group, period and category.
 - [Molar Mass Calculator](https://loonaautomation.github.io/loona-study-tools/molar-mass-calculator/): Type a chemical formula — parentheses included — and get its molar mass in g/mol with a per-element breakdown.
