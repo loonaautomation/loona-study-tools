@@ -234,36 +234,6 @@ body.print-cards .screenonly{display:none!important}body.print-cards #printCards
 </body>
 </html>
 
-<script id="core">
-function fmtClock(totalSec){totalSec=Math.max(0,Math.round(totalSec));var m=Math.floor(totalSec/60),s=totalSec%60;return (m<10?"0":"")+m+":"+("0"+s).slice(-2);}
-function fmtHMS(totalSec){totalSec=Math.max(0,Math.round(totalSec));var h=Math.floor(totalSec/3600),m=Math.floor(totalSec%3600/60),s=totalSec%60;return h+":"+("0"+m).slice(-2)+":"+("0"+s).slice(-2);}
-</script>
-<script>function $(id){return document.getElementById(id);} function esc(s){var d=document.createElement("div");d.textContent=String(s==null?"":s);return d.innerHTML;}
-var tmTotal=600,tmLeft=600,tmInt=null,tmRunning=false;
-function tmDraw(){var frac=tmTotal>0?tmLeft/tmTotal:0;$("tmRing").style.strokeDashoffset=String(628.3*(1-frac));
-$("tmRing").style.stroke=tmLeft<=30&&tmRunning?"#d9534f":"#c9a227";
-$("tmText").textContent=fmtClock(tmLeft);$("tmBar").style.width=(frac*100)+"%";
-$("tmBar").style.background=frac>0.5?"#2e9e5b":frac>0.2?"#e8a13a":"#d9534f";}
-function tmSet(){$("tmTotal");tmTotal=(parseInt($("tmMin").value)||0)*60+(parseInt($("tmSec").value)||0);tmLeft=tmTotal;tmDraw();}
-$("tmMin").onchange=tmSet;$("tmSec").onchange=tmSet;
-function beep(){try{var ctx=new (window.AudioContext||window.webkitAudioContext)();var o=ctx.createOscillator(),g=ctx.createGain();o.connect(g);g.connect(ctx.destination);o.frequency.value=880;g.gain.setValueAtTime(0.25,ctx.currentTime);o.start();o.stop(ctx.currentTime+0.7);}catch(e){}}
-$("bTmStart").onclick=function(){if(tmLeft<=0)tmSet();if(tmRunning)return;tmRunning=true;clearInterval(tmInt);
-tmInt=setInterval(function(){tmLeft-=0.25;if(tmLeft<=0){tmLeft=0;clearInterval(tmInt);tmRunning=false;tmDraw();beep();setTimeout(beep,900);}tmDraw();},250);};
-$("bTmPause").onclick=function(){tmRunning=false;clearInterval(tmInt);};
-$("bTmReset").onclick=function(){tmRunning=false;clearInterval(tmInt);tmSet();};
-tmSet();
-$("bExStart").onclick=function(){var v=$("exEnd").value;if(!v)return alert("Définissez l’heure de fin de l’examen d’abord.");
-function tick(){var now=new Date();var end=new Date(now.toDateString()+" "+v);var diff=(end-now)/1000;
-$("exClock").innerHTML=diff<=0?"⏰ Le temps est écoulé !":("Temps restant: <span style='font-size:2.2rem'>"+fmtHMS(diff)+"</span><br><span style='font-size:1rem;color:var(--mut)'>L’examen se termine à "+v+" · Heure actuelle "+now.toLocaleTimeString()+"</span>");
-if(diff>0)setTimeout(tick,500);}
-tick();};
-var swStart=0,swElapsed=0,swInt=null,swRunning=false,laps=[];
-function swDraw(){$("swText").textContent=(function(ms){var t=ms/1000;var m=Math.floor(t/60),s=t%60;return m+":"+(s<10?"0":"")+s.toFixed(1);})(swElapsed+(swRunning?Date.now()-swStart:0));}
-$("bSwStart").onclick=function(){if(swRunning){swElapsed+=Date.now()-swStart;swRunning=false;clearInterval(swInt);this.textContent="Start";}
-else{swStart=Date.now();swRunning=true;swInt=setInterval(swDraw,100);this.textContent="Stop";}swDraw();};
-$("bSwLap").onclick=function(){var t=swElapsed+(swRunning?Date.now()-swStart:0);laps.push(t);$("swLaps").innerHTML=laps.map(function(l,i){var t2=l/1000;return "<p>Tour "+(i+1)+": "+Math.floor(t2/60)+":"+("0"+(t2%60).toFixed(1)).slice(-4)+"</p>";}).join("");};
-$("bSwReset").onclick=function(){swRunning=false;clearInterval(swInt);swElapsed=0;laps=[];$("swLaps").innerHTML="";$("bSwStart").textContent="Start";swDraw();};
-</script>
 <script id="alarm-script">
 (function(){
 "use strict";
