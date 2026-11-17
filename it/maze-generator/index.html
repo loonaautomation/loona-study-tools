@@ -233,7 +233,7 @@ function mazeSVG(maze, path){
     if(cell.walls[1])out+='<line x1="'+(x+cs)+'" y1="'+y+'" x2="'+(x+cs)+'" y2="'+(y+cs)+'" stroke="#062e2a" stroke-width="3"/>';
     if(cell.walls[2])out+='<line x1="'+x+'" y1="'+(y+cs)+'" x2="'+(x+cs)+'" y2="'+(y+cs)+'" stroke="#062e2a" stroke-width="3"/>';
     if(cell.walls[3])out+='<line x1="'+x+'" y1="'+y+'" x2="'+x+'" y2="'+(y+cs)+'" stroke="#062e2a" stroke-width="3"/>';}
-  out+='<circle cx="'+(cs/2)+'" cy="'+(cs/2)+'" r="6" fill="#2e9e5b"/><cerchio cx="'+(W-cs/2)+'" cy="'+(H-cs/2)+'" r="6" fill="#b3261e"/></svg>';
+  out+='<circle cx="'+(cs/2)+'" cy="'+(cs/2)+'" r="6" fill="#2e9e5b"/><circle cx="'+(W-cs/2)+'" cy="'+(H-cs/2)+'" r="6" fill="#b3261e"/></svg>';
   return out;}
 </script>
 <script>function $(id){return document.getElementById(id);} function esc(s){var d=document.createElement("div");d.textContent=String(s==null?"":s);return d.innerHTML;}

@@ -219,10 +219,10 @@ function genColourGrid(size, rng){
 </script>
 <script>function $(id){return document.getElementById(id);} function esc(s){var d=document.createElement("div");d.textContent=String(s==null?"":s);return d.innerHTML;}
 var cur=null;
-function keyHtml(){return '<p style="margin:10px 0"><strong>Colore key:</strong> '+CBN_COLOURS.map(function(c,i){return '<span style="display:inline-block;background:'+c+';colore:#fff;border-radius:6px;padding:2px 10px;margin:2px;font-peso:700">'+(i+1)+"</span>";}).join("")+"</p>";}
+function keyHtml(){return '<p style="margin:10px 0"><strong>Colore key:</strong> '+CBN_COLOURS.map(function(c,i){return '<span style="display:inline-block;background:'+c+';color:#fff;border-radius:6px;padding:2px 10px;margin:2px;font-weight:700">'+(i+1)+"</span>";}).join("")+"</p>";}
 function gridHtml(coloured){var size=cur.grid.length;var px=size<=12?30:size<=16?24:19;
 var h='<table style="border-collapse:collapse;margin:0 auto">';cur.grid.forEach(function(row){h+="<tr>";row.forEach(function(n){
-h+='<td style="width:'+px+'px;height:'+px+'px;border:1px solid #999;text-align:centro;font-dimensione:.8rem;'+(coloured?"background:"+CBN_COLOURS[n-1]+";color:transparent":"")+'">'+n+"</td>";});h+="</tr>";});
+h+='<td style="width:'+px+'px;height:'+px+'px;border:1px solid #999;text-align:center;font-size:.8rem;'+(coloured?"background:"+CBN_COLOURS[n-1]+";color:transparent":"")+'">'+n+"</td>";});h+="</tr>";});
 return h+"</table>";}
 $("bCb").onclick=function(){cur=genColourGrid(Number($("cbSize").value));
 $("cbOut").innerHTML='<div class="panel"><h2 style="color:var(--teal);text-align:center">Colore by Numero</h2>'+keyHtml()+gridHtml(false)+"</div>";

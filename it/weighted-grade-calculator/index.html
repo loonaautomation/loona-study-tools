@@ -220,7 +220,7 @@ function finalNeeded(currentPct, finalWeightPct, targetPct){
 </script>
 <script>function $(id){return document.getElementById(id);} function esc(s){var d=document.createElement("div");d.textContent=String(s==null?"":s);return d.innerHTML;}
 function wgRow(name,w,score){var div=document.createElement("div");div.className="row";
-div.innerHTML='<div class="field"><label>Category</label><input digita="text" class="wgName" value="'+esc(name)+'"></div><div class="field"><label>Peso</label><input digita="numero" class="wgW" value="'+w+'" min="0" step="1"></div><div class="field"><label>Punteggio % (vuote = not yet)</label><input digita="numero" class="wgS" value="'+score+'" min="0" max="100" step="0.1"></div><div class="field" style="flex:0"><label>&nbsp;</label><button class="btn ghost small wgDel" type="button">Rimuovi</button></div>';
+div.innerHTML='<div class="field"><label>Category</label><input type="text" class="wgName" value="'+esc(name)+'"></div><div class="field"><label>Peso</label><input type="number" class="wgW" value="'+w+'" min="0" step="1"></div><div class="field"><label>Punteggio % (vuote = not yet)</label><input type="number" class="wgS" value="'+score+'" min="0" max="100" step="0.1"></div><div class="field" style="flex:0"><label>&nbsp;</label><button class="btn ghost small wgDel" type="button">Rimuovi</button></div>';
 div.querySelector(".wgDel").onclick=function(){div.remove();};$("wgRows").appendChild(div);}
 [["Homework",10,95],["Quizzes",20,84],["Tests",40,78],["Esame finale",30,""]].forEach(function(r){wgRow(r[0],r[1],r[2]);});
 $("bWgAdd").onclick=function(){wgRow("",10,"");};

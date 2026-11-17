@@ -251,7 +251,7 @@ function placeCrossword(entries){
 var cur=null;
 function gridTable(grid, numbers, showLetters){var cell=26;var h='<table style="border-collapse:collapse;margin:10px auto">';
 grid.forEach(function(row,r){h+="<tr>";row.forEach(function(ch,c){if(ch==="."){h+='<td style="width:'+cell+'px;height:'+cell+'px"></td>';}
-else{var num=numbers&&numbers[r][c];h+='<td style="width:'+cell+'px;height:'+cell+'px;border:2px solid #062e2un;text-align:centro;vertical-align:centro;position:relative;font-peso:700">'+(num?'<span style="position:absolute;top:0;left:2px;font-size:.55rem;font-weight:400">'+num+"</span>":"")+(showLetters?esc(ch):"")+"</td>";}});h+="</tr>";});
+else{var num=numbers&&numbers[r][c];h+='<td style="width:'+cell+'px;height:'+cell+'px;border:2px solid #062e2a;text-align:center;vertical-align:middle;position:relative;font-weight:700">'+(num?'<span style="position:absolute;top:0;left:2px;font-size:.55rem;font-weight:400">'+num+"</span>":"")+(showLetters?esc(ch):"")+"</td>";}});h+="</tr>";});
 return h+"</table>";}
 $("bCw").onclick=function(){var entries=parsePairs($("cwIn").value).map(function(p){return{word:p.front.toUpperCase().replace(/[^A-Z]/g,""),clue:p.back,orig:p.front};}).filter(function(e){return e.word.length>=3;});
 if(entries.length<4){$("st").textContent="Aggiungi almeno 4 parole di 3+ lettere, as WORD = clue.";$("st").className="status err";return;}

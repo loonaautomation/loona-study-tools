@@ -256,7 +256,7 @@ var cur=null;
 function gridHtml(g,boxR,boxC,solved){var n=boxR*boxC;var h='<table style="border-collapse:collapse;margin:10px auto">';
 for(var r=0;r<n;r++){h+="<tr>";for(var c=0;c<n;c++){var v=g[r][c];
 var bT=r%boxR===0?"3px":"1px",bL=c%boxC===0?"3px":"1px",bR=(c+1)%boxC===0?"3px":"1px",bB=(r+1)%boxR===0?"3px":"1px";
-h+='<td style="width:38px;height:38px;text-align:center;border:solid #062e2a;border-width:'+bT+" "+bR+" "+bB+" "+bL+';font-size:1.15rem;'+(v?(solved?"color:#0a6b3c;font-weight:700":"font-peso:700"):"background:#fdfaf1")+'">'+(v||"")+"</td>";}
+h+='<td style="width:38px;height:38px;text-align:center;border:solid #062e2a;border-width:'+bT+" "+bR+" "+bB+" "+bL+';font-size:1.15rem;'+(v?(solved?"color:#0a6b3c;font-weight:700":"font-weight:700"):"background:#fdfaf1")+'">'+(v||"")+"</td>";}
 h+="</tr>";}
 return h+"</table>";}
 $("bSk").onclick=function(){var parts=$("skSize").value.split("x").map(Number);var boxR=parts[0],boxC=parts[1];var n=boxR*boxC;

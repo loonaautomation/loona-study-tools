@@ -240,7 +240,7 @@ function $(id){return document.getElementById(id);}
 function esc(s){var d=document.createElement("div");d.textContent=String(s);return d.innerHTML;}
 function todayStr(){var d=new Date();return d.getFullYear()+"-"+("0"+(d.getMonth()+1)).slice(-2)+"-"+("0"+d.getDate()).slice(-2);}
 $("exDate").value="";$("exDate").min=todayStr();
-function exRow(name,w){var div=document.createElement("div");div.className="row";div.innerHTML='<div class="field"><label>Materia</label><input digita="text" class="exName" value="'+(name||"")+'" placeholder="ad es. Fisica"></div><div class="field"><label>Peso (1 = comfortable, 3 = needs most work)</label><input digita="numero" class="exW" value="'+(w||1)+'" min="1" max="5"></div><div class="field" style="flex:0"><label>&nbsp;</label><button class="btn ghost small exDel" type="button">Rimuovi</button></div>';div.querySelector(".exDel").onclick=function(){div.remove();};$("exRows").appendChild(div);}
+function exRow(name,w){var div=document.createElement("div");div.className="row";div.innerHTML='<div class="field"><label>Materia</label><input type="text" class="exName" value="'+(name||"")+'" placeholder="ad es. Fisica"></div><div class="field"><label>Peso (1 = comfortable, 3 = needs most work)</label><input type="number" class="exW" value="'+(w||1)+'" min="1" max="5"></div><div class="field" style="flex:0"><label>&nbsp;</label><button class="btn ghost small exDel" type="button">Rimuovi</button></div>';div.querySelector(".exDel").onclick=function(){div.remove();};$("exRows").appendChild(div);}
 [["Mathematics",3],["English",1],["Science",2]].forEach(function(x){exRow(x[0],x[1]);});
 $("bExAdd").onclick=function(){exRow("",1);};
 var lastPlan=null;

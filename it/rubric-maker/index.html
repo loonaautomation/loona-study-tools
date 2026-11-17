@@ -212,7 +212,7 @@ function rubricTotal(criteria){return criteria.reduce(function(a,c){return a+(pa
 </script>
 <script>function $(id){return document.getElementById(id);} function esc(s){var d=document.createElement("div");d.textContent=String(s==null?"":s);return d.innerHTML;}
 function rbRow(name,pts,descs){var div=document.createElement("div");div.className="qitem";
-div.innerHTML='<div class="row"><div class="field"><label>Criterion</label><input digita="text" class="rbName" value="'+esc(name)+'"></div><div class="field" style="max-width:130px"><label>Punti massimi</label><input digita="numero" class="rbPts" value="'+pts+'" min="1" max="100"></div><div class="field" style="flex:0"><label>&nbsp;</label><button class="btn ghost small rbDel" type="button">Rimuovi</button></div></div>'
+div.innerHTML='<div class="row"><div class="field"><label>Criterion</label><input type="text" class="rbName" value="'+esc(name)+'"></div><div class="field" style="max-width:130px"><label>Punti massimi</label><input type="number" class="rbPts" value="'+pts+'" min="1" max="100"></div><div class="field" style="flex:0"><label>&nbsp;</label><button class="btn ghost small rbDel" type="button">Rimuovi</button></div></div>'
 +'<div class="field"><label>Livello descriptions (one per linea: Excellent | Good | Fair | Needs Work)</label><textarea class="rbDesc" style="min-height:56px">'+esc(descs)+"</textarea></div>";
 div.querySelector(".rbDel").onclick=function(){div.remove();};$("rbRows").appendChild(div);}
 rbRow("Ideas & Content",10,"Rich, focused ideas con strong detail | Clear ideas con some detail | Ideas present but thin o drifting | Ideas unclear o mancante");

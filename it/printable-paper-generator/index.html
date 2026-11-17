@@ -211,12 +211,12 @@ function mm(v){return v*3.78;}
 $("bPp").onclick=function(){var type=$("ppType").value;var sp=Number($("ppSpace").value);
 var W=180,H=240;var inner="";
 if(type==="graph"){for(var x=0;x<=W;x+=sp)inner+='<line x1="'+x+'" y1="0" x2="'+x+'" y2="'+H+'"/>';for(var y=0;y<=H;y+=sp)inner+='<line x1="0" y1="'+y+'" x2="'+W+'" y2="'+y+'"/>';
-$("ppOut").innerHTML='<svg width="'+mm(W)+'" height="'+mm(H)+'" viewBox="0 0 '+W+" "+H+'" style="border:1px solid #bbb;background:#fff;max-larghezza:100%"><g stroke="#9fc3d8" stroke-width="0.35">'+inner+"</g></svg>";}
+$("ppOut").innerHTML='<svg width="'+mm(W)+'" height="'+mm(H)+'" viewBox="0 0 '+W+" "+H+'" style="border:1px solid #bbb;background:#fff;max-width:100%"><g stroke="#9fc3d8" stroke-width="0.35">'+inner+"</g></svg>";}
 else if(type==="dot"||type==="iso"){var dots="";var rowH=type==="iso"?sp*0.866:sp;
 for(var yy=0,row=0;yy<=H;yy+=rowH,row++){var off=type==="iso"&&row%2?sp/2:0;for(var xx=off;xx<=W;xx+=sp)dots+='<circle cx="'+xx+'" cy="'+yy+'" r="0.7" fill="#8aa5b5"/>';}
 $("ppOut").innerHTML='<svg width="'+mm(W)+'" height="'+mm(H)+'" viewBox="0 0 '+W+" "+H+'" style="border:1px solid #bbb;background:#fff;max-width:100%">'+dots+"</svg>";}
 else{var rows="";var rh=type==="lines"?sp*3:sp*1.6;
-for(var y2=10;y2<H;y2+=rh){if(type==="lines"){rows+='<line x1="0" y1="'+y2+'" x2="'+W+'" y2="'+y2+'" stroke="#7fb0cc" stroke-larghezza="0.6"/><linea x1="0" y1="'+(y2+sp)+'" x2="'+W+'" y2="'+(y2+sp)+'" stroke="#e8un0un0" stroke-larghezza="0.5" stroke-dasharray="3 2"/><linea x1="0" y1="'+(y2+2*sp)+'" x2="'+W+'" y2="'+(y2+2*sp)+'" stroke="#7fb0cc" stroke-width="0.6"/>';}
+for(var y2=10;y2<H;y2+=rh){if(type==="lines"){rows+='<line x1="0" y1="'+y2+'" x2="'+W+'" y2="'+y2+'" stroke="#7fb0cc" stroke-width="0.6"/><line x1="0" y1="'+(y2+sp)+'" x2="'+W+'" y2="'+(y2+sp)+'" stroke="#e8a0a0" stroke-width="0.5" stroke-dasharray="3 2"/><line x1="0" y1="'+(y2+2*sp)+'" x2="'+W+'" y2="'+(y2+2*sp)+'" stroke="#7fb0cc" stroke-width="0.6"/>';}
 else rows+='<line x1="0" y1="'+y2+'" x2="'+W+'" y2="'+y2+'" stroke="#7fb0cc" stroke-width="0.6"/>';}
 $("ppOut").innerHTML='<svg width="'+mm(W)+'" height="'+mm(H)+'" viewBox="0 0 '+W+" "+H+'" style="border:1px solid #bbb;background:#fff;max-width:100%">'+rows+"</svg>";}};
 $("bPpPrint").onclick=function(){if(!$("ppOut").innerHTML)return alert("Generare un pagina primo.");window.print();};
