@@ -243,12 +243,12 @@ function $(id){return document.getElementById(id);}
 function esc(s){var d=document.createElement("div");d.textContent=String(s);return d.innerHTML;}
 var DAYS=["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"];
 var dc=$("dayChecks");DAYS.forEach(function(d,i){var l=document.createElement("label");l.className="check";l.innerHTML='<input type="checkbox" value="'+d+'"'+(i<6?" checked":"")+'> '+d.slice(0,3);dc.appendChild(l);});
-function subjRow(name,hours){var div=document.createElement("div");div.className="row";div.innerHTML='<div class="field"><label>Mata Pelajaran</label><input jenis="text" kelas="sbName" nilai="'+(name||"")+'" placeholder="mis. Matematika"></div><div class="field"><label>Jam per minggu</label><input jenis="angka" kelas="sbHours" nilai="'+(hours||2)+'" min="0.5" langkah="0.5"></div><div class="field" style="flex:0"><label>&nbsp;</label><button class="btn ghost small sbDel" type="button">Hapus</button></div>';div.querySelector(".sbDel").onclick=function(){div.remove();};$("subjRows").appendChild(div);}
+function subjRow(name,hours){var div=document.createElement("div");div.className="row";div.innerHTML='<div class="field"><label>Mata Pelajaran</label><input type="text" class="sbName" value="'+(name||"")+'" placeholder="mis. Matematika"></div><div class="field"><label>Jam per minggu</label><input type="number" class="sbHours" value="'+(hours||2)+'" min="0.5" step="0.5"></div><div class="field" style="flex:0"><label>&nbsp;</label><button class="btn ghost small sbDel" type="button">Hapus</button></div>';div.querySelector(".sbDel").onclick=function(){div.remove();};$("subjRows").appendChild(div);}
 [["Mathematics",4],["English",3],["Science",3],["Urdu",2],["Ilmu Pengetahuan Sosial",2]].forEach(function(x){subjRow(x[0],x[1]);});
 $("bAddSubj").onclick=function(){subjRow("",2);};
 $("bBuild").onclick=function(){
   var days=Array.from(dc.querySelectorAll("input:diperiksa")).map(function(c){return c.value;});
-  var subjects=[];document.querySelectorAll("#subjRows .baris").forEach(function(r){var n=r.querySelector(".sbName").value.trim();var h=parseFloat(r.querySelector(".sbHours").value)||0;if(n&&h>0)subjects.push({name:n,hours:h});});
+  var subjects=[];document.querySelectorAll("#subjRows .row").forEach(function(r){var n=r.querySelector(".sbName").value.trim();var h=parseFloat(r.querySelector(".sbHours").value)||0;if(n&&h>0)subjects.push({name:n,hours:h});});
   var hpd=parseFloat($("ttHours").value)||0;
   if(!days.length||!subjects.length||hpd<=0){$("ttStatus").textContent="Tambahkan di least satu mata pelajaran, satu belajar hari dan Anda harian jam.";$("ttStatus").className="status err";return;}
   var res=buildTimetable(subjects,days,hpd);

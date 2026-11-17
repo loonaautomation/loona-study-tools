@@ -225,7 +225,7 @@ $("bStart").onclick=function(){cats=parseSortSpec($("specIn").value);if(cats.len
 placed={};sel=null;$("gsResult").innerHTML="";draw();$("st").textContent="";};
 function draw(){var pool=allItems().filter(function(it){return placed[it]===undefined;});
 for(var i=pool.length-1;i>0;i--){} // keep stable order in pool (shuffled once at start below)
-$("pool").innerHTML=pool.map(function(it){return '<button jenis="button" kelas="chip poolIt" data-it="'+esc(it)+'" style="cursor:pointer;'+(sel===it?"background:#ffe58a":"")+'">'+esc(it)+"</button>";}).join("")||'<span style="color:var(--mut)">All items placed — press Check.</span>';
+$("pool").innerHTML=pool.map(function(it){return '<button type="button" class="chip poolIt" data-it="'+esc(it)+'" style="cursor:pointer;'+(sel===it?"background:#ffe58a":"")+'">'+esc(it)+"</button>";}).join("")||'<span style="color:var(--mut)">All items placed — press Check.</span>';
 $("cats").innerHTML=cats.map(function(c,ci){var mine=allItems().filter(function(it){return placed[it]===ci;});return '<div class="qitem catBox" data-ci="'+ci+'" style="cursor:pointer;min-height:90px"><div class="qtxt">'+esc(c.name)+'</div>'+mine.map(function(it){return '<span class="chip placedIt" data-it="'+esc(it)+'" style="margin:2px">'+esc(it)+"</span>";}).join("")+"</div>";}).join("");
 document.querySelectorAll(".poolIt").forEach(function(b){b.onclick=function(ev){ev.stopPropagation();sel=b.getAttribute("data-it");draw();};});
 document.querySelectorAll(".placedIt").forEach(function(b){b.onclick=function(ev){ev.stopPropagation();delete placed[b.getAttribute("data-it")];draw();};});

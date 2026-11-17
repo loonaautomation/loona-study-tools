@@ -220,12 +220,12 @@ function finalNeeded(currentPct, finalWeightPct, targetPct){
 </script>
 <script>function $(id){return document.getElementById(id);} function esc(s){var d=document.createElement("div");d.textContent=String(s==null?"":s);return d.innerHTML;}
 function wgRow(name,w,score){var div=document.createElement("div");div.className="row";
-div.innerHTML='<div class="field"><label>Kategori</label><input jenis="text" kelas="wgName" nilai="'+esc(name)+'"></div><div class="field"><label>Bobot</label><input jenis="angka" kelas="wgW" nilai="'+w+'" min="0" langkah="1"></div><div class="field"><label>Skor % (kosong = belum)</label><input jenis="angka" kelas="wgS" nilai="'+score+'" min="0" max="100" langkah="0.1"></div><div class="field" style="flex:0"><label>&nbsp;</label><button class="btn ghost small wgDel" type="button">Hapus</button></div>';
+div.innerHTML='<div class="field"><label>Kategori</label><input type="text" class="wgName" value="'+esc(name)+'"></div><div class="field"><label>Bobot</label><input type="number" class="wgW" value="'+w+'" min="0" step="1"></div><div class="field"><label>Skor % (kosong = belum)</label><input type="number" class="wgS" value="'+score+'" min="0" max="100" step="0.1"></div><div class="field" style="flex:0"><label>&nbsp;</label><button class="btn ghost small wgDel" type="button">Hapus</button></div>';
 div.querySelector(".wgDel").onclick=function(){div.remove();};$("wgRows").appendChild(div);}
 [["Homework",10,95],["Quizzes",20,84],["Tests",40,78],["Akhir ujian",30,""]].forEach(function(r){wgRow(r[0],r[1],r[2]);});
 $("bWgAdd").onclick=function(){wgRow("",10,"");};
 $("bWgCalc").onclick=function(){var cats=[],pending=[];
-document.querySelectorAll("#wgRows .baris").forEach(function(r){var n=r.querySelector(".wgName").value.trim()||"Category";var w=parseFloat(r.querySelector(".wgW").value)||0;var sv=r.querySelector(".wgS").value;
+document.querySelectorAll("#wgRows .row").forEach(function(r){var n=r.querySelector(".wgName").value.trim()||"Category";var w=parseFloat(r.querySelector(".wgW").value)||0;var sv=r.querySelector(".wgS").value;
 if(sv===""||sv===null){pending.push({name:n,weight:w});}else cats.push({name:n,weight:w,score:parseFloat(sv)||0});});
 if(!cats.length){$("wgOut").innerHTML='<p class="status err">Enter at least one category score.</p>';return;}
 var overall=weightedGrade(cats);var wsum=cats.reduce(function(a,c){return a+c.weight;},0);

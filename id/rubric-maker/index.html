@@ -212,7 +212,7 @@ function rubricTotal(criteria){return criteria.reduce(function(a,c){return a+(pa
 </script>
 <script>function $(id){return document.getElementById(id);} function esc(s){var d=document.createElement("div");d.textContent=String(s==null?"":s);return d.innerHTML;}
 function rbRow(name,pts,descs){var div=document.createElement("div");div.className="qitem";
-div.innerHTML='<div class="row"><div class="field"><label>Criterion</label><input jenis="text" kelas="rbName" nilai="'+esc(name)+'"></div><div class="field" style="max-width:130px"><label>Poin maks</label><input jenis="angka" kelas="rbPts" nilai="'+pts+'" min="1" max="100"></div><div class="field" style="flex:0"><label>&nbsp;</label><button class="btn ghost small rbDel" type="button">Hapus</button></div></div>'
+div.innerHTML='<div class="row"><div class="field"><label>Criterion</label><input type="text" class="rbName" value="'+esc(name)+'"></div><div class="field" style="max-width:130px"><label>Poin maks</label><input type="number" class="rbPts" value="'+pts+'" min="1" max="100"></div><div class="field" style="flex:0"><label>&nbsp;</label><button class="btn ghost small rbDel" type="button">Hapus</button></div></div>'
 +'<div class="field"><label>Level descriptions (satu per baris: Luar biasa | Baik | Fair | Memerlukan Kerja)</label><textarea class="rbDesc" style="min-height:56px">'+esc(descs)+"</textarea></div>";
 div.querySelector(".rbDel").onclick=function(){div.remove();};$("rbRows").appendChild(div);}
 rbRow("Ideas & Content",10,"Rich, focused ideas dengan kuat detail | Hapus ideas dengan some detail | Ideas present tetapi thin atau drifting | Ideas unclear atau yang hilang");

@@ -231,7 +231,7 @@ $("hmSvg").innerHTML='<g stroke="#062e2a" stroke-width="4" stroke-linecap="round
 function draw(){var st=hangmanState(word,guessed);drawSVG(st.wrong);
 $("hmPattern").textContent=st.pattern.split("").join(" ");
 $("hmInfo").textContent="Salah guesses dibiarkan: "+st.left+(guessed.length?" · Tebakan: "+guessed.join(", ").toUpperCase():"");
-$("hmKeys").innerHTML="abcdefghijklmnopqrstuvwxyz".split("").map(function(ch){var used=guessed.indexOf(ch)>=0;var inW=word.indexOf(ch)>=0;return '<button jenis="button" kelas="chip hmK" data-ch="'+ch+'" '+(used?"disabled":"")+' style="margin:2px;cursor:pointer;'+(used?(inW?"background:#d9f2e2":"background:#f6d5d3;opacity:.6"):"")+'">'+ch.toUpperCase()+"</button>";}).join("");
+$("hmKeys").innerHTML="abcdefghijklmnopqrstuvwxyz".split("").map(function(ch){var used=guessed.indexOf(ch)>=0;var inW=word.indexOf(ch)>=0;return '<button type="button" class="chip hmK" data-ch="'+ch+'" '+(used?"disabled":"")+' style="margin:2px;cursor:pointer;'+(used?(inW?"background:#d9f2e2":"background:#f6d5d3;opacity:.6"):"")+'">'+ch.toUpperCase()+"</button>";}).join("");
 document.querySelectorAll(".hmK").forEach(function(b){b.onclick=function(){guessed.push(b.getAttribute("data-ch"));draw2();};});
 if(st.won)$("hmMsg").innerHTML='<p class="status ok">You got it — the word was <strong>'+esc(word)+"</strong>! 🎉 Tekan Baru kata untuk bermain lagi.</p>";
 else if(st.lost)$("hmMsg").innerHTML='<p class="status err">Out of guesses — the word was <strong>'+esc(word)+"</strong>. Tekan Baru kata untuk coba another.</p>";

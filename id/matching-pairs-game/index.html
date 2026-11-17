@@ -213,7 +213,7 @@ var cards=[],open=[],matched=0,moves=0,startT=0,lock=false;
 $("bStart").onclick=function(){var pairs=parsePairs($("pairsIn").value);if(pairs.length<3){$("st").textContent="Tambahkan di least 3 pasangan.";$("st").className="status err";return;}
 cards=buildMatchCards(pairs);open=[];matched=0;moves=0;startT=Date.now();draw();$("st").textContent="";};
 function draw(){$("gameInfo").textContent="Pasangan found: "+matched+" / "+cards.length/2+" · Langkah: "+moves;
-$("board").innerHTML=cards.map(function(c,i){var isOpen=open.indexOf(i)>=0||c.done;return '<button jenis="button" data-i="'+i+'" class="mpc" style="min-height:86px;border-radius:12px;border:2px solid '+(c.done?"#2e9e5b":"var(--gold)")+';background:'+(c.done?"#eafaf2":isOpen?"#fff6d8":"#0b3d37")+';color:'+(c.done||isOpen?"#12211e":"#e3c565")+';font-weight:600;padding:10px;cursor:pointer">'+(c.done||isOpen?esc(c.text):"?")+"</button>";}).join("");
+$("board").innerHTML=cards.map(function(c,i){var isOpen=open.indexOf(i)>=0||c.done;return '<button type="button" data-i="'+i+'" class="mpc" style="min-height:86px;border-radius:12px;border:2px solid '+(c.done?"#2e9e5b":"var(--gold)")+';background:'+(c.done?"#eafaf2":isOpen?"#fff6d8":"#0b3d37")+';color:'+(c.done||isOpen?"#12211e":"#e3c565")+';font-weight:600;padding:10px;cursor:pointer">'+(c.done||isOpen?esc(c.text):"?")+"</button>";}).join("");
 document.querySelectorAll(".mpc").forEach(function(b){b.onclick=function(){flip(Number(b.getAttribute("data-i")));};});}
 function flip(i){if(lock||cards[i].done||open.indexOf(i)>=0)return;open.push(i);draw();
 if(open.length===2){moves++;var a=cards[open[0]],b=cards[open[1]];lock=true;
