@@ -1,0 +1,29 @@
+{
+  "name": "Loona Verb Conjugation Trainer",
+  "short_name": "Verbtrener",
+  "description": "Gratis trener for verbbøying: utfyllingsøvelser med og uten tid for spanske (6 tider), franske, tyske, italienske og portugisiske verb, med umiddelbar kontroll, tilbakemelding om aksenter og serier. Ingen registrering.",
+  "id": "/loona-study-tools/nb/verb-conjugation-trainer/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Trình Luyện Chia Động Từ",
+  "short_name": "Trình Luyện Động Từ",
+  "description": "Trình luyện chia động từ miễn phí: bài tập điền vào chỗ trống có tính giờ và không tính giờ cho động từ tiếng Tây Ban Nha (6 thì), Pháp, Đức, Ý và Bồ Đào Nha, với kiểm tra tức thì, phản hồi về dấu trọng âm và chuỗi trả lời đúng. Không cần đăng ký.",
+  "id": "/loona-study-tools/vi/verb-conjugation-trainer/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

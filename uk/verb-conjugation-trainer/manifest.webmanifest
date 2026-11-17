@@ -1,0 +1,29 @@
+{
+  "name": "Loona Тренажер відмінювання дієслів",
+  "short_name": "Тренажер дієслів",
+  "description": "Безкоштовний тренажер відмінювання дієслів: вправи із заповненням пропусків на час і без таймера для іспанських (6 часів), французьких, німецьких, італійських та португальських дієслів, з миттєвою перевіркою, зворотним зв’язком щодо акцентів і серіями. Без реєстрації.",
+  "id": "/loona-study-tools/uk/verb-conjugation-trainer/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

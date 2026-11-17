@@ -1,0 +1,29 @@
+{
+  "name": "Loona 동사 활용 트레이너",
+  "short_name": "동사 트레이너",
+  "description": "무료 동사 활용 트레이너: 스페인어(시제 6개), 프랑스어, 독일어, 이탈리아어, 포르투갈어 동사를 즉각적인 확인, 강세 피드백, 연속 정답 기록과 함께 연습하는 시간 제한 및 무제한 빈칸 채우기 훈련. 가입 불필요.",
+  "id": "/loona-study-tools/ko/verb-conjugation-trainer/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

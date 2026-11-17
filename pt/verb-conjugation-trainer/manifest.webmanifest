@@ -1,0 +1,29 @@
+{
+  "name": "Loona Treinador de conjugação verbal",
+  "short_name": "Treinador verbal",
+  "description": "Treinador gratuito de conjugação verbal: exercícios de completar, cronometrados e sem cronômetro, para verbos em espanhol (6 tempos), francês, alemão, italiano e português, com verificação instantânea, feedback sobre acentos e sequências. Sem cadastro.",
+  "id": "/loona-study-tools/pt/verb-conjugation-trainer/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

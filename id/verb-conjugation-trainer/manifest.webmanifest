@@ -1,0 +1,29 @@
+{
+  "name": "Loona Pelatih Konjugasi Kata Kerja",
+  "short_name": "Pelatih Kata Kerja",
+  "description": "Pelatih konjugasi kata kerja gratis: latihan isian berwaktu dan tanpa waktu untuk kata kerja bahasa Spanyol (6 kala), Prancis, Jerman, Italia, dan Portugis, dengan pemeriksaan instan, umpan balik aksen, dan rangkaian. Tanpa pendaftaran.",
+  "id": "/loona-study-tools/id/verb-conjugation-trainer/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
