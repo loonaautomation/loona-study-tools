@@ -1,0 +1,29 @@
+{
+  "name": "Loona Тренажёр печати",
+  "short_name": "Тренажёр печати",
+  "description": "Бесплатный тренажёр печати с пошаговыми уроками: домашний ряд, верхний ряд, нижний ряд, заглавные буквы и цифры, экранная клавиатура с подсветкой следующей клавиши, точность по каждой клавише, баллы WPM и мягкий детский режим. Тренажёр, который учит, — а не просто тест.",
+  "id": "/loona-study-tools/ru/typing-tutor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

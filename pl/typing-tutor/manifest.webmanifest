@@ -1,0 +1,29 @@
+{
+  "name": "Loona Trener pisania",
+  "short_name": "Trener pisania",
+  "description": "Darmowy trener pisania z lekcjami krok po kroku: rząd podstawowy, górny rząd, dolny rząd, wielkie litery i cyfry, klawiatura ekranowa podświetlająca następny klawisz, dokładność dla każdego klawisza, wyniki WPM i łagodny tryb dla dzieci. Trener, który uczy — nie tylko test.",
+  "id": "/loona-study-tools/pl/typing-tutor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

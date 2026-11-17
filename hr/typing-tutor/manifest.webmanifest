@@ -1,0 +1,29 @@
+{
+  "name": "Loona Trener tipkanja",
+  "short_name": "Trener tipkanja",
+  "description": "Besplatan trener tipkanja s lekcijama korak po korak: početni red, gornji red, donji red, velika slova i brojevi, zaslonska tipkovnica koja osvjetljava sljedeću tipku, točnost po tipki, rezultati WPM i nježan dječji način rada. Trener koji podučava — ne samo test.",
+  "id": "/loona-study-tools/hr/typing-tutor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona ٹائپنگ سیکھنے کا استاد",
+  "short_name": "ٹائپنگ سیکھنے کا استاد",
+  "description": "قدم بہ قدم اسباق کے ساتھ مفت ٹائپنگ سیکھنے کا استاد: ہوم رو، اوپری قطار، نچلی قطار، بڑے حروف اور اعداد، اگلی کی کو روشن کرنے والا اسکرین کی بورڈ، فی کی درستگی، WPM اسکورز اور ایک نرم کڈز موڈ۔ ایک استاد جو سکھاتا ہے — صرف ٹیسٹ نہیں۔",
+  "id": "/loona-study-tools/ur/typing-tutor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

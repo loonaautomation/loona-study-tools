@@ -1,0 +1,29 @@
+{
+  "name": "Loona Tutore Învață să Tastezi",
+  "short_name": "Tutore Învață să Tastezi",
+  "description": "Tutore gratuit pentru a învăța să tastezi, cu lecții pas cu pas: rândul de bază, rândul de sus, rândul de jos, majuscule și cifre, o tastatură pe ecran care aprinde tasta următoare, precizie pe fiecare tastă, scoruri WPM și un mod blând pentru copii. Un tutore care învață — nu doar un test.",
+  "id": "/loona-study-tools/ro/typing-tutor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Tuteur de dactylographie",
+  "short_name": "Tuteur de dactylographie",
+  "description": "Tuteur gratuit pour apprendre à taper avec des leçons étape par étape : rangée de base, rangée du haut, rangée du bas, majuscules et chiffres, un clavier à l'écran qui illumine la touche suivante, précision par touche, scores WPM et un doux mode enfants. Un tuteur qui enseigne — pas juste un test.",
+  "id": "/loona-study-tools/fr/typing-tutor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

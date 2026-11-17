@@ -1,0 +1,29 @@
+{
+  "name": "Loona Тренажер друку",
+  "short_name": "Тренажер друку",
+  "description": "Безкоштовний тренажер друку з покроковими уроками: домашній ряд, верхній ряд, нижній ряд, великі літери та цифри, екранна клавіатура з підсвічуванням наступної клавіші, точність за кожною клавішею, бали WPM і м’який дитячий режим. Тренажер, який навчає, — а не просто тест.",
+  "id": "/loona-study-tools/uk/typing-tutor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

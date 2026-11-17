@@ -1,0 +1,29 @@
+{
+  "name": "Loona Tutor de mecanografía",
+  "short_name": "Tutor de mecanografía",
+  "description": "Tutor gratuito para aprender a mecanografiar con lecciones paso a paso: fila base, fila superior, fila inferior, mayúsculas y números, un teclado en pantalla que ilumina la siguiente tecla, precisión por tecla, puntuaciones WPM y un amable modo infantil. Un tutor que enseña, no solo una prueba.",
+  "id": "/loona-study-tools/es/typing-tutor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

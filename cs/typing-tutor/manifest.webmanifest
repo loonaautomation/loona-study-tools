@@ -1,0 +1,29 @@
+{
+  "name": "Loona Trenér psaní",
+  "short_name": "Trenér psaní",
+  "description": "Bezplatný trenér psaní s lekcemi krok za krokem: domácí řada, horní řada, dolní řada, velká písmena a čísla, obrazovková klávesnice, která rozsvítí další klávesu, přesnost jednotlivých kláves, skóre WPM a jemný dětský režim. Trenér, který učí — nejen test.",
+  "id": "/loona-study-tools/cs/typing-tutor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

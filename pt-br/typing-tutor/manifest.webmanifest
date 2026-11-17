@@ -1,0 +1,29 @@
+{
+  "name": "Loona Tutor de digitação",
+  "short_name": "Tutor de digitação",
+  "description": "Tutor gratuito para aprender a digitar com lições passo a passo: fileira base, fileira de cima, fileira de baixo, maiúsculas e números, um teclado na tela que acende a próxima tecla, precisão por tecla, pontuações WPM e um modo kids gentil. Um tutor que ensina — não só um teste.",
+  "id": "/loona-study-tools/pt-br/typing-tutor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

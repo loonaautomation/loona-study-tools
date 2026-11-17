@@ -1,0 +1,29 @@
+{
+  "name": "Loona Mkufunzi wa Kujifunza Kuandika",
+  "short_name": "Mkufunzi wa Kujifunza Kuandika",
+  "description": "Mkufunzi bure wa kujifunza kuandika mwenye masomo ya hatua kwa hatua: safu ya nyumbani, safu ya juu, safu ya chini, herufi kubwa na nambari, kibodi ya skrini inayowasha kitufe kinachofuata, usahihi kwa kila kitufe, alama za WPM na hali laini ya watoto. Mkufunzi anayefundisha — si jaribio tu.",
+  "id": "/loona-study-tools/sw/typing-tutor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

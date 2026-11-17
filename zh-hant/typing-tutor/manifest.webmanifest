@@ -1,0 +1,29 @@
+{
+  "name": "Loona 打字學習導師",
+  "short_name": "打字學習導師",
+  "description": "免費打字學習導師，提供分步課程：主行、頂行、底行、大寫字母和數字，會點亮下一個鍵的螢幕鍵盤、逐鍵準確率、WPM 分數和溫和的兒童模式。一位會教的導師 — 不只是測驗。",
+  "id": "/loona-study-tools/zh-hant/typing-tutor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

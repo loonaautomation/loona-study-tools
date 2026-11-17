@@ -1,0 +1,29 @@
+{
+  "name": "Loona Lær å skrive-veileder",
+  "short_name": "Lær å skrive-veileder",
+  "description": "Gratis lær å skrive-veileder med trinnvise leksjoner: hjemraden, øverste rad, nederste rad, store bokstaver og tall, et tastatur på skjermen som lyser opp neste tast, nøyaktighet per tast, WPM-resultater og en snill barnemodus. En veileder som lærer — ikke bare en test.",
+  "id": "/loona-study-tools/nb/typing-tutor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

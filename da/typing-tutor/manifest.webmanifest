@@ -1,0 +1,29 @@
+{
+  "name": "Loona Lær at skrive-underviser",
+  "short_name": "Lær at skrive-underviser",
+  "description": "Gratis lær at skrive-underviser med trinvis lektioner: grundrækken, øverste række, nederste række, store bogstaver og tal, et tastatur på skærmen, der lyser den næste tast op, nøjagtighed pr. tast, WPM-resultater og en blid børnetilstand. En underviser, der lærer — ikke bare en test.",
+  "id": "/loona-study-tools/da/typing-tutor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
