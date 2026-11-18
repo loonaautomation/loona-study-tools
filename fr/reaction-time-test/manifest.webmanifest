@@ -1,0 +1,29 @@
+{
+  "name": "Loona Reaction Time Test",
+  "short_name": "Test de temps de réaction",
+  "description": "Test de temps de réaction gratuit : attendez que l'écran devienne vert, puis cliquez aussi vite que possible. Cinq essais vous donnent votre temps de réaction moyen en millisecondes, avec un record personnel, un historique sur l'appareil et un guide honnête des bons scores.",
+  "id": "/loona-study-tools/fr/reaction-time-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
