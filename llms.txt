@@ -48,6 +48,7 @@
 - [Weighted Grade Calculator](https://loonaautomation.github.io/loona-study-tools/weighted-grade-calculator/): Combine category scores (homework, quizzes, tests, final) by their syllabus weights into a course grade.
 - [Final Exam Grade Calculator](https://loonaautomation.github.io/loona-study-tools/final-exam-calculator/): Work out exactly what score you need in the final exam to reach your target course grade — and whether it is possible.
 - [Math Facts Speed Test](https://loonaautomation.github.io/loona-study-tools/math-facts-speed-test/): A 60-second arithmetic sprint: as many correct +, −, × and ÷ facts as you can, with accuracy and streaks.
+- [Reaction Time Test](https://loonaautomation.github.io/loona-study-tools/reaction-time-test/): Wait for green, then click as fast as you can — five attempts give your average reaction time in milliseconds, with a personal best and on-device history.
 - [10-Key Number Pad Test](https://loonaautomation.github.io/loona-study-tools/ten-key-test/): Data-entry speed test for the numeric keypad: type number sequences fast and accurately, scored in keys per minute.
 - [Code Typing Test](https://loonaautomation.github.io/loona-study-tools/code-typing-test/): Type real code snippets with symbols and indentation — measures code-typing speed and symbol accuracy for programmers.
 - [Grammar Quiz](https://loonaautomation.github.io/loona-study-tools/grammar-quiz/): A 24-question English grammar test — tenses, articles, prepositions, agreement and punctuation — with instant score and explanations.
