@@ -1,0 +1,29 @@
+{
+  "name": "Loona CPS Test",
+  "short_name": "CPS Test",
+  "description": "Бесплатный тест CPS: измерьте количество кликов в секунду за 1, 5, 10, 30 или 60 секунд. Включает режим счётчика пробела, личный рекорд и историю, которые сохраняются на вашем устройстве. Работает с мышью и касанием — без регистрации.",
+  "id": "/loona-study-tools/ru/cps-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona CPS Test",
+  "short_name": "CPS Test",
+  "description": "免費 CPS 測試：在 1、5、10、30 或 60 秒內測量您每秒的點擊次數。包含空白鍵計數器模式，個人最佳成績和歷史記錄保存在您的裝置上。支援滑鼠和觸控 — 無需註冊。",
+  "id": "/loona-study-tools/zh-hant/cps-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

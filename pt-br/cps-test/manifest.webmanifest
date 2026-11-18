@@ -1,0 +1,29 @@
+{
+  "name": "Loona CPS Test",
+  "short_name": "CPS Test",
+  "description": "Teste de CPS grátis: meça seus cliques por segundo em 1, 5, 10, 30 ou 60 segundos. Inclui um modo contador de barra de espaço, recorde pessoal e histórico salvos no seu dispositivo. Funciona com mouse e toque — sem cadastro.",
+  "id": "/loona-study-tools/pt-br/cps-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

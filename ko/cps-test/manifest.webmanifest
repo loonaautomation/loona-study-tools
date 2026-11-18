@@ -1,0 +1,29 @@
+{
+  "name": "Loona CPS Test",
+  "short_name": "CPS Test",
+  "description": "무료 CPS 테스트: 1, 5, 10, 30, 60초 동안 초당 클릭 수를 측정하세요. 스페이스바 카운터 모드가 포함되어 있고, 개인 최고 기록과 기록이 기기에 저장됩니다. 마우스와 터치 모두 지원 — 가입 불필요.",
+  "id": "/loona-study-tools/ko/cps-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

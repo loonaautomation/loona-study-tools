@@ -1,0 +1,29 @@
+{
+  "name": "Loona CPS Test",
+  "short_name": "CPS Test",
+  "description": "Ujian CPS percuma: ukur klik per saat anda selama 1, 5, 10, 30 atau 60 saat. Termasuk mod pembilang bar ruang, rekod peribadi terbaik dan sejarah yang disimpan pada peranti anda. Berfungsi dengan tetikus dan sentuhan — tiada pendaftaran.",
+  "id": "/loona-study-tools/ms/cps-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
