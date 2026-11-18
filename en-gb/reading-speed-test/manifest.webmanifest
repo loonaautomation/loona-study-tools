@@ -1,7 +1,7 @@
 {
-  "name": "Loona ",
-  "short_name": "",
-  "description": "",
+  "name": "Loona Reading Speed Test",
+  "short_name": "Reading Speed Test",
+  "description": "Free reading speed test: read a timed passage (3 choices, 400-600 words), answer comprehension questions, and get your reading speed in WPM plus an honest guide to good reading speeds by age.",
   "id": "/loona-study-tools/en-gb/reading-speed-test/",
   "start_url": ".",
   "scope": ".",
