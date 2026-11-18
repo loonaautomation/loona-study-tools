@@ -1,0 +1,29 @@
+{
+  "name": "Loona Reaction Time Test",
+  "short_name": "Reaction Time Test",
+  "description": "免费反应时间测试:等屏幕变成绿色,然后尽可能快地点击。五次尝试给出您的平均反应时间(以毫秒为单位),还有个人最佳成绩、本设备历史记录和诚实的好成绩指南。",
+  "id": "/loona-study-tools/zh/reaction-time-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

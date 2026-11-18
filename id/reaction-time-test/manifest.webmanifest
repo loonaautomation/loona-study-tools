@@ -1,0 +1,29 @@
+{
+  "name": "Loona Reaction Time Test",
+  "short_name": "Reaction Time Test",
+  "description": "Tes waktu reaksi gratis: tunggu layar berubah hijau, lalu klik secepat mungkin. Lima percobaan memberikan waktu reaksi rata-rata Anda dalam milidetik, dengan rekor pribadi terbaik, riwayat di perangkat, dan panduan jujur tentang skor yang baik.",
+  "id": "/loona-study-tools/id/reaction-time-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

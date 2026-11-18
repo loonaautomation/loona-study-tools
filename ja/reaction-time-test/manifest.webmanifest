@@ -1,0 +1,29 @@
+{
+  "name": "Loona Reaction Time Test",
+  "short_name": "Reaction Time Test",
+  "description": "無料の反応時間テスト:画面が緑に変わるのを待って、できるだけ速くクリックしてください。5回の試行でミリ秒単位の平均反応時間、自己ベスト、このデバイス上の履歴、そして良いスコアへの正直なガイドが得られます。",
+  "id": "/loona-study-tools/ja/reaction-time-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
