@@ -1,0 +1,29 @@
+{
+  "name": "Loona Reaction Time Test",
+  "short_name": "Тест часу реакції",
+  "description": "Безкоштовний тест часу реакції: дочекайтеся, поки екран стане зеленим, потім натисніть якомога швидше. П’ять спроб дадуть ваш середній час реакції в мілісекундах, а також особистий рекорд, історію на пристрої та чесний посібник щодо хороших результатів.",
+  "id": "/loona-study-tools/uk/reaction-time-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
