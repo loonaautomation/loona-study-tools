@@ -1,0 +1,29 @@
+{
+  "name": "Loona Reaction Time Test",
+  "short_name": "Test vremena reakcije",
+  "description": "Besplatan test vremena reakcije: pričekajte da zaslon postane zelen, a zatim kliknite što brže možete. Pet pokušaja dat će vam prosječno vrijeme reakcije u milisekundama, osobni rekord, povijest na uređaju i pošten vodič kroz dobre rezultate.",
+  "id": "/loona-study-tools/hr/reaction-time-test/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-study-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-study-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
