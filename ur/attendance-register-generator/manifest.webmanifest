@@ -2,7 +2,7 @@
   "name": "Loona حاضری رجسٹر بنانے والا",
   "short_name": "حاضری رجسٹر",
   "description": "مفت حاضری رجسٹر بنانے والا: اپنی جماعت کی فہرست ایک بار درج کریں اور کسی بھی مہینے کا صاف ستھرا ماہانہ حاضری رجسٹر چھاپیں — درست دنوں کی تعداد، ایامِ ہفتہ کے حروف، اتوار سایہ دار، اور ہاتھ سے P، A اور L لگانے کے لیے تیار۔",
-  "id": "/loona-study-tools/ur/attendance-register-generator/",
+  "id": "/ur/attendance-register-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-study-tools/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

@@ -2,7 +2,7 @@
   "name": "Loona GPA na procenta na stupnici 4.0",
   "short_name": "GPA na procenta na stupnici 4.0",
   "description": "Převeďte GPA stupnice 4.0 na procenta přes standardní tabulku písmenných známek (A = 4.0 = 93–100 %), zobrazenou vedle lineárního odhadu ×25.",
-  "id": "/loona-study-tools/cs/gpa-4-scale-to-percentage/",
+  "id": "/cs/gpa-4-scale-to-percentage/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-study-tools/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

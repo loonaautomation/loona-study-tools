@@ -2,7 +2,7 @@
   "name": "Loona Reaction Time Test",
   "short_name": "Teste de tempo de reação",
   "description": "Teste gratuito de tempo de reação: espera que o ecrã fique verde e clica o mais depressa que conseguires. Cinco tentativas dão-te o teu tempo médio de reação em milissegundos, com melhor marca pessoal, histórico no dispositivo e um guia honesto de bons resultados.",
-  "id": "/loona-study-tools/pt/reaction-time-test/",
+  "id": "/pt/reaction-time-test/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-study-tools/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

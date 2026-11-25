@@ -2,7 +2,7 @@
   "name": "Loona Ämnen i urdu för årskurs 5 och studieguide",
   "short_name": "Ämnen i urdu för årskurs 5 och studieguide",
   "description": "Urduämnena för årskurs 5 i undervisningsordning — Qawaid, Ordspråk (zarb-ul-amsaal), Ordstruktur (sarf) och mer — med gratis studieverktyg för varje ämne.",
-  "id": "/loona-study-tools/sv/grade-5-urdu-topics/",
+  "id": "/sv/grade-5-urdu-topics/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-study-tools/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

@@ -2,7 +2,7 @@
   "name": "Loona Oppmøteregister-generator",
   "short_name": "Oppmøteregister",
   "description": "Gratis generator for oppmøteregister: skriv inn klasselisten én gang og skriv ut et ryddig månedlig oppmøteregister for en hvilken som helst måned - med riktig antall dager, ukedagsbokstaver og skraverte søndager, klart for merking med T, F og P.",
-  "id": "/loona-study-tools/nb/attendance-register-generator/",
+  "id": "/nb/attendance-register-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-study-tools/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

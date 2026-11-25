@@ -2,7 +2,7 @@
   "name": "Loona Генератор раскрасок по номерам",
   "short_name": "Генератор раскрасок по номерам",
   "description": "Бесплатный генератор раскрасок по номерам: рабочий лист с пронумерованной мозаикой, ключом из шести цветов и отдельным цветным изображением с ответом. Каждый раз новое изображение.",
-  "id": "/loona-study-tools/ru/colour-by-number-generator/",
+  "id": "/ru/colour-by-number-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-study-tools/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

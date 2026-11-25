@@ -2,7 +2,7 @@
   "name": "Loona Reaction Time Test",
   "short_name": "Test reakční doby",
   "description": "Bezplatný test reakční doby: počkejte, až obrazovka zezelená, a pak klikněte co nejrychleji. Pět pokusů vám dá průměrnou reakční dobu v milisekundách, osobní rekord, historii v zařízení a poctivý přehled dobrých výsledků.",
-  "id": "/loona-study-tools/cs/reaction-time-test/",
+  "id": "/cs/reaction-time-test/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-study-tools/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

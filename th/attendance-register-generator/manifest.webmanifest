@@ -2,7 +2,7 @@
   "name": "Loona โปรแกรมสร้างสมุดลงทะเบียนการเข้าเรียน",
   "short_name": "สมุดลงทะเบียนการเข้าเรียน",
   "description": "โปรแกรมสร้างสมุดลงทะเบียนการเข้าเรียนฟรี: ป้อนรายชื่อชั้นเรียนเพียงครั้งเดียว แล้วพิมพ์สมุดลงทะเบียนการเข้าเรียนรายเดือนที่เรียบร้อยสำหรับเดือนใดก็ได้ - จำนวนวันถูกต้อง ตัวอักษรวันในสัปดาห์ครบ วันอาทิตย์ถูกแรเงา พร้อมสำหรับการทำเครื่องหมาย P, A และ L",
-  "id": "/loona-study-tools/th/attendance-register-generator/",
+  "id": "/th/attendance-register-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-study-tools/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

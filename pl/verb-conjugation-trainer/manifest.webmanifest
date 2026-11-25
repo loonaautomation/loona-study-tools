@@ -2,7 +2,7 @@
   "name": "Loona Trener odmiany czasowników",
   "short_name": "Trener czasowników",
   "description": "Bezpłatny trener odmiany czasowników: ćwiczenia z uzupełnianiem na czas i bez limitu dla czasowników hiszpańskich (6 czasów), francuskich, niemieckich, włoskich i portugalskich, z natychmiastowym sprawdzaniem, informacją o akcentach i seriami. Bez rejestracji.",
-  "id": "/loona-study-tools/pl/verb-conjugation-trainer/",
+  "id": "/pl/verb-conjugation-trainer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-study-tools/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

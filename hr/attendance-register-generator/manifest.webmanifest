@@ -2,7 +2,7 @@
   "name": "Loona Generator registra prisutnosti",
   "short_name": "Registar prisutnosti",
   "description": "Besplatan generator registra prisutnosti: jednom unesite popis razreda i ispisujte uredan mjesečni registar prisutnosti za bilo koji mjesec - s točnim brojem dana, slovima dana u tjednu i osjenčanim nedjeljama, spreman za označavanje P, O i I.",
-  "id": "/loona-study-tools/hr/attendance-register-generator/",
+  "id": "/hr/attendance-register-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-study-tools/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

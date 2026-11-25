@@ -2,7 +2,7 @@
   "name": "Loona Тренажор за писане",
   "short_name": "Тренажор за писане",
   "description": "Безплатен тренажор за писане с уроци стъпка по стъпка: основен ред, горен ред, долен ред, главни букви и цифри, екранна клавиатура, която осветява следващия клавиш, точност за всеки клавиш, резултати WPM и нежен детски режим. Тренажор, който учи — а не просто тест.",
-  "id": "/loona-study-tools/bg/typing-tutor/",
+  "id": "/bg/typing-tutor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-study-tools/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

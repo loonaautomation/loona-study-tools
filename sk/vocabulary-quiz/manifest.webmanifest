@@ -2,7 +2,7 @@
   "name": "Loona Kvíz zo slovnej zásoby",
   "short_name": "Kvíz zo slovnej zásoby",
   "description": "Bezplatný kvíz zo slovnej zásoby: 20 anglických slov so štyrmi možnosťami významu pre každé, od bežných školských slov po bohatšiu akademickú slovnú zásobu. Okamžité skóre a kontrola.",
-  "id": "/loona-study-tools/sk/vocabulary-quiz/",
+  "id": "/sk/vocabulary-quiz/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-study-tools/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

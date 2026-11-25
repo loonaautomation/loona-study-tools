@@ -2,7 +2,7 @@
   "name": "Loona CPS Test",
   "short_name": "CPS Test",
   "description": "বিনামূল্যে CPS পরীক্ষা: 1, 5, 10, 30 বা 60 সেকেন্ডে প্রতি সেকেন্ডে আপনার ক্লিক মাপুন। এতে রয়েছে স্পেসবার কাউন্টার মোড, ব্যক্তিগত সেরা এবং আপনার ডিভাইসে সংরক্ষিত ইতিহাস। মাউস ও স্পর্শে কাজ করে — সাইন-আপ লাগে না।",
-  "id": "/loona-study-tools/bn/cps-test/",
+  "id": "/bn/cps-test/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-study-tools/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

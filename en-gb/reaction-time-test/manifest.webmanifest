@@ -2,7 +2,7 @@
   "name": "Loona Reaction Time Test",
   "short_name": "Reaction Time Test",
   "description": "Free reaction time test: wait for the screen to turn green, then click as fast as you can. Five attempts give your average reaction time in milliseconds, with a personal best, on-device history and an honest guide to good scores.",
-  "id": "/loona-study-tools/en-gb/reaction-time-test/",
+  "id": "/en-gb/reaction-time-test/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-study-tools/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

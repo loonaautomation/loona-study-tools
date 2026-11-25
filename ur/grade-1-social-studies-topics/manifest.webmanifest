@@ -2,7 +2,7 @@
   "name": "Loona درجہ 1 معاشرتی علوم موضوعات",
   "short_name": "درجہ 1 معاشرتی علوم موضوعات",
   "description": "درجہ 1 کے معاشرتی علوم موضوعات تدریسی ترتیب میں — ہمارا محلہ، ہماری مدد کرنے والے لوگ، آمد و رفت اور مزید — ہر موضوع کے لیے مفت مطالعے کے اوزاروں کے ساتھ۔",
-  "id": "/loona-study-tools/ur/grade-1-social-studies-topics/",
+  "id": "/ur/grade-1-social-studies-topics/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-study-tools/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

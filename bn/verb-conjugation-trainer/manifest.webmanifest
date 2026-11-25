@@ -2,7 +2,7 @@
   "name": "Loona ক্রিয়া রূপ প্রশিক্ষক",
   "short_name": "ক্রিয়া প্রশিক্ষক",
   "description": "বিনামূল্যে ক্রিয়া রূপ প্রশিক্ষক: স্প্যানিশ (6টি কাল), ফরাসি, জার্মান, ইতালীয় এবং পর্তুগিজ ক্রিয়ার জন্য সময়সীমাবদ্ধ এবং সময় ছাড়া শূন্যস্থান পূরণের অনুশীলন, তাৎক্ষণিক যাচাই, অ্যাকসেন্ট প্রতিক্রিয়া এবং সাফল্যের ধারা সহ। সাইন-আপ ছাড়াই।",
-  "id": "/loona-study-tools/bn/verb-conjugation-trainer/",
+  "id": "/bn/verb-conjugation-trainer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-study-tools/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

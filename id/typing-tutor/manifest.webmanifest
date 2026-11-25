@@ -2,7 +2,7 @@
   "name": "Loona Tutor Belajar Mengetik",
   "short_name": "Tutor Belajar Mengetik",
   "description": "Tutor belajar mengetik gratis dengan pelajaran langkah demi langkah: baris tengah, baris atas, baris bawah, huruf besar dan angka, papan ketik layar yang menyalakan tombol berikutnya, akurasi per tombol, skor WPM dan mode anak yang lembut. Tutor yang mengajar — bukan sekadar tes.",
-  "id": "/loona-study-tools/id/typing-tutor/",
+  "id": "/id/typing-tutor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-study-tools/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

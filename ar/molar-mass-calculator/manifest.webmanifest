@@ -2,7 +2,7 @@
   "name": "Loona حاسبة الكتلة المولية",
   "short_name": "حاسبة الكتلة المولية",
   "description": "حاسبة كتلة مولية مجانية: اكتب أي صيغة كيميائية بأقواس — Ca(OH)2 وAl2(SO4)3 — واحصل على الكتلة المولية بوحدة g/mol مع جدول تفصيل لكل عنصر.",
-  "id": "/loona-study-tools/ar/molar-mass-calculator/",
+  "id": "/ar/molar-mass-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-study-tools/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

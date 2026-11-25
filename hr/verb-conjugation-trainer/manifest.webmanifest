@@ -2,7 +2,7 @@
   "name": "Loona Trener konjugacije glagola",
   "short_name": "Trener glagola",
   "description": "Besplatni trener konjugacije glagola: vremenski ograničene i neograničene vježbe dopunjavanja za glagole na španjolskom (6 vremena), francuskom, njemačkom, talijanskom i portugalskom, s trenutnom provjerom, povratnim informacijama o naglascima i nizovima. Bez registracije.",
-  "id": "/loona-study-tools/hr/verb-conjugation-trainer/",
+  "id": "/hr/verb-conjugation-trainer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-study-tools/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

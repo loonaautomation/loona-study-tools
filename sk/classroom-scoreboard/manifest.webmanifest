@@ -2,7 +2,7 @@
   "name": "Loona Triedna výsledková tabuľa",
   "short_name": "Triedna výsledková tabuľa",
   "description": "Bezplatná triedna výsledková tabuľa: veľké farebné karty tímových bodov na obrazovku triedy, jedno ťuknutie +1/+5/-1, uložené v prehliadači medzi hodinami.",
-  "id": "/loona-study-tools/sk/classroom-scoreboard/",
+  "id": "/sk/classroom-scoreboard/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-study-tools/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

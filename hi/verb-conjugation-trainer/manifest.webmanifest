@@ -2,7 +2,7 @@
   "name": "Loona क्रिया संयोजन प्रशिक्षक",
   "short_name": "क्रिया प्रशिक्षक",
   "description": "मुफ़्त क्रिया संयोजन प्रशिक्षक: स्पेनिश (6 काल), फ्रेंच, जर्मन, इतालवी और पुर्तगाली क्रियाओं के लिए समयबद्ध और बिना समय के रिक्त-स्थान अभ्यास, तुरंत जाँच, चिह्न प्रतिक्रिया और सफलता श्रृंखलाओं के साथ। साइन-अप के बिना।",
-  "id": "/loona-study-tools/hi/verb-conjugation-trainer/",
+  "id": "/hi/verb-conjugation-trainer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-study-tools/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

@@ -2,7 +2,7 @@
   "name": "Loona Tutor de dactilografia",
   "short_name": "Tutor de dactilografia",
   "description": "Tutor gratuito para aprender a digitar com lições passo a passo: fila base, fila de cima, fila de baixo, maiúsculas e números, um teclado no ecrã que acende a tecla seguinte, precisão por tecla, pontuações WPM e um suave modo para crianças. Um tutor que ensina — não apenas um teste.",
-  "id": "/loona-study-tools/pt/typing-tutor/",
+  "id": "/pt/typing-tutor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-study-tools/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

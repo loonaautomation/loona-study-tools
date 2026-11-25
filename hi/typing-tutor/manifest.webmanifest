@@ -2,7 +2,7 @@
   "name": "Loona टाइप करना सीखें ट्यूटर",
   "short_name": "टाइप करना सीखें ट्यूटर",
   "description": "कदम-दर-कदम पाठों के साथ मुफ़्त टाइप करना सीखें ट्यूटर: होम रो, ऊपरी पंक्ति, निचली पंक्ति, बड़े अक्षर और संख्याएँ, अगली कुंजी को जलाने वाला ऑन-स्क्रीन कीबोर्ड, प्रति-कुंजी सटीकता, WPM स्कोर और एक कोमल किड्स मोड। एक ट्यूटर जो सिखाता है — सिर्फ़ टेस्ट नहीं।",
-  "id": "/loona-study-tools/hi/typing-tutor/",
+  "id": "/hi/typing-tutor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-study-tools/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

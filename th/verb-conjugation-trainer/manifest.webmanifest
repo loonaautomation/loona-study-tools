@@ -2,7 +2,7 @@
   "name": "Loona เครื่องมือฝึกผันคำกริยา",
   "short_name": "เครื่องมือฝึกคำกริยา",
   "description": "เครื่องมือฝึกผันคำกริยาฟรี: แบบฝึกเติมคำแบบจับเวลาและไม่จับเวลาสำหรับคำกริยาภาษาสเปน (6 กาล) ฝรั่งเศส เยอรมัน อิตาลี และโปรตุเกส พร้อมการตรวจทันที คำติชมเรื่องเครื่องหมายเน้นเสียง และการนับตอบถูกต่อเนื่อง ไม่ต้องสมัคร",
-  "id": "/loona-study-tools/th/verb-conjugation-trainer/",
+  "id": "/th/verb-conjugation-trainer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-study-tools/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

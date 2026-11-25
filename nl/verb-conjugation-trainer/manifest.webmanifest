@@ -2,7 +2,7 @@
   "name": "Loona Trainer voor werkwoordvervoeging",
   "short_name": "Werkwoordtrainer",
   "description": "Gratis trainer voor werkwoordvervoeging: invuloefeningen met en zonder tijd voor Spaanse (6 tijden), Franse, Duitse, Italiaanse en Portugese werkwoorden, met directe controle, feedback over accenten en reeksen. Geen aanmelding.",
-  "id": "/loona-study-tools/nl/verb-conjugation-trainer/",
+  "id": "/nl/verb-conjugation-trainer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-study-tools/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

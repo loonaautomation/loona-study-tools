@@ -2,7 +2,7 @@
   "name": "Loona CPS Test",
   "short_name": "CPS Test",
   "description": "Gratis CPS-test: meet je klikken per seconde over 1, 5, 10, 30 of 60 seconden. Inclusief een spatiebalktellermodus, persoonlijk record en geschiedenis opgeslagen op je apparaat. Werkt met muis en touch — geen registratie nodig.",
-  "id": "/loona-study-tools/nl/cps-test/",
+  "id": "/nl/cps-test/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-study-tools/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

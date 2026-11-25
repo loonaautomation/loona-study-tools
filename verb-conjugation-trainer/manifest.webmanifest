@@ -2,7 +2,7 @@
   "name": "Loona Verb Conjugation Trainer",
   "short_name": "Verb Trainer",
   "description": "Free verb conjugation trainer: timed and untimed fill-in drills for Spanish (6 tenses), French, German, Italian and Portuguese verbs, with instant checking, accent feedback and streaks. No sign-up.",
-  "id": "/loona-study-tools/verb-conjugation-trainer/",
+  "id": "/verb-conjugation-trainer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-study-tools/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

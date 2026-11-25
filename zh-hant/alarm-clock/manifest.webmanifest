@@ -2,7 +2,7 @@
   "name": "Loona 線上鬧鐘",
   "short_name": "線上鬧鐘",
   "description": "免費線上鬧鐘:大顯示屏、多個鬧鐘、小睡功能和四種鈴聲。無需註冊。",
-  "id": "/loona-study-tools/zh-hant/alarm-clock/",
+  "id": "/zh-hant/alarm-clock/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-study-tools/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

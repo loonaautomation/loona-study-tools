@@ -2,7 +2,7 @@
   "name": "Loona Reaction Time Test",
   "short_name": "Тест времени реакции",
   "description": "Бесплатный тест времени реакции: дождитесь, пока экран станет зелёным, затем нажмите как можно быстрее. Пять попыток дадут ваше среднее время реакции в миллисекундах, а также личный рекорд, историю на устройстве и честное руководство по хорошим результатам.",
-  "id": "/loona-study-tools/ru/reaction-time-test/",
+  "id": "/ru/reaction-time-test/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-study-tools/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

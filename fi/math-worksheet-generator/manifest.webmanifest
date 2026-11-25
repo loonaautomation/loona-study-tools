@@ -2,7 +2,7 @@
   "name": "Loona Matematiikan tehtävägeneraattori",
   "short_name": "Matematiikan tehtävägeneraattori",
   "description": "Ilmainen matematiikan tehtävägeneraattori: yhteen-, vähennys-, kerto-, jako-, murtoluku-, desimaali- ja jakokulmutehtäviä lukuvälillä, uudelleenryhmittelyvaihtoehdoilla ja tulostettavalla vastausavaimella.",
-  "id": "/loona-study-tools/fi/math-worksheet-generator/",
+  "id": "/fi/math-worksheet-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-study-tools/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

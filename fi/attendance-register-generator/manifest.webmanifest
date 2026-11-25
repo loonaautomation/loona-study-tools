@@ -2,7 +2,7 @@
   "name": "Loona Läsnäolorekisterigeneraattori",
   "short_name": "Läsnäolorekisteri",
   "description": "Ilmainen läsnäolorekisterigeneraattori: syötä luokkalista kerran ja tulosta siisti kuukausittainen läsnäolorekisteri mille tahansa kuukaudelle - oikealla päivien määrällä, viikonpäivien kirjaimilla ja varjostetuilla sunnuntailla, valmiina L-, P- ja V-merkintöihin.",
-  "id": "/loona-study-tools/fi/attendance-register-generator/",
+  "id": "/fi/attendance-register-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-study-tools/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

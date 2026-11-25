@@ -2,7 +2,7 @@
   "name": "Loona Creador de tarjetas de estudio",
   "short_name": "Creador de tarjetas de estudio",
   "description": "Creador gratuito de tarjetas de estudio: crea mazos, estudia con tarjetas giratorias, mezcla y sigue lo que sabes y lo que no sabes. Importa/exporta CSV &amp; JSON, imprime tarjetas. Sin registro, guardado en tu dispositivo.",
-  "id": "/loona-study-tools/es/flashcards/",
+  "id": "/es/flashcards/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-study-tools/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

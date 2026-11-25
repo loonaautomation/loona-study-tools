@@ -2,7 +2,7 @@
   "name": "Loona タイピング学習チューター",
   "short_name": "タイピング学習チューター",
   "description": "ステップバイステップのレッスンで学べる無料のタイピング学習チューター：ホーム段、上段、下段、大文字と数字、次のキーを光らせる画面キーボード、キーごとの正確さ、WPM スコア、やさしいキッズモード。教えるチューター — テストだけではありません。",
-  "id": "/loona-study-tools/ja/typing-tutor/",
+  "id": "/ja/typing-tutor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-study-tools/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

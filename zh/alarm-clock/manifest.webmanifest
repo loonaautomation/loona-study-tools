@@ -2,7 +2,7 @@
   "name": "Loona 在线闹钟",
   "short_name": "在线闹钟",
   "description": "免费在线闹钟:大显示屏、多个闹钟、小睡功能和四种铃声。无需注册。",
-  "id": "/loona-study-tools/zh/alarm-clock/",
+  "id": "/zh/alarm-clock/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-study-tools/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

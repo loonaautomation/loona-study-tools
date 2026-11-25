@@ -2,7 +2,7 @@
   "name": "Loona Spelling Test",
   "short_name": "Spelling Test",
   "description": "Free spelling test: the browser reads each word aloud, you type the spelling, and get an instant score with a review of missed words. Built-in lists by age plus your own word lists.",
-  "id": "/loona-study-tools/spelling-test/",
+  "id": "/spelling-test/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-study-tools/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

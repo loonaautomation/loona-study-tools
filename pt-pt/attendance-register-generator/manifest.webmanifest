@@ -2,7 +2,7 @@
   "name": "Loona Gerador de registo de assiduidade",
   "short_name": "Registo de assiduidade",
   "description": "Gerador gratuito de registos de assiduidade: introduzir a lista da turma uma única vez e imprimir um registo de assiduidade mensal organizado para qualquer mês, com o número correto de dias, as letras dos dias da semana e os domingos sombreados, pronto para marcar P, A e L.",
-  "id": "/loona-study-tools/pt-pt/attendance-register-generator/",
+  "id": "/pt-pt/attendance-register-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-study-tools/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

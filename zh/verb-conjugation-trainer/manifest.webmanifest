@@ -2,7 +2,7 @@
   "name": "Loona 动词变位训练器",
   "short_name": "动词训练器",
   "description": "免费动词变位训练器：针对西班牙语（6 种时态）、法语、德语、意大利语和葡萄牙语动词的限时和不限时填空练习，即时检查、重音反馈和连对记录。无需注册。",
-  "id": "/loona-study-tools/zh/verb-conjugation-trainer/",
+  "id": "/zh/verb-conjugation-trainer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-study-tools/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

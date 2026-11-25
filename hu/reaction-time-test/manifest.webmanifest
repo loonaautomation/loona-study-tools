@@ -2,7 +2,7 @@
   "name": "Loona Reaction Time Test",
   "short_name": "Reakcióidő-teszt",
   "description": "Ingyenes reakcióidő-teszt: várd meg, amíg a képernyő zöldre vált, majd kattints, amilyen gyorsan csak tudsz. Öt próbálkozás adja meg az átlagos reakcióidődet ezredmásodpercben, személyes rekorddal, eszközön tárolt előzményekkel és őszinte útmutatóval a jó eredményekhez.",
-  "id": "/loona-study-tools/hu/reaction-time-test/",
+  "id": "/hu/reaction-time-test/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-study-tools/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

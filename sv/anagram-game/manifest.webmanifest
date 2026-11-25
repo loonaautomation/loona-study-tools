@@ -2,7 +2,7 @@
   "name": "Loona Anagramspelet",
   "short_name": "Anagramspelet",
   "description": "Gratis anagramspelet: dina ord blandas bokstav för bokstav; elever använder ledtråden för att avkoda varje ord. Omedelbara kontroller och en slutpoäng.",
-  "id": "/loona-study-tools/sv/anagram-game/",
+  "id": "/sv/anagram-game/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-study-tools/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

@@ -2,7 +2,7 @@
   "name": "Loona Reaction Time Test",
   "short_name": "Reaction Time Test",
   "description": "Kiểm tra thời gian phản ứng miễn phí: chờ màn hình chuyển sang màu xanh lá, rồi nhấp càng nhanh càng tốt. Năm lần thử cho bạn thời gian phản ứng trung bình theo mili giây, cùng thành tích cá nhân tốt nhất, lịch sử trên thiết bị và hướng dẫn trung thực về điểm tốt.",
-  "id": "/loona-study-tools/vi/reaction-time-test/",
+  "id": "/vi/reaction-time-test/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-study-tools/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

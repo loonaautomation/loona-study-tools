@@ -2,7 +2,7 @@
   "name": "Loona অনলাইন অ্যালার্ম ঘড়ি",
   "short_name": "অ্যালার্ম ঘড়ি",
   "description": "বড় ডিসপ্লে, একাধিক অ্যালার্ম, স্নুজ ও চারটি শব্দসহ বিনামূল্যের অনলাইন অ্যালার্ম ঘড়ি। সাইন-আপ নেই।",
-  "id": "/loona-study-tools/bn/alarm-clock/",
+  "id": "/bn/alarm-clock/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-study-tools/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

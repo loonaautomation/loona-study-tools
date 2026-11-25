@@ -2,7 +2,7 @@
   "name": "Loona منشئ أوراق عمل المطابقة",
   "short_name": "منشئ أوراق عمل المطابقة",
   "description": "منشئ أوراق عمل مطابقة مجاني: اكتب أزواج مصطلح = تعريف واحصل على ورقة عمل مطابقة قابلة للطباعة مع تعريفات مخلوطة ومفتاح إجابات للمعلم.",
-  "id": "/loona-study-tools/ar/matching-worksheet-generator/",
+  "id": "/ar/matching-worksheet-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-study-tools/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

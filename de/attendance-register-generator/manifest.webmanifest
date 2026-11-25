@@ -2,7 +2,7 @@
   "name": "Loona Anwesenheitsregister-Generator",
   "short_name": "Anwesenheitsregister",
   "description": "Kostenloser Anwesenheitsregister-Generator: Geben Sie Ihre Klassenliste einmal ein und drucken Sie für jeden Monat ein sauberes monatliches Anwesenheitsregister – mit der richtigen Tageszahl, Wochentagsbuchstaben und grau markierten Sonntagen, bereit zum Eintragen von P, A und L.",
-  "id": "/loona-study-tools/de/attendance-register-generator/",
+  "id": "/de/attendance-register-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-study-tools/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

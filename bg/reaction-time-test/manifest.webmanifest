@@ -2,7 +2,7 @@
   "name": "Loona Reaction Time Test",
   "short_name": "Тест за време на реакция",
   "description": "Безплатен тест за време на реакция: изчакайте екранът да стане зелен, след това щракнете възможно най-бързо. Пет опита ще дадат средното ви време на реакция в милисекунди, както и личен рекорд, история на устройството и честно ръководство за добри резултати.",
-  "id": "/loona-study-tools/bg/reaction-time-test/",
+  "id": "/bg/reaction-time-test/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-study-tools/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

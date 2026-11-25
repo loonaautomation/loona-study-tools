@@ -2,7 +2,7 @@
   "name": "Loona מחולל יומן נוכחות",
   "short_name": "יומן נוכחות",
   "description": "מחולל יומן נוכחות בחינם: הזינו את רשימת הכיתה פעם אחת והדפיסו יומן נוכחות חודשי מסודר לכל חודש - עם מספר הימים הנכון, אותיות ימי השבוע וימי ראשון מוצללים, מוכן לסימון P, A ו-L.",
-  "id": "/loona-study-tools/he/attendance-register-generator/",
+  "id": "/he/attendance-register-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-study-tools/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

@@ -2,7 +2,7 @@
   "name": "Loona משחק סידור משפטים",
   "short_name": "משחק סידור משפטים",
   "description": "משחק סידור משפטים בחינם: משפטים מעורבבים מילה־מילה והתלמידים מקישים על המילים בחזרה לסדר הנכון, עם בדיקות מיידיות וציון סופי.",
-  "id": "/loona-study-tools/he/unjumble-game/",
+  "id": "/he/unjumble-game/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-study-tools/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

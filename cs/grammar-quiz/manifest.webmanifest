@@ -2,7 +2,7 @@
   "name": "Loona Kvíz z gramatiky",
   "short_name": "Kvíz z gramatiky",
   "description": "Bezplatný kvíz z anglické gramatiky: 24 otázek o časech, členech, předložkách, shodě, podmínkových větách a interpunkci s okamžitým skóre a vysvětlením každé odpovědi.",
-  "id": "/loona-study-tools/cs/grammar-quiz/",
+  "id": "/cs/grammar-quiz/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-study-tools/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

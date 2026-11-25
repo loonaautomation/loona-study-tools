@@ -2,7 +2,7 @@
   "name": "Loona FBISE Islamabad 10. Sınıf Rehberi",
   "short_name": "FBISE Islamabad 10. Sınıf Rehberi",
   "description": "FBISE Islamabad 10. Sınıf: dersler ve alanlar, kurul kağıtlarının nasıl yapılandırıldığı ve çalışma araçlarıyla ücretsiz bir hazırlık planı. Düzenleri kurulun resmi sitesinde doğrulayın.",
-  "id": "/loona-study-tools/tr/fbise-islamabad-class-10-guide/",
+  "id": "/tr/fbise-islamabad-class-10-guide/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-study-tools/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

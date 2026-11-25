@@ -2,7 +2,7 @@
   "name": "Loona Reaction Time Test",
   "short_name": "Reaction Time Test",
   "description": "免費反應時間測試:等螢幕變成綠色,然後盡可能快地點擊。五次嘗試給出您的平均反應時間(以毫秒為單位),還有個人最佳成績、本裝置歷史記錄和誠實的好成績指南。",
-  "id": "/loona-study-tools/zh-hant/reaction-time-test/",
+  "id": "/zh-hant/reaction-time-test/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-study-tools/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

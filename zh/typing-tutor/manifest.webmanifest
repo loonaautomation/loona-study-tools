@@ -2,7 +2,7 @@
   "name": "Loona 打字学习导师",
   "short_name": "打字学习导师",
   "description": "免费打字学习导师，提供分步课程：主行、顶行、底行、大写字母和数字，会点亮下一个键的屏幕键盘、逐键准确率、WPM 分数和温和的儿童模式。一位会教的导师 — 不只是测试。",
-  "id": "/loona-study-tools/zh/typing-tutor/",
+  "id": "/zh/typing-tutor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-study-tools/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

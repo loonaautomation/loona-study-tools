@@ -2,7 +2,7 @@
   "name": "Loona Tréner časovania slovies",
   "short_name": "Tréner slovies",
   "description": "Bezplatný tréner časovania slovies: časované aj nečasované cvičenia s dopĺňaním pre španielske (6 časov), francúzske, nemecké, talianske a portugalské slovesá, s okamžitou kontrolou, spätnou väzbou k prízvukom a sériami. Bez registrácie.",
-  "id": "/loona-study-tools/sk/verb-conjugation-trainer/",
+  "id": "/sk/verb-conjugation-trainer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-study-tools/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

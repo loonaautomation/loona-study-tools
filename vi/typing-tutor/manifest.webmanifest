@@ -2,7 +2,7 @@
   "name": "Loona Gia sư học gõ phím",
   "short_name": "Gia sư học gõ phím",
   "description": "Gia sư học gõ phím miễn phí với các bài học từng bước: hàng cơ sở, hàng trên, hàng dưới, chữ hoa và số, bàn phím trên màn hình làm sáng phím tiếp theo, độ chính xác theo từng phím, điểm WPM và chế độ trẻ em nhẹ nhàng. Một gia sư dạy thật — không chỉ là bài kiểm tra.",
-  "id": "/loona-study-tools/vi/typing-tutor/",
+  "id": "/vi/typing-tutor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-study-tools/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

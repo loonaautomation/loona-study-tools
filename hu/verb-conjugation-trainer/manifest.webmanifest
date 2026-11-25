@@ -2,7 +2,7 @@
   "name": "Loona Igeragozási Tréner",
   "short_name": "Igetréner",
   "description": "Ingyenes igeragozási tréner: időzített és időzítő nélküli kitöltős gyakorlatok spanyol (6 igeidő), francia, német, olasz és portugál igékhez, azonnali ellenőrzéssel, ékezet-visszajelzéssel és sorozatokkal. Regisztráció nélkül.",
-  "id": "/loona-study-tools/hu/verb-conjugation-trainer/",
+  "id": "/hu/verb-conjugation-trainer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-study-tools/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

@@ -2,7 +2,7 @@
   "name": "Loona Tippen-lernen-Tutor",
   "short_name": "Tippen-lernen-Tutor",
   "description": "Kostenloser Tippen-lernen-Tutor mit Schritt-für-Schritt-Lektionen: Grundreihe, obere Reihe, untere Reihe, Großbuchstaben und Zahlen, eine Bildschirmtastatur, die die nächste Taste aufleuchten lässt, Genauigkeit pro Taste, WPM-Werte und ein sanfter Kindermodus. Ein Tutor, der lehrt — nicht nur ein Test.",
-  "id": "/loona-study-tools/de/typing-tutor/",
+  "id": "/de/typing-tutor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-study-tools/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

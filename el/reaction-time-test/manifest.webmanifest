@@ -2,7 +2,7 @@
   "name": "Loona Reaction Time Test",
   "short_name": "Τεστ Χρόνου Αντίδρασης",
   "description": "Δωρεάν τεστ χρόνου αντίδρασης: περίμενε να γίνει η οθόνη πράσινη και μετά κάνε κλικ όσο πιο γρήγορα μπορείς. Πέντε προσπάθειες δίνουν τον μέσο χρόνο αντίδρασής σου σε χιλιοστά του δευτερολέπτου, με προσωπικό ρεκόρ, ιστορικό στη συσκευή και έναν ειλικρινή οδηγό για καλές επιδόσεις.",
-  "id": "/loona-study-tools/el/reaction-time-test/",
+  "id": "/el/reaction-time-test/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-study-tools/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

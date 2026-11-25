@@ -2,7 +2,7 @@
   "name": "Loona Numaraya Göre Boyama Oluşturucu",
   "short_name": "Numaraya Göre Boyama Oluşturucu",
   "description": "Ücretsiz numaraya göre boyama oluşturucu: altı renk anahtarı ve ayrı renkli bir cevap resmiyle numaralı bir mozaik çalışma kağıdı. Her seferinde taze resim.",
-  "id": "/loona-study-tools/tr/colour-by-number-generator/",
+  "id": "/tr/colour-by-number-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-study-tools/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

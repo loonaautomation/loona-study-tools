@@ -2,7 +2,7 @@
   "name": "Loona Verb Conjugation Trainer",
   "short_name": "Verbivalmentaja",
   "description": "Ilmainen verbien taivutusvalmentaja: ajastettuja ja ajastamattomia täydennysharjoituksia espanjan (6 aikamuotoa), ranskan, saksan, italian ja portugalin verbeille, välittömällä tarkistuksella, aksenttipalautteella ja putkilla. Ei rekisteröitymistä.",
-  "id": "/loona-study-tools/fi/verb-conjugation-trainer/",
+  "id": "/fi/verb-conjugation-trainer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-study-tools/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

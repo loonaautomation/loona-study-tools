@@ -2,7 +2,7 @@
   "name": "Loona Tvorca zasedacieho poriadku",
   "short_name": "Tvorca zasedacieho poriadku",
   "description": "Bezplatný tvorca zasedacieho poriadku: vytvorte mriežku lavíc, kliknite na umiestnenie študentov, uzamknite miesta, ktoré sa nesmú hýbať, pomiešajte všetkých ostatných a plán vytlačte.",
-  "id": "/loona-study-tools/sk/seating-chart-maker/",
+  "id": "/sk/seating-chart-maker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-study-tools/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

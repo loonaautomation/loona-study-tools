@@ -2,7 +2,7 @@
   "name": "Loona Reaction Time Test",
   "short_name": "Reaktionstidstest",
   "description": "Gratis reaktionstidstest: vent på, at skærmen bliver grøn, og klik så hurtigt, du kan. Fem forsøg giver din gennemsnitlige reaktionstid i millisekunder, med en personlig rekord, historik på enheden og en ærlig guide til gode resultater.",
-  "id": "/loona-study-tools/da/reaction-time-test/",
+  "id": "/da/reaction-time-test/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-study-tools/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

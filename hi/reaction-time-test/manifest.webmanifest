@@ -2,7 +2,7 @@
   "name": "Loona Reaction Time Test",
   "short_name": "प्रतिक्रिया समय परीक्षण",
   "description": "मुफ़्त प्रतिक्रिया समय परीक्षण: स्क्रीन के हरे होने की प्रतीक्षा करें, फिर जितनी तेज़ी से हो सके क्लिक करें। पाँच प्रयास आपको मिलीसेकंड में आपका औसत प्रतिक्रिया समय देते हैं, व्यक्तिगत सर्वश्रेष्ठ, डिवाइस पर इतिहास और अच्छे स्कोर की ईमानदार मार्गदर्शिका के साथ।",
-  "id": "/loona-study-tools/hi/reaction-time-test/",
+  "id": "/hi/reaction-time-test/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-study-tools/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

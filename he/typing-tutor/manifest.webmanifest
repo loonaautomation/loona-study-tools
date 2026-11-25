@@ -2,7 +2,7 @@
   "name": "Loona מורה ללימוד הקלדה",
   "short_name": "מורה ללימוד הקלדה",
   "description": "מורה חינמי ללימוד הקלדה עם שיעורים צעד-אחר-צעד: שורת הבית, השורה העליונה, השורה התחתונה, אותיות גדולות ומספרים, מקלדת על המסך שמאירה את המקש הבא, דיוק לכל מקש, ציוני WPM ומצב ילדים עדין. מורה שמלמד — לא רק מבחן.",
-  "id": "/loona-study-tools/he/typing-tutor/",
+  "id": "/he/typing-tutor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-study-tools/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

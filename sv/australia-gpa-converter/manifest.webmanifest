@@ -2,7 +2,7 @@
   "name": "Loona Australien GPA-omvandlare",
   "short_name": "Australien GPA-omvandlare",
   "description": "Omvandla australiska universitetsbetyg på 7-poängsskalan (HD = 7) till procentsatser och ungefärlig GPA på 4.0-skalan, med standardbetygstabellen.",
-  "id": "/loona-study-tools/sv/australia-gpa-converter/",
+  "id": "/sv/australia-gpa-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-study-tools/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

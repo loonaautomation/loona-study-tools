@@ -2,7 +2,7 @@
   "name": "Loona Γεννήτρια Μητρώου Παρουσιών",
   "short_name": "Μητρώο Παρουσιών",
   "description": "Δωρεάν γεννήτρια μητρώου παρουσιών: εισαγάγετε τη λίστα της τάξης μία φορά και εκτυπώστε ένα τακτοποιημένο μηνιαίο μητρώο παρουσιών για οποιονδήποτε μήνα - με τον σωστό αριθμό ημερών, γράμματα των ημερών της εβδομάδας και σκιασμένες Κυριακές, έτοιμο για σήμανση Π, Α και ΑΔ.",
-  "id": "/loona-study-tools/el/attendance-register-generator/",
+  "id": "/el/attendance-register-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-study-tools/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

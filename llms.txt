@@ -3,64 +3,64 @@
 > Loona Study Tools is a free website by Loona Automation with a complete suite of study tools for students and teachers. Every tool runs 100% in the visitor's browser — no sign-up, no uploads; decks, quizzes, class lists and timetables are stored only in the visitor's own browser. Printable worksheets, quizzes, games and answer keys are built in.
 
 ## Study tools
-- [Flashcards Maker](https://loonaautomation.github.io/loona-study-tools/flashcards/): Build flashcard decks, study with flip cards and shuffle, track what you know, and export or print your cards.
-- [Quiz Maker](https://loonaautomation.github.io/loona-study-tools/quiz-maker/): Teachers build quizzes with MCQs, true/false and short answers — students attempt them with instant scores and a full answer review.
-- [Math Worksheet Generator](https://loonaautomation.github.io/loona-study-tools/math-worksheet-generator/): Generate printable maths worksheets — addition, subtraction, multiplication, division, fractions and decimals — with a matching answer key.
-- [Reading Speed Test](https://loonaautomation.github.io/loona-study-tools/reading-speed-test/): Read a timed passage, answer comprehension questions and get your true reading speed in words per minute (WPM).
-- [Study Timetable Planner](https://loonaautomation.github.io/loona-study-tools/study-timetable-planner/): Enter your subjects, daily hours and exam date and get a balanced weekly study timetable you can edit and print.
-- [Multiplication Tables Practice](https://loonaautomation.github.io/loona-study-tools/multiplication-tables-practice/): Drill times tables with timed practice rounds, instant checking and a printable multiplication chart up to 12 × 12.
-- [Spelling Test](https://loonaautomation.github.io/loona-study-tools/spelling-test/): The computer reads each word aloud — you type the spelling. Instant score and a review of every word you missed.
-- [Handwriting Practice Generator](https://loonaautomation.github.io/loona-study-tools/handwriting-practice-generator/): Create printable handwriting practice sheets for letters, numbers and your own words, with tracing lines and blank copy lines.
-- [Exam Countdown Planner](https://loonaautomation.github.io/loona-study-tools/exam-countdown-planner/): Enter your exam date and subjects and get a day-by-day revision plan that spreads topics fairly across the days you have left.
-- [Exam Date Sheet Maker](https://loonaautomation.github.io/loona-study-tools/exam-date-sheet-maker/): Enter your school, class and exam name, add subjects with dates, times and rooms, and print a clean A4 exam date sheet with weekdays filled in automatically.
-- [Word Search Generator](https://loonaautomation.github.io/loona-study-tools/word-search-generator/): Turn your own word list into a printable word search puzzle, with a separate answer key showing every word's location.
-- [Matching Worksheet Generator](https://loonaautomation.github.io/loona-study-tools/matching-worksheet-generator/): Create printable matching worksheets — terms on the left, shuffled definitions on the right — with a teacher answer key.
-- [Random Name Picker](https://loonaautomation.github.io/loona-study-tools/random-name-picker/): Paste a class list and pick students fairly at random, with a no-repeat mode so everyone gets a turn.
-- [Word of the Day](https://loonaautomation.github.io/loona-study-tools/word-of-the-day/): Learn one new English word every day with its Urdu meaning, pronunciation and a translated example sentence; browse past words and search the full bank of 500 words.
-- [Report Card Maker](https://loonaautomation.github.io/loona-study-tools/report-card-maker/): Make printable student report cards in minutes: enter marks by subject and get totals, overall percentage and grade calculated automatically, with class position, attendance and teacher remarks.
-- [Matching Pairs Game](https://loonaautomation.github.io/loona-study-tools/matching-pairs-game/): Turn any term-and-definition pairs into a flip-and-match memory game with moves and time tracking.
-- [Group Sort Game](https://loonaautomation.github.io/loona-study-tools/group-sort-game/): Create categories and items; students sort every item into the right group and get an instant score.
-- [Unjumble Sentences Game](https://loonaautomation.github.io/loona-study-tools/unjumble-game/): Sentences are shuffled word by word — students tap the words back into the correct order.
-- [Anagram Game](https://loonaautomation.github.io/loona-study-tools/anagram-game/): Words are scrambled letter by letter; students unscramble them using the clue you provide.
-- [Spell the Word Game](https://loonaautomation.github.io/loona-study-tools/spell-the-word/): Build each word by tapping letter tiles in order — spelling practice with clues and instant checks.
-- [Hangman Game](https://loonaautomation.github.io/loona-study-tools/hangman-game/): The classic letter-guessing game with built-in word lists for school subjects, or your own word list.
-- [Crossword Generator](https://loonaautomation.github.io/loona-study-tools/crossword-generator/): Enter words and clues and generate a real intersecting crossword puzzle — printable, with an answer key.
-- [Bingo Card Generator](https://loonaautomation.github.io/loona-study-tools/bingo-card-generator/): Generate unique printable vocabulary bingo cards for the whole class, plus a shuffled call list.
-- [Attendance Register Generator](https://loonaautomation.github.io/loona-study-tools/attendance-register-generator/): Free printable monthly attendance register generator for teachers: paste your class list, pick a month, and print an A4 landscape register with weekday letters, Sunday shading and space for P/A/L marking.
-- [Labelled Diagram Maker](https://loonaautomation.github.io/loona-study-tools/labelled-diagram-maker/): Upload a diagram, pin labels onto it, print a labelled or blank version, and run a label quiz.
-- [Hundreds Chart](https://loonaautomation.github.io/loona-study-tools/hundreds-chart/): An interactive, printable 1–100 chart with even/odd and multiples highlighting, plus a missing-numbers practice mode.
-- [Word Wall Cards Generator](https://loonaautomation.github.io/loona-study-tools/word-wall-cards/): Turn word lists into big, bold, printable word wall cards for classroom displays.
-- [Sudoku Generator](https://loonaautomation.github.io/loona-study-tools/sudoku-generator/): Generate printable Sudoku puzzles — 4×4, 6×6 and 9×9 — with unique solutions and a separate solution page.
-- [Maze Generator](https://loonaautomation.github.io/loona-study-tools/maze-generator/): Generate printable mazes at four difficulty levels, with an optional solution path.
-- [Colour by Number Generator](https://loonaautomation.github.io/loona-study-tools/colour-by-number-generator/): Generate a printable colour-by-number mosaic with a colour key and a coloured answer picture.
-- [Printable Paper Generator](https://loonaautomation.github.io/loona-study-tools/printable-paper-generator/): Print graph paper, dot grid paper, isometric paper and handwriting practice paper at exact sizes.
-- [Spelling Worksheet Generator](https://loonaautomation.github.io/loona-study-tools/spelling-worksheet-generator/): From one spelling list: a test sheet, word scrambles, missing-letter practice and ABC order — with an answer key.
-- [Classroom Timers & Exam Timer](https://loonaautomation.github.io/loona-study-tools/classroom-timers/): Big-display countdown timer with progress ring, an exam timer showing end time, a visual bar timer and a stopwatch with laps.
-- [Online Alarm Clock](https://loonaautomation.github.io/loona-study-tools/alarm-clock/): Free online alarm clock with a big live display, multiple labelled alarms, four sounds and snooze — rings from the open tab, no sign-up.
-- [Classroom Group Maker](https://loonaautomation.github.io/loona-study-tools/classroom-group-maker/): Save your class lists and split them into fair random groups or pairs — balanced sizes, reshuffle in one click.
-- [Seating Chart Maker](https://loonaautomation.github.io/loona-study-tools/seating-chart-maker/): Arrange students on a desk grid: click to place, lock favourite seats, shuffle the rest, and print the chart.
-- [Classroom Scoreboard](https://loonaautomation.github.io/loona-study-tools/classroom-scoreboard/): A big, clear team-points scoreboard for the classroom screen — add teams, tap to add or remove points.
-- [Classroom Noise Meter](https://loonaautomation.github.io/loona-study-tools/noise-meter/): A live relative noise-level meter using your microphone — green, amber and red zones to help classes self-regulate.
-- [Name Tags Generator](https://loonaautomation.github.io/loona-study-tools/name-tags-generator/): Turn a class list into printable name tags with a subtitle line — for desks, trips and first-week introductions.
-- [Visual Schedule Builder](https://loonaautomation.github.io/loona-study-tools/visual-schedule-builder/): Build a printable visual day schedule with times, activities and picture icons — ideal for younger children.
-- [EZ Grader](https://loonaautomation.github.io/loona-study-tools/ez-grader/): The classic teacher's grading slide-scale: enter total questions and number wrong to get the percentage and letter grade, plus a full chart.
-- [Test Grader](https://loonaautomation.github.io/loona-study-tools/test-grader/): Paste an answer key and a student's answers to grade a whole test instantly, question by question.
-- [Weighted Grade Calculator](https://loonaautomation.github.io/loona-study-tools/weighted-grade-calculator/): Combine category scores (homework, quizzes, tests, final) by their syllabus weights into a course grade.
-- [Final Exam Grade Calculator](https://loonaautomation.github.io/loona-study-tools/final-exam-calculator/): Work out exactly what score you need in the final exam to reach your target course grade — and whether it is possible.
-- [Math Facts Speed Test](https://loonaautomation.github.io/loona-study-tools/math-facts-speed-test/): A 60-second arithmetic sprint: as many correct +, −, × and ÷ facts as you can, with accuracy and streaks.
-- [Reaction Time Test](https://loonaautomation.github.io/loona-study-tools/reaction-time-test/): Wait for green, then click as fast as you can — five attempts give your average reaction time in milliseconds, with a personal best and on-device history.
-- [Loona CPS Test](https://loonaautomation.github.io/loona-study-tools/cps-test/): Measure your clicks per second over 1 to 60 seconds, with a spacebar counter mode, personal best and history saved on your device.
-- [10-Key Number Pad Test](https://loonaautomation.github.io/loona-study-tools/ten-key-test/): Data-entry speed test for the numeric keypad: type number sequences fast and accurately, scored in keys per minute.
-- [Code Typing Test](https://loonaautomation.github.io/loona-study-tools/code-typing-test/): Type real code snippets with symbols and indentation — measures code-typing speed and symbol accuracy for programmers.
-- [Learn-to-Type Tutor](https://loonaautomation.github.io/loona-study-tools/typing-tutor/): Step-by-step typing lessons from the home row to the full keyboard, with a light-up on-screen keyboard, per-key accuracy, WPM scores and a kids mode.
-- [Grammar Quiz](https://loonaautomation.github.io/loona-study-tools/grammar-quiz/): A 24-question English grammar test — tenses, articles, prepositions, agreement and punctuation — with instant score and explanations.
-- [Verb Conjugation Trainer](https://loonaautomation.github.io/loona-study-tools/verb-conjugation-trainer/): Timed fill-in drills for Spanish, French, German, Italian and Portuguese verb conjugations, with instant checking and streaks.
-- [Vocabulary Quiz](https://loonaautomation.github.io/loona-study-tools/vocabulary-quiz/): Twenty word-meaning questions with four options each — a quick, honest check of your English vocabulary level.
-- [Interactive Periodic Table](https://loonaautomation.github.io/loona-study-tools/periodic-table/): All 118 elements in a colour-coded table — click any element for its name, atomic mass, group, period and category.
-- [Molar Mass Calculator](https://loonaautomation.github.io/loona-study-tools/molar-mass-calculator/): Type a chemical formula — parentheses included — and get its molar mass in g/mol with a per-element breakdown.
-- [Chemical Equation Balancer](https://loonaautomation.github.io/loona-study-tools/chemical-equation-balancer/): Enter an unbalanced equation and get balanced coefficients, verified atom by atom.
-- [pH Calculator](https://loonaautomation.github.io/loona-study-tools/ph-calculator/): Convert between pH, pOH, [H+] and [OH-], and calculate the pH of strong acid and strong base solutions.
-- [Rubric Maker](https://loonaautomation.github.io/loona-study-tools/rubric-maker/): Build a printable grading rubric: criteria down the side, four performance levels across the top, points calculated automatically.
+- [Flashcards Maker](https://study.loonaautomation.com/flashcards/): Build flashcard decks, study with flip cards and shuffle, track what you know, and export or print your cards.
+- [Quiz Maker](https://study.loonaautomation.com/quiz-maker/): Teachers build quizzes with MCQs, true/false and short answers — students attempt them with instant scores and a full answer review.
+- [Math Worksheet Generator](https://study.loonaautomation.com/math-worksheet-generator/): Generate printable maths worksheets — addition, subtraction, multiplication, division, fractions and decimals — with a matching answer key.
+- [Reading Speed Test](https://study.loonaautomation.com/reading-speed-test/): Read a timed passage, answer comprehension questions and get your true reading speed in words per minute (WPM).
+- [Study Timetable Planner](https://study.loonaautomation.com/study-timetable-planner/): Enter your subjects, daily hours and exam date and get a balanced weekly study timetable you can edit and print.
+- [Multiplication Tables Practice](https://study.loonaautomation.com/multiplication-tables-practice/): Drill times tables with timed practice rounds, instant checking and a printable multiplication chart up to 12 × 12.
+- [Spelling Test](https://study.loonaautomation.com/spelling-test/): The computer reads each word aloud — you type the spelling. Instant score and a review of every word you missed.
+- [Handwriting Practice Generator](https://study.loonaautomation.com/handwriting-practice-generator/): Create printable handwriting practice sheets for letters, numbers and your own words, with tracing lines and blank copy lines.
+- [Exam Countdown Planner](https://study.loonaautomation.com/exam-countdown-planner/): Enter your exam date and subjects and get a day-by-day revision plan that spreads topics fairly across the days you have left.
+- [Exam Date Sheet Maker](https://study.loonaautomation.com/exam-date-sheet-maker/): Enter your school, class and exam name, add subjects with dates, times and rooms, and print a clean A4 exam date sheet with weekdays filled in automatically.
+- [Word Search Generator](https://study.loonaautomation.com/word-search-generator/): Turn your own word list into a printable word search puzzle, with a separate answer key showing every word's location.
+- [Matching Worksheet Generator](https://study.loonaautomation.com/matching-worksheet-generator/): Create printable matching worksheets — terms on the left, shuffled definitions on the right — with a teacher answer key.
+- [Random Name Picker](https://study.loonaautomation.com/random-name-picker/): Paste a class list and pick students fairly at random, with a no-repeat mode so everyone gets a turn.
+- [Word of the Day](https://study.loonaautomation.com/word-of-the-day/): Learn one new English word every day with its Urdu meaning, pronunciation and a translated example sentence; browse past words and search the full bank of 500 words.
+- [Report Card Maker](https://study.loonaautomation.com/report-card-maker/): Make printable student report cards in minutes: enter marks by subject and get totals, overall percentage and grade calculated automatically, with class position, attendance and teacher remarks.
+- [Matching Pairs Game](https://study.loonaautomation.com/matching-pairs-game/): Turn any term-and-definition pairs into a flip-and-match memory game with moves and time tracking.
+- [Group Sort Game](https://study.loonaautomation.com/group-sort-game/): Create categories and items; students sort every item into the right group and get an instant score.
+- [Unjumble Sentences Game](https://study.loonaautomation.com/unjumble-game/): Sentences are shuffled word by word — students tap the words back into the correct order.
+- [Anagram Game](https://study.loonaautomation.com/anagram-game/): Words are scrambled letter by letter; students unscramble them using the clue you provide.
+- [Spell the Word Game](https://study.loonaautomation.com/spell-the-word/): Build each word by tapping letter tiles in order — spelling practice with clues and instant checks.
+- [Hangman Game](https://study.loonaautomation.com/hangman-game/): The classic letter-guessing game with built-in word lists for school subjects, or your own word list.
+- [Crossword Generator](https://study.loonaautomation.com/crossword-generator/): Enter words and clues and generate a real intersecting crossword puzzle — printable, with an answer key.
+- [Bingo Card Generator](https://study.loonaautomation.com/bingo-card-generator/): Generate unique printable vocabulary bingo cards for the whole class, plus a shuffled call list.
+- [Attendance Register Generator](https://study.loonaautomation.com/attendance-register-generator/): Free printable monthly attendance register generator for teachers: paste your class list, pick a month, and print an A4 landscape register with weekday letters, Sunday shading and space for P/A/L marking.
+- [Labelled Diagram Maker](https://study.loonaautomation.com/labelled-diagram-maker/): Upload a diagram, pin labels onto it, print a labelled or blank version, and run a label quiz.
+- [Hundreds Chart](https://study.loonaautomation.com/hundreds-chart/): An interactive, printable 1–100 chart with even/odd and multiples highlighting, plus a missing-numbers practice mode.
+- [Word Wall Cards Generator](https://study.loonaautomation.com/word-wall-cards/): Turn word lists into big, bold, printable word wall cards for classroom displays.
+- [Sudoku Generator](https://study.loonaautomation.com/sudoku-generator/): Generate printable Sudoku puzzles — 4×4, 6×6 and 9×9 — with unique solutions and a separate solution page.
+- [Maze Generator](https://study.loonaautomation.com/maze-generator/): Generate printable mazes at four difficulty levels, with an optional solution path.
+- [Colour by Number Generator](https://study.loonaautomation.com/colour-by-number-generator/): Generate a printable colour-by-number mosaic with a colour key and a coloured answer picture.
+- [Printable Paper Generator](https://study.loonaautomation.com/printable-paper-generator/): Print graph paper, dot grid paper, isometric paper and handwriting practice paper at exact sizes.
+- [Spelling Worksheet Generator](https://study.loonaautomation.com/spelling-worksheet-generator/): From one spelling list: a test sheet, word scrambles, missing-letter practice and ABC order — with an answer key.
+- [Classroom Timers & Exam Timer](https://study.loonaautomation.com/classroom-timers/): Big-display countdown timer with progress ring, an exam timer showing end time, a visual bar timer and a stopwatch with laps.
+- [Online Alarm Clock](https://study.loonaautomation.com/alarm-clock/): Free online alarm clock with a big live display, multiple labelled alarms, four sounds and snooze — rings from the open tab, no sign-up.
+- [Classroom Group Maker](https://study.loonaautomation.com/classroom-group-maker/): Save your class lists and split them into fair random groups or pairs — balanced sizes, reshuffle in one click.
+- [Seating Chart Maker](https://study.loonaautomation.com/seating-chart-maker/): Arrange students on a desk grid: click to place, lock favourite seats, shuffle the rest, and print the chart.
+- [Classroom Scoreboard](https://study.loonaautomation.com/classroom-scoreboard/): A big, clear team-points scoreboard for the classroom screen — add teams, tap to add or remove points.
+- [Classroom Noise Meter](https://study.loonaautomation.com/noise-meter/): A live relative noise-level meter using your microphone — green, amber and red zones to help classes self-regulate.
+- [Name Tags Generator](https://study.loonaautomation.com/name-tags-generator/): Turn a class list into printable name tags with a subtitle line — for desks, trips and first-week introductions.
+- [Visual Schedule Builder](https://study.loonaautomation.com/visual-schedule-builder/): Build a printable visual day schedule with times, activities and picture icons — ideal for younger children.
+- [EZ Grader](https://study.loonaautomation.com/ez-grader/): The classic teacher's grading slide-scale: enter total questions and number wrong to get the percentage and letter grade, plus a full chart.
+- [Test Grader](https://study.loonaautomation.com/test-grader/): Paste an answer key and a student's answers to grade a whole test instantly, question by question.
+- [Weighted Grade Calculator](https://study.loonaautomation.com/weighted-grade-calculator/): Combine category scores (homework, quizzes, tests, final) by their syllabus weights into a course grade.
+- [Final Exam Grade Calculator](https://study.loonaautomation.com/final-exam-calculator/): Work out exactly what score you need in the final exam to reach your target course grade — and whether it is possible.
+- [Math Facts Speed Test](https://study.loonaautomation.com/math-facts-speed-test/): A 60-second arithmetic sprint: as many correct +, −, × and ÷ facts as you can, with accuracy and streaks.
+- [Reaction Time Test](https://study.loonaautomation.com/reaction-time-test/): Wait for green, then click as fast as you can — five attempts give your average reaction time in milliseconds, with a personal best and on-device history.
+- [Loona CPS Test](https://study.loonaautomation.com/cps-test/): Measure your clicks per second over 1 to 60 seconds, with a spacebar counter mode, personal best and history saved on your device.
+- [10-Key Number Pad Test](https://study.loonaautomation.com/ten-key-test/): Data-entry speed test for the numeric keypad: type number sequences fast and accurately, scored in keys per minute.
+- [Code Typing Test](https://study.loonaautomation.com/code-typing-test/): Type real code snippets with symbols and indentation — measures code-typing speed and symbol accuracy for programmers.
+- [Learn-to-Type Tutor](https://study.loonaautomation.com/typing-tutor/): Step-by-step typing lessons from the home row to the full keyboard, with a light-up on-screen keyboard, per-key accuracy, WPM scores and a kids mode.
+- [Grammar Quiz](https://study.loonaautomation.com/grammar-quiz/): A 24-question English grammar test — tenses, articles, prepositions, agreement and punctuation — with instant score and explanations.
+- [Verb Conjugation Trainer](https://study.loonaautomation.com/verb-conjugation-trainer/): Timed fill-in drills for Spanish, French, German, Italian and Portuguese verb conjugations, with instant checking and streaks.
+- [Vocabulary Quiz](https://study.loonaautomation.com/vocabulary-quiz/): Twenty word-meaning questions with four options each — a quick, honest check of your English vocabulary level.
+- [Interactive Periodic Table](https://study.loonaautomation.com/periodic-table/): All 118 elements in a colour-coded table — click any element for its name, atomic mass, group, period and category.
+- [Molar Mass Calculator](https://study.loonaautomation.com/molar-mass-calculator/): Type a chemical formula — parentheses included — and get its molar mass in g/mol with a per-element breakdown.
+- [Chemical Equation Balancer](https://study.loonaautomation.com/chemical-equation-balancer/): Enter an unbalanced equation and get balanced coefficients, verified atom by atom.
+- [pH Calculator](https://study.loonaautomation.com/ph-calculator/): Convert between pH, pOH, [H+] and [OH-], and calculate the pH of strong acid and strong base solutions.
+- [Rubric Maker](https://study.loonaautomation.com/rubric-maker/): Build a printable grading rubric: criteria down the side, four performance levels across the top, points calculated automatically.
 
 ## Related Loona tools
 

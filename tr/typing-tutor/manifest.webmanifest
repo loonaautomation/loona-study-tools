@@ -2,7 +2,7 @@
   "name": "Loona Yazmayı Öğrenme Eğitmeni",
   "short_name": "Yazmayı Öğrenme Eğitmeni",
   "description": "Adım adım derslerle ücretsiz yazmayı öğrenme eğitmeni: ana sıra, üst sıra, alt sıra, büyük harfler ve sayılar, bir sonraki tuşu yakan ekran klavyesi, tuş başına doğruluk, WPM puanları ve nazik bir çocuk modu. Öğreten bir eğitmen — sadece bir test değil.",
-  "id": "/loona-study-tools/tr/typing-tutor/",
+  "id": "/tr/typing-tutor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-study-tools/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

@@ -2,7 +2,7 @@
   "name": "Loona টাইপিং শিখুন টিউটর",
   "short_name": "টাইপিং শিখুন টিউটর",
   "description": "ধাপে ধাপে পাঠসহ বিনামূল্যে টাইপিং শিখুন টিউটর: হোম সারি, উপরের সারি, নিচের সারি, বড় হাতের অক্ষর ও সংখ্যা, পরবর্তী কী জ্বালানো অন-স্ক্রিন কীবোর্ড, প্রতি-কী নির্ভুলতা, WPM স্কোর এবং একটি কোমল কিডস মোড। একটি টিউটর যা শেখায় — শুধু টেস্ট নয়।",
-  "id": "/loona-study-tools/bn/typing-tutor/",
+  "id": "/bn/typing-tutor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-study-tools/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

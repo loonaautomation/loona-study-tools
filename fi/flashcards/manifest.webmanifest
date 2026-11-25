@@ -2,7 +2,7 @@
   "name": "Loona Muistikorttigeneraattori",
   "short_name": "Muistikorttigeneraattori",
   "description": "Ilmainen muistikorttigeneraattori: luo pakkoja, opiskele kääntökorteilla, sekoituksella ja osaan/en osaa -seurannalla. Tuo/vie CSV ja JSON, tulosta kortit. Ei rekisteröitymistä, tallennettu laitteellesi.",
-  "id": "/loona-study-tools/fi/flashcards/",
+  "id": "/fi/flashcards/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-study-tools/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

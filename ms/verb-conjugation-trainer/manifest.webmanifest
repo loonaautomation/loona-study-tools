@@ -2,7 +2,7 @@
   "name": "Loona Jurulatih Konjugasi Kata Kerja",
   "short_name": "Jurulatih Kata Kerja",
   "description": "Jurulatih konjugasi kata kerja percuma: latihan isi tempat kosong bermasa dan tanpa masa untuk kata kerja Sepanyol (6 kala masa), Perancis, Jerman, Itali dan Portugis, dengan semakan segera, maklum balas aksen dan rentetan. Tiada pendaftaran.",
-  "id": "/loona-study-tools/ms/verb-conjugation-trainer/",
+  "id": "/ms/verb-conjugation-trainer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-study-tools/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

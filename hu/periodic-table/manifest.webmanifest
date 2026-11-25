@@ -2,7 +2,7 @@
   "name": "Loona Interaktív periódusos rendszer",
   "short_name": "Interaktív periódusos rendszer",
   "description": "Ingyenes interaktív periódusos rendszer: mind a 118 elem kategória szerint színkódolva. Kattintson bármelyik elemre a rendszámához, tömegéhez, csoportjához, periódusához és kategóriájához.",
-  "id": "/loona-study-tools/hu/periodic-table/",
+  "id": "/hu/periodic-table/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-study-tools/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

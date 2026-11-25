@@ -2,7 +2,7 @@
   "name": "Loona CPS Test",
   "short_name": "CPS Test",
   "description": "اختبار CPS مجاني: قِس نقراتك في الثانية على مدى 1 أو 5 أو 10 أو 30 أو 60 ثانية. يتضمن وضع عدّاد زر المسافة، وأفضل نتيجة شخصية وسجلًّا محفوظًا على جهازك. يعمل بالفأرة واللمس — بدون تسجيل.",
-  "id": "/loona-study-tools/ar/cps-test/",
+  "id": "/ar/cps-test/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-study-tools/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-study-tools/icon-maskable-512.png",
+      "src": "/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
